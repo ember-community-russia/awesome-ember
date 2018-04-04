@@ -285,6 +285,8 @@ Just type [`ember.cool`](https://ember.cool) to go here ✨
 ### Newsletters
 
 - [The Ember Times](https://the-emberjs-times.ongoodbits.com/) - Updates from the Ember.js Learning Team.
+- [Ember Weekly](http://www.emberweekly.com/) - The latest Ember.js news, tips, and code delivered directly to your inbox.
+- [Official Ember Blog](https://emberjs.com/blog/) - Big announcements like new Ember.js version release notes or State of the Union information
 
 ### Videos
 
