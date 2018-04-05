@@ -295,6 +295,7 @@ Just type [`ember.cool`](https://ember.cool) to go here ✨
 ### Podcasts
 
 - [embermap](https://embermap.com/topics/the-embermap-podcast)
+- [emberweekend](https://emberweekend.com/episodes)
 
 ### Books
 
