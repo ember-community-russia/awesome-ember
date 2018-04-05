@@ -357,6 +357,7 @@ using a [JSON API](http://jsonapi.org/)-compliant client-side server.
 ### Blogs
 
 - [programwitherik.com](https://www.programwitherik.com) - Ember.js tuts
+- [shipshape.io](https://shipshape.io/blog/)
 
 ### Courses
 
