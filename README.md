@@ -265,6 +265,8 @@ using a [JSON API](http://jsonapi.org/)-compliant client-side server.
 
 ### Job queues
 
+- [ember-concurrency](http://ember-concurrency.com)
+
 ### Node.js management
 
 ### Polyfills
