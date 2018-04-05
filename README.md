@@ -296,6 +296,8 @@ using a [JSON API](http://jsonapi.org/)-compliant client-side server.
 - [ember-cli-deploy](https://github.com/ember-cli-deploy/ember-cli-deploy) - A deployment pipeline for Ember CLI apps
 - [ember-cli-release](https://github.com/shipshapecode/ember-cli-release) - Ember CLI addon for versioned release management
 
+### Code Splitting
+- [ember-engines](https://github.com/ember-engines/ember-engines) - This Ember addon implements the functionality described in the Ember Engines RFC. Engines allow multiple logical applications to be composed together into a single application from the user's perspective.
 
 ### AST
 
