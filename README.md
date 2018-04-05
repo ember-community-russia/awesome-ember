@@ -338,6 +338,9 @@ using a [JSON API](http://jsonapi.org/)-compliant client-side server.
 - [Ember runloop handbook](https://github.com/eoinkelly/ember-runloop-handbook) - A deep dive into the Ember JS runloop.
 - [Ember with Phoenix (AKA The PEEP Stack)](https://medium.com/peep-stack) - Developing an Ember front-end alongside a [JSON API](http://jsonapi.org/)-compliant [Phoenix](http://www.phoenixframework.org/) backend.
 
+### Slides
+ - [Developing Desktop Apps with Electron & Ember.js](https://www.slideshare.net/fitc_slideshare/developing-desktop-apps-with-electron-emberjs)
+
 ### Discovery
 
 - [emberobserver](https://emberobserver.com/) - Ember Observer
@@ -351,6 +354,7 @@ using a [JSON API](http://jsonapi.org/)-compliant client-side server.
 - [Ember on Medium](https://medium.com/front-end-hacking/tagged/ember)
 - [Awesome Ember Addons](https://www.codementor.io/gowiem/awesome-ember-addons-bwhiofit9)
 - [An Interview with Tom Dale of Ember.js](https://javascriptreport.com/interview-with-tom-dale/)
+- [Debug Ember app with VSCode](https://medium.com/@minhdn/debug-ember-app-with-vscode-5f4fde511f9f)
 
 ### Newsletters
 
@@ -412,6 +416,7 @@ using a [JSON API](http://jsonapi.org/)-compliant client-side server.
 
 - [ember-cli](https://ember-cli.com/) - The command line interface for ambitious web applications.
 - [Ember Inspector](https://github.com/emberjs/ember-inspector) - Adds an Ember tab to Chrome or Firefox Developer Tools that allows you to inspect Ember objects in your application. - Officially maintained.
+- [remote-inspector](https://github.com/joostdevries/ember-cli-remote-inspector) - Lets you inspect apps running on different devices/browsers over the network using websockets.
 - [gulp-ember-handlebars](https://github.com/fuseelements/gulp-ember-handlebars) - Compiles Handlebars templates to JS ready for Ember.
 - [Ember Data Sails Adapter](https://github.com/bmac/ember-data-sails-adapter) - An Ember data adaptor for the Sails.js sockets.
 - [Ember Data WordPress Adapter](https://github.com/HeyHumanAgency/Ember-Data-WordPress) - An Ember data adapter for the WordPress JSON API.
@@ -453,3 +458,4 @@ using a [JSON API](http://jsonapi.org/)-compliant client-side server.
 ### Miscellaneous
 
 - [builtwithember](http://builtwithember.io/) - Apps powered by Ember.js.
+- [emberwatch](https://github.com/emberwatch) - The community hub for Ember.js content
