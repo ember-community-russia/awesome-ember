@@ -280,6 +280,12 @@ Just type [`ember.cool`](https://ember.cool) to go here ✨
 ### Tutorials
 
 - [yoember.com/](http://yoember.com/) - Ember.js Tutorial - From beginner to advance.
+- [Discover Ember 2](https://www.ludu.co/course/ember) - Learn how to build a Twitter clone from scratch
+- [Getting into Ember.js](http://code.tutsplus.com/tutorials/getting-into-emberjs--net-30709) - A five part introductory course to Ember.
+- [Ember Components: A Deep Dive](http://code.tutsplus.com/tutorials/ember-components-a-deep-dive--net-35551) - A closer look at using Ember Components.
+- [Getting Started with Ember.js using Ember CLI](http://thetechcofounder.com/getting-started-with-ember-js-using-ember-cli/) - Building a Todo app with Ember CLI.
+- [Ember runloop handbook](https://github.com/eoinkelly/ember-runloop-handbook) - A deep dive into the Ember JS runloop.
+- [Ember with Phoenix (AKA The PEEP Stack)](https://medium.com/peep-stack) - Developing an Ember front-end alongside a [JSON API](http://jsonapi.org/)-compliant [Phoenix](http://www.phoenixframework.org/) backend.
 
 ### Discovery
 
@@ -300,6 +306,10 @@ Just type [`ember.cool`](https://ember.cool) to go here ✨
 ### Videos
 
 - [Web App Performance & Ember.js](https://www.youtube.com/watch?v=BelKk7dvA1A) - Web App Performance & Ember.js
+- [EmberConf 2017](https://www.youtube.com/playlist?list=PL4eq2DPpyBbna_5fLPqOqensqSZpGf-hT) - Videos of the sessions from EmberConf 2017.
+ - [EmberConf 2016](https://www.youtube.com/playlist?list=PL4eq2DPpyBblc8aQAd516-jGMdAhEeUiW) - Videos of the sessions from EmberConf 2016.
+ - [EmberConf 2015](https://www.youtube.com/playlist?list=PLE7tQUdRKcyacwiUPs0CjPYt6tJub4xXU) - Videos of the sessions from EmberConf 2015.
+ - [EmberConf 2014](https://www.youtube.com/playlist?list=PLE7tQUdRKcyaOyfBnAndJxQ9PNVmKva0d) - Videos of the sessions from EmberConf 2014.
 
 ### Podcasts
 
@@ -309,6 +319,9 @@ Just type [`ember.cool`](https://ember.cool) to go here ✨
 ### Books
 
 - [Rock and Roll with Ember.js](http://rockandrollwithemberjs.com/)
+- [ember-cli 101](https://leanpub.com/ember-cli-101) by Adolfo Builes
+- [Ember.js in Action](http://manning.com/skeie/) by Joachim Haagen Skeie
+- [Deliver Audacious Web Apps with Ember 2](https://pragprog.com/book/mwjsember/deliver-audacious-web-apps-with-ember-2) by Matthew White
 
 ### Blogs
 
@@ -316,7 +329,9 @@ Just type [`ember.cool`](https://ember.cool) to go here ✨
 
 ### Courses
 
-- [?](#)
+- [Frontend Masters: Ember 2.x - Mike North](https://frontendmasters.com/courses/ember-2/)
+- [Frontend Masters: Advanced Ember 2.x - Mike North](https://frontendmasters.com/courses/advanced-ember-2/)
+- [Emberschool.com](https://www.emberschool.com/)
 
 ### Cheatsheets
 
