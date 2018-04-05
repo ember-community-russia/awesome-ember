@@ -387,6 +387,7 @@ using a [JSON API](http://jsonapi.org/)-compliant client-side server.
 
 - [API](https://emberjs.com/api/)
 - [guides](https://guides.emberjs.com/)
+- [Glimmer](https://glimmerjs.com/)
 
 ### Tools
 
@@ -397,6 +398,7 @@ using a [JSON API](http://jsonapi.org/)-compliant client-side server.
 - [Ember Data WordPress Adapter](https://github.com/HeyHumanAgency/Ember-Data-WordPress) - An Ember data adapter for the WordPress JSON API.
 - [Ember Gist](http://ember-gist.joostdvrs.com/) - Demo Ember CLI'eque apps using Github Gist.
 - [Ember Twiddle](https://ember-twiddle.com/) - An Ember Twiddle for multiples files which lets you save your work in Github.
+- [Glimmer Playground](https://try.glimmerjs.com/) - An Glimmer.js playground.
 - [Ember Perf](https://github.com/mike-north/ember-perf) - Measure user-percieved performance data in your ember.js app
 
 
