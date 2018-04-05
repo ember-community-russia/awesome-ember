@@ -233,13 +233,15 @@ Just type [`ember.cool`](https://ember.cool) to go here ✨
 using a [JSON API](http://jsonapi.org/)-compliant client-side server.
 
 ### Security
-- [ember-simple-auth](https://github.com/simplabs/ember-simple-auth) - A library for implementing authentication/authorization in Ember.js applications.
+- [ember-can](https://github.com/minutebase/ember-can) - Simple [authorisation addon](http://ember-can.com) for Ember apps.
 
 ### Benchmarking
 
 ### Minifiers
 
 ### Authentication
+- [ember-simple-auth](https://github.com/simplabs/ember-simple-auth) - A library for implementing authentication/authorization in Ember.js applications.
+
 
 ### Email
 
@@ -258,12 +260,14 @@ using a [JSON API](http://jsonapi.org/)-compliant client-side server.
 ### AST
 
 ### Static site generators
+- [prember](https://github.com/ef4/prember) - Prerender Ember apps with Fastboot at build time.
 
 ### Content management systems
 
 ### Forum
 
 ### Blogging
+- [ember-tumblr](https://github.com/elwayman02/ember-tumblr) - Ember Addon for integrating a Tumblr blog
 
 ### Weird
 
