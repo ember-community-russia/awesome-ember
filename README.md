@@ -210,6 +210,9 @@ Just type [`ember.cool`](https://ember.cool) to go here ✨
 ### Humanize
 
 	- [?](#) - ????.
+### Component addons
+ - [ember-diff-attrs](https://github.com/workmanw/ember-diff-attrs)
+  
   
 ### Mobile
  - [ember-responsive](https://github.com/freshbooks/ember-responsive) - Easy responsive layouts with Ember
