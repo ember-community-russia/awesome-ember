@@ -111,12 +111,14 @@ Just type [`ember.cool`](https://ember.cool) to go here ✨
 
 ### Debugging / Profiling
 
-- [?](#) - ????.
-
+ - [ember-perf-timeline](https://github.com/ember-best-practices/ember-perf-timeline) - Add performance information to Chrome's Timeline for Ember applications
+ - [ember-devtools](https://github.com/aexmachina/ember-devtools) - A collection of useful Ember.js debugging functions.
 
 ### Logging
 
-- [?](#) - ????.
+ - [ember-logging-service](https://github.com/acquia/ember-logging-service/) - This addon provides a general and extensible logging service that can be used throughout your application
+ - [ember-debug-logger](https://emberobserver.com/addons/ember-debug-logger) - An Ember addon to expose the Visionmedia debug logger.
+
 
 ### Command-line utilities
 
@@ -130,15 +132,10 @@ Just type [`ember.cool`](https://ember.cool) to go here ✨
 
 	- [?](#) - ????.
 
-
-### Web frameworks
-
-	- [?](#) - ????.
-
-
 ### Documentation
 
-	- [?](#) - ????.
+ - [ember-cli-addon-docs](https://github.com/ember-learn/ember-cli-addon-docs) - Easy, beautiful docs for your Ember addon
+ - [ember-cli-jsdoc](https://github.com/softlayer/ember-cli-jsdoc) - An Ember CLI addon to generate HTML documentation from JSDoc comments in the source code.
 
 ### Filesystem
 
@@ -257,6 +254,8 @@ using a [JSON API](http://jsonapi.org/)-compliant client-side server.
 
 ### Automation
 - [ember-cli-deploy](https://github.com/ember-cli-deploy/ember-cli-deploy) - A deployment pipeline for Ember CLI apps
+- [ember-cli-release](https://github.com/shipshapecode/ember-cli-release) - Ember CLI addon for versioned release management
+
 
 ### AST
 
