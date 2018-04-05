@@ -281,6 +281,7 @@ Just type [`ember.cool`](https://ember.cool) to go here ✨
 
 - [Skeleton Screen Loading in Ember.js](https://emberway.io/skeleton-screen-loading-in-ember-js-2f7ac2384d63)
 - [Ember on Medium](https://medium.com/front-end-hacking/tagged/ember)
+- [Awesome Ember Addons](https://www.codementor.io/gowiem/awesome-ember-addons-bwhiofit9)
 
 ### Newsletters
 
