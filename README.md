@@ -194,6 +194,10 @@ Just type [`ember.cool`](https://ember.cool) to go here ✨
 ### URL
 
 	- [?](#) - ????.
+	
+### Data Management
+ - [ember-changeset](https://github.com/poteto/ember-changeset) -
+ - [ember-time-machine](https://github.com/offirgolan/ember-time-machine)
   
 ### Data validation
 
