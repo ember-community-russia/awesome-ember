@@ -228,6 +228,15 @@ Just type [`ember.cool`](https://ember.cool) to go here ✨
 ### Testing
 - [ember-cli-mirage](http://www.ember-cli-mirage.com/) - Build, test and demo your app
 using a [JSON API](http://jsonapi.org/)-compliant client-side server.
+- [ember-percy](https://github.com/percy/ember-percy) - Ember addon for visual regression testing with Percy
+- [ember-cli-page-object](https://github.com/san650/ember-cli-page-object) - This ember-cli addon eases the construction of page objects on your acceptance and integration tests
+- [ember-cli-code-coverage](https://github.com/kategengler/ember-cli-code-coverage) - Code coverage for ember apps using Istanbul
+- [ember-test-selectors](https://github.com/simplabs/ember-test-selectors) - Enabling better element selectors in Ember.js tests
+- [ember-a11y-testing](https://github.com/ember-a11y/ember-a11y-testing) - A suite of accessibility tests that can be run within the Ember testing framework
+- [ember-exam](https://github.com/trentmwillis/ember-exam) - Run your tests with randomization, splitting, and parallelization for beautiful tests.
+- [ember-cli-yadda](https://github.com/albertjan/ember-cli-yadda) - Write cucumber specs for ember-cli applications
+- [ember-qunit](https://github.com/emberjs/ember-qunit) - QUnit test helpers for Ember
+- [ember-cli-mocha](https://github.com/ember-cli/ember-cli-mocha) - Mocha and Chai tests for ember-cli applications
 
 ### Security
 - [ember-can](https://github.com/minutebase/ember-can) - Simple [authorisation addon](http://ember-can.com) for Ember apps.
