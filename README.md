@@ -221,6 +221,10 @@ Just type [`ember.cool`](https://ember.cool) to go here ✨
 ### Network
 	- [?](#) - ????.
   
+### Data management
+
+- [ember-redux](http://www.ember-redux.com/) - Predictable state management for ember apps
+  
 ### Database
 
 - Drivers
@@ -371,6 +375,7 @@ using a [JSON API](http://jsonapi.org/)-compliant client-side server.
 - [codementor.io](https://www.codementor.io/community/topic/emberjs)
 - [codeburst.io](https://codeburst.io/tagged/emberjs)
 - [netguru.co](https://www.netguru.co/blog/topic/ember-js)
+- [emberigniter.com](https://emberigniter.com/articles/)
 
 ### Courses
 
