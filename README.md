@@ -233,6 +233,7 @@ Just type [`ember.cool`](https://ember.cool) to go here ✨
 using a [JSON API](http://jsonapi.org/)-compliant client-side server.
 
 ### Security
+- [ember-simple-auth](https://github.com/simplabs/ember-simple-auth) - A library for implementing authentication/authorization in Ember.js applications.
 
 ### Benchmarking
 
