@@ -206,6 +206,13 @@ Just type [`ember.cool`](https://ember.cool) to go here ✨
 
 	- [?](#) - ????.
   
+### Mobile
+ - [ember-responsive](https://github.com/freshbooks/ember-responsive) - Easy responsive layouts with Ember
+ - [ember-mobile-core](https://github.com/nickschot/ember-mobile-core) - Provides a pan recognizer and some utils for the ember-mobile-* addons
+ - [ember-mobile-bar](https://github.com/nickschot/ember-mobile-bar) - Managed fixed (tool)bars with mobile app-like behaviour
+ - [ember-mobile-menu](https://github.com/nickschot/ember-mobile-menu) - Draggable sidebar specifically tailored to mobile devices
+ - [https://github.com/nickschot/ember-mobile-pane](https://github.com/nickschot/ember-mobile-pane) - ember-mobile-pane
+  
 ### Compression
 
  - [ember-cli-deploy-brotli](https://github.com/mfeckie/ember-cli-deploy-brotli) - Ember deploy plugin to support brotli compression
