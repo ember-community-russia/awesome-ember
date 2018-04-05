@@ -119,7 +119,8 @@ Just type [`ember.cool`](https://ember.cool) to go here ✨
 
  - [ember-logging-service](https://github.com/acquia/ember-logging-service/) - This addon provides a general and extensible logging service that can be used throughout your application
  - [ember-debug-logger](https://emberobserver.com/addons/ember-debug-logger) - An Ember addon to expose the Visionmedia debug logger.
-
+ - [raygun](https://raygun.com/)
+ - [console.re](https://console.re/)
 
 ### Command-line utilities
 
