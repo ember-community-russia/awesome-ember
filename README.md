@@ -224,6 +224,7 @@ Just type [`ember.cool`](https://ember.cool) to go here ✨
 ### Data management
 
 - [ember-redux](http://www.ember-redux.com/) - Predictable state management for ember apps
+- [ember-orbit](https://github.com/orbitjs/ember-orbit) - Ember.js data layer built with Orbit.js
   
 ### Database
 
