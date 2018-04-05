@@ -203,6 +203,11 @@ Just type [`ember.cool`](https://ember.cool) to go here ✨
 
  - [ember-cp-validations](https://github.com/offirgolan/ember-cp-validations) - Ember computed property based validations
 
+### UI libs
+ - [ember-paper](https://github.com/miguelcobain/ember-paper) - The Ember approach to Material Design.
+ - [ember-bootstrap](http://www.ember-bootstrap.com/) - Provides a collection of native Ember components that mimic the original Bootstrap plugins and components in an ember friendly way
+ - [Semantic-UI-Ember](https://github.com/Semantic-Org/Semantic-UI-Ember) - This is the official Ember library for the Semantic-UI modules.
+
 ### Parsing
 
 	- [?](#) - ????.
