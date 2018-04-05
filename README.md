@@ -316,6 +316,7 @@ using a [JSON API](http://jsonapi.org/)-compliant client-side server.
 
 ### Articles
 
+- [Static Blogs with Prember and Markdown](https://shipshape.io/blog/static-blogs-with-prember-and-markdown/)
 - [Skeleton Screen Loading in Ember.js](https://emberway.io/skeleton-screen-loading-in-ember-js-2f7ac2384d63)
 - [Ember on Medium](https://medium.com/front-end-hacking/tagged/ember)
 - [Awesome Ember Addons](https://www.codementor.io/gowiem/awesome-ember-addons-bwhiofit9)
