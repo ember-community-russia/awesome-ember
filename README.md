@@ -184,13 +184,13 @@ Just type [`ember.cool`](https://ember.cool) to go here ✨
 	- [?](#) - ????.
 
 ### Math
+ - [ember-katex](https://github.com/firecracker/ember-katex) - Render your LaTeX formulas using KaTeX
 
-	- [?](#) - ????.
-
+### a11y
+ - [ember-keyboard](https://github.com/patience-tema-baron/ember-keyboard) - An Ember.js addon for the painless support of keyboard events
 
 ### Date
-
-	- [?](#) - ????.
+ - [ember-moment](https://github.com/stefanpenner/ember-moment) - moment.js template helpers and computed property macros for Ember
 
 ### URL
 
