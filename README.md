@@ -196,7 +196,7 @@ Just type [`ember.cool`](https://ember.cool) to go here ✨
   
 ### Data validation
 
-	- [?](#) - ????.
+ - [ember-cp-validations](https://github.com/offirgolan/ember-cp-validations) - Ember computed property based validations
 
 ### Parsing
 
@@ -208,7 +208,7 @@ Just type [`ember.cool`](https://ember.cool) to go here ✨
   
 ### Compression
 
-	- [?](#) - ????.
+ - [ember-cli-deploy-brotli](https://github.com/mfeckie/ember-cli-deploy-brotli) - Ember deploy plugin to support brotli compression
 
 ### Network
 	- [?](#) - ????.
