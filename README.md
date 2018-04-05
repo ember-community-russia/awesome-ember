@@ -269,6 +269,14 @@ Just type [`ember.cool`](https://ember.cool) to go here ✨
 
 ## Resources
 
+## Examples
+
+- [Super Rentals](https://github.com/ember-learn/super-rentals) - Super Rentals is a good starter project to get acclimated to the Ember.js way of doing things
+- [Builds](https://github.com/ember-learn/builds) - This is the application that the Ember.js team built to display our various release channels.
+- [API Docs](https://github.com/ember-learn/ember-api-docs) - This application was built to display our versioned API docs.
+- [Travis CI](https://github.com/travis-ci/travis-web) - The Ember web client for [Travis CI](https://travis-ci.org/)
+- [HospitalRun](https://github.com/HospitalRun/hospitalrun-frontend) - Ember front end for HospitalRun [hospitalrun.io](http://hospitalrun.io/)
+
 ### Tutorials
 
 - [yoember.com/](http://yoember.com/) - Ember.js Tutorial - From beginner to advance.
