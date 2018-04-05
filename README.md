@@ -316,10 +316,13 @@ using a [JSON API](http://jsonapi.org/)-compliant client-side server.
 
 ### Articles
 
+- [DEPLOYING WITH EMBER.JS: A STORY](https://blogs.library.ucsf.edu/ckm/2017/09/06/deploying-with-ember-js-a-story/)
+- [Adding AWS Amplify to an Ember.js Application](https://itnext.io/adding-aws-amplify-to-an-ember-js-application-72683167c476)
 - [Static Blogs with Prember and Markdown](https://shipshape.io/blog/static-blogs-with-prember-and-markdown/)
 - [Skeleton Screen Loading in Ember.js](https://emberway.io/skeleton-screen-loading-in-ember-js-2f7ac2384d63)
 - [Ember on Medium](https://medium.com/front-end-hacking/tagged/ember)
 - [Awesome Ember Addons](https://www.codementor.io/gowiem/awesome-ember-addons-bwhiofit9)
+- [An Interview with Tom Dale of Ember.js](https://javascriptreport.com/interview-with-tom-dale/)
 
 ### Newsletters
 
@@ -356,8 +359,13 @@ using a [JSON API](http://jsonapi.org/)-compliant client-side server.
 
 ### Blogs
 
+- [hackernoon.com](https://hackernoon.com/tagged/ember)
+- [engineering.linkedin.com](https://engineering.linkedin.com/blog/)
 - [programwitherik.com](https://www.programwitherik.com) - Ember.js tuts
 - [shipshape.io](https://shipshape.io/blog/)
+- [codementor.io](https://www.codementor.io/community/topic/emberjs)
+- [codeburst.io](https://codeburst.io/tagged/emberjs)
+- [netguru.co](https://www.netguru.co/blog/topic/ember-js)
 
 ### Courses
 
