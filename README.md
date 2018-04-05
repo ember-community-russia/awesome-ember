@@ -226,6 +226,8 @@ Just type [`ember.cool`](https://ember.cool) to go here ✨
  - [ember-mobile-bar](https://github.com/nickschot/ember-mobile-bar) - Managed fixed (tool)bars with mobile app-like behaviour
  - [ember-mobile-menu](https://github.com/nickschot/ember-mobile-menu) - Draggable sidebar specifically tailored to mobile devices
  - [ember-mobile-pane](https://github.com/nickschot/ember-mobile-pane) - ember-mobile-pane
+ 
+ - [corber](https://github.com/isleofcode/corber) - Tooling for cordova and crosswalk hybrid applications built with Ember
   
 ### Compression
 
