@@ -229,7 +229,8 @@ Just type [`ember.cool`](https://ember.cool) to go here ✨
 
 
 ### Testing
-
+- [ember-cli-mirage](http://www.ember-cli-mirage.com/) - Build, test and demo your app
+using a [JSON API](http://jsonapi.org/)-compliant client-side server.
 
 ### Security
 
@@ -303,6 +304,13 @@ Just type [`ember.cool`](https://ember.cool) to go here ✨
 - [Ember Weekly](http://www.emberweekly.com/) - The latest Ember.js news, tips, and code delivered directly to your inbox.
 - [Official Ember Blog](https://emberjs.com/blog/) - Big announcements like new Ember.js version release notes or State of the Union information
 
+### Screencasts
+
+- [EmberCasts](http://www.embercasts.com/) - Currently on hiatus whilst the author works on the next version of Handlebars.
+- [EmberWatch - Screencasts](http://emberwatch.com/screencasts.html) - A collection of Ember screencasts.
+- [Ember 101](http://ember101.com/) - Short introductory screencasts for Ember.
+- [Ember Screencasts](https://www.emberscreencasts.com/) - Weekly Screencasts for the Busy Developer.
+
 ### Videos
 
 - [Web App Performance & Ember.js](https://www.youtube.com/watch?v=BelKk7dvA1A) - Web App Performance & Ember.js
@@ -341,11 +349,43 @@ Just type [`ember.cool`](https://ember.cool) to go here ✨
 ### Tools
 
 - [ember-cli](https://ember-cli.com/) - The command line interface for ambitious web applications.
+- [Ember Inspector](https://github.com/emberjs/ember-inspector) - Adds an Ember tab to Chrome or Firefox Developer Tools that allows you to inspect Ember objects in your application. - Officially maintained.
+- [gulp-ember-handlebars](https://github.com/fuseelements/gulp-ember-handlebars) - Compiles Handlebars templates to JS ready for Ember.
+- [Ember Data Sails Adapter](https://github.com/bmac/ember-data-sails-adapter) - An Ember data adaptor for the Sails.js sockets.
+- [Ember Data WordPress Adapter](https://github.com/HeyHumanAgency/Ember-Data-WordPress) - An Ember data adapter for the WordPress JSON API.
+- [Ember Gist](http://ember-gist.joostdvrs.com/) - Demo Ember CLI'eque apps using Github Gist.
+- [Ember Twiddle](https://ember-twiddle.com/) - An Ember Twiddle for multiples files which lets you save your work in Github.
+- [Ember Perf](https://github.com/mike-north/ember-perf) - Measure user-percieved performance data in your ember.js app
+
 
 ### Community
 
 - [Slack](https://embercommunity.slack.com)
 - [Telegram](https://t.me/ember_js)
+- [StackOverflow](http://stackoverflow.com/questions/tagged/ember.js)
+- [Forum](http://discuss.emberjs.com/)
+- [GitHub issues](https://github.com/emberjs/ember.js/issues)
+- [Reddit](https://www.reddit.com/r/emberjs/)
+
+### Twitter
+
+- [Ember Talk](https://twitter.com/emberjstalk)
+- [Ember Watch](https://twitter.com/EmberWatch)
+- [EmberSherpa](https://twitter.com/EmberSherpa)
+- [Tom Dale](https://twitter.com/tomdale)
+- [Erik Bryn](https://twitter.com/ebryn)
+- [Trek Glowacki](https://twitter.com/trek)
+- [Alex Matchneer](https://twitter.com/machty)
+- [Robin Ward](https://twitter.com/eviltrout)
+- [Stefan Penner](https://twitter.com/stefanpenner)
+- [Jo Liss](https://twitter.com/jo_liss)
+- [Brian Cardarella](https://twitter.com/bcardarella)
+- [Alex Navasardyan](https://twitter.com/twokul)
+- [Adolfo Builes](https://twitter.com/abuiles)
+- [mixonic](https://twitter.com/mixonic)
+- [alexspeller](https://twitter.com/alexspeller)
+- [Jamie White](https://twitter.com/jgwhite)
+- [Gavin Joyce](https://twitter.com/gavinjoyce)
 
 ### Miscellaneous
 
