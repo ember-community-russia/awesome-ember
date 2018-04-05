@@ -256,6 +256,7 @@ using a [JSON API](http://jsonapi.org/)-compliant client-side server.
 ### Process management
 
 ### Automation
+- [ember-cli-deploy](https://github.com/ember-cli-deploy/ember-cli-deploy) - A deployment pipeline for Ember CLI apps
 
 ### AST
 
