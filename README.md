@@ -300,6 +300,11 @@ using a [JSON API](http://jsonapi.org/)-compliant client-side server.
 - [Travis CI](https://github.com/travis-ci/travis-web) - The Ember web client for [Travis CI](https://travis-ci.org/)
 - [HospitalRun](https://github.com/HospitalRun/hospitalrun-frontend) - Ember front end for HospitalRun [hospitalrun.io](http://hospitalrun.io/)
 
+## Styleguides
+
+- [JavaScript Style Guide](https://github.com/DockYard/styleguides/blob/master/engineering/javascript.md)
+- [Ember.js](https://github.com/DockYard/styleguides/blob/master/engineering/ember.md)
+
 ### Tutorials
 
 - [yoember.com/](http://yoember.com/) - Ember.js Tutorial - From beginner to advance.
