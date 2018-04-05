@@ -264,6 +264,7 @@ using a [JSON API](http://jsonapi.org/)-compliant client-side server.
 
 ### Authentication
 - [ember-simple-auth](https://github.com/simplabs/ember-simple-auth) - A library for implementing authentication/authorization in Ember.js applications.
+- [tori](https://github.com/Vestorly/torii) - A set of clean abstractions for authentication in Ember.js
 
 
 ### Email
