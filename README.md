@@ -39,6 +39,7 @@ Just type [`ember.cool`](https://ember.cool) to go here ✨
 	- [Data validation](#data-validation)
 	- [Parsing](#parsing)
 	- [Humanize](#humanize)
+	- [Mobile](#mobile)
 	- [Compression](#compression)
 	- [Network](#network)
 	- [Database](#database)
@@ -211,7 +212,7 @@ Just type [`ember.cool`](https://ember.cool) to go here ✨
  - [ember-mobile-core](https://github.com/nickschot/ember-mobile-core) - Provides a pan recognizer and some utils for the ember-mobile-* addons
  - [ember-mobile-bar](https://github.com/nickschot/ember-mobile-bar) - Managed fixed (tool)bars with mobile app-like behaviour
  - [ember-mobile-menu](https://github.com/nickschot/ember-mobile-menu) - Draggable sidebar specifically tailored to mobile devices
- - [https://github.com/nickschot/ember-mobile-pane](https://github.com/nickschot/ember-mobile-pane) - ember-mobile-pane
+ - [ember-mobile-pane](https://github.com/nickschot/ember-mobile-pane) - ember-mobile-pane
   
 ### Compression
 
