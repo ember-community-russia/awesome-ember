@@ -296,6 +296,7 @@ using a [JSON API](http://jsonapi.org/)-compliant client-side server.
 ### Broccoli
  - [broccolijs-tutorial](https://github.com/oligriffiths/broccolijs-tutorial) - Broccoli.js Tutorial repository
  - [broccoli-stew](https://github.com/stefanpenner/broccoli-stew) - Provides commonly used convenience functions for developing broccoli based build pipelines.
+ - [broccoli-assembler](https://github.com/twokul/broccoli-assembler) - A build utility to allow for more flexible builds and better composition.
 
 ### Broccoli read
  - [Eat your greens! A beginners guide to Broccoli.js](http://www.oligriffiths.com/2017/01/26/Eat-your-greens-A-beginners-guide-to-Broccoli-js/)
@@ -389,6 +390,7 @@ Ember Data Model Maker (EDMM).
 - [emberaddons](https://www.emberaddons.com/) - Ember Addons.
 
 ### Articles
+- [16 Opensource EmberJS Projects to Learn From](https://www.icicletech.com/blog/16-opensource-emberjs-projects-to-learn-from)
 - [ES Classes in Ember.js](https://medium.com/build-addepar/es-classes-in-ember-js-63e948e9d78e)
 - [DEPLOYING WITH EMBER.JS: A STORY](https://blogs.library.ucsf.edu/ckm/2017/09/06/deploying-with-ember-js-a-story/)
 - [Adding AWS Amplify to an Ember.js Application](https://itnext.io/adding-aws-amplify-to-an-ember-js-application-72683167c476)
