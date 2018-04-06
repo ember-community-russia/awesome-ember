@@ -391,6 +391,7 @@ Ember Data Model Maker (EDMM).
 - [Debug Ember app with VSCode](https://medium.com/@minhdn/debug-ember-app-with-vscode-5f4fde511f9f)
 - [Using ember-freestyle as a component playground](https://simplabs.com/blog/2018/01/24/ember-freestyle.html)
 - [You can only change what you can measure](https://blog.201-created.com/you-can-only-change-what-you-can-measure-6be8826503a7)
+- [Building a performant real-time web app with Ember Fastboot and Phoenix](https://medium.com/peep-stack/building-a-performant-web-app-with-ember-fastboot-and-phoenix-part-1-fa1241654308)
 
 ### Newsletters
 
