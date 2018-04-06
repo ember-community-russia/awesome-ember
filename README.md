@@ -318,6 +318,10 @@ using a [JSON API](http://jsonapi.org/)-compliant client-side server.
 
 ### Miscellaneous
 
+- [diagonal routes](https://alexspeller.com/ember-diagonal/) - See what route structure, templates and route hooks are for a given ember route definition.
+- [ember data model maker](https://github.com/andycrum/ember-data-model-maker/) - 
+Ember Data Model Maker (EDMM).
+
 ## Resources
 
 ## Examples
@@ -348,7 +352,8 @@ using a [JSON API](http://jsonapi.org/)-compliant client-side server.
 
 ### Discovery
 
-- [emberobserver](https://emberobserver.com/) - Ember Observer
+- [emberobserver](https://emberobserver.com/) - Ember Observer.
+- [emberaddons](https://www.emberaddons.com/) - Ember Addons.
 
 ### Articles
 
@@ -366,7 +371,7 @@ using a [JSON API](http://jsonapi.org/)-compliant client-side server.
 
 - [The Ember Times](https://the-emberjs-times.ongoodbits.com/) - Updates from the Ember.js Learning Team.
 - [Ember Weekly](http://www.emberweekly.com/) - The latest Ember.js news, tips, and code delivered directly to your inbox.
-- [Official Ember Blog](https://emberjs.com/blog/) - Big announcements like new Ember.js version release notes or State of the Union information
+- [Official Ember Blog](https://emberjs.com/blog/) - Big announcements like new Ember.js version release notes or State of the Union information.
 
 ### Screencasts
 
@@ -392,7 +397,7 @@ using a [JSON API](http://jsonapi.org/)-compliant client-side server.
  - [Amsterdam Ember.js](https://www.youtube.com/channel/UCx9sVlEZLOKxw8OGCtoqULw)
  - [EmberJSSeattleMeetup](https://www.youtube.com/channel/UC_EzRy1fCQPRPOD-uqk-E5w)
  - [EmberSchool](https://www.youtube.com/channel/UCntNIA2acwPDIY77bX2uLmw)
-  
+
 ### Podcasts
 
 - [embermap](https://embermap.com/topics/the-embermap-podcast)
@@ -407,6 +412,7 @@ using a [JSON API](http://jsonapi.org/)-compliant client-side server.
 
 ### Blogs
 
+- [balinterdi.com](https://balinterdi.com/blog/) - Balint Erdi blog.
 - [hackernoon.com](https://hackernoon.com/tagged/ember)
 - [engineering.linkedin.com](https://engineering.linkedin.com/blog/)
 - [programwitherik.com](https://www.programwitherik.com) - Ember.js tuts
