@@ -267,6 +267,10 @@ Just type [`ember.cool`](https://ember.cool) to go here ✨
 
 ### Miscellaneous
 
+- [diagonal routes](https://alexspeller.com/ember-diagonal/) - See what route structure, templates and route hooks are for a given ember route definition.
+- [ember data model maker](https://github.com/andycrum/ember-data-model-maker/) - 
+Ember Data Model Maker (EDMM).
+
 ## Resources
 
 ### Tutorials
@@ -275,7 +279,8 @@ Just type [`ember.cool`](https://ember.cool) to go here ✨
 
 ### Discovery
 
-- [emberobserver](https://emberobserver.com/) - Ember Observer
+- [emberobserver](https://emberobserver.com/) - Ember Observer.
+- [emberaddons](https://www.emberaddons.com/) - Ember Addons.
 
 ### Articles
 
@@ -286,11 +291,11 @@ Just type [`ember.cool`](https://ember.cool) to go here ✨
 
 - [The Ember Times](https://the-emberjs-times.ongoodbits.com/) - Updates from the Ember.js Learning Team.
 - [Ember Weekly](http://www.emberweekly.com/) - The latest Ember.js news, tips, and code delivered directly to your inbox.
-- [Official Ember Blog](https://emberjs.com/blog/) - Big announcements like new Ember.js version release notes or State of the Union information
+- [Official Ember Blog](https://emberjs.com/blog/) - Big announcements like new Ember.js version release notes or State of the Union information.
 
 ### Videos
 
-- [Web App Performance & Ember.js](https://www.youtube.com/watch?v=BelKk7dvA1A) - Web App Performance & Ember.js
+- [Web App Performance & Ember.js](https://www.youtube.com/watch?v=BelKk7dvA1A) - Web App Performance & Ember.js.
 
 ### Podcasts
 
@@ -303,7 +308,8 @@ Just type [`ember.cool`](https://ember.cool) to go here ✨
 
 ### Blogs
 
-- [programwitherik.com](https://www.programwitherik.com) - Ember.js tuts
+- [programwitherik.com](https://www.programwitherik.com) - Ember.js tuts.
+- [balinterdi.com](https://balinterdi.com/blog/) - Balint Erdi blog.
 
 ### Courses
 
