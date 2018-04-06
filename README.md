@@ -428,6 +428,7 @@ Ember Data Model Maker (EDMM).
 - [Ember Timer Leaks: The Bad Apples in Your Test Infrastructure](https://engineering.linkedin.com/blog/2018/01/ember-timer-leaks)
 - [Set your Ember.js project up to use TypeScript](http://www.chriskrycho.com/2017/typing-your-ember-part-1.html)
 - [EmberCamp Module Unification Update](https://madhatted.com/2017/7/12/embercamp-module-unification-update)
+- [5 Essential Ember Concepts You Must Understand](https://emberigniter.com/5-essential-ember-concepts/)
 
 ### Newsletters
 
