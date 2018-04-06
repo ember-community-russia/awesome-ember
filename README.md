@@ -382,6 +382,16 @@ using a [JSON API](http://jsonapi.org/)-compliant client-side server.
  - [EmberConf 2015](https://www.youtube.com/playlist?list=PLE7tQUdRKcyacwiUPs0CjPYt6tJub4xXU) - Videos of the sessions from EmberConf 2015.
  - [EmberConf 2014](https://www.youtube.com/playlist?list=PLE7tQUdRKcyaOyfBnAndJxQ9PNVmKva0d) - Videos of the sessions from EmberConf 2014.
 
+### YouTube channels
+ - [EmberATX](https://www.youtube.com/channel/UCl7qY85b7KLJV3xnn1Xh_Cw)
+ - [Boston Ember](https://www.youtube.com/channel/UCp_L_YjmXTKR4Q2fg1XahsA)
+ - [Denver Ember](https://www.youtube.com/channel/UCsy4OVL_kNXsxr0a5LNKWpw)
+ - [Ember Videos](https://www.youtube.com/channel/UCMmzJ82sCmooDdtzVY8FxEA)
+ - [Silicon Valley Ember.js meetup](https://www.youtube.com/channel/UCi12gVD9jIDwJLVTNnKvhlw)
+ - [Amsterdam Ember.js](https://www.youtube.com/channel/UCx9sVlEZLOKxw8OGCtoqULw)
+ - [EmberJSSeattleMeetup](https://www.youtube.com/channel/UC_EzRy1fCQPRPOD-uqk-E5w)
+ - [EmberSchool](https://www.youtube.com/channel/UCntNIA2acwPDIY77bX2uLmw)
+  
 ### Podcasts
 
 - [embermap](https://embermap.com/topics/the-embermap-podcast)
