@@ -273,6 +273,10 @@ using a [JSON API](http://jsonapi.org/)-compliant client-side server.
 
 ### Benchmarking
 
+- [ember-macro-benchmark](https://github.com/krisselden/ember-macro-benchmark) - Benchmark recording of an ember app with running with 2 versions of Ember.
+- [emberperf](http://emberperf.eviltrout.com) - EmberPerformance (Between versions)
+
+
 ### Minifiers
 
 ### Authentication
