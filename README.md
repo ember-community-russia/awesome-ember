@@ -421,6 +421,7 @@ Ember Data Model Maker (EDMM).
 - [What you didn't know about passing dynamic classname and attribute bidings from parent template](https://lolma.us/en/blog/class-and-attribute-bindings)
 - [Ember Timer Leaks: The Bad Apples in Your Test Infrastructure](https://engineering.linkedin.com/blog/2018/01/ember-timer-leaks)
 - [Set your Ember.js project up to use TypeScript](http://www.chriskrycho.com/2017/typing-your-ember-part-1.html)
+- [EmberCamp Module Unification Update](https://madhatted.com/2017/7/12/embercamp-module-unification-update)
 
 ### Newsletters
 
