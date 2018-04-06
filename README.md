@@ -439,7 +439,7 @@ Ember Data Model Maker (EDMM).
 - [dockyard.com](https://dockyard.com/blog/categories/ember)
 - [balinterdi.com](https://balinterdi.com/blog/) - Balint Erdi blog.
 - [hackernoon.com](https://hackernoon.com/tagged/ember)
-- [engineering.linkedin.com](https://engineering.linkedin.com/blog/)
+- [engineering.linkedin.com](https://engineering.linkedin.com/blog/topic/ember)
 - [programwitherik.com](https://www.programwitherik.com) - Ember.js tuts
 - [shipshape.io](https://shipshape.io/blog/)
 - [codementor.io](https://www.codementor.io/community/topic/emberjs)
