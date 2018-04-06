@@ -197,10 +197,13 @@ Just type [`ember.cool`](https://ember.cool) to go here ✨
 ### Date
  - [ember-moment](https://github.com/stefanpenner/ember-moment) - moment.js template helpers and computed property macros for Ember
 
-### URL
+### ES6
+ - [ember-decorators](https://github.com/ember-decorators/ember-decorators) - Useful decorators for Ember applications. 
+ 
+### TypeScript
+ - [ember-cli-typescript](https://github.com/typed-ember/ember-cli-typescript) - Use TypeScript in your Ember.js apps!
+ - [ember-typings](https://github.com/typed-ember/ember-typings) - Typescript type definitions for ember.js
 
-	- [?](#) - ????.
-	
 ### Adapters
  - [emberfire](https://github.com/firebase/emberfire) - Official Ember Data adapter for Firebase
  - [ember-graphql-adapter](https://github.com/alphasights/ember-graphql-adapter) - GraphQL adapter for Ember Data
