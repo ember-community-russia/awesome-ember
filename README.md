@@ -449,6 +449,7 @@ Ember Data Model Maker (EDMM).
 - [netguru.co](https://www.netguru.co/blog/topic/ember-js)
 - [emberigniter.com](https://emberigniter.com/articles/)
 - [rwjblue.com](http://rwjblue.com/)
+- [madhatted.com](https://madhatted.com/)
 
 ### Courses
 
