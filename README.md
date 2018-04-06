@@ -360,6 +360,7 @@ using a [JSON API](http://jsonapi.org/)-compliant client-side server.
 - [Awesome Ember Addons](https://www.codementor.io/gowiem/awesome-ember-addons-bwhiofit9)
 - [An Interview with Tom Dale of Ember.js](https://javascriptreport.com/interview-with-tom-dale/)
 - [Debug Ember app with VSCode](https://medium.com/@minhdn/debug-ember-app-with-vscode-5f4fde511f9f)
+- [Using ember-freestyle as a component playground](https://simplabs.com/blog/2018/01/24/ember-freestyle.html)
 
 ### Newsletters
 
@@ -412,6 +413,7 @@ using a [JSON API](http://jsonapi.org/)-compliant client-side server.
 - [shipshape.io](https://shipshape.io/blog/)
 - [codementor.io](https://www.codementor.io/community/topic/emberjs)
 - [codeburst.io](https://codeburst.io/tagged/emberjs)
+- [simplabs.com](https://simplabs.com/blog/)
 - [netguru.co](https://www.netguru.co/blog/topic/ember-js)
 - [emberigniter.com](https://emberigniter.com/articles/)
 
