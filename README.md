@@ -381,10 +381,6 @@ Ember Data Model Maker (EDMM).
 
 ### Videos
 
-<<<<<<< HEAD
-- [Web App Performance & Ember.js](https://www.youtube.com/watch?v=BelKk7dvA1A) - Web App Performance & Ember.js.
-
-=======
 - [Web App Performance & Ember.js](https://www.youtube.com/watch?v=BelKk7dvA1A) - Web App Performance & Ember.js
 - [EmberConf 2017](https://www.youtube.com/playlist?list=PL4eq2DPpyBbna_5fLPqOqensqSZpGf-hT) - Videos of the sessions from EmberConf 2017.
  - [EmberConf 2016](https://www.youtube.com/playlist?list=PL4eq2DPpyBblc8aQAd516-jGMdAhEeUiW) - Videos of the sessions from EmberConf 2016.
@@ -400,8 +396,7 @@ Ember Data Model Maker (EDMM).
  - [Amsterdam Ember.js](https://www.youtube.com/channel/UCx9sVlEZLOKxw8OGCtoqULw)
  - [EmberJSSeattleMeetup](https://www.youtube.com/channel/UC_EzRy1fCQPRPOD-uqk-E5w)
  - [EmberSchool](https://www.youtube.com/channel/UCntNIA2acwPDIY77bX2uLmw)
-  
->>>>>>> f7c359ede5b2e7692c865a86aa901f8527a101d4
+
 ### Podcasts
 
 - [embermap](https://embermap.com/topics/the-embermap-podcast)
@@ -416,10 +411,7 @@ Ember Data Model Maker (EDMM).
 
 ### Blogs
 
-<<<<<<< HEAD
-- [programwitherik.com](https://www.programwitherik.com) - Ember.js tuts.
 - [balinterdi.com](https://balinterdi.com/blog/) - Balint Erdi blog.
-=======
 - [hackernoon.com](https://hackernoon.com/tagged/ember)
 - [engineering.linkedin.com](https://engineering.linkedin.com/blog/)
 - [programwitherik.com](https://www.programwitherik.com) - Ember.js tuts
@@ -428,7 +420,6 @@ Ember Data Model Maker (EDMM).
 - [codeburst.io](https://codeburst.io/tagged/emberjs)
 - [netguru.co](https://www.netguru.co/blog/topic/ember-js)
 - [emberigniter.com](https://emberigniter.com/articles/)
->>>>>>> f7c359ede5b2e7692c865a86aa901f8527a101d4
 
 ### Courses
 
