@@ -209,8 +209,10 @@ Just type [`ember.cool`](https://ember.cool) to go here ✨
  - [ember-indexeddb](https://github.com/mydea/ember-indexeddb) - Utilities & adapter to work with IndexedDB in ember & ember-data
 	
 ### Data Management
- - [ember-changeset](https://github.com/poteto/ember-changeset) -
+ - [ember-changeset](https://github.com/poteto/ember-changeset)
  - [ember-time-machine](https://github.com/offirgolan/ember-time-machine)
+ - [ember-state-services](https://github.com/stefanpenner/ember-state-services)
+ - [ember-buffered-proxy](https://github.com/yapplabs/ember-buffered-proxy)
   
 ### Data validation
 
