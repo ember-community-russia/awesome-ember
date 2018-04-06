@@ -220,6 +220,8 @@ Just type [`ember.cool`](https://ember.cool) to go here ✨
 ### Data validation
 
  - [ember-cp-validations](https://github.com/offirgolan/ember-cp-validations) - Ember computed property based validations
+ - [ember-validated-form](https://github.com/adfinis-sygroup/ember-validated-form) - Easily create forms with client side validations.
+
 
 ### UI libs
  - [ember-paper](https://github.com/miguelcobain/ember-paper) - The Ember approach to Material Design.
@@ -227,6 +229,10 @@ Just type [`ember.cool`](https://ember.cool) to go here ✨
  - [Semantic-UI-Ember](https://github.com/Semantic-Org/Semantic-UI-Ember) - This is the official Ember library for the Semantic-UI modules.
  - [ember-radical](https://github.com/healthsparq/ember-radical) - Feather light, fully accessible DDAU component library for your Ember apps.
  - [Nomad UI](https://github.com/hashicorp/nomad/tree/master/ui) - https://demo.nomadproject.io
+
+### CSS & etc
+ - [ember-cli-stylelint](https://github.com/billybonks/ember-cli-stylelint) - Adds styleint to your ember app, to lint all kinds of css
+
 
 ### Webpack
  - [glimmer-compiler-webpack-plugin](https://github.com/tomdale/glimmer-compiler-webpack-plugin)
@@ -428,6 +434,7 @@ Ember Data Model Maker (EDMM).
 
 ### Videos
 
+- [Tom Dale on Static Analysis, Upstreaming Glimmer, and Ember in 2018](https://embermap.com/topics/the-embermap-podcast/tom-dale-on-static-analysis-upstreaming-glimmer-and-ember-in-2018)
 - [ReactiveConf 2017](https://youtu.be/62xd25kEZ3o?t=27618)
 - [ember-content-placeholders](https://pusher.com/sessions/meetup/emberfest/ember-content-placeholders)
 - [Ember Engines at Scale](https://pusher.com/sessions/meetup/ember-london/ember-engines-at-scale)
