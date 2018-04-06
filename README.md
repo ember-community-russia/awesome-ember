@@ -429,6 +429,7 @@ Ember Data Model Maker (EDMM).
 - [Set your Ember.js project up to use TypeScript](http://www.chriskrycho.com/2017/typing-your-ember-part-1.html)
 - [EmberCamp Module Unification Update](https://madhatted.com/2017/7/12/embercamp-module-unification-update)
 - [5 Essential Ember Concepts You Must Understand](https://emberigniter.com/5-essential-ember-concepts/)
+- [The simplest possible Ember Data CRUD Tutorial](https://medium.com/ember-ish/the-simplest-possible-ember-data-crud-16eacee33ae6)
 
 ### Newsletters
 
@@ -503,6 +504,7 @@ Ember Data Model Maker (EDMM).
 - [rwjblue.com](http://rwjblue.com/)
 - [madhatted.com](https://madhatted.com/)
 - [201-created.com](https://blog.201-created.com/)
+- [medium.com/ember-ish](https://medium.com/ember-ish) - Ember.js essentials for beginners and intermediate devs
 
 ### Courses
 
