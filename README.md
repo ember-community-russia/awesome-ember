@@ -421,6 +421,11 @@ Ember Data Model Maker (EDMM).
 ### Videos
 
 - [ReactiveConf 2017](https://youtu.be/62xd25kEZ3o?t=27618)
+- [ember-content-placeholders](https://pusher.com/sessions/meetup/emberfest/ember-content-placeholders)
+- [Ember Engines at Scale](https://pusher.com/sessions/meetup/ember-london/ember-engines-at-scale)
+- [Ember @ Netflix](https://pusher.com/sessions/meetup/emberfest/ember-netflix)
+- [Ember Test Recorder](https://pusher.com/sessions/meetup/ember-london/ember-test-recorder)
+- [Ember.JS in the Year 2020](https://pusher.com/sessions/meetup/emberfest/emberjs-in-the-year-2020)
 - [Why Ember CLI uses Broccoli](https://embermap.com/topics/intro-to-broccoli/why-ember-uses-broccoli)
 - [Web App Performance & Ember.js](https://www.youtube.com/watch?v=BelKk7dvA1A) - Web App Performance & Ember.js
 - [EmberConf 2017](https://www.youtube.com/playlist?list=PL4eq2DPpyBbna_5fLPqOqensqSZpGf-hT) - Videos of the sessions from EmberConf 2017.
