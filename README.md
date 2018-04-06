@@ -228,6 +228,9 @@ Just type [`ember.cool`](https://ember.cool) to go here ✨
  - [ember-radical](https://github.com/healthsparq/ember-radical) - Feather light, fully accessible DDAU component library for your Ember apps.
  - [Nomad UI](https://github.com/hashicorp/nomad/tree/master/ui) - https://demo.nomadproject.io
 
+### Webpack
+ - [glimmer-compiler-webpack-plugin](https://github.com/tomdale/glimmer-compiler-webpack-plugin)
+
 ### Parsing
 
 	- [?](#) - ????.
@@ -390,6 +393,7 @@ Ember Data Model Maker (EDMM).
 - [emberaddons](https://www.emberaddons.com/) - Ember Addons.
 
 ### Articles
+- [Creating Web Components with Glimmer](https://simplabs.com/blog/2017/08/28/creating-web-components-with-glimmer.html)
 - [16 Opensource EmberJS Projects to Learn From](https://www.icicletech.com/blog/16-opensource-emberjs-projects-to-learn-from)
 - [The Glimmer Binary Experience](https://engineering.linkedin.com/blog/2017/12/the-glimmer-binary-experience)
 - [ES Classes in Ember.js](https://medium.com/build-addepar/es-classes-in-ember-js-63e948e9d78e)
@@ -406,6 +410,7 @@ Ember Data Model Maker (EDMM).
 - [Building a performant real-time web app with Ember Fastboot and Phoenix](https://medium.com/peep-stack/building-a-performant-web-app-with-ember-fastboot-and-phoenix-part-1-fa1241654308)
 - [Do not confuse environment for deploy target](https://lolma.us/en/blog/class-and-attribute-bindings)
 - [What you didn't know about passing dynamic classname and attribute bidings from parent template](https://lolma.us/en/blog/class-and-attribute-bindings)
+- [Ember Timer Leaks: The Bad Apples in Your Test Infrastructure](https://engineering.linkedin.com/blog/2018/01/ember-timer-leaks)
 
 ### Newsletters
 
@@ -457,6 +462,7 @@ Ember Data Model Maker (EDMM).
 - [ember-cli 101](https://leanpub.com/ember-cli-101) by Adolfo Builes
 - [Ember.js in Action](http://manning.com/skeie/) by Joachim Haagen Skeie
 - [Deliver Audacious Web Apps with Ember 2](https://pragprog.com/book/mwjsember/deliver-audacious-web-apps-with-ember-2) by Matthew White
+- [Professor Frisby's Mostly adequate guide to Functional Programming](https://drboolean.gitbooks.io/mostly-adequate-guide-old/)
 
 ### Blogs
 
