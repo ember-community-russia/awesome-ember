@@ -249,7 +249,7 @@ Just type [`ember.cool`](https://ember.cool) to go here ✨
 
 ### Network
 	- [?](#) - ????.
-  
+
 ### Data management
 
 - [ember-redux](http://www.ember-redux.com/) - Predictable state management for ember apps
@@ -288,6 +288,12 @@ using a [JSON API](http://jsonapi.org/)-compliant client-side server.
 - [ember-macro-benchmark](https://github.com/krisselden/ember-macro-benchmark) - Benchmark recording of an ember app with running with 2 versions of Ember.
 - [emberperf](http://emberperf.eviltrout.com) - EmberPerformance (Between versions)
 
+### Broccoli
+ - [broccolijs-tutorial](https://github.com/oligriffiths/broccolijs-tutorial) - Broccoli.js Tutorial repository
+ - [broccoli-stew](https://github.com/stefanpenner/broccoli-stew) - Provides commonly used convenience functions for developing broccoli based build pipelines.
+
+### Broccoli read
+ - [Eat your greens! A beginners guide to Broccoli.js](http://www.oligriffiths.com/2017/01/26/Eat-your-greens-A-beginners-guide-to-Broccoli-js/)
 
 ### Minifiers
 
@@ -439,6 +445,7 @@ Ember Data Model Maker (EDMM).
 - [simplabs.com](https://simplabs.com/blog/)
 - [netguru.co](https://www.netguru.co/blog/topic/ember-js)
 - [emberigniter.com](https://emberigniter.com/articles/)
+- [rwjblue.com](http://rwjblue.com/)
 
 ### Courses
 
