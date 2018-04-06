@@ -187,7 +187,9 @@ Just type [`ember.cool`](https://ember.cool) to go here ✨
  - [ember-katex](https://github.com/firecracker/ember-katex) - Render your LaTeX formulas using KaTeX
 
 ### a11y
+ - [ember-a11y](https://github.com/ember-a11y/ember-a11y) - A collection of tools to build accessible Ember applications.
  - [ember-keyboard](https://github.com/patience-tema-baron/ember-keyboard) - An Ember.js addon for the painless support of keyboard events
+ - [ember-a11y-landmarks](https://github.com/ember-a11y/ember-a11y-landmarks) - https://github.com/ember-a11y/ember-a11y-landmarks
 
 ### Date
  - [ember-moment](https://github.com/stefanpenner/ember-moment) - moment.js template helpers and computed property macros for Ember
