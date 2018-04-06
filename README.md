@@ -302,6 +302,7 @@ using a [JSON API](http://jsonapi.org/)-compliant client-side server.
 - [ember-engines](https://github.com/ember-engines/ember-engines) - This Ember addon implements the functionality described in the Ember Engines RFC. Engines allow multiple logical applications to be composed together into a single application from the user's perspective.
 
 ### AST
+ - [ember-ast-helpers](https://github.com/cibernox/ember-ast-helpers) - This library is a utility belt to make AST transforms and shield users as much as possible from the nuances of the AST, as it is still private API.
 
 ### Static site generators
 - [prember](https://github.com/ef4/prember) - Prerender Ember apps with Fastboot at build time.
