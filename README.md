@@ -483,6 +483,7 @@ Ember Data Model Maker (EDMM).
 - [Ember.js in Action](http://manning.com/skeie/) by Joachim Haagen Skeie
 - [Deliver Audacious Web Apps with Ember 2](https://pragprog.com/book/mwjsember/deliver-audacious-web-apps-with-ember-2) by Matthew White
 - [Professor Frisby's Mostly adequate guide to Functional Programming](https://drboolean.gitbooks.io/mostly-adequate-guide-old/)
+- [Ember Data in the Wild](https://leanpub.com/emberdatainthewild)
 
 ### Blogs
 
