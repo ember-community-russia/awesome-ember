@@ -222,6 +222,7 @@ Just type [`ember.cool`](https://ember.cool) to go here ✨
  - [ember-paper](https://github.com/miguelcobain/ember-paper) - The Ember approach to Material Design.
  - [ember-bootstrap](http://www.ember-bootstrap.com/) - Provides a collection of native Ember components that mimic the original Bootstrap plugins and components in an ember friendly way
  - [Semantic-UI-Ember](https://github.com/Semantic-Org/Semantic-UI-Ember) - This is the official Ember library for the Semantic-UI modules.
+ - [ember-radical](https://github.com/healthsparq/ember-radical) - Feather light, fully accessible DDAU component library for your Ember apps.
 
 ### Parsing
 
