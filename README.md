@@ -399,6 +399,9 @@ Ember Data Model Maker (EDMM).
 - [emberaddons](https://www.emberaddons.com/) - Ember Addons.
 
 ### Articles
+- [Debugging Ember.js applications in Visual Studio Code](http://blog.firstiwaslike.com/debugging-ember-js-application-in-visual-studio-code/)
+- [Ember CLI Addon Docs: Shared Documentation for the Ember Ecosystem](https://medium.com/build-addepar/ember-cli-addon-docs-shared-documentation-for-the-ember-ecosystem-6f29aa0cee87)
+- [We have a new EmberJS front-end!](https://medium.com/@appaloosastore/we-have-a-new-emberjs-front-end-c7246e76cdbd)
 - [Creating Web Components with Glimmer](https://simplabs.com/blog/2017/08/28/creating-web-components-with-glimmer.html)
 - [16 Opensource EmberJS Projects to Learn From](https://www.icicletech.com/blog/16-opensource-emberjs-projects-to-learn-from)
 - [The Glimmer Binary Experience](https://engineering.linkedin.com/blog/2017/12/the-glimmer-binary-experience)
