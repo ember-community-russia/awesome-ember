@@ -124,7 +124,7 @@ Just type [`ember.cool`](https://ember.cool) to go here ✨
 
 ### Command-line utilities
 
-	- [?](#) - ????.
+ - [ember-cli-update](https://github.com/ember-cli/ember-cli-update) - Update Ember CLI Ember.js apps and addons (and Glimmer.js apps)
 
 ### Build tools
 
