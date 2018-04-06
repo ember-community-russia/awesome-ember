@@ -363,6 +363,7 @@ Ember Data Model Maker (EDMM).
 - [Ember.js](https://github.com/DockYard/styleguides/blob/master/engineering/ember.md)
 
 ### Codemods
+ - [ember-module-migrator](https://github.com/rwjblue/ember-module-migrator) - Automated migration for new Ember application layout.
  - [test-selectors-codemod](https://github.com/lorcan/test-selectors-codemod) - A codemode for fixing the ember-test-selectors testSelector helper deprecation.
 
 
