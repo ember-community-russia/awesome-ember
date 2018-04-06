@@ -436,6 +436,7 @@ Ember Data Model Maker (EDMM).
 
 ### Blogs
 
+- [dockyard.com](https://dockyard.com/blog/categories/ember)
 - [balinterdi.com](https://balinterdi.com/blog/) - Balint Erdi blog.
 - [hackernoon.com](https://hackernoon.com/tagged/ember)
 - [engineering.linkedin.com](https://engineering.linkedin.com/blog/)
