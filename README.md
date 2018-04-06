@@ -272,18 +272,13 @@ Just type [`ember.cool`](https://ember.cool) to go here ✨
 - [ember-redux](http://www.ember-redux.com/) - Predictable state management for ember apps
 - [ember-orbit](https://github.com/orbitjs/ember-orbit) - Ember.js data layer built with Orbit.js
   
-### Database
-
-- Drivers
-		- [?](#) - ????.
-- ODM / ORM
-	- [?](#) - ????.
-- Query builder
-		- [?](#) - ????.
-- Other
-		- [?](#) - ????.
-
-
+### Helpers
+ - [ember-truth-helpers](https://github.com/jmurphyau/ember-truth-helpers) - Ember HTMLBars Helpers for {{if}} & {{unless}}: not, and, or, eq & is-array
+ - [ember-composable-helpers](https://github.com/DockYard/ember-composable-helpers) - Composable helpers for declarative templating in Ember
+ - [ember-route-action-helper](https://github.com/DockYard/ember-route-action-helper) - Bubble closure actions in routes
+ - [ember-math-helpers](https://github.com/shipshapecode/ember-math-helpers) - Ember HTMLBars helpers for basic arithmetic
+ - [ember-d3-helpers](https://github.com/LocusEnergy/ember-d3-helpers) - Collection of Ember.js helpers for building composable D3 charts.
+ 
 ### Testing
 - [ember-cli-mirage](http://www.ember-cli-mirage.com/) - Build, test and demo your app
 using a [JSON API](http://jsonapi.org/)-compliant client-side server.
@@ -321,7 +316,9 @@ using a [JSON API](http://jsonapi.org/)-compliant client-side server.
 - [tori](https://github.com/Vestorly/torii) - A set of clean abstractions for authentication in Ember.js
 
 
-### Email
+### Charts
+
+ - [ember-sparkles](https://github.com/LocusEnergy/ember-sparkles) - Collection of composable D3 components built with ember-d3-helpers 
 
 ### Job queues
 
