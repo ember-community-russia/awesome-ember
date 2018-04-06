@@ -318,10 +318,6 @@ using a [JSON API](http://jsonapi.org/)-compliant client-side server.
 
 ### Miscellaneous
 
-- [diagonal routes](https://alexspeller.com/ember-diagonal/) - See what route structure, templates and route hooks are for a given ember route definition.
-- [ember data model maker](https://github.com/andycrum/ember-data-model-maker/) - 
-Ember Data Model Maker (EDMM).
-
 ## Resources
 
 ## Examples
@@ -352,8 +348,7 @@ Ember Data Model Maker (EDMM).
 
 ### Discovery
 
-- [emberobserver](https://emberobserver.com/) - Ember Observer.
-- [emberaddons](https://www.emberaddons.com/) - Ember Addons.
+- [emberobserver](https://emberobserver.com/) - Ember Observer
 
 ### Articles
 
@@ -370,7 +365,7 @@ Ember Data Model Maker (EDMM).
 
 - [The Ember Times](https://the-emberjs-times.ongoodbits.com/) - Updates from the Ember.js Learning Team.
 - [Ember Weekly](http://www.emberweekly.com/) - The latest Ember.js news, tips, and code delivered directly to your inbox.
-- [Official Ember Blog](https://emberjs.com/blog/) - Big announcements like new Ember.js version release notes or State of the Union information.
+- [Official Ember Blog](https://emberjs.com/blog/) - Big announcements like new Ember.js version release notes or State of the Union information
 
 ### Screencasts
 
@@ -381,10 +376,6 @@ Ember Data Model Maker (EDMM).
 
 ### Videos
 
-<<<<<<< HEAD
-- [Web App Performance & Ember.js](https://www.youtube.com/watch?v=BelKk7dvA1A) - Web App Performance & Ember.js.
-
-=======
 - [Web App Performance & Ember.js](https://www.youtube.com/watch?v=BelKk7dvA1A) - Web App Performance & Ember.js
 - [EmberConf 2017](https://www.youtube.com/playlist?list=PL4eq2DPpyBbna_5fLPqOqensqSZpGf-hT) - Videos of the sessions from EmberConf 2017.
  - [EmberConf 2016](https://www.youtube.com/playlist?list=PL4eq2DPpyBblc8aQAd516-jGMdAhEeUiW) - Videos of the sessions from EmberConf 2016.
@@ -401,7 +392,6 @@ Ember Data Model Maker (EDMM).
  - [EmberJSSeattleMeetup](https://www.youtube.com/channel/UC_EzRy1fCQPRPOD-uqk-E5w)
  - [EmberSchool](https://www.youtube.com/channel/UCntNIA2acwPDIY77bX2uLmw)
   
->>>>>>> f7c359ede5b2e7692c865a86aa901f8527a101d4
 ### Podcasts
 
 - [embermap](https://embermap.com/topics/the-embermap-podcast)
@@ -416,10 +406,6 @@ Ember Data Model Maker (EDMM).
 
 ### Blogs
 
-<<<<<<< HEAD
-- [programwitherik.com](https://www.programwitherik.com) - Ember.js tuts.
-- [balinterdi.com](https://balinterdi.com/blog/) - Balint Erdi blog.
-=======
 - [hackernoon.com](https://hackernoon.com/tagged/ember)
 - [engineering.linkedin.com](https://engineering.linkedin.com/blog/)
 - [programwitherik.com](https://www.programwitherik.com) - Ember.js tuts
@@ -428,7 +414,6 @@ Ember Data Model Maker (EDMM).
 - [codeburst.io](https://codeburst.io/tagged/emberjs)
 - [netguru.co](https://www.netguru.co/blog/topic/ember-js)
 - [emberigniter.com](https://emberigniter.com/articles/)
->>>>>>> f7c359ede5b2e7692c865a86aa901f8527a101d4
 
 ### Courses
 
