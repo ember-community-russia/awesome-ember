@@ -380,7 +380,6 @@ Ember Data Model Maker (EDMM).
 - [emberaddons](https://www.emberaddons.com/) - Ember Addons.
 
 ### Articles
-
 - [DEPLOYING WITH EMBER.JS: A STORY](https://blogs.library.ucsf.edu/ckm/2017/09/06/deploying-with-ember-js-a-story/)
 - [Adding AWS Amplify to an Ember.js Application](https://itnext.io/adding-aws-amplify-to-an-ember-js-application-72683167c476)
 - [Static Blogs with Prember and Markdown](https://shipshape.io/blog/static-blogs-with-prember-and-markdown/)
@@ -390,6 +389,7 @@ Ember Data Model Maker (EDMM).
 - [An Interview with Tom Dale of Ember.js](https://javascriptreport.com/interview-with-tom-dale/)
 - [Debug Ember app with VSCode](https://medium.com/@minhdn/debug-ember-app-with-vscode-5f4fde511f9f)
 - [Using ember-freestyle as a component playground](https://simplabs.com/blog/2018/01/24/ember-freestyle.html)
+- [You can only change what you can measure](https://blog.201-created.com/you-can-only-change-what-you-can-measure-6be8826503a7)
 
 ### Newsletters
 
@@ -450,6 +450,7 @@ Ember Data Model Maker (EDMM).
 - [emberigniter.com](https://emberigniter.com/articles/)
 - [rwjblue.com](http://rwjblue.com/)
 - [madhatted.com](https://madhatted.com/)
+- [201-created.com](https://blog.201-created.com/)
 
 ### Courses
 
