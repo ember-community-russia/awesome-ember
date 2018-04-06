@@ -182,6 +182,9 @@ Just type [`ember.cool`](https://ember.cool) to go here ✨
 ### Number
 
 	- [?](#) - ????.
+### Animations
+ - [liquid-fire](https://github.com/ember-animation/liquid-fire) - Animations & transitions for ambitious Ember applications.
+
 
 ### Math
  - [ember-katex](https://github.com/firecracker/ember-katex) - Render your LaTeX formulas using KaTeX
