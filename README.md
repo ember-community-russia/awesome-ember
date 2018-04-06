@@ -198,6 +198,16 @@ Just type [`ember.cool`](https://ember.cool) to go here ✨
 
 	- [?](#) - ????.
 	
+### Adapters
+ - [emberfire](https://github.com/firebase/emberfire) - Official Ember Data adapter for Firebase
+ - [ember-graphql-adapter](https://github.com/alphasights/ember-graphql-adapter) - GraphQL adapter for Ember Data
+ - [ember-pouch](https://github.com/pouchdb-community/ember-pouch) - PouchDB/CouchDB adapter for Ember Data
+ - [ember-local-storage](https://github.com/funkensturm/ember-local-storage) - The addon provides a storageFor computed property that returns a proxy and persists the changes to localStorage or sessionStorage.
+ - [ember-data-hal-9000](https://github.com/201-created/ember-data-hal-9000) - An ember-data compatible ember-cli addon that provides a HAL adapter (HATEOAS)
+ - [ember-wordpress](https://github.com/oskarrough/ember-wordpress) - The bridge between Ember.js and Wordpress
+ - [ember-django-adapter](https://github.com/dustinfarris/ember-django-adapter) - Ember CLI addon adapter for Django REST Framework
+ - [ember-indexeddb](https://github.com/mydea/ember-indexeddb) - Utilities & adapter to work with IndexedDB in ember & ember-data
+	
 ### Data Management
  - [ember-changeset](https://github.com/poteto/ember-changeset) -
  - [ember-time-machine](https://github.com/offirgolan/ember-time-machine)
