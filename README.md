@@ -404,6 +404,8 @@ Ember Data Model Maker (EDMM).
 - [Using ember-freestyle as a component playground](https://simplabs.com/blog/2018/01/24/ember-freestyle.html)
 - [You can only change what you can measure](https://blog.201-created.com/you-can-only-change-what-you-can-measure-6be8826503a7)
 - [Building a performant real-time web app with Ember Fastboot and Phoenix](https://medium.com/peep-stack/building-a-performant-web-app-with-ember-fastboot-and-phoenix-part-1-fa1241654308)
+- [Do not confuse environment for deploy target](https://lolma.us/en/blog/class-and-attribute-bindings)
+- [What you didn't know about passing dynamic classname and attribute bidings from parent template](https://lolma.us/en/blog/class-and-attribute-bindings)
 
 ### Newsletters
 
@@ -464,6 +466,7 @@ Ember Data Model Maker (EDMM).
 - [engineering.linkedin.com](https://engineering.linkedin.com/blog/topic/ember)
 - [programwitherik.com](https://www.programwitherik.com) - Ember.js tuts
 - [shipshape.io](https://shipshape.io/blog/)
+- [lolma.us](https://lolma.us/en/blog)
 - [codementor.io](https://www.codementor.io/community/topic/emberjs)
 - [codeburst.io](https://codeburst.io/tagged/emberjs)
 - [simplabs.com](https://simplabs.com/blog/)
