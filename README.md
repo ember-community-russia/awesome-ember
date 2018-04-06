@@ -362,6 +362,10 @@ Ember Data Model Maker (EDMM).
 - [JavaScript Style Guide](https://github.com/DockYard/styleguides/blob/master/engineering/javascript.md)
 - [Ember.js](https://github.com/DockYard/styleguides/blob/master/engineering/ember.md)
 
+### Codemods
+ - [test-selectors-codemod](https://github.com/lorcan/test-selectors-codemod) - A codemode for fixing the ember-test-selectors testSelector helper deprecation.
+
+
 ### Tutorials
 
 - [yoember.com/](http://yoember.com/) - Ember.js Tutorial - From beginner to advance.
