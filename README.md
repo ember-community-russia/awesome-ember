@@ -304,6 +304,7 @@ using a [JSON API](http://jsonapi.org/)-compliant client-side server.
  - [broccolijs-tutorial](https://github.com/oligriffiths/broccolijs-tutorial) - Broccoli.js Tutorial repository
  - [broccoli-stew](https://github.com/stefanpenner/broccoli-stew) - Provides commonly used convenience functions for developing broccoli based build pipelines.
  - [broccoli-assembler](https://github.com/twokul/broccoli-assembler) - A build utility to allow for more flexible builds and better composition.
+ - [broccoli-debug](https://github.com/broccolijs/broccoli-debug) - Utility for build pipeline authors to allow trivial debugging of the Broccoli pipelines they author.
 
 ### Broccoli read
  - [Eat your greens! A beginners guide to Broccoli.js](http://www.oligriffiths.com/2017/01/26/Eat-your-greens-A-beginners-guide-to-Broccoli-js/)
