@@ -142,7 +142,9 @@ Just type [`ember.cool`](https://ember.cool) to go here ✨
 ### Filesystem
 
 	- [?](#) - ????.
-
+	
+### Data manipulation
+ - [ember-macaroni](https://github.com/poteto/ember-macaroni) - Keep your app code DRY and copypasta free with computed property macaronis (macros)
 
 ### Control flow
 
@@ -329,6 +331,8 @@ using a [JSON API](http://jsonapi.org/)-compliant client-side server.
 
 ### Polyfills
 
+ - [ember-router-service-polyfill](https://github.com/rwjblue/ember-router-service-polyfill) - This addon provides a best effort polyfill for the ember-routing-router-service feature added in Ember 2.15.
+
 ### Natural language processing
 
 ### Process management
@@ -432,6 +436,7 @@ Ember Data Model Maker (EDMM).
 - [EmberCamp Module Unification Update](https://madhatted.com/2017/7/12/embercamp-module-unification-update)
 - [5 Essential Ember Concepts You Must Understand](https://emberigniter.com/5-essential-ember-concepts/)
 - [The simplest possible Ember Data CRUD Tutorial](https://medium.com/ember-ish/the-simplest-possible-ember-data-crud-16eacee33ae6)
+- [Ember Best Practices: Computed Properties with Dynamic Dependent Keys](https://dockyard.com/blog/2015/10/23/ember-best-practices-dynamic-dependent-keys-for-computed-properties)
 
 ### Newsletters
 
