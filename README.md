@@ -80,6 +80,10 @@ Just type [`ember.cool`](https://ember.cool) to go here ✨
 
 ## Packages
 
+### Metrics
+ - [ember-metrics](https://github.com/poteto/ember-metrics) - Send data to multiple analytics services without re-implementing new API
+
+
 ### Mad science
 
 	- [?](#) - ????.
@@ -106,8 +110,7 @@ Just type [`ember.cool`](https://ember.cool) to go here ✨
 
 
 ### HTTP
-
-	- [?](#) - ????.
+ - [ember-socket-guru](https://github.com/netguru/ember-socket-guru) - Addon for easy integration with Pusher.js, ActionCable, Socket.io and Phoenix Channels
 
 
 ### Debugging / Profiling
@@ -326,6 +329,7 @@ using a [JSON API](http://jsonapi.org/)-compliant client-side server.
 ### Job queues
 
 - [ember-concurrency](http://ember-concurrency.com)
+- [ember-pipeline](https://github.com/poteto/ember-pipeline)
 
 ### Node.js management
 
