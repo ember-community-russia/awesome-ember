@@ -437,6 +437,7 @@ Ember Data Model Maker (EDMM).
 - [5 Essential Ember Concepts You Must Understand](https://emberigniter.com/5-essential-ember-concepts/)
 - [The simplest possible Ember Data CRUD Tutorial](https://medium.com/ember-ish/the-simplest-possible-ember-data-crud-16eacee33ae6)
 - [Ember Best Practices: Computed Properties with Dynamic Dependent Keys](https://dockyard.com/blog/2015/10/23/ember-best-practices-dynamic-dependent-keys-for-computed-properties)
+- [Tom Dale on Ember and JavaScript Frameworks](https://www.infoq.com/interviews/tom-dale-ember) - Y 2013
 
 ### Newsletters
 
