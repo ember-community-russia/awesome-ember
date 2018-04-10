@@ -506,6 +506,10 @@ Ember Data Model Maker (EDMM).
 - [Professor Frisby's Mostly adequate guide to Functional Programming](https://drboolean.gitbooks.io/mostly-adequate-guide-old/)
 - [Ember Data in the Wild](https://leanpub.com/emberdatainthewild)
 
+### Best-practices 
+
+- [ember-best-practices](https://github.com/ember-best-practices)
+
 ### Blogs
 
 - [dockyard.com](https://dockyard.com/blog/categories/ember)
