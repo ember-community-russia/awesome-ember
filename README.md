@@ -274,7 +274,6 @@ Just type [`ember.cool`](https://ember.cool) to go here ✨
 
 ### Data management
 
-
 - [ember-apollo-client](https://github.com/bgentry/ember-apollo-client) - An ember-cli addon for Apollo Client and GraphQL
 - [ember-redux](http://www.ember-redux.com/) - Predictable state management for ember apps
 - [ember-orbit](https://github.com/orbitjs/ember-orbit) - Ember.js data layer built with Orbit.js
@@ -323,6 +322,9 @@ using a [JSON API](http://jsonapi.org/)-compliant client-side server.
 - [ember-cli-simple-auth-extensions](https://emberobserver.com/categories/ember-cli-simple-auth-extensions)
 - [tori](https://github.com/Vestorly/torii) - A set of clean abstractions for authentication in Ember.js
 
+### Ember-inspector roadmaps & overview
+ - [Ember Inspector Sync](https://www.youtube.com/watch?v=PvsfQrKxl_8)
+ - [Ember Inspector Pairing](https://www.youtube.com/watch?v=rFNR_Fj1G84)
 
 ### Charts
 
