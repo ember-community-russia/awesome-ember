@@ -461,6 +461,7 @@ Ember Data Model Maker (EDMM).
 
 ### Videos
 
+- [Tim Thomas - Using Ember.js to build Electron Apps](https://www.youtube.com/watch?v=ER1V_u0N7u4)
 - [Tom Dale on Static Analysis, Upstreaming Glimmer, and Ember in 2018](https://embermap.com/topics/the-embermap-podcast/tom-dale-on-static-analysis-upstreaming-glimmer-and-ember-in-2018)
 - [ReactiveConf 2017](https://youtu.be/62xd25kEZ3o?t=27618)
 - [ember-content-placeholders](https://pusher.com/sessions/meetup/emberfest/ember-content-placeholders)
@@ -482,6 +483,7 @@ Ember Data Model Maker (EDMM).
  - [EmberATX](https://www.youtube.com/channel/UCl7qY85b7KLJV3xnn1Xh_Cw)
  - [Boston Ember](https://www.youtube.com/channel/UCp_L_YjmXTKR4Q2fg1XahsA)
  - [Denver Ember](https://www.youtube.com/channel/UCsy4OVL_kNXsxr0a5LNKWpw)
+ - [Ember.js Dublin](https://www.youtube.com/channel/UCQeD0i9ltSV1aOfX6FGeiOA)
  - [Ember Videos](https://www.youtube.com/channel/UCMmzJ82sCmooDdtzVY8FxEA)
  - [Silicon Valley Ember.js meetup](https://www.youtube.com/channel/UCi12gVD9jIDwJLVTNnKvhlw)
  - [Amsterdam Ember.js](https://www.youtube.com/channel/UCx9sVlEZLOKxw8OGCtoqULw)
