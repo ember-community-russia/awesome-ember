@@ -176,6 +176,8 @@ Just type [`ember.cool`](https://ember.cool) to go here ✨
 	- [?](#) - ????.
 ### PWA
  - [ember-web-app](https://github.com/san650/ember-web-app) - This Ember addon helps you configure and manage the manifest.json and meta tags needed to create progressive web applications
+ - [ember-service-worker](https://github.com/DockYard/ember-service-worker) - A pluggable approach to Service Workers for Ember.js
+
 
 ### Image
  - [ember-svg-jar](https://github.com/ivanvotti/ember-svg-jar) - The best way to embed SVG images into your Ember application
