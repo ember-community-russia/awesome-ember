@@ -470,6 +470,7 @@ Ember Data Model Maker (EDMM).
 - [EmberWatch - Screencasts](http://emberwatch.com/screencasts.html) - A collection of Ember screencasts.
 - [Ember 101](http://ember101.com/) - Short introductory screencasts for Ember.
 - [Ember Screencasts](https://www.emberscreencasts.com/) - Weekly Screencasts for the Busy Developer.
+- [BuildLab: EmberJS Screencasts for the determined.](https://www.youtube.com/channel/UC1ssGKlQh87Ubyuv1lEiY0g)
 
 ### Videos
 
@@ -501,7 +502,11 @@ Ember Data Model Maker (EDMM).
  - [Amsterdam Ember.js](https://www.youtube.com/channel/UCx9sVlEZLOKxw8OGCtoqULw)
  - [EmberJSSeattleMeetup](https://www.youtube.com/channel/UC_EzRy1fCQPRPOD-uqk-E5w)
  - [EmberSchool](https://www.youtube.com/channel/UCntNIA2acwPDIY77bX2uLmw)
-
+ - [EmberSherpa](https://www.youtube.com/user/EmberSherpa/videos)
+ 
+ - [Wicked Good Ember 2016](https://www.youtube.com/playlist?list=PLXOJZupxSq22zfW2KVnXFgLbu--DA7q0G)
+ - [So Ember 2017](https://www.youtube.com/watch?v=UpUtVGW43hY&list=PLXOJZupxSq204IxtG80UfIW-gU0IxAScY)
+ 
 ### Podcasts
 
 - [embermap](https://embermap.com/topics/the-embermap-podcast)
