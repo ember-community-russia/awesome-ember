@@ -534,6 +534,7 @@ Ember Data Model Maker (EDMM).
 - [madhatted.com](https://madhatted.com/)
 - [201-created.com](https://blog.201-created.com/)
 - [medium.com/ember-ish](https://medium.com/ember-ish) - Ember.js essentials for beginners and intermediate devs
+- [thejsguy.com](https://thejsguy.com/)
 
 ### Courses
 
