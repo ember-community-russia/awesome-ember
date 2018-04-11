@@ -147,8 +147,10 @@ Just type [`ember.cool`](https://ember.cool) to go here ✨
 
 	- [?](#) - ????.
 	
-### Data manipulation
+### Data manipulation & Computed
+ - [ember-awesome-macros](https://github.com/kellyselden/ember-awesome-macros) - A collection of Ember computed macros
  - [ember-macaroni](https://github.com/poteto/ember-macaroni) - Keep your app code DRY and copypasta free with computed property macaronis (macros)
+ - [ember-cpm](https://github.com/cibernox/ember-cpm) - ComputedProperty Macros for Ember
 
 ### Control flow
 
@@ -178,7 +180,10 @@ Just type [`ember.cool`](https://ember.cool) to go here ✨
 ### PWA
  - [ember-web-app](https://github.com/san650/ember-web-app) - This Ember addon helps you configure and manage the manifest.json and meta tags needed to create progressive web applications
  - [ember-service-worker](https://github.com/DockYard/ember-service-worker) - A pluggable approach to Service Workers for Ember.js
-
+ - [ember-service-worker-asset-cache](https://github.com/DockYard/ember-service-worker-asset-cache)
+ - [ember-service-worker-cache-fallback](https://github.com/DockYard/ember-service-worker-cache-fallback)
+ - [ember-service-worker-cache-first](https://github.com/DockYard/ember-service-worker-cache-first)
+ - [ember-service-worker-index](https://github.com/DockYard/ember-service-worker-index)
 
 ### Image
  - [ember-svg-jar](https://github.com/ivanvotti/ember-svg-jar) - The best way to embed SVG images into your Ember application
@@ -186,14 +191,14 @@ Just type [`ember.cool`](https://ember.cool) to go here ✨
 ### UI components
  - [ember-burger-menu](https://github.com/offirgolan/ember-burger-menu) - An off-canvas sidebar component with a collection of animations and styles using CSS transitions.
  - [ember-power-select](https://github.com/cibernox/ember-power-select) - The extensible select component built for ember.
-
+ - [ember-flatpickr](https://github.com/shipshapecode/ember-flatpickr) - An Ember addon that wraps the Flatpickr date picker.
 
 ### Number
-
 	- [?](#) - ????.
+	
 ### Animations
  - [liquid-fire](https://github.com/ember-animation/liquid-fire) - Animations & transitions for ambitious Ember applications.
-
+ - [ember-animated](ttps://github.com/ember-animation/ember-animated) - [Web Animations with Ember js](https://www.youtube.com/watch?v=TSvnutA9PUE)
 
 ### Math
  - [ember-katex](https://github.com/firecracker/ember-katex) - Render your LaTeX formulas using KaTeX
@@ -293,6 +298,7 @@ Just type [`ember.cool`](https://ember.cool) to go here ✨
  - [ember-route-action-helper](https://github.com/DockYard/ember-route-action-helper) - Bubble closure actions in routes
  - [ember-math-helpers](https://github.com/shipshapecode/ember-math-helpers) - Ember HTMLBars helpers for basic arithmetic
  - [ember-d3-helpers](https://github.com/LocusEnergy/ember-d3-helpers) - Collection of Ember.js helpers for building composable D3 charts.
+ - [ember-store-helpers](https://github.com/ember-sapporo/ember-store-helpers) - This add-on provides helpers related to ember-data.
  
 ### Testing
 - [ember-cli-mirage](http://www.ember-cli-mirage.com/) - Build, test and demo your app
@@ -306,6 +312,7 @@ using a [JSON API](http://jsonapi.org/)-compliant client-side server.
 - [ember-cli-yadda](https://github.com/albertjan/ember-cli-yadda) - Write cucumber specs for ember-cli applications
 - [ember-qunit](https://github.com/emberjs/ember-qunit) - QUnit test helpers for Ember
 - [ember-cli-mocha](https://github.com/ember-cli/ember-cli-mocha) - Mocha and Chai tests for ember-cli applications
+- [ember-test-setup](https://github.com/kellyselden/ember-test-setup) - Testing shorthands to reduce duplication
 
 ### Security
 - [ember-can](https://github.com/minutebase/ember-can) - Simple [authorisation addon](http://ember-can.com) for Ember apps.
@@ -320,6 +327,7 @@ using a [JSON API](http://jsonapi.org/)-compliant client-side server.
  - [broccoli-stew](https://github.com/stefanpenner/broccoli-stew) - Provides commonly used convenience functions for developing broccoli based build pipelines.
  - [broccoli-assembler](https://github.com/twokul/broccoli-assembler) - A build utility to allow for more flexible builds and better composition.
  - [broccoli-debug](https://github.com/broccolijs/broccoli-debug) - Utility for build pipeline authors to allow trivial debugging of the Broccoli pipelines they author.
+ - [broccoli-concat-analyser](https://github.com/stefanpenner/broccoli-concat-analyser) - Assets profiling
 
 ### Broccoli read
  - [Eat your greens! A beginners guide to Broccoli.js](http://www.oligriffiths.com/2017/01/26/Eat-your-greens-A-beginners-guide-to-Broccoli-js/)
@@ -373,6 +381,7 @@ using a [JSON API](http://jsonapi.org/)-compliant client-side server.
 
 ### Static site generators
 - [prember](https://github.com/ef4/prember) - Prerender Ember apps with Fastboot at build time.
+- [prember-rss-feed](https://github.com/shipshapecode/prember-rss-feed) - Ship RSS feeds for your Prember site
 
 ### Content management systems
 
@@ -457,6 +466,7 @@ Krzysztof Bialek
 - [emberaddons](https://www.emberaddons.com/) - Ember Addons.
 
 ### Articles
+- [Extracting Metadata from a Custom API with Ember Data](https://thejsguy.com/2018/04/06/extracting-metadata-from-a-custom-api-with-ember-data.html)
 - [Animations in Ember.js with liquid-fire](https://www.airpair.com/ember.js/posts/animations-in-emberjs-with-liquidfire)
 - [Debugging Ember.js applications in Visual Studio Code](http://blog.firstiwaslike.com/debugging-ember-js-application-in-visual-studio-code/)
 - [Ember CLI Addon Docs: Shared Documentation for the Ember Ecosystem](https://medium.com/build-addepar/ember-cli-addon-docs-shared-documentation-for-the-ember-ecosystem-6f29aa0cee87)
