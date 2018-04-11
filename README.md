@@ -385,9 +385,19 @@ Ember Data Model Maker (EDMM).
 
 ## Resources
 
+## Slides
+ - [Ember At Scale](https://www.slideshare.net/chadhietala/ember-at-scale) - Chad Hietala, LinkedIn
+ - [Developing Desktop Apps with Electron & Ember.js - FITC WebU2017](https://www.slideshare.net/anulman/developing-desktop-apps-with-electron-emberjs-fitc-webu2017) - Aidan Nulman
+ - [EmberConf 2016 – Idiomatic Ember: Finding the Sweet Spot of Performance & Productivity](https://www.slideshare.net/sugarpirate/emberconf-2016-idiomatic-ember-finding-the-sweet-spot-of-performance-productivity)
+- Lauren Elizabeth Tan
+ - [EmberConf 2015 – Ambitious UX for Ambitious Apps](https://www.slideshare.net/sugarpirate/emberconf-2015-ambitious-ux-for-ambitious-apps) - Lauren Elizabeth Tan
+ - []()
+
 ## Gists
  - [ember-cli es6 imports](https://gist.github.com/lifeart/949d867ba5f5455f8d955d9c9dc3610d)
-
+ - [@wycats/A small sampling of external projects initially built for Ember use but designed to be used standalone](https://gist.github.com/wycats/b58d56e5a47db4128a0a)
+ - [@rwjblue/ember_examples](https://gist.github.com/rwjblue/8816372)
+ - [@listochkin/Ember.js Video Collection (Ru/En)](https://gist.github.com/listochkin/87e47cdbf986fb2e9905)
 
 ## Examples
 
@@ -432,6 +442,7 @@ Ember Data Model Maker (EDMM).
 - [emberaddons](https://www.emberaddons.com/) - Ember Addons.
 
 ### Articles
+- [Animations in Ember.js with liquid-fire](https://www.airpair.com/ember.js/posts/animations-in-emberjs-with-liquidfire)
 - [Debugging Ember.js applications in Visual Studio Code](http://blog.firstiwaslike.com/debugging-ember-js-application-in-visual-studio-code/)
 - [Ember CLI Addon Docs: Shared Documentation for the Ember Ecosystem](https://medium.com/build-addepar/ember-cli-addon-docs-shared-documentation-for-the-ember-ecosystem-6f29aa0cee87)
 - [We have a new EmberJS front-end!](https://medium.com/@appaloosastore/we-have-a-new-emberjs-front-end-c7246e76cdbd)
@@ -540,6 +551,7 @@ Ember Data Model Maker (EDMM).
 - [programwitherik.com](https://www.programwitherik.com) - Ember.js tuts
 - [shipshape.io](https://shipshape.io/blog/)
 - [lolma.us](https://lolma.us/en/blog)
+- [airpair.com](https://www.airpair.com/ember.js)
 - [codementor.io](https://www.codementor.io/community/topic/emberjs)
 - [codeburst.io](https://codeburst.io/tagged/emberjs)
 - [simplabs.com](https://simplabs.com/blog/)
