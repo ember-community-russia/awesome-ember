@@ -438,6 +438,7 @@ Ember Data Model Maker (EDMM).
 - [DEPLOYING WITH EMBER.JS: A STORY](https://blogs.library.ucsf.edu/ckm/2017/09/06/deploying-with-ember-js-a-story/)
 - [Adding AWS Amplify to an Ember.js Application](https://itnext.io/adding-aws-amplify-to-an-ember-js-application-72683167c476)
 - [Static Blogs with Prember and Markdown](https://shipshape.io/blog/static-blogs-with-prember-and-markdown/)
+- [Ember Inspector - The Journey so Far](https://shipshape.io/blog/ember-inspector-the-journey-so-far/)
 - [Skeleton Screen Loading in Ember.js](https://emberway.io/skeleton-screen-loading-in-ember-js-2f7ac2384d63)
 - [Ember on Medium](https://medium.com/front-end-hacking/tagged/ember)
 - [Awesome Ember Addons](https://www.codementor.io/gowiem/awesome-ember-addons-bwhiofit9)
