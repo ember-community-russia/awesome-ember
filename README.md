@@ -204,7 +204,7 @@ Just type [`ember.cool`](https://ember.cool) to go here ✨
  - [ember-keyboard](https://github.com/patience-tema-baron/ember-keyboard) - An Ember.js addon for the painless support of keyboard events
  - [ember-a11y-landmarks](https://github.com/ember-a11y/ember-a11y-landmarks) - https://github.com/ember-a11y/ember-a11y-landmarks
 
-### Localization
+### Internalization & Localization
  - [ember-intl](https://github.com/ember-intl/ember-intl) - Translate complex messages string. Localized formatting for date/time, number, and relative time.
  - [ember-i18n](https://github.com/jamesarosen/ember-i18n) - Internationalization for Ember
 
