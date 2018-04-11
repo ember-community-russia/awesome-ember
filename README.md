@@ -385,6 +385,10 @@ Ember Data Model Maker (EDMM).
 
 ## Resources
 
+## Gists
+ - [ember-cli es6 imports](https://gist.github.com/lifeart/949d867ba5f5455f8d955d9c9dc3610d)
+
+
 ## Examples
 
 - [Super Rentals](https://github.com/ember-learn/super-rentals) - Super Rentals is a good starter project to get acclimated to the Ember.js way of doing things
@@ -456,6 +460,7 @@ Ember Data Model Maker (EDMM).
 - [The simplest possible Ember Data CRUD Tutorial](https://medium.com/ember-ish/the-simplest-possible-ember-data-crud-16eacee33ae6)
 - [Ember Best Practices: Computed Properties with Dynamic Dependent Keys](https://dockyard.com/blog/2015/10/23/ember-best-practices-dynamic-dependent-keys-for-computed-properties)
 - [Tom Dale on Ember and JavaScript Frameworks](https://www.infoq.com/interviews/tom-dale-ember) - Y 2013
+- [Using npm libraries in Ember CLI](https://simplabs.com/blog/2017/02/13/npm-libs-in-ember-cli.html)
 
 ### Newsletters
 
