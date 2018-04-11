@@ -139,6 +139,7 @@ Just type [`ember.cool`](https://ember.cool) to go here ✨
 
 ### Documentation
 
+ - [ember-freestyle](https://github.com/chrislopresto/ember-freestyle) - Ember Freestyle is an Ember addon that allows you to quickly create a component explorer for your Ember app.
  - [ember-cli-addon-docs](https://github.com/ember-learn/ember-cli-addon-docs) - Easy, beautiful docs for your Ember addon
  - [ember-cli-jsdoc](https://github.com/softlayer/ember-cli-jsdoc) - An Ember CLI addon to generate HTML documentation from JSDoc comments in the source code.
 
