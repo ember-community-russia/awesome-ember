@@ -183,9 +183,9 @@ Just type [`ember.cool`](https://ember.cool) to go here ✨
 ### Image
  - [ember-svg-jar](https://github.com/ivanvotti/ember-svg-jar) - The best way to embed SVG images into your Ember application
  
-### Text
-
-	- [?](#) - ????.
+### UI components
+ - [ember-burger-menu](https://github.com/offirgolan/ember-burger-menu) - An off-canvas sidebar component with a collection of animations and styles using CSS transitions.
+ - [ember-power-select](https://github.com/cibernox/ember-power-select) - The extensible select component built for ember.
 
 
 ### Number
