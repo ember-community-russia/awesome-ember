@@ -358,6 +358,12 @@ using a [JSON API](http://jsonapi.org/)-compliant client-side server.
 - [ember-cli-deploy](https://github.com/ember-cli-deploy/ember-cli-deploy) - A deployment pipeline for Ember CLI apps
 - [ember-cli-release](https://github.com/shipshapecode/ember-cli-release) - Ember CLI addon for versioned release management
 
+### CI/CD
+- [ember-cli-server-variables](https://github.com/blimmer/ember-cli-server-variables) - An Ember CLI add-on to support adding variables to the generated index.html file's head tag.
+
+### SSR / Server Side Rendering
+ - [ember-fastboot](https://github.com/ember-fastboot/ember-cli-fastboot) - Server-side rendering for Ember.js apps
+
 ### Code Splitting
 - [ember-engines](https://github.com/ember-engines/ember-engines) - This Ember addon implements the functionality described in the Ember Engines RFC. Engines allow multiple logical applications to be composed together into a single application from the user's perspective.
 
@@ -391,7 +397,16 @@ Ember Data Model Maker (EDMM).
  - [EmberConf 2016 – Idiomatic Ember: Finding the Sweet Spot of Performance & Productivity](https://www.slideshare.net/sugarpirate/emberconf-2016-idiomatic-ember-finding-the-sweet-spot-of-performance-productivity)
 - Lauren Elizabeth Tan
  - [EmberConf 2015 – Ambitious UX for Ambitious Apps](https://www.slideshare.net/sugarpirate/emberconf-2015-ambitious-ux-for-ambitious-apps) - Lauren Elizabeth Tan
- - []()
+ - [Building Realtime Apps with Ember.js and WebSockets](https://www.slideshare.net/BenLimmer/building-realtime-apps-with-emberjs-and-websockets) - Ben Limmer
+ - [Deploying a Location-Aware Ember Application](https://www.slideshare.net/BenLimmer/deploying-a-locationaware-ember-application) - 
+Ben Limmer
+ - [Upgrading Ember.js Apps](https://www.slideshare.net/BenLimmer/upgrading-emberjs-apps) - Ben Limmer
+ - [Fun with Ember 2.x Features](https://www.slideshare.net/BenLimmer/fun-with-ember-2x-features) - Ben Limmer
+ - [How do I Even Web App](https://www.slideshare.net/lydiaguarino/how-do-i-even-web-app) - An introduction to web programming with Ember CLI by Lydia Guarino
+ - [Rapid prototyping and easy testing with ember cli mirage](https://www.slideshare.net/KrzysztofBiaek1/rapid-prototyping-and-easy-testing-with-ember-cli-mirage) - 
+Krzysztof Bialek
+ - [Ember addons, served three ways](https://www.slideshare.net/mikelnorth/ember-addons-served-three-ways) - Mike North
+ - [Start Me Up - Building an MVP with EmberJS, Firebase and Material Design](https://www.slideshare.net/PickNBook/start-me-up-building-an-mvp-with-emberjs-firebase-and-material-design) - Brendan O'Hara
 
 ## Gists
  - [ember-cli es6 imports](https://gist.github.com/lifeart/949d867ba5f5455f8d955d9c9dc3610d)
@@ -537,6 +552,7 @@ Ember Data Model Maker (EDMM).
 - [Deliver Audacious Web Apps with Ember 2](https://pragprog.com/book/mwjsember/deliver-audacious-web-apps-with-ember-2) by Matthew White
 - [Professor Frisby's Mostly adequate guide to Functional Programming](https://drboolean.gitbooks.io/mostly-adequate-guide-old/)
 - [Ember Data in the Wild](https://leanpub.com/emberdatainthewild)
+- [Developing an Ember.js Edge](https://gumroad.com/l/xlsx)
 
 ### Best-practices 
 
