@@ -243,6 +243,7 @@ Just type [`ember.cool`](https://ember.cool) to go here ✨
 
  - [ember-cp-validations](https://github.com/offirgolan/ember-cp-validations) - Ember computed property based validations
  - [ember-validated-form](https://github.com/adfinis-sygroup/ember-validated-form) - Easily create forms with client side validations.
+  - [ember-model-validator](https://github.com/esbanarango/ember-model-validator) - Add validations to your Ember Data models on an explicit and easy way, without a bunch a validations files around or complicated structure.
 
 
 ### UI libs
