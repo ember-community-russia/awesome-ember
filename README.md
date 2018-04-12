@@ -133,6 +133,10 @@ Just type [`ember.cool`](https://ember.cool) to go here ✨
 
 - [Broccoli](https://github.com/broccolijs/broccoli) - Fast, reliable asset pipeline, supporting constant-time rebuilds and compact build definitions.
 
+### Styling
+ - [ember-cli-sass](https://github.com/aexmachina/ember-cli-sass) - Use node-sass to preprocess your ember-cli app's files, with support for sourceMaps and include paths
+
+
 ### Templating
 
 	- [?](#) - ????.
