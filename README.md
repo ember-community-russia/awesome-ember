@@ -173,6 +173,9 @@ Just type [`ember.cool`](https://ember.cool) to go here ✨
 
 	- [?](#) - ????.
 
+### CommonJS imports
+ - [ember-cli-cjs-transform] - https://github.com/rwjblue/ember-cli-cjs-transform
+
 
 ### Real-time
 
