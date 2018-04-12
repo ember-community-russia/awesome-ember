@@ -84,6 +84,10 @@ Just type [`ember.cool`](https://ember.cool) to go here ✨
  - [ember-metrics](https://github.com/poteto/ember-metrics) - Send data to multiple analytics services without re-implementing new API
 
 
+### End-user customization
+ - [ember-feature-flags](ember-feature-flags) An ember-cli addon to provide feature flags.
+
+
 ### Mad science
 
 	- [?](#) - ????.
