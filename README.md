@@ -247,7 +247,7 @@ Just type [`ember.cool`](https://ember.cool) to go here ✨
  - [ember-wordpress](https://github.com/oskarrough/ember-wordpress) - The bridge between Ember.js and Wordpress
  - [ember-django-adapter](https://github.com/dustinfarris/ember-django-adapter) - Ember CLI addon adapter for Django REST Framework
  - [ember-indexeddb](https://github.com/mydea/ember-indexeddb) - Utilities & adapter to work with IndexedDB in ember & ember-data
-	
+
 ### Data Management
  - [ember-changeset](https://github.com/poteto/ember-changeset)
  - [ember-time-machine](https://github.com/offirgolan/ember-time-machine)
@@ -310,6 +310,7 @@ Just type [`ember.cool`](https://ember.cool) to go here ✨
 - [ember-apollo-client](https://github.com/bgentry/ember-apollo-client) - An ember-cli addon for Apollo Client and GraphQL
 - [ember-redux](http://www.ember-redux.com/) - Predictable state management for ember apps
 - [ember-orbit](https://github.com/orbitjs/ember-orbit) - Ember.js data layer built with Orbit.js
+- [ember-cli-sofa](https://github.com/ampatspell/ember-cli-sofa) - CouchDB persistence library for Ember.js
   
 ### Helpers
  - [ember-truth-helpers](https://github.com/jmurphyau/ember-truth-helpers) - Ember HTMLBars Helpers for {{if}} & {{unless}}: not, and, or, eq & is-array
