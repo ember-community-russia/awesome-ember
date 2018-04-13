@@ -92,6 +92,10 @@ Just type [`ember.cool`](https://ember.cool) to go here ✨
 
 	- [?](#) - ????.
 
+### VS Code addons
+ - [ember-module-snippets](https://github.com/candidmetrics/ember-module-snippets) - Snippets to make importing Ember modules a snap in VSCode
+
+
 
 ### Command-line apps
 
