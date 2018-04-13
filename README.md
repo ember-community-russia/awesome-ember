@@ -630,7 +630,7 @@ Krzysztof Bialek
 - [Ember Twiddle](https://ember-twiddle.com/) - An Ember Twiddle for multiples files which lets you save your work in Github.
 - [Glimmer Playground](https://try.glimmerjs.com/) - An Glimmer.js playground.
 - [Ember Perf](https://github.com/mike-north/ember-perf) - Measure user-percieved performance data in your ember.js app
-
+- [ember-data-model-maker](https://andycrum.github.io/ember-data-model-maker/) - UI to make ember-data models & payload examples
 
 ### Community
 
