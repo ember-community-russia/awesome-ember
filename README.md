@@ -488,6 +488,8 @@ Krzysztof Bialek
 - [emberaddons](https://www.emberaddons.com/) - Ember Addons.
 
 ### Articles
+- [Adopting ember-concurrency or: How I Learned to Stop Worrying and Love the Task](https://engineering.linkedin.com/blog/2016/12/ember-concurrency--or--how-i-learned-to-stop-worrying-and-love-t)
+- [Async or Swim: Replacing your Route models with Ember Concurrency Tasks](https://medium.com/@AveryBloom/async-or-swim-replacing-your-route-models-with-ember-concurrency-tasks-5a230252893a)
 - [Extracting Metadata from a Custom API with Ember Data](https://thejsguy.com/2018/04/06/extracting-metadata-from-a-custom-api-with-ember-data.html)
 - [Animations in Ember.js with liquid-fire](https://www.airpair.com/ember.js/posts/animations-in-emberjs-with-liquidfire)
 - [Debugging Ember.js applications in Visual Studio Code](http://blog.firstiwaslike.com/debugging-ember-js-application-in-visual-studio-code/)
