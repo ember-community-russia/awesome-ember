@@ -247,6 +247,9 @@ Just type [`ember.cool`](https://ember.cool) to go here ✨
  - [ember-django-adapter](https://github.com/dustinfarris/ember-django-adapter) - Ember CLI addon adapter for Django REST Framework
  - [ember-indexeddb](https://github.com/mydea/ember-indexeddb) - Utilities & adapter to work with IndexedDB in ember & ember-data
 
+### Query Params
+ - [ember-parachute](https://github.com/offirgolan/ember-parachute) - Improved Query Params for Ember
+
 ### Data Management
  - [ember-changeset](https://github.com/poteto/ember-changeset)
  - [ember-time-machine](https://github.com/offirgolan/ember-time-machine)
