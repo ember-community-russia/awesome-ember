@@ -119,7 +119,7 @@ Just type [`ember.cool`](https://ember.cool) to go here ✨
 
 ### HTTP
  - [ember-socket-guru](https://github.com/netguru/ember-socket-guru) - Addon for easy integration with Pusher.js, ActionCable, Socket.io and Phoenix Channels
-
+ - [ember-ajax](https://github.com/ember-cli/ember-ajax) - Service for making AJAX requests in Ember 1.13+ applications.
 
 ### Debugging / Profiling
 
@@ -217,12 +217,11 @@ Just type [`ember.cool`](https://ember.cool) to go here ✨
 
 ### Math
  - [ember-katex](https://github.com/firecracker/ember-katex) - Render your LaTeX formulas using KaTeX
-
-### a11y
  - [ember-steps](https://github.com/rwjblue/ember-steps) - Declarative create wizards, tabbed UIs, and more
  - [ember-a11y](https://github.com/ember-a11y/ember-a11y) - A collection of tools to build accessible Ember applications.
  - [ember-keyboard](https://github.com/patience-tema-baron/ember-keyboard) - An Ember.js addon for the painless support of keyboard events
  - [ember-a11y-landmarks](https://github.com/ember-a11y/ember-a11y-landmarks) - https://github.com/ember-a11y/ember-a11y-landmarks
+ - [ember-gestures](https://github.com/html-next/ember-gestures) - Ember Gestures provides an easy way to use gestures by making it simple to define and use HammerJS managers and recognizers throughout your app.
 
 ### Internalization & Localization
  - [ember-intl](https://github.com/ember-intl/ember-intl) - Translate complex messages string. Localized formatting for date/time, number, and relative time.
@@ -577,6 +576,7 @@ Krzysztof Bialek
 
 ### Books
 
+- [A deep dive into the Ember JS runloop](https://github.com/eoinkelly/ember-runloop-handbook)
 - [Rock and Roll with Ember.js](http://rockandrollwithemberjs.com/)
 - [ember-cli 101](https://leanpub.com/ember-cli-101) by Adolfo Builes
 - [Ember.js in Action](http://manning.com/skeie/) by Joachim Haagen Skeie
