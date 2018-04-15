@@ -100,7 +100,7 @@ Just type [`ember.cool`](https://ember.cool) to go here ✨
 ### Command-line apps
 
 - [@ember/optional-features](https://github.com/emberjs/ember-optional-features) - This addon allows you to easily enable/disable optional features in ember-source. To clarify what we mean by optional, these are features that will be opt-in/opt-out and optional for the forseeable future, not features that will be enabled by default. It is intended for use with apps only not addons.
-
+- [ember-cli-rename](https://github.com/trabus/ember-cli-rename) - Addon for ember-cli that provides an `ember rename` command
 
 ### Functional programming
 
