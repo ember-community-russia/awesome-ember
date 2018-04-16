@@ -144,7 +144,6 @@ Just type [`ember.cool`](https://ember.cool) to go here ✨
 ### Styling
  - [ember-cli-sass](https://github.com/aexmachina/ember-cli-sass) - Use node-sass to preprocess your ember-cli app's files, with support for sourceMaps and include paths
 
-
 ### Templating
 
 	- [?](#) - ????.
@@ -189,6 +188,11 @@ Just type [`ember.cool`](https://ember.cool) to go here ✨
  - [ember-cli-cjs-transform] - https://github.com/rwjblue/ember-cli-cjs-transform
 
 
+### Payments
+ - [ember-credit-card](https://github.com/esbanarango/ember-credit-card) - "make your credit card form dreamy in one line of code"
+
+
+
 ### Real-time
 
 	- [?](#) - ????.
@@ -230,6 +234,9 @@ Just type [`ember.cool`](https://ember.cool) to go here ✨
 ### Date
  - [ember-moment](https://github.com/stefanpenner/ember-moment) - moment.js template helpers and computed property macros for Ember
 
+### Codestyle
+ - [ember-cli-alex](https://github.com/yohanmishkin/ember-cli-alex) - alex for Ember apps
+
 ### ES6
  - [ember-decorators](https://github.com/ember-decorators/ember-decorators) - Useful decorators for Ember applications. 
  
@@ -238,6 +245,7 @@ Just type [`ember.cool`](https://ember.cool) to go here ✨
  - [ember-typings](https://github.com/typed-ember/ember-typings) - Typescript type definitions for ember.js
 
 ### Adapters
+ - [ember-cloud-firestore-adapter](https://github.com/rmmmp/ember-cloud-firestore-adapter) - Unofficial Ember Data Adapter and Serializer for Cloud Firestore
  - [emberfire](https://github.com/firebase/emberfire) - Official Ember Data adapter for Firebase
  - [ember-graphql-adapter](https://github.com/alphasights/ember-graphql-adapter) - GraphQL adapter for Ember Data
  - [ember-pouch](https://github.com/pouchdb-community/ember-pouch) - PouchDB/CouchDB adapter for Ember Data
@@ -385,6 +393,7 @@ using a [JSON API](http://jsonapi.org/)-compliant client-side server.
 ### Process management
 
 ### Automation
+- [ember-cli-sri](https://github.com/jonathanKingston/ember-cli-sri) - This plugin is used to generate Subresource Integrity (SRI) hashes for ember applications.
 - [ember-cli-deploy](https://github.com/ember-cli-deploy/ember-cli-deploy) - A deployment pipeline for Ember CLI apps
 - [ember-cli-release](https://github.com/shipshapecode/ember-cli-release) - Ember CLI addon for versioned release management
 
