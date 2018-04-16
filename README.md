@@ -632,6 +632,8 @@ Krzysztof Bialek
 
 ### Tools
 
+- [ember-cli-diff](http://www.ember-cli-diff.org/) - A simple tool to see differences between
+new ember apps.
 - [ember-cli](https://ember-cli.com/) - The command line interface for ambitious web applications.
 - [Ember Inspector](https://github.com/emberjs/ember-inspector) - Adds an Ember tab to Chrome or Firefox Developer Tools that allows you to inspect Ember objects in your application. - Officially maintained.
 - [remote-inspector](https://github.com/joostdevries/ember-cli-remote-inspector) - Lets you inspect apps running on different devices/browsers over the network using websockets.
