@@ -551,6 +551,7 @@ Krzysztof Bialek
 
 ### Videos
 
+- [ReactiveConf 2017 - Tom Dale: Secrets of the Glimmer VM](https://www.youtube.com/watch?v=nXCSloXZ-wc)
 - [Tom Dale Talks EmberJS](https://www.slideshare.net/LinkedInPulse/tom-dale-ember-javascript-emberjs-linkedin)
 - [Tim Thomas - Using Ember.js to build Electron Apps](https://www.youtube.com/watch?v=ER1V_u0N7u4)
 - [Tom Dale on Static Analysis, Upstreaming Glimmer, and Ember in 2018](https://embermap.com/topics/the-embermap-podcast/tom-dale-on-static-analysis-upstreaming-glimmer-and-ember-in-2018)
