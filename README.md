@@ -254,6 +254,7 @@ Just type [`ember.cool`](https://ember.cool) to go here ✨
  - [ember-wordpress](https://github.com/oskarrough/ember-wordpress) - The bridge between Ember.js and Wordpress
  - [ember-django-adapter](https://github.com/dustinfarris/ember-django-adapter) - Ember CLI addon adapter for Django REST Framework
  - [ember-indexeddb](https://github.com/mydea/ember-indexeddb) - Utilities & adapter to work with IndexedDB in ember & ember-data
+ - [ember-cli-markdown-resolver](https://github.com/willviles/ember-cli-markdown-resolver) - Ember CLI addon for resolving markdown files in custom folders and retrieving content via a service.
 
 ### Query Params
  - [ember-parachute](https://github.com/offirgolan/ember-parachute) - Improved Query Params for Ember
@@ -410,9 +411,10 @@ using a [JSON API](http://jsonapi.org/)-compliant client-side server.
  - [jscodeshift](https://github.com/facebook/jscodeshift) - A JavaScript codemod toolkit.
  - [ember-ast-helpers](https://github.com/cibernox/ember-ast-helpers) - This library is a utility belt to make AST transforms and shield users as much as possible from the nuances of the AST, as it is still private API.
 
-### Static site generators
+### Static site generators & SEO
 - [prember](https://github.com/ef4/prember) - Prerender Ember apps with Fastboot at build time.
 - [prember-rss-feed](https://github.com/shipshapecode/prember-rss-feed) - Ship RSS feeds for your Prember site
+- [ember-meta](https://github.com/shipshapecode/ember-meta) - Setup meta for your Prember/Ember blog to support opengraph, microdata, Facebook, Twitter, Slack etc.
 
 ### Content management systems
 
