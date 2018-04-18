@@ -184,9 +184,9 @@ Just type [`ember.cool`](https://ember.cool) to go here ✨
 
 	- [?](#) - ????.
 
-### CommonJS imports
- - [ember-cli-cjs-transform] - https://github.com/rwjblue/ember-cli-cjs-transform
-
+### Include external JS code?
+ - [ember-cli-cjs-transform](https://github.com/rwjblue/ember-cli-cjs-transform) - CommonJS imports
+ - [ember-cli-es6-transform](https://github.com/sandydoo/ember-cli-es6-transform) - Import ES6 modules from npm, bower or anywhere else in your app.
 
 ### Payments
  - [ember-credit-card](https://github.com/esbanarango/ember-credit-card) - "make your credit card form dreamy in one line of code"
