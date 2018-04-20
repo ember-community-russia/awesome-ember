@@ -451,6 +451,7 @@ Krzysztof Bialek
  - [Start Me Up - Building an MVP with EmberJS, Firebase and Material Design](https://www.slideshare.net/PickNBook/start-me-up-building-an-mvp-with-emberjs-firebase-and-material-design) - Brendan O'Hara
 
 ## Gists
+ - [Ember publishing tools](https://gist.github.com/anulman/1e1da1d38178e7242d4701638bb29391)
  - [ember-cli es6 imports](https://gist.github.com/lifeart/949d867ba5f5455f8d955d9c9dc3610d)
  - [@wycats/A small sampling of external projects initially built for Ember use but designed to be used standalone](https://gist.github.com/wycats/b58d56e5a47db4128a0a)
  - [@rwjblue/ember_examples](https://gist.github.com/rwjblue/8816372)
