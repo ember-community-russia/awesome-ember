@@ -606,6 +606,7 @@ Just type [`ember.cool`](https://ember.cool) to go here ✨
 - [Developing an Ember.js Edge](https://gumroad.com/l/xlsx)
 - [Ember Data in the Wild](https://leanpub.com/emberdatainthewild)
 - [ember-cli 101](https://leanpub.com/ember-cli-101) by Adolfo Builes
+- [Ember for Artisans](https://leanpub.com/emberforartisans) - Creating Single Page Apps backed by Laravel
 - [Ember.js in Action](http://manning.com/skeie/) by Joachim Haagen Skeie
 - [Professor Frisby's Mostly adequate guide to Functional Programming](https://drboolean.gitbooks.io/mostly-adequate-guide-old/)
 - [Rock and Roll with Ember.js](http://rockandrollwithemberjs.com/)
