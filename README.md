@@ -87,6 +87,7 @@ Just type [`ember.cool`](https://ember.cool) to go here ✨
 	- [UI components](#ui-components)
 	- [UI libs](#ui-libs)
 	- [URL](#url)
+	- [UX](#ux)
 	- [VS Code addons](#vs-code-addons)
 	- [Web frameworks](#web-frameworks)
 	- [Webpack](#webpack)
@@ -514,6 +515,10 @@ Just type [`ember.cool`](https://ember.cool) to go here ✨
 ### URL
 
 - [?](#) - ????
+
+### UX
+- [ember-onbeforeunload](https://github.com/jasonmit/ember-onbeforeunload) - invoke logic when transitioning between routes or closing window
+
 
 ### VS Code addons
 
