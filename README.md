@@ -360,6 +360,7 @@ Just type [`ember.cool`](https://ember.cool) to go here ✨
 
 - [ember-concurrency](http://ember-concurrency.com)
 - [ember-pipeline](https://github.com/poteto/ember-pipeline)
+- [ember-lifeline](https://github.com/ember-lifeline/ember-lifeline) - An ember addon for managing the lifecyle of asynchronous behavior in your objects
 
 ### Logging
 
@@ -762,6 +763,7 @@ Just type [`ember.cool`](https://ember.cool) to go here ✨
 
 ### Videos
 
+- [Global Ember Meetup](https://vimeo.com/globalembermeetup)
 - [Ember @ Netflix](https://pusher.com/sessions/meetup/emberfest/ember-netflix)
 - [Ember Engines at Scale](https://pusher.com/sessions/meetup/ember-london/ember-engines-at-scale)
 - [Ember Test Recorder](https://pusher.com/sessions/meetup/ember-london/ember-test-recorder)
