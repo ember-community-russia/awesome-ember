@@ -206,6 +206,7 @@ Just type [`ember.cool`](https://ember.cool) to go here ✨
 ### Component addons
 
 - [ember-diff-attrs](https://github.com/workmanw/ember-diff-attrs)
+- [ember-compatibility-helpers](https://github.com/pzuraq/ember-compatibility-helpers) - Helpers that allow you to write backwards compat Ember addons
 
  ### Compression
 
