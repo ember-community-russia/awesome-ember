@@ -672,6 +672,7 @@ Just type [`ember.cool`](https://ember.cool) to go here ✨
 - [@wycats/A small sampling of external projects initially built for Ember use but designed to be used standalone](https://gist.github.com/wycats/b58d56e5a47db4128a0a)
 - [Ember publishing tools](https://gist.github.com/anulman/1e1da1d38178e7242d4701638bb29391)
 - [ember-cli es6 imports](https://gist.github.com/lifeart/949d867ba5f5455f8d955d9c9dc3610d)
+- [Debounced and Throttle computed properties](https://gist.github.com/runspired/a3dc4ddd1af7688a9bb8)
 
 ### Miscellaneous
 
