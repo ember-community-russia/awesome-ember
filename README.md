@@ -1,7 +1,6 @@
 # Awesome Ember.js [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 
-
 > A curated list of delightful Ember.js [packages](#packages) and [resources](#resources).
 
 Just type [`ember.cool`](https://ember.cool) to go here ✨
@@ -156,6 +155,7 @@ Just type [`ember.cool`](https://ember.cool) to go here ✨
 ### Benchmarking
 
 - [ember-macro-benchmark](https://github.com/krisselden/ember-macro-benchmark) - Benchmark recording of an ember app with running with 2 versions of Ember.
+- [ember-performance](https://github.com/eviltrout/ember-performance) - A suite of tests for EmberJS to help with performance
 - [emberperf](http://emberperf.eviltrout.com) - EmberPerformance (Between versions)
 
 ### Blogging
