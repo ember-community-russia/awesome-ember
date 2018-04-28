@@ -172,7 +172,7 @@ Just type [`ember.cool`](https://ember.cool) to go here ✨
 
 ### Broccoli read
 
-- [Eat your greens! A beginners guide to Broccoli.js](http://www.oligriffiths.com/2017/01/26/Eat-your-greens-A-beginners-guide-to-Broccoli-js/)
+- [Eat Your Greens - A Broccoli.js tutorial](http://www.oligriffiths.com/broccolijs/)
  
 ### Build tools
 
