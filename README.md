@@ -169,6 +169,7 @@ Just type [`ember.cool`](https://ember.cool) to go here ✨
 - [broccoli-debug](https://github.com/broccolijs/broccoli-debug) - Utility for build pipeline authors to allow trivial debugging of the Broccoli pipelines they author.
 - [broccoli-stew](https://github.com/stefanpenner/broccoli-stew) - Provides commonly used convenience functions for developing broccoli based build pipelines.
 - [broccolijs-tutorial](https://github.com/oligriffiths/broccolijs-tutorial) - Broccoli.js Tutorial repository
+- [broccoli-rollup](https://github.com/chadhietala/broccoli-rollup) - Broccoli Plugin For Rollup
 
 ### Broccoli read
 
@@ -351,6 +352,7 @@ Just type [`ember.cool`](https://ember.cool) to go here ✨
 
 - [ember-cli-cjs-transform](https://github.com/rwjblue/ember-cli-cjs-transform) - CommonJS imports
 - [ember-cli-es6-transform](https://github.com/sandydoo/ember-cli-es6-transform) - Import ES6 modules from npm, bower or anywhere else in your app.
+- [ember-browserify](https://github.com/ef4/ember-browserify) - ember-cli addon for easily loading CommonJS packages from npm via browserify.
 
 ### Internalization & Localization
 
