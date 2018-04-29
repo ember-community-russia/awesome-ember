@@ -439,6 +439,7 @@ Just type [`ember.cool`](https://ember.cool) to go here ✨
 - [ember-service-worker-cache-fallback](https://github.com/DockYard/ember-service-worker-cache-fallback)
 - [ember-service-worker-cache-first](https://github.com/DockYard/ember-service-worker-cache-first)
 - [ember-service-worker-index](https://github.com/DockYard/ember-service-worker-index)
+- [ember-service-worker-prember](https://github.com/shipshapecode/ember-service-worker-prember)
 - [ember-service-worker](https://github.com/DockYard/ember-service-worker) - A pluggable approach to Service Workers for Ember.js
 - [ember-web-app](https://github.com/san650/ember-web-app) - This Ember addon helps you configure and manage the manifest.json and meta tags needed to create progressive web applications
 
