@@ -664,6 +664,7 @@ Just type [`ember.cool`](https://ember.cool) to go here ✨
 ### Examples
 
 - [API Docs](https://github.com/ember-learn/ember-api-docs) - This application was built to display our versioned API docs.
+- [guides-app](https://github.com/ember-learn/guides-app) - Replacement for emberjs/guides and the Ember Guides
 - [Builds](https://github.com/ember-learn/builds) - This is the application that the Ember.js team built to display our various release channels.
 - [HospitalRun](https://github.com/HospitalRun/hospitalrun-frontend) - Ember front end for HospitalRun [hospitalrun.io](http://hospitalrun.io/)
 - [Rancher](https://github.com/rancher/ui) - [Rancher](http://rancher.com) is enterprise management for Kubernetes.
