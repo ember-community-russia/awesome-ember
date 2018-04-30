@@ -387,6 +387,7 @@ Just type [`ember.cool`](https://ember.cool) to go here ✨
 
 ### Metrics
 
+ - [ember-user-activity](https://github.com/elwayman02/ember-user-activity) - Ember Addon for tracking user activity & idling
  - [ember-metrics](https://github.com/poteto/ember-metrics) - Send data to multiple analytics services without re-implementing new API
 
 ### Minifiers
