@@ -32,7 +32,7 @@ Just type [`ember.cool`](https://ember.cool) to go here ✨
 	- [Compression](#compression)
 	- [Content management systems](#content-management-systems)
 	- [Control flow](#control-flow)
-	- [CSS & etc](css-&-etc)
+	- [CSS & etc](#css-&-etc)
 	- [Data Management](#data-management)
 	- [Data manipulation & Computed](#)
 	- [Data validation](#data-validation)
@@ -238,6 +238,7 @@ Just type [`ember.cool`](https://ember.cool) to go here ✨
  - [ember-cli-stylelint](https://github.com/billybonks/ember-cli-stylelint) - Adds styleint to your ember app, to lint all kinds of css
  - [ember-cli-sass](https://github.com/aexmachina/ember-cli-sass) - Use node-sass to preprocess your ember-cli app's files, with support for sourceMaps and include paths
  - [ember-cli-sass-pods](https://github.com/justtal/ember-cli-sass-pods) - Enjoy styling your pods with the sass style file in the pod directory.
+ - [ember-css-modules](https://github.com/salsify/ember-css-modules) - CSS Modules for ambitious applications.
 
 
 ### Data Management
@@ -295,7 +296,9 @@ Just type [`ember.cool`](https://ember.cool) to go here ✨
 
  ### End-user customization
 
-- [ember-feature-flags](ember-feature-flags) An ember-cli addon to provide feature flags.
+- [ember-feature-flags](https://github.com/kategengler/ember-feature-flags) An ember-cli addon to provide feature flags.
+- [ember-named-yields](https://github.com/knownasilya/ember-named-yields) - Named Yields for Ember Components.
+- [ember-glimmer-component](https://github.com/smfoote/ember-glimmer-component) - Glimmer.js-like components in Ember.
 
 ### ES6
 
