@@ -171,6 +171,7 @@ Just type [`ember.cool`](https://ember.cool) to go here ✨
 - [broccoli-stew](https://github.com/stefanpenner/broccoli-stew) - Provides commonly used convenience functions for developing broccoli based build pipelines.
 - [broccolijs-tutorial](https://github.com/oligriffiths/broccolijs-tutorial) - Broccoli.js Tutorial repository
 - [broccoli-rollup](https://github.com/chadhietala/broccoli-rollup) - Broccoli Plugin For Rollup
+- [broccoli-manifest](https://github.com/racido/broccoli-manifest) - HTML5 cache-manifest compilation for broccoli
 
 ### Broccoli read
 
@@ -237,8 +238,11 @@ Just type [`ember.cool`](https://ember.cool) to go here ✨
 ### CSS & etc
 
  - [ember-cli-stylelint](https://github.com/billybonks/ember-cli-stylelint) - Adds styleint to your ember app, to lint all kinds of css
+ - [ember-cli-autoprefixer](https://github.com/kimroen/ember-cli-autoprefixer) - Automatically run your styles through autoprefixer
  - [ember-cli-sass](https://github.com/aexmachina/ember-cli-sass) - Use node-sass to preprocess your ember-cli app's files, with support for sourceMaps and include paths
  - [ember-cli-sass-pods](https://github.com/justtal/ember-cli-sass-pods) - Enjoy styling your pods with the sass style file in the pod directory.
+ - [ember-component-css](https://github.com/ebryn/ember-component-css) - An Ember CLI addon which allows you to specify styles for individual components.
+ - [ember-cli-postcss](https://github.com/jeffjewiss/ember-cli-postcss) - A Postcss integration for ember-cli
  - [ember-css-modules](https://github.com/salsify/ember-css-modules) - CSS Modules for ambitious applications.
 
 
@@ -464,7 +468,7 @@ Just type [`ember.cool`](https://ember.cool) to go here ✨
 
 ### Real-time
 
-- [?](#) - ????.
+- [ember-cli-flash](https://github.com/poteto/ember-cli-flash) - Simple, highly configurable flash messages for ember-cli.
 
 ### Security
 
