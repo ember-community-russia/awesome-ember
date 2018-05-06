@@ -54,6 +54,7 @@ Just type [`ember.cool`](https://ember.cool) to go here ✨
 	- [Humanize](#humanize)
 	- [Image](#image)
 	- [Include external JS code](#include-external-js-code)
+	- [Infinite Scroll](#infinite-scroll)
 	- [Internalization & Localization](#)
 	- [Job queues](#job-queues)
 	- [Logging](#logging)
@@ -359,6 +360,11 @@ Just type [`ember.cool`](https://ember.cool) to go here ✨
 - [ember-cli-cjs-transform](https://github.com/rwjblue/ember-cli-cjs-transform) - CommonJS imports
 - [ember-cli-es6-transform](https://github.com/sandydoo/ember-cli-es6-transform) - Import ES6 modules from npm, bower or anywhere else in your app.
 - [ember-browserify](https://github.com/ef4/ember-browserify) - ember-cli addon for easily loading CommonJS packages from npm via browserify.
+
+### Infinite Scroll
+
+- [vertical-collection](https://github.com/html-next/vertical-collection) - Infinite Scroll and Occlusion at > 60FPS
+- [smoke-and-mirrors](https://github.com/html-next/smoke-and-mirrors) - Ambitious infinite-scroll and svelte rendering for ambitious applications.
 
 ### Internalization & Localization
 
