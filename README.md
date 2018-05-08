@@ -352,6 +352,7 @@ Just type [`ember.cool`](https://ember.cool) to go here ✨
 - [ember-route-action-helper](https://github.com/DockYard/ember-route-action-helper) - Bubble closure actions in routes
 - [ember-store-helpers](https://github.com/ember-sapporo/ember-store-helpers) - This add-on provides helpers related to ember-data.
 - [ember-truth-helpers](https://github.com/jmurphyau/ember-truth-helpers) - Ember HTMLBars Helpers for {{if}} & {{unless}}: not, and, or, eq & is-array
+- [ember-cli-string-helpers](https://github.com/romulomachado/ember-cli-string-helpers) - Set of the String helpers extracted from DockYard's ember-composable-helpers.
 
 ### Humanize
 
