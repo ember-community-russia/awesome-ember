@@ -606,6 +606,10 @@ Just type [`ember.cool`](https://ember.cool) to go here ✨
 - [How I added whitelabel theming to my Ember app](https://medium.com/@simeonberns/how-i-added-whitelabel-theming-to-my-ember-app-97bfca9e263a)
 - [Customising Ember Power Select](https://medium.com/life-at-kayako/customising-ember-power-select-3d570c7c4c0c)
 
+- [A collection of links that summarize EmberConf 2017](https://github.com/poteto/emberconf-2017)
+- [A collection of links that summarize EmberConf 2016](https://github.com/poteto/emberconf-2016)
+- [A collection of links that summarize EmberConf 2015](https://github.com/poteto/emberconf-2015)
+
 ### Best-practices 
 
 - [ember-best-practices](https://github.com/ember-best-practices)
