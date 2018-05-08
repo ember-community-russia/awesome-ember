@@ -819,6 +819,7 @@ Just type [`ember.cool`](https://ember.cool) to go here ✨
 - [Using TypeScript in Ember](https://pusher.com/sessions/meetup/ember-london/using-typescript-in-ember)
 - [Web App Performance & Ember.js](https://www.youtube.com/watch?v=BelKk7dvA1A) - Web App Performance & Ember.js
 - [Why Ember CLI uses Broccoli](https://embermap.com/topics/intro-to-broccoli/why-ember-uses-broccoli)
+- [Developing ember apps on glitch.com](https://www.youtube.com/watch?v=uhXA6ECaknw)
 
 ### YouTube channels
 
