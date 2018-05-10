@@ -750,7 +750,10 @@ Just type [`ember.cool`](https://ember.cool) to go here ✨
 
  ### Styleguides
 
-- [Ember.js](https://github.com/DockYard/styleguides/blob/master/engineering/ember.md)
+- [ember-styleguide](https://github.com/ember-learn/ember-styleguide)
+- [Softlayer Ember.js](https://github.com/softlayer/ember-style-guide)
+- [Netguru Ember.js](https://github.com/netguru/ember-styleguide)
+- [DockYard Ember.js](https://github.com/DockYard/styleguides/blob/master/engineering/ember.md)
 - [JavaScript Style Guide](https://github.com/DockYard/styleguides/blob/master/engineering/javascript.md)
 
 ### Tools
