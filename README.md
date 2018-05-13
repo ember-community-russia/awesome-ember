@@ -303,6 +303,7 @@ Just type [`ember.cool`](https://ember.cool) to go here ✨
 
  ### End-user customization
 - [ember-cli-hot-loader](https://github.com/toranb/ember-cli-hot-loader) - An early look at what hot reloading might be like in the ember ecosystem
+- [ember-cli-build-notifications](https://github.com/pdud/ember-cli-build-notifications) - Notifications when ember-cli has a buildError
 - [ember-feature-flags](https://github.com/kategengler/ember-feature-flags) An ember-cli addon to provide feature flags.
 - [ember-named-yields](https://github.com/knownasilya/ember-named-yields) - Named Yields for Ember Components.
 - [ember-glimmer-component](https://github.com/smfoote/ember-glimmer-component) - Glimmer.js-like components in Ember.
