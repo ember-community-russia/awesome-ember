@@ -572,6 +572,7 @@ Just type [`ember.cool`](https://ember.cool) to go here ✨
 
 ### Articles
 
+- [Top 10 Ember.js Development Companies](https://medium.com/@henryw1990/top-10-ember-js-development-companies-d07826a87f24)
 - [16 Opensource EmberJS Projects to Learn From](https://www.icicletech.com/blog/16-opensource-emberjs-projects-to-learn-from)
 - [5 Essential Ember Concepts You Must Understand](https://emberigniter.com/5-essential-ember-concepts/)
 - [Adding AWS Amplify to an Ember.js Application](https://itnext.io/adding-aws-amplify-to-an-ember-js-application-72683167c476)
