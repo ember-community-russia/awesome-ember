@@ -472,6 +472,7 @@ Just type [`ember.cool`](https://ember.cool) to go here ✨
 ### Query Params
 
 - [ember-parachute](https://github.com/offirgolan/ember-parachute) - Improved Query Params for Ember
+- [ember-href-to](https://github.com/intercom/ember-href-to) - A lightweight alternative to {{link-to}}
 
 ### Real-time
 
