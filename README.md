@@ -619,6 +619,10 @@ Just type [`ember.cool`](https://ember.cool) to go here ✨
 - [A collection of links that summarize EmberConf 2016](https://github.com/poteto/emberconf-2016)
 - [A collection of links that summarize EmberConf 2015](https://github.com/poteto/emberconf-2015)
 
+### Articles FastBoot
+- [How to integrate Ember FastBoot in Cloud Functions for Firebase](https://rmmmp.github.io/2018/05/16/how-to-integrate-ember-fastboot-in-cloud-functions-for-firebase.html)
+
+
 ### Best-practices 
 
 - [ember-best-practices](https://github.com/ember-best-practices)
