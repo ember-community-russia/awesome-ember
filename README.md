@@ -566,7 +566,7 @@ Just type [`ember.cool`](https://ember.cool) to go here ✨
 
 ### Weird
 
-- [?](#) - ????
+- [ember-dynamic-render-template](https://github.com/miguelcobain/ember-dynamic-render-template) - Render DOM from a template string.
 
 ## Resources
 
