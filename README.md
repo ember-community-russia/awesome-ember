@@ -711,6 +711,7 @@ Just type [`ember.cool`](https://ember.cool) to go here ✨
 - [Travis CI](https://github.com/travis-ci/travis-web) - The Ember web client for [Travis CI](https://travis-ci.org/)
 - [Vault](https://github.com/hashicorp/vault/tree/master/ui/app) - A Tool for Managing Secrets (Hashicorp)
 - [ember-osf-web](https://github.com/CenterForOpenScience/ember-osf-web) - Ember front-end for the Open Science Framework
+- [ember-rolodex](https://github.com/rtablada/ember-rolodex) - An example of what an Ember tutorial between the quick start and Super Rents could look like.
 
 ### Gists
 
