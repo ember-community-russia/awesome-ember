@@ -719,6 +719,7 @@ Just type [`ember.cool`](https://ember.cool) to go here ✨
 - [Ember publishing tools](https://gist.github.com/anulman/1e1da1d38178e7242d4701638bb29391)
 - [ember-cli es6 imports](https://gist.github.com/lifeart/949d867ba5f5455f8d955d9c9dc3610d)
 - [Ember-cli Windows speedup](https://gist.github.com/lifeart/f436306a92f62610d65caaa699c17065)
+- [How to debug an ember application with VS Code](https://gist.github.com/nightire/38ad30167df55175853b20f025f46596)
 
 ### Miscellaneous
 
