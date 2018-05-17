@@ -121,6 +121,7 @@ Just type [`ember.cool`](https://ember.cool) to go here ✨
 ### AST
 
 - [ember-ast-helpers](https://github.com/cibernox/ember-ast-helpers) - This library is a utility belt to make AST transforms and shield users as much as possible from the nuances of the AST, as it is still private API.
+- [ember-template-recast](https://github.com/ember-template-lint/ember-template-recast) - Non-destructive template transformer.
 - [jscodeshift](https://github.com/facebook/jscodeshift) - A JavaScript codemod toolkit.
 
 ### Adapters
@@ -622,6 +623,8 @@ Just type [`ember.cool`](https://ember.cool) to go here ✨
 ### Articles FastBoot
 - [How to integrate Ember FastBoot in Cloud Functions for Firebase](https://rmmmp.github.io/2018/05/16/how-to-integrate-ember-fastboot-in-cloud-functions-for-firebase.html)
 
+### Articles about Data
+- [Offline Data and Sync with Ember-Orbit](https://codingitwrong.com/2018/05/10/ember-orbit.html)
 
 ### Best-practices 
 
