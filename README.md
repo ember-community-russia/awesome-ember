@@ -629,6 +629,7 @@ Just type [`ember.cool`](https://ember.cool) to go here ✨
 ### Best-practices 
 
 - [ember-best-practices](https://github.com/ember-best-practices)
+- [An Ember Debugging Flowchart](https://www.mutuallyhuman.com/blog/2016/08/12/an-ember-debugging-flowchart)
 
 ### Blogs
 
