@@ -618,6 +618,8 @@ Just type [`ember.cool`](https://ember.cool) to go here ✨
 
 - [A list of EmberJS2018 blog posts and ideas](https://github.com/zinyando/emberjs2018-posts)
 
+- [Deep Dive on Ember Events](https://medium.com/square-corner-blog/deep-dive-on-ember-events-cf684fd3b808)
+
 - [A collection of links that summarize EmberConf 2017](https://github.com/poteto/emberconf-2017)
 - [A collection of links that summarize EmberConf 2016](https://github.com/poteto/emberconf-2016)
 - [A collection of links that summarize EmberConf 2015](https://github.com/poteto/emberconf-2015)
