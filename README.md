@@ -717,6 +717,7 @@ Just type [`ember.cool`](https://ember.cool) to go here ✨
 - [ember-osf-web](https://github.com/CenterForOpenScience/ember-osf-web) - Ember front-end for the Open Science Framework
 - [ember-rolodex](https://github.com/rtablada/ember-rolodex) - An example of what an Ember tutorial between the quick start and Super Rents could look like.
 - [ember-styleguide](https://github.com/ember-learn/ember-styleguide)
+- [Ghost Admin Client](https://github.com/TryGhost/Ghost-Admin)
 
 ### Gists
 
