@@ -287,6 +287,7 @@ Just type [`ember.cool`](https://ember.cool) to go here ✨
 
 - [ember-debug-logger](https://github.com/salsify/ember-debug-logger) - Exposes the visionmedia/debug library for use in your Ember.js application.
 - [ember-devtools](https://github.com/aexmachina/ember-devtools) - A collection of useful Ember.js debugging functions.
+- [ember-chrome-devtools](https://github.com/dwickern/ember-chrome-devtools) - Chrome DevTools addon for Ember.js
 - [ember-perf-timeline](https://github.com/ember-best-practices/ember-perf-timeline) - Add performance information to Chrome's Timeline for Ember applications
 - [heimdalljs-visualizer](https://github.com/rwjblue/heimdalljs-visualizer) - Visualizer for heimdalljs data. 
 
