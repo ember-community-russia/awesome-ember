@@ -684,6 +684,7 @@ Just type [`ember.cool`](https://ember.cool) to go here ✨
 - [es5-getter-ember-codemod](https://github.com/rondale-sc/es5-getter-ember-codemod) - This codemod is intended to automatically convert your usage of get, and getProperties to use traditional object dot notation.
 - [qunit-dom-codemod](https://github.com/simplabs/qunit-dom-codemod) - Basic codemod to automatically convert your assertions to qunit-dom assertions.
 - [test-selectors-codemod](https://github.com/lorcan/test-selectors-codemod) - A codemode for fixing the ember-test-selectors testSelector helper deprecation.
+- [ember-on-codemod](https://github.com/craigbilner/ember-on-codemod) - Replace use of Ember.on
 
 ### Community
 
