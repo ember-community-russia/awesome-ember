@@ -622,6 +622,8 @@ Just type [`ember.cool`](https://ember.cool) to go here ✨
 
 - [Deep Dive on Ember Events](https://medium.com/square-corner-blog/deep-dive-on-ember-events-cf684fd3b808)
 
+- [The Glimmer VM: Boots Fast and Stays Fast](https://yehudakatz.com/2017/04/05/the-glimmer-vm-boots-fast-and-stays-fast/)
+
 - [A collection of links that summarize EmberConf 2017](https://github.com/poteto/emberconf-2017)
 - [A collection of links that summarize EmberConf 2016](https://github.com/poteto/emberconf-2016)
 - [A collection of links that summarize EmberConf 2015](https://github.com/poteto/emberconf-2015)
@@ -639,6 +641,7 @@ Just type [`ember.cool`](https://ember.cool) to go here ✨
 
 ### Blogs
 
+- [yehudakatz](https://yehudakatz.com/)
 - [201-created.com](https://blog.201-created.com/)
 - [airpair.com](https://www.airpair.com/ember.js)
 - [alexdiliberto.com](https://alexdiliberto.com/)
