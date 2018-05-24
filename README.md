@@ -33,6 +33,7 @@ Just type [`ember.cool`](https://ember.cool) to go here ✨
 	- [Content management systems](#content-management-systems)
 	- [Control flow](#control-flow)
 	- [CSS & etc](#css-&-etc)
+	- [Styling kits](#styling-kits)
 	- [Data Management](#data-management)
 	- [Data manipulation & Computed](#)
 	- [Data validation](#data-validation)
@@ -250,6 +251,9 @@ Just type [`ember.cool`](https://ember.cool) to go here ✨
  - [ember-css-modules](https://github.com/salsify/ember-css-modules) - CSS Modules for ambitious applications.
  - [ember-cli-tailwind](https://github.com/embermap/ember-cli-tailwind) - Tailwind is a utility-first CSS framework for rapidly building custom user interfaces.
 
+### Styling kits
+
+ - [ember-cli-tailwind](https://github.com/embermap/ember-cli-tailwind) - Adds Tailwind CSS to your app or addon
 
 ### Data Management
 
