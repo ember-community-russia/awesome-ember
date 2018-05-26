@@ -729,6 +729,8 @@ Just type [`ember.cool`](https://ember.cool) to go here ✨
 - [ember-rolodex](https://github.com/rtablada/ember-rolodex) - An example of what an Ember tutorial between the quick start and Super Rents could look like.
 - [ember-styleguide](https://github.com/ember-learn/ember-styleguide)
 - [Ghost Admin Client](https://github.com/TryGhost/Ghost-Admin)
+- [emberclear](https://github.com/NullVoxPopuli/emberclear) - Encrypted Chat. No History. No Logs.  + MU & TS
+- [Ember.js nested engines example app + Fastboot.](https://github.com/catz/eng-test)
 
 ### Gists
 
