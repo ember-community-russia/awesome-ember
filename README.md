@@ -294,6 +294,7 @@ Just type [`ember.cool`](https://ember.cool) to go here ✨
 - [ember-chrome-devtools](https://github.com/dwickern/ember-chrome-devtools) - Chrome DevTools addon for Ember.js
 - [ember-perf-timeline](https://github.com/ember-best-practices/ember-perf-timeline) - Add performance information to Chrome's Timeline for Ember applications
 - [heimdalljs-visualizer](https://github.com/rwjblue/heimdalljs-visualizer) - Visualizer for heimdalljs data. 
+- [source-map-explorer](https://github.com/danvk/source-map-explorer) - Analyze and debug space usage through source maps.
 
 ### Documentation
 
