@@ -407,7 +407,7 @@ Just type [`ember.cool`](https://ember.cool) to go here ✨
 
 ### Mad science
 
-- [?](#) - ????.
+- [javascript-algorithms](https://github.com/trekhleb/javascript-algorithms) - Algorithms and data structures implemented in JavaScript with explanations and links to further readings
 
 ### Math
 
