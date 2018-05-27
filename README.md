@@ -728,6 +728,7 @@ Just type [`ember.cool`](https://ember.cool) to go here ✨
 
 ### Examples
 
+- [Open Source Ember Apps](https://github.com/EmberSherpa/open-source-ember-apps)
 - [API Docs](https://github.com/ember-learn/ember-api-docs) - This application was built to display our versioned API docs.
 - [guides-app](https://github.com/ember-learn/guides-app) - Replacement for emberjs/guides and the Ember Guides
 - [Builds](https://github.com/ember-learn/builds) - This is the application that the Ember.js team built to display our various release channels.
