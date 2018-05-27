@@ -820,6 +820,7 @@ Just type [`ember.cool`](https://ember.cool) to go here ✨
 
 ### Tutorials
 
+- [How to learn EmberJS in a hurry](https://medium.com/ember-ish/how-to-learn-emberjs-in-a-hurry-c6fdeae256a0)
 - [Discover Ember 2](https://www.ludu.co/course/ember) - Learn how to build a Twitter clone from scratch
 - [Ember Components: A Deep Dive](http://code.tutsplus.com/tutorials/ember-components-a-deep-dive--net-35551) - A closer look at using Ember Components.
 - [Ember runloop handbook](https://github.com/eoinkelly/ember-runloop-handbook) - A deep dive into the Ember JS runloop.
