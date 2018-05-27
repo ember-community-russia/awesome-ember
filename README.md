@@ -45,6 +45,7 @@ Just type [`ember.cool`](https://ember.cool) to go here ✨
 	- [Ember-inspector roadmaps & overview](#)
 	- [End-user customization](#end-user-customization)
 	- [ES6](#es6)
+	- [Extenral Components Integration)(#external-components-integration)
 	- [Filesystem](#filesystem)
 	- [Forms](#forms)
 	- [Forum](#forum)
@@ -324,6 +325,12 @@ Just type [`ember.cool`](https://ember.cool) to go here ✨
 
 - [ember-decorators](https://github.com/ember-decorators/ember-decorators) - Useful decorators for Ember applications. 
 
+### Extenral Components Integration
+
+- [ember-glimmer-component](https://github.com/smfoote/ember-glimmer-component) - Glimmer.js-like components in Ember
+- [@alexlafroscia/ember-cli-react](https://github.com/alexlafroscia/ember-cli-react) - Render React components in Ember
+- [@AltSchool/ember-cli-react](https://github.com/AltSchool/ember-cli-react) - Use React component hierarchies in your Ember app
+
  ### Filesystem
 
 - [?](#) - ????.
@@ -527,6 +534,7 @@ Just type [`ember.cool`](https://ember.cool) to go here ✨
 - [ember-qunit](https://github.com/emberjs/ember-qunit) - QUnit test helpers for Ember
 - [ember-test-selectors](https://github.com/simplabs/ember-test-selectors) - Enabling better element selectors in Ember.js tests
 - [ember-test-setup](https://github.com/kellyselden/ember-test-setup) - Testing shorthands to reduce duplication
+- [ember-cli-pact](https://github.com/twokul/ember-cli-pact) - Contract testing with Ember.js and Pact
 
 ### Text
 
@@ -679,6 +687,7 @@ Just type [`ember.cool`](https://ember.cool) to go here ✨
 - [Ember.js in Action](http://manning.com/skeie/) by Joachim Haagen Skeie
 - [Professor Frisby's Mostly adequate guide to Functional Programming](https://drboolean.gitbooks.io/mostly-adequate-guide-old/)
 - [Rock and Roll with Ember.js](http://rockandrollwithemberjs.com/)
+- [Pragmatic, balanced FP in JavaScript](https://github.com/getify/Functional-Light-JS)
 
 ### Cheatsheets
 
@@ -732,6 +741,7 @@ Just type [`ember.cool`](https://ember.cool) to go here ✨
 - [Ghost Admin Client](https://github.com/TryGhost/Ghost-Admin)
 - [emberclear](https://github.com/NullVoxPopuli/emberclear) - Encrypted Chat. No History. No Logs.  + MU & TS
 - [Ember.js nested engines example app + Fastboot.](https://github.com/catz/eng-test)
+- [Percy's frontend web application, built with Ember. ](https://github.com/percy/percy-web)
 
 ### Gists
 
