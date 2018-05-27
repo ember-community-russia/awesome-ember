@@ -655,6 +655,7 @@ Just type [`ember.cool`](https://ember.cool) to go here ✨
 
 ### Blogs
 
+- [Ember Daily Tips](http://www.emberdaily.com)
 - [yehudakatz](https://yehudakatz.com/)
 - [201-created.com](https://blog.201-created.com/)
 - [airpair.com](https://www.airpair.com/ember.js)
