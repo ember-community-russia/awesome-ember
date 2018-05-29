@@ -373,6 +373,7 @@ Just type [`ember.cool`](https://ember.cool) to go here ✨
 - [ember-root-url](https://github.com/ef4/ember-root-url) - A template helper to keep your URLs relative to the app's rootURL.
 - [ember-store-helpers](https://github.com/ember-sapporo/ember-store-helpers) - This add-on provides helpers related to ember-data.
 - [ember-truth-helpers](https://github.com/jmurphyau/ember-truth-helpers) - Ember HTMLBars Helpers for {{if}} & {{unless}}: not, and, or, eq & is-array
+- [ember-macro-helpers](https://github.com/kellyselden/ember-macro-helpers) - Ember macro helpers for making your own fancy macros!
 - [ember-cli-string-helpers](https://github.com/romulomachado/ember-cli-string-helpers) - Set of the String helpers extracted from DockYard's ember-composable-helpers.
 
 ### Humanize
