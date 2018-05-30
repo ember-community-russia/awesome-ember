@@ -593,6 +593,7 @@ Just type [`ember.cool`](https://ember.cool) to go here ✨
 
 ### Articles
 
+- [Ember: Our Secret Weapon](https://www.prototypal.io/blog/)
 - [Everything you need to know to upgrade your Ember.js app](https://medium.com/front-end-hacking/everything-you-need-to-know-to-upgrade-your-ember-js-app-including-ember-3-9de5e808dde0)
 - [Top 10 Ember.js Development Companies](https://medium.com/@henryw1990/top-10-ember-js-development-companies-d07826a87f24)
 - [16 Opensource EmberJS Projects to Learn From](https://www.icicletech.com/blog/16-opensource-emberjs-projects-to-learn-from)
