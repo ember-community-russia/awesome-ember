@@ -633,9 +633,6 @@ Just type [`ember.cool`](https://ember.cool) to go here ✨
 - [Secrets of the Ember-CLI server: Express middleware with Ember-CLI](https://blog.201-created.com/secrets-of-the-ember-cli-server-bde80bb546dd)
 - [How I added whitelabel theming to my Ember app](https://medium.com/@simeonberns/how-i-added-whitelabel-theming-to-my-ember-app-97bfca9e263a)
 - [Customising Ember Power Select](https://medium.com/life-at-kayako/customising-ember-power-select-3d570c7c4c0c)
-
-- [A list of EmberJS2018 blog posts and ideas](https://github.com/zinyando/emberjs2018-posts)
-
 - [Deep Dive on Ember Events](https://medium.com/square-corner-blog/deep-dive-on-ember-events-cf684fd3b808)
 
 - [The Glimmer VM: Boots Fast and Stays Fast](https://yehudakatz.com/2017/04/05/the-glimmer-vm-boots-fast-and-stays-fast/)
