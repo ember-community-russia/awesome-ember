@@ -658,6 +658,7 @@ Just type [`ember.cool`](https://ember.cool) to go here ✨
 ### Blogs
 
 - [Ember Daily Tips](http://www.emberdaily.com)
+- [emberway.io](https://emberway.io/)
 - [yehudakatz](https://yehudakatz.com/)
 - [201-created.com](https://blog.201-created.com/)
 - [airpair.com](https://www.airpair.com/ember.js)
@@ -667,6 +668,7 @@ Just type [`ember.cool`](https://ember.cool) to go here ✨
 - [codementor.io](https://www.codementor.io/community/topic/emberjs)
 - [dockyard.com](https://dockyard.com/blog/categories/ember)
 - [emberigniter.com](https://emberigniter.com/articles/)
+- [blog.embermap.com](https://blog.embermap.com)
 - [engineering.linkedin.com](https://engineering.linkedin.com/blog/topic/ember)
 - [hackernoon.com](https://hackernoon.com/tagged/ember)
 - [lolma.us](https://lolma.us/en/blog)
@@ -831,6 +833,7 @@ Just type [`ember.cool`](https://ember.cool) to go here ✨
 - [Getting into Ember.js](http://code.tutsplus.com/tutorials/getting-into-emberjs--net-30709) - A five part introductory course to Ember.
 - [Getting Started with Ember.js using Ember CLI](http://thetechcofounder.com/getting-started-with-ember-js-using-ember-cli/) - Building a Todo app with Ember CLI.
 - [yoember.com/](http://yoember.com/) - Ember.js Tutorial - From beginner to advance.
+- [build-pacman](http://www.jeffreybiles.com/build-pacman)
 
 ### Twitter
 
