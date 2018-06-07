@@ -751,6 +751,8 @@ Just type [`ember.cool`](https://ember.cool) to go here ✨
 - [emberclear](https://github.com/NullVoxPopuli/emberclear) - Encrypted Chat. No History. No Logs.  + MU & TS
 - [Ember.js nested engines example app + Fastboot.](https://github.com/catz/eng-test)
 - [Percy's frontend web application, built with Ember. ](https://github.com/percy/percy-web)
+- [Fire Tracker](https://github.com/SCPR/fire-tracker) - KPCC's tool for following & researching California wildfires.
+
 
 ### Gists
 
