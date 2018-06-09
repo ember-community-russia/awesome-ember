@@ -752,6 +752,7 @@ Just type [`ember.cool`](https://ember.cool) to go here ✨
 - [Ember.js nested engines example app + Fastboot.](https://github.com/catz/eng-test)
 - [Percy's frontend web application, built with Ember. ](https://github.com/percy/percy-web)
 - [Fire Tracker](https://github.com/SCPR/fire-tracker) - KPCC's tool for following & researching California wildfires.
+- [skylines-project](https://github.com/skylines-project/skylines/tree/master/ember) - Live tracking, flight database and competition framework
 
 
 ### Gists
