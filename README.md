@@ -77,6 +77,7 @@ Just type [`ember.cool`](https://ember.cool) to go here ✨
 	- [Process management](#process-management)
 	- [Query Params](#query-params)
 	- [Real-time](#real-time)
+	- [Routing addons](#routing-addons)
 	- [Security](#security)
 	- [SSR / Server Side Rendering](#)
 	- [Static site generators](#s)
@@ -499,6 +500,10 @@ Just type [`ember.cool`](https://ember.cool) to go here ✨
 ### Real-time
 
 - [ember-cli-flash](https://github.com/poteto/ember-cli-flash) - Simple, highly configurable flash messages for ember-cli.
+
+### Routing addos
+
+- [ember-redirect](https://github.com/thoov/ember-redirect) - This addon aims to be a simple and easy way to preform route based redirects with minimal effort.
 
 ### Security
 
