@@ -435,7 +435,7 @@ Just type [`ember.cool`](https://ember.cool) to go here ✨
  - [ember-metrics](https://github.com/poteto/ember-metrics) - Send data to multiple analytics services without re-implementing new API
 
 ### Minifiers
-- [?](#) - ????
+- [ember-hbs-minifier](https://github.com/simplabs/ember-hbs-minifier) - Stripping whitespace out of your Handlebars templates
 
 ### Miscellaneous
 
