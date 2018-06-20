@@ -549,7 +549,6 @@ Just type [`ember.cool`](https://ember.cool) to go here ✨
 - [ember-cli-yadda](https://github.com/albertjan/ember-cli-yadda) - Write cucumber specs for ember-cli applications
 - [ember-concurrency-test-waiter](https://github.com/bendemboski/ember-concurrency-test-waiter) - Easily enable test waiters for ember-concurrency tasks
 - [ember-exam](https://github.com/trentmwillis/ember-exam) - Run your tests with randomization, splitting, and parallelization for beautiful tests.
-- [ember-page-object](https://github.com/linstula/ember-page-object) - A base Page Object class with helper functions and generators to help implement the Page Object pattern for your tests. 
 - [ember-percy](https://github.com/percy/ember-percy) - Ember addon for visual regression testing with Percy
 - [ember-qunit](https://github.com/emberjs/ember-qunit) - QUnit test helpers for Ember
 - [ember-test-selectors](https://github.com/simplabs/ember-test-selectors) - Enabling better element selectors in Ember.js tests
