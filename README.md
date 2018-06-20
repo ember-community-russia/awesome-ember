@@ -267,6 +267,7 @@ Just type [`ember.cool`](https://ember.cool) to go here ✨
 - [ember-redux](http://www.ember-redux.com/) - Predictable state management for ember apps
 - [ember-state-services](https://github.com/stefanpenner/ember-state-services)
 - [ember-time-machine](https://github.com/offirgolan/ember-time-machine)
+- [ember-data-storefront](https://github.com/embermap/ember-data-storefront) - A collection of APIs that address common data-loading issues.
 
  ### Data manipulation & Computed
 
