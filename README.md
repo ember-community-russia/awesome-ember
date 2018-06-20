@@ -540,6 +540,7 @@ Just type [`ember.cool`](https://ember.cool) to go here ✨
 - [ember-cli-mocha](https://github.com/ember-cli/ember-cli-mocha) - Mocha and Chai tests for ember-cli applications
 - [ember-cli-page-object](https://github.com/san650/ember-cli-page-object) - This ember-cli addon eases the construction of page objects on your acceptance and integration tests
 - [ember-cli-yadda](https://github.com/albertjan/ember-cli-yadda) - Write cucumber specs for ember-cli applications
+- [ember-concurrency-test-waiter](https://github.com/bendemboski/ember-concurrency-test-waiter) - Easily enable test waiters for ember-concurrency tasks
 - [ember-exam](https://github.com/trentmwillis/ember-exam) - Run your tests with randomization, splitting, and parallelization for beautiful tests.
 - [ember-percy](https://github.com/percy/ember-percy) - Ember addon for visual regression testing with Percy
 - [ember-qunit](https://github.com/emberjs/ember-qunit) - QUnit test helpers for Ember
