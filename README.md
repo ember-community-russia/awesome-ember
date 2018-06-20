@@ -58,6 +58,7 @@ Just type [`ember.cool`](https://ember.cool) to go here ✨
 	- [Include external JS code](#include-external-js-code)
 	- [Infinite Scroll](#infinite-scroll)
 	- [Internalization & Localization](#)
+	- [Inputs](#inputs)
 	- [Job queues](#job-queues)
 	- [Logging](#logging)
 	- [Mad science](#mad-science)
@@ -404,6 +405,11 @@ Just type [`ember.cool`](https://ember.cool) to go here ✨
 - [ember-i18n](https://github.com/jamesarosen/ember-i18n) - Internationalization for Ember
 - [ember-intl](https://github.com/ember-intl/ember-intl) - Translate complex messages string. Localized formatting for date/time, number, and relative time.
 
+### Inputs 
+
+- [ember-autoresize](https://github.com/tim-evans/ember-autoresize) - Autoresize for Ember Components
+
+
 ### Job queues
 
 - [ember-concurrency](http://ember-concurrency.com)
@@ -552,7 +558,8 @@ Just type [`ember.cool`](https://ember.cool) to go here ✨
 
 ### Text
 
-- [?](#) - ????
+- [ember-text-measurer](https://github.com/cibernox/ember-text-measurer) - Simple Ember Service to measure the width of a string in a performant way
+
 
 ### TypeScript
 
