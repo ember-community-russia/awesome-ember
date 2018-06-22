@@ -71,6 +71,7 @@ Just type [`ember.cool`](https://ember.cool) to go here ✨
 	- [Network](#network)
 	- [Node.js management](#nodejs-management)
 	- [Number](#number)
+	- [Parcel](#parcel)
 	- [Parsing](#parsing)
 	- [Payments](#payments)
 	- [Polyfills](#polyfills)
@@ -471,6 +472,11 @@ Just type [`ember.cool`](https://ember.cool) to go here ✨
 ### Number
 
 - [?](#) - ????.
+
+### Parcel
+
+- [ember-parcel-example](https://github.com/rtablada/ember-parcel-example) - Ember.js + Parcel.js Example
+- [todomvc-demo](https://github.com/devongovett/todomvc-demo) - Glimmer.js + Parcel.js Exmaple
 
 ### Parsing
 
