@@ -203,6 +203,7 @@ Just type [`ember.cool`](https://ember.cool) to go here ✨
 ### Codestyle
 
 - [ember-cli-alex](https://github.com/yohanmishkin/ember-cli-alex) - alex for Ember apps
+- [ember-prop-types](https://github.com/ciena-blueplanet/ember-prop-types) - Improved property management for Ember apps and addons.
 
 ### Command-line apps
 
