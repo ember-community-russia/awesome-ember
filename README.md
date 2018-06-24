@@ -374,6 +374,7 @@ Just type [`ember.cool`](https://ember.cool) to go here ✨
 - [ember-composable-helpers](https://github.com/DockYard/ember-composable-helpers) - Composable helpers for declarative templating in Ember
 - [ember-d3-helpers](https://github.com/LocusEnergy/ember-d3-helpers) - Collection of Ember.js helpers for building composable D3 charts.
 - [ember-math-helpers](https://github.com/shipshapecode/ember-math-helpers) - Ember HTMLBars helpers for basic arithmetic
+- [ember-promise-helpers](https://github.com/fivetanley/ember-promise-helpers) - Promise-y sugar for your Ember templates
 - [ember-route-action-helper](https://github.com/DockYard/ember-route-action-helper) - Bubble closure actions in routes
 - [ember-root-url](https://github.com/ef4/ember-root-url) - A template helper to keep your URLs relative to the app's rootURL.
 - [ember-store-helpers](https://github.com/ember-sapporo/ember-store-helpers) - This add-on provides helpers related to ember-data.
