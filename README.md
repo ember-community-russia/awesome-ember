@@ -757,6 +757,7 @@ Just type [`ember.cool`](https://ember.cool) to go here ✨
 
 - [emberaddons](https://www.emberaddons.com/) - Ember Addons.
 - [emberobserver](https://emberobserver.com/) - Ember Observer.
+- [emberjs.github.io/rfcs/](https://emberjs.github.io/rfcs/) - Ember RFCs.
 
 ### Examples
 
