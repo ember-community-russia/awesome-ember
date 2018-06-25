@@ -328,6 +328,7 @@ Just type [`ember.cool`](https://ember.cool) to go here ✨
 
 ### ES6
 
+- [ember-concurrency-decorators](https://github.com/machty/ember-concurrency-decorators) -  Decorator syntax for declaring/configuring ember-concurrency tasks
 - [ember-decorators](https://github.com/ember-decorators/ember-decorators) - Useful decorators for Ember applications. 
 
 ### Extenral Components Integration
