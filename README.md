@@ -183,6 +183,7 @@ Just type [`ember.cool`](https://ember.cool) to go here ✨
 ### Broccoli read
 
 - [Eat Your Greens - A Broccoli.js tutorial](http://www.oligriffiths.com/broccolijs/)
+- [Thoughts on how to write faster broccoli plugins](https://gist.github.com/Gaurav0/c1eb3a00670eed28e57c2cf92d3f7668)
  
 ### Build tools
 
