@@ -405,6 +405,7 @@ Just type [`ember.cool`](https://ember.cool) to go here ✨
 
 ### Infinite Scroll
 
+- [ember-infinity](https://github.com/ember-infinity/ember-infinity) - Simple, flexible Infinite Scroll for Ember CLI Apps.
 - [vertical-collection](https://github.com/html-next/vertical-collection) - Infinite Scroll and Occlusion at > 60FPS
 - [smoke-and-mirrors](https://github.com/html-next/smoke-and-mirrors) - Ambitious infinite-scroll and svelte rendering for ambitious applications.
 
