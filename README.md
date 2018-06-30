@@ -84,6 +84,7 @@ Just type [`ember.cool`](https://ember.cool) to go here ✨
 	- [SSR / Server Side Rendering](#)
 	- [Static site generators](#s)
 	- [Streams](#streams)
+	- [State management](#state-management)
 	- [Styling](#styling)
 	- [Templating](#templating)
 	- [Testing](#testing)
@@ -260,6 +261,16 @@ Just type [`ember.cool`](https://ember.cool) to go here ✨
  - [ember-cli-tailwind](https://github.com/embermap/ember-cli-tailwind) - Tailwind is a utility-first CSS framework for rapidly building custom user interfaces.
  - [ember-emotion](https://github.com/alexlafroscia/ember-emotion) - Use emotion styling in Ember.js
 
+### State management
+
+- [ember-buffered-proxy](https://github.com/yapplabs/ember-buffered-proxy)
+- [ember-changeset](https://github.com/poteto/ember-changeset)
+- [ember-cerebraljs](https://github.com/lifeart/ember-cerebraljs) - Enhanced state management for complex Ember apps using Cerebral
+- [ember-redux](http://www.ember-redux.com/) - Predictable state management for ember apps
+- [ember-state-services](https://github.com/stefanpenner/ember-state-services)
+- [ember-time-machine](https://github.com/offirgolan/ember-time-machine)
+
+
 ### Styling kits
 
  - [ember-cli-tailwind](https://github.com/embermap/ember-cli-tailwind) - Adds Tailwind CSS to your app or addon
@@ -267,13 +278,8 @@ Just type [`ember.cool`](https://ember.cool) to go here ✨
 ### Data Management
 
 - [ember-apollo-client](https://github.com/bgentry/ember-apollo-client) - An ember-cli addon for Apollo Client and GraphQL
-- [ember-buffered-proxy](https://github.com/yapplabs/ember-buffered-proxy)
-- [ember-changeset](https://github.com/poteto/ember-changeset)
 - [ember-cli-sofa](https://github.com/ampatspell/ember-cli-sofa) - CouchDB persistence library for Ember.js
 - [ember-orbit](https://github.com/orbitjs/ember-orbit) - Ember.js data layer built with Orbit.js
-- [ember-redux](http://www.ember-redux.com/) - Predictable state management for ember apps
-- [ember-state-services](https://github.com/stefanpenner/ember-state-services)
-- [ember-time-machine](https://github.com/offirgolan/ember-time-machine)
 - [ember-data-storefront](https://github.com/embermap/ember-data-storefront) - A collection of APIs that address common data-loading issues.
 
  ### Data manipulation & Computed
