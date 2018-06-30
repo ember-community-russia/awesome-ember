@@ -682,6 +682,7 @@ Just type [`ember.cool`](https://ember.cool) to go here ✨
 
 ### Articles about Data
 - [Offline Data and Sync with Ember-Orbit](https://codingitwrong.com/2018/05/10/ember-orbit.html)
+- [Inlining store data in Ember.js](https://balinterdi.com/blog/inlining-store-data-in-ember-js/)
 
 ### Best-practices 
 
