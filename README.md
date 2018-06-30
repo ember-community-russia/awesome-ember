@@ -684,6 +684,10 @@ Just type [`ember.cool`](https://ember.cool) to go here ✨
 - [Offline Data and Sync with Ember-Orbit](https://codingitwrong.com/2018/05/10/ember-orbit.html)
 - [Inlining store data in Ember.js](https://balinterdi.com/blog/inlining-store-data-in-ember-js/)
 
+### Articles about Routing
+- [Ember.Route redirecting ‘/’ to ‘/my-own’](https://medium.com/ember-titbits/quest-4-ember-route-defaulting-to-my-own-f22b0dcb336f)
+
+
 ### Best-practices 
 
 - [ember-best-practices](https://github.com/ember-best-practices)
