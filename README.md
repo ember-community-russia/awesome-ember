@@ -568,6 +568,7 @@ Just type [`ember.cool`](https://ember.cool) to go here ✨
 - [ember-test-selectors](https://github.com/simplabs/ember-test-selectors) - Enabling better element selectors in Ember.js tests
 - [ember-test-setup](https://github.com/kellyselden/ember-test-setup) - Testing shorthands to reduce duplication
 - [ember-cli-pact](https://github.com/twokul/ember-cli-pact) - Contract testing with Ember.js and Pact
+- [mirage-glue](https://github.com/izelnakri/mirage-glue) - This program reads your API endpoint and creates or appends response to relevant mirage fixture file(s).
 
 ### Text
 
