@@ -182,6 +182,7 @@ Just type [`ember.cool`](https://ember.cool) to go here ✨
 
 ### Broccoli read
 
+- [Debugging Ember-cli Build Times](https://medium.com/@Dhaulagiri/debugging-ember-cli-build-times-38bd1b0f55f9)
 - [Eat Your Greens - A Broccoli.js tutorial](http://www.oligriffiths.com/broccolijs/)
 - [Thoughts on how to write faster broccoli plugins](https://gist.github.com/Gaurav0/c1eb3a00670eed28e57c2cf92d3f7668)
  
