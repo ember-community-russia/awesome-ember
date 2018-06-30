@@ -864,6 +864,7 @@ Just type [`ember.cool`](https://ember.cool) to go here ✨
 - [ember-data-model-maker](https://andycrum.github.io/ember-data-model-maker/) - UI to make ember-data models & payload examples
 - [Glimmer Playground](https://try.glimmerjs.com/) - An Glimmer.js playground.
 - [gulp-ember-handlebars](https://github.com/fuseelements/gulp-ember-handlebars) - Compiles Handlebars templates to JS ready for Ember.
+- [mber](https://github.com/izelnakri/mber) - Ember-cli replacement. Currently alpha.
 - [remote-inspector](https://github.com/joostdevries/ember-cli-remote-inspector) - Lets you inspect apps running on different devices/browsers over the network using websockets.
 
 ### Tutorials
