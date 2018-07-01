@@ -914,6 +914,7 @@ Just type [`ember.cool`](https://ember.cool) to go here ✨
 - [Ember @ Netflix](https://pusher.com/sessions/meetup/emberfest/ember-netflix)
 - [Ember Engines at Scale](https://pusher.com/sessions/meetup/ember-london/ember-engines-at-scale)
 - [Ember Test Recorder](https://pusher.com/sessions/meetup/ember-london/ember-test-recorder)
+- [Ember-cli In-Repo Addons with Jacob Bixby](https://www.youtube.com/watch?v=VYrMs1Zzpqs)
 - [ember-content-placeholders](https://pusher.com/sessions/meetup/emberfest/ember-content-placeholders)
 - [Ember.JS in the Year 2020](https://pusher.com/sessions/meetup/emberfest/emberjs-in-the-year-2020)
 - [EmberConf 2014](https://www.youtube.com/playlist?list=PLE7tQUdRKcyaOyfBnAndJxQ9PNVmKva0d) - Videos of the sessions from EmberConf 2014.
