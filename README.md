@@ -680,6 +680,7 @@ Just type [`ember.cool`](https://ember.cool) to go here ✨
 
 - [The Glimmer VM: Boots Fast and Stays Fast](https://yehudakatz.com/2017/04/05/the-glimmer-vm-boots-fast-and-stays-fast/)
 
+- [A collection of links that summarize EmberConf 2018](https://github.com/nucleartide/emberconf-2018)
 - [A collection of links that summarize EmberConf 2017](https://github.com/poteto/emberconf-2017)
 - [A collection of links that summarize EmberConf 2016](https://github.com/poteto/emberconf-2016)
 - [A collection of links that summarize EmberConf 2015](https://github.com/poteto/emberconf-2015)
