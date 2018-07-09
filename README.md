@@ -696,6 +696,8 @@ Just type [`ember.cool`](https://ember.cool) to go here ✨
 ### Articles about Routing
 - [Ember.Route redirecting ‘/’ to ‘/my-own’](https://medium.com/ember-titbits/quest-4-ember-route-defaulting-to-my-own-f22b0dcb336f)
 
+### Yarn in Ember articles
+- [Ember and Yarn Workspaces](https://medium.com/square-corner-blog/ember-and-yarn-workspaces-fca69dc5d44a)
 
 ### Best-practices 
 
