@@ -689,6 +689,10 @@ Just type [`ember.cool`](https://ember.cool) to go here ✨
 
 - [A list of EmberJS2018 blog posts and ideas](https://github.com/zinyando/emberjs2018-posts)
 
+
+### Articles Modern Testing
+- [Test helpers: The next generation](https://dockyard.com/blog/2018/01/18/test-helpers-the-next-generation)
+
 ### Articles FastBoot
 - [How to integrate Ember FastBoot in Cloud Functions for Firebase](https://rmmmp.github.io/2018/05/16/how-to-integrate-ember-fastboot-in-cloud-functions-for-firebase.html)
 
