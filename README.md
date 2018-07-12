@@ -615,6 +615,7 @@ Just type [`ember.cool`](https://ember.cool) to go here ✨
 
 ### VS Code addons
 
+- [Ember Syntax](https://marketplace.visualstudio.com/items?itemName=dhedgecock.ember-syntax) - Syntax highlighting for Ember template files AND syntax highlighting for inline template definitions with tagged templates!
  - [ember-language-server](https://github.com/emberwatch/ember-language-server) - Language Server Protocol implementation for Ember.js projects
  - [vscode-ember-colorizer](https://github.com/ciena-blueplanet/vscode-ember-colorizer) - VsCode extension that colorizes/tokeninzes Ember .hbs, Controllers, and Routes files.
 
