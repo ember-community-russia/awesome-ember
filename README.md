@@ -571,6 +571,7 @@ Just type [`ember.cool`](https://ember.cool) to go here ✨
 - [ember-exam](https://github.com/trentmwillis/ember-exam) - Run your tests with randomization, splitting, and parallelization for beautiful tests.
 - [ember-percy](https://github.com/percy/ember-percy) - Ember addon for visual regression testing with Percy
 - [ember-qunit](https://github.com/emberjs/ember-qunit) - QUnit test helpers for Ember
+- [ember-test-friendly-error-handler](https://github.com/rwjblue/ember-test-friendly-error-handler) - Build testable error handlers that don't throw in production...
 - [ember-test-selectors](https://github.com/simplabs/ember-test-selectors) - Enabling better element selectors in Ember.js tests
 - [ember-test-setup](https://github.com/kellyselden/ember-test-setup) - Testing shorthands to reduce duplication
 - [ember-cli-pact](https://github.com/twokul/ember-cli-pact) - Contract testing with Ember.js and Pact
