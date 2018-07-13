@@ -816,6 +816,7 @@ Just type [`ember.cool`](https://ember.cool) to go here ✨
 
 ### Gists
 
+- [Ember + ESLint + Prettier + Ember Suave](https://gist.github.com/sarupbanskota/2394fc439e538239a073c39514a5aa55)
 - [@listochkin/Ember.js Video Collection (Ru/En)](https://gist.github.com/listochkin/87e47cdbf986fb2e9905)
 - [@rwjblue/ember_examples](https://gist.github.com/rwjblue/8816372)
 - [@wycats/A small sampling of external projects initially built for Ember use but designed to be used standalone](https://gist.github.com/wycats/b58d56e5a47db4128a0a)
