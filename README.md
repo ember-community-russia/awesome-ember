@@ -693,6 +693,9 @@ Just type [`ember.cool`](https://ember.cool) to go here ✨
 
 - [A list of EmberJS2018 blog posts and ideas](https://github.com/zinyando/emberjs2018-posts)
 
+### Jump-Start Articles 
+- [Ember Guide for Beginners](https://rmmmp.github.io/2018/07/14/ember-guide-for-beginners-01-introduction.html)
+
 
 ### Articles Modern Testing
 - [Test helpers: The next generation](https://dockyard.com/blog/2018/01/18/test-helpers-the-next-generation)
