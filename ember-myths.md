@@ -53,4 +53,11 @@ __Fact:__  If you need light application/web-component take a look at [Glimmer](
 
 ---
 
+__Myth:__ _Ember is ancient and has only a few releases_
+
+__Fact:__  Yes, Ember is ancient, but, it always [up-to-date](https://emberjs.github.io/rfcs/) and has [new stable release each six weeaks](https://www.emberjs.com/blog/tags/releases.html)
+
+---
+
+
 
