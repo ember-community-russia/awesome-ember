@@ -22,3 +22,9 @@ __Myth:__ _Ember don't have SSR (Server Side Rendering)_
 __Fact:__  Ember have it - [Ember-fastboot](https://www.ember-fastboot.com/)
 
 ---
+
+__Myth:__ _You Can't use React commponents in Ember_
+
+__Fact:__  You can, take a look at `ember-react-components` or `ember-cli-react`
+
+---
