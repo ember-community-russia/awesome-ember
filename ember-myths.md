@@ -22,3 +22,9 @@ __Myth:__ _Ember doesn't have SSR (Server Side Rendering)._
 __Fact:__  Ember has it - [Ember-fastboot](https://www.ember-fastboot.com/).
 
 ---
+
+__Myth:__ _Ember requires a totally compliant JSON-API backend api_
+
+__Fact:__  Ember Data can be customized to work with any backend api, or you can just use fetch or ajax.
+
+---
