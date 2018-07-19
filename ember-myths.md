@@ -11,7 +11,7 @@ __Fact:__  Nope, Ember is a front-end framework.
 
 ---
 
-__Myth:__ _In Ember you can't just install and import fom npm._
+__Myth:__ _In Ember you can't just install and import from npm_
 
 __Fact:__  You can, simply install [ember-auto-import](https://github.com/ef4/ember-auto-import) addon.
 
