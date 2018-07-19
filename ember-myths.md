@@ -1,13 +1,13 @@
 
 __Myth:__ _Ember is too large!_
 
-__Fact:__  Ember __3.x__ without __ember-data__ and __jQuery__ is only __151kb__ gzipped
+__Fact:__  Ember __3.x__ without __ember-data__ and __jQuery__ is only __151kb__ gzipped.
 
 ---
 
-__Myth:__ _Ember is Full-Stack framework_
+__Myth:__ _Ember is a Full-Stack framework._
 
-__Fact:__  Nope, Ember is front-end framework
+__Fact:__  Nope, Ember is a front-end framework.
 
 ---
 
@@ -17,14 +17,8 @@ __Fact:__  You can, simply install [ember-auto-import](https://github.com/ef4/em
 
 ---
 
-__Myth:__ _Ember don't have SSR (Server Side Rendering)_
+__Myth:__ _Ember doesn't have SSR (Server Side Rendering)._
 
-__Fact:__  Ember have it - [Ember-fastboot](https://www.ember-fastboot.com/)
-
----
-
-__Myth:__ _You Can't use React commponents in Ember_
-
-__Fact:__  You can, take a look at `ember-react-components` or `ember-cli-react`
+__Fact:__  Ember has it - [Ember-fastboot](https://www.ember-fastboot.com/).
 
 ---
