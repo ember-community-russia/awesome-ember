@@ -53,5 +53,12 @@ __Fact:__  Yes, Ember is ancient, but, it always [up-to-date](https://emberjs.gi
 
 ---
 
+__Myth:__ _A lot of ember addons are ports of existing jQuery libraries and only a few written from scratch._
+
+__Fact:__ In [emberobserver.com](https://emberobserver.com/) you can find tons native ember addons.
+
+---
+
+
 
 
