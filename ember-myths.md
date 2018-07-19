@@ -59,6 +59,12 @@ __Fact:__ In [emberobserver.com](https://emberobserver.com/) you can find tons n
 
 ---
 
+__Myth:__ _Ember has jQuery dependency._
+
+__Fact:__ By default Ember shipped with jQuery, if you don't need it - remove using [@ember/optional-features](https://github.com/emberjs/ember-optional-features)
+
+---
+
 
 
 
