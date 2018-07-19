@@ -35,12 +35,6 @@ __Fact:__  You can use Ember in functional way, using [ember-redux](https://embe
 
 ---
 
-__Myth:__ _Ember is a very strict MVC paradigm_
-
-__Fact:__  You can use Ember in functional way, using [ember-redux](https://ember-redux.com/)
-
----
-
 __Myth:__ _You can't use TypeScript in Ember_
 
 __Fact:__  All you need to start using TypeScript in Ember - [ember-cli-typescript](https://github.com/typed-ember/ember-cli-typescript)
