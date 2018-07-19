@@ -4,7 +4,7 @@
 > A curated list of delightful Ember.js [packages](#packages) and [resources](#resources).
 
 Just type [`ember.cool`](https://ember.cool) to go here ✨
-
+Ember Myths located [here ✨](ember-myths.md)
 *You might also like [awesome-npm](https://github.com/sindresorhus/awesome-npm).*
 *Please read the [contribution guidelines](contributing.md) before contributing.*
 
