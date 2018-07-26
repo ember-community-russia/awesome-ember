@@ -641,6 +641,7 @@ Ember Myths located [here ✨](ember-myths.md)
 
 ### Articles
 
+- [Tips for improving build time of large apps](https://discuss.emberjs.com/t/tips-for-improving-build-time-of-large-apps/15008)
 - [Error Handling](https://github.com/pixelhandler/ember-jsonapi-resources/wiki/Error-Handling)
 - [Build and Authenticate an EmberJS 3 Application](https://auth0.com/blog/build-and-authenticate-an-emberjs-3-application)
 - [Ember: Our Secret Weapon](https://www.prototypal.io/blog/)
