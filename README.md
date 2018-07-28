@@ -603,6 +603,7 @@ Ember Myths located [here ✨](ember-myths.md)
 
 ### UI components
 
+- [ember-attacher](https://kybishop.github.io/ember-attacher/) - Tooltips & popovers made easy.
 - [ember-burger-menu](https://github.com/offirgolan/ember-burger-menu) - An off-canvas sidebar component with a collection of animations and styles using CSS transitions.
 - [ember-flatpickr](https://github.com/shipshapecode/ember-flatpickr) - An Ember addon that wraps the Flatpickr date picker.
 - [ember-power-select](https://github.com/cibernox/ember-power-select) - The extensible select component built for ember.
