@@ -639,10 +639,13 @@ Ember Myths located [here ✨](ember-myths.md)
 
 ## Resources
 
-- [?](#) - ????
+- [Front-End Performance Checklist](https://github.com/thedaviddias/Front-End-Performance-Checklist)
 
 ### Articles
 
+- [Clearing Async Nests with ember-concurrency](https://medium.com/intensive-code-unit/clearing-async-nests-with-ember-concurrency-55305ba534cd)
+- [Configuring Ember JS Analytics for GDPR](https://fullstackstanley.com/read/configuring-ember-js-analytics-for-gdpr)
+- [Drag and Drop on iOS with Ember](https://dockyard.com/blog/2018/07/20/drag-and-drop-on-ios-with-ember)
 - [Tips for improving build time of large apps](https://discuss.emberjs.com/t/tips-for-improving-build-time-of-large-apps/15008)
 - [Error Handling](https://github.com/pixelhandler/ember-jsonapi-resources/wiki/Error-Handling)
 - [Build and Authenticate an EmberJS 3 Application](https://auth0.com/blog/build-and-authenticate-an-emberjs-3-application)
