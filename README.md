@@ -208,6 +208,7 @@ Ember Myths located [here ✨](ember-myths.md)
 
 ### Codestyle
 
+- [ember-cli-template-lint](https://github.com/ember-template-lint/ember-cli-template-lint) - Ember CLI integration for ember-template-lint 
 - [ember-cli-alex](https://github.com/yohanmishkin/ember-cli-alex) - alex for Ember apps
 - [ember-prop-types](https://github.com/ciena-blueplanet/ember-prop-types) - Improved property management for Ember apps and addons.
 
@@ -283,6 +284,7 @@ Ember Myths located [here ✨](ember-myths.md)
 - [ember-cli-sofa](https://github.com/ampatspell/ember-cli-sofa) - CouchDB persistence library for Ember.js
 - [ember-orbit](https://github.com/orbitjs/ember-orbit) - Ember.js data layer built with Orbit.js
 - [ember-data-storefront](https://github.com/embermap/ember-data-storefront) - A collection of APIs that address common data-loading issues.
+- [ember-m3](https://github.com/hjdivad/ember-m3) - This addon provides an alternative model implementation to DS.Model
 
  ### Data manipulation & Computed
 
@@ -643,6 +645,7 @@ Ember Myths located [here ✨](ember-myths.md)
 
 ### Articles
 
+- [Ember.js, TypeScript, and Class Properties](https://www.chriskrycho.com/2018/ember-ts-class-properties.html)
 - [Clearing Async Nests with ember-concurrency](https://medium.com/intensive-code-unit/clearing-async-nests-with-ember-concurrency-55305ba534cd)
 - [Configuring Ember JS Analytics for GDPR](https://fullstackstanley.com/read/configuring-ember-js-analytics-for-gdpr)
 - [Drag and Drop on iOS with Ember](https://dockyard.com/blog/2018/07/20/drag-and-drop-on-ios-with-ember)
