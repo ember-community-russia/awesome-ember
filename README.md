@@ -645,6 +645,10 @@ Ember Myths located [here ✨](ember-myths.md)
 
 ### Articles
 
+- [Testing your Ember application in 2018](https://dockyard.com/blog/2018/03/29/testing-your-ember-application-in-2018)
+- [Modern Ember Testing](https://dockyard.com/blog/2018/01/11/modern-ember-testing)
+- [Testing Ember Applications in 2018](https://blog.201-created.com/testing-ember-applications-in-2018-4635ac241f00)
+- [Testing Ember.js Mixins (and Helpers) With a Container](https://www.chriskrycho.com/2016/testing-emberjs-mixins-with-a-container.html)
 - [Ember.js, TypeScript, and Class Properties](https://www.chriskrycho.com/2018/ember-ts-class-properties.html)
 - [Clearing Async Nests with ember-concurrency](https://medium.com/intensive-code-unit/clearing-async-nests-with-ember-concurrency-55305ba534cd)
 - [Configuring Ember JS Analytics for GDPR](https://fullstackstanley.com/read/configuring-ember-js-analytics-for-gdpr)
@@ -833,6 +837,8 @@ Ember Myths located [here ✨](ember-myths.md)
 
 ### Gists
 
+- [Converting libraries to Ember CLI addons](https://gist.github.com/kristianmandrup/ae3174217f68a6a51ed5)
+- [Developing Addons and Blueprints](https://gist.github.com/kristianmandrup/ae3174217f68a6a51ed5)
 - [Ember + ESLint + Prettier + Ember Suave](https://gist.github.com/sarupbanskota/2394fc439e538239a073c39514a5aa55)
 - [@listochkin/Ember.js Video Collection (Ru/En)](https://gist.github.com/listochkin/87e47cdbf986fb2e9905)
 - [@rwjblue/ember_examples](https://gist.github.com/rwjblue/8816372)
