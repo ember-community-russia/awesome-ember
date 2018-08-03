@@ -339,6 +339,7 @@ Ember Myths located [here ✨](ember-myths.md)
 - [ember-feature-flags](https://github.com/kategengler/ember-feature-flags) An ember-cli addon to provide feature flags.
 - [ember-named-yields](https://github.com/knownasilya/ember-named-yields) - Named Yields for Ember Components.
 - [ember-glimmer-component](https://github.com/smfoote/ember-glimmer-component) - Glimmer.js-like components in Ember.
+- [sparkles-component](https://github.com/rwjblue/sparkles-component) - Addon used to experiment with @glimmer/component style APIs in Ember apps via existing public APIs.
 - [ember-islands](https://github.com/mitchlloyd/ember-islands) - Render Ember components anywhere on a server-rendered page to create "Islands of Richness"
 - [ember-wormhole](https://github.com/yapplabs/ember-wormhole) - Render a child view somewhere else in the DOM.
 
