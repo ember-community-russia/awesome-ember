@@ -771,6 +771,7 @@ Ember Myths located [here ✨](ember-myths.md)
 
 ### Books
 
+- [The Shortest Ember Book](https://github.com/ember-learn/the-shortest-ember-book)
 - [A deep dive into the Ember JS runloop](https://github.com/eoinkelly/ember-runloop-handbook)
 - [Deliver Audacious Web Apps with Ember 2](https://pragprog.com/book/mwjsember/deliver-audacious-web-apps-with-ember-2) by Matthew White
 - [Developing an Ember.js Edge](https://gumroad.com/l/xlsx)
