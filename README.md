@@ -719,6 +719,8 @@ Ember Myths located [here ✨](ember-myths.md)
 - [Clearing Async Nests with ember-concurrency](https://medium.com/intensive-code-unit/clearing-async-nests-with-ember-concurrency-55305ba534cd)
 - [Adopting ember-concurrency or: How I Learned to Stop Worrying and Love the Task](https://engineering.linkedin.com/blog/2016/12/ember-concurrency--or--how-i-learned-to-stop-worrying-and-love-t)
 - [Async or Swim: Replacing your Route models with Ember Concurrency Tasks](https://medium.com/@AveryBloom/async-or-swim-replacing-your-route-models-with-ember-concurrency-tasks-5a230252893a)
+- [ember-concurrency: the solution to so many problems you never knew you had](https://emberway.io/ember-concurrency-the-solution-to-so-many-problems-you-never-knew-you-had-cce6d7731ba9)
+- [PromiseProxyMixin: pure Ember alternative to ember-concurrency](https://lolma.us/en/blog/promise-proxy-mixin/)
 
 ### Articles ES6 
 - [ES Classes in Ember.js](https://medium.com/build-addepar/es-classes-in-ember-js-63e948e9d78e)
