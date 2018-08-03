@@ -646,6 +646,7 @@ Ember Myths located [here ✨](ember-myths.md)
 
 ### Articles
 
+- [How we test 200k lines Ember application in <10 minutes. Again!](https://hackernoon.com/how-we-got-tests-for-200k-lines-ember-application-running-10-minutes-again-1fa7a4c5af2f)
 - [Bending Time in Ember Tests](https://dockyard.com/blog/2018/04/18/bending-time-in-ember-tests)
 - [Building a PWA with Glimmer.js](https://simplabs.com/blog/2018/07/03/building-a-pwa-with-glimmer-js.html)
 - [Enginification](https://simplabs.com/blog/2017/12/04/enginification.html)
