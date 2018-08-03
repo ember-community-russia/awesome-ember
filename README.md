@@ -650,7 +650,7 @@ Ember Myths located [here ✨](ember-myths.md)
 
 
 - [Autodiscovery for the Ember.js component playground](https://simplabs.com/blog/2018/06/05/ember-component-playground.html)
-- [Clearing Async Nests with ember-concurrency](https://medium.com/intensive-code-unit/clearing-async-nests-with-ember-concurrency-55305ba534cd)
+
 - [Configuring Ember JS Analytics for GDPR](https://fullstackstanley.com/read/configuring-ember-js-analytics-for-gdpr)
 - [Drag and Drop on iOS with Ember](https://dockyard.com/blog/2018/07/20/drag-and-drop-on-ios-with-ember)
 - [Tips for improving build time of large apps](https://discuss.emberjs.com/t/tips-for-improving-build-time-of-large-apps/15008)
@@ -662,10 +662,10 @@ Ember Myths located [here ✨](ember-myths.md)
 - [16 Opensource EmberJS Projects to Learn From](https://www.icicletech.com/blog/16-opensource-emberjs-projects-to-learn-from)
 - [5 Essential Ember Concepts You Must Understand](https://emberigniter.com/5-essential-ember-concepts/)
 - [Adding AWS Amplify to an Ember.js Application](https://itnext.io/adding-aws-amplify-to-an-ember-js-application-72683167c476)
-- [Adopting ember-concurrency or: How I Learned to Stop Worrying and Love the Task](https://engineering.linkedin.com/blog/2016/12/ember-concurrency--or--how-i-learned-to-stop-worrying-and-love-t)
+
 - [An Interview with Tom Dale of Ember.js](https://javascriptreport.com/interview-with-tom-dale/)
 - [Animations in Ember.js with liquid-fire](https://www.airpair.com/ember.js/posts/animations-in-emberjs-with-liquidfire)
-- [Async or Swim: Replacing your Route models with Ember Concurrency Tasks](https://medium.com/@AveryBloom/async-or-swim-replacing-your-route-models-with-ember-concurrency-tasks-5a230252893a)
+
 - [Awesome Ember Addons](https://www.codementor.io/gowiem/awesome-ember-addons-bwhiofit9)
 - [Building a performant real-time web app with Ember Fastboot and Phoenix](https://medium.com/peep-stack/building-a-performant-web-app-with-ember-fastboot-and-phoenix-part-1-fa1241654308)
 - [Debug Ember app with VSCode](https://medium.com/@minhdn/debug-ember-app-with-vscode-5f4fde511f9f)
@@ -677,7 +677,6 @@ Ember Myths located [here ✨](ember-myths.md)
 - [Ember Inspector - The Journey so Far](https://shipshape.io/blog/ember-inspector-the-journey-so-far/)
 - [Ember on Medium](https://medium.com/front-end-hacking/tagged/ember)
 - [EmberCamp Module Unification Update](https://madhatted.com/2017/7/12/embercamp-module-unification-update)
-- [EmberJS-Router Wildcard/Globbing Routes](https://www.tutorialspoint.com/emberjs/route_glbng_rut.htm)
 - [Ember.js – Importing JavaScript libraries into your Ember application](https://medium.com/front-end-hacking/ember-js-importing-javascript-libraries-into-your-ember-application-eeb6670486da)
 - [Skeleton Screen Loading in Ember.js](https://emberway.io/skeleton-screen-loading-in-ember-js-2f7ac2384d63)
 - [Static Blogs with Prember and Markdown](https://shipshape.io/blog/static-blogs-with-prember-and-markdown/)
@@ -716,6 +715,11 @@ Ember Myths located [here ✨](ember-myths.md)
 - [CSS in Ember Engines](https://medium.com/@ynotdraw/css-in-ember-engines-230ef8d4cef8)
 - [Enginification](https://simplabs.com/blog/2017/12/04/enginification.html)
 
+### Articles Ember-Concurrency
+- [Clearing Async Nests with ember-concurrency](https://medium.com/intensive-code-unit/clearing-async-nests-with-ember-concurrency-55305ba534cd)
+- [Adopting ember-concurrency or: How I Learned to Stop Worrying and Love the Task](https://engineering.linkedin.com/blog/2016/12/ember-concurrency--or--how-i-learned-to-stop-worrying-and-love-t)
+- [Async or Swim: Replacing your Route models with Ember Concurrency Tasks](https://medium.com/@AveryBloom/async-or-swim-replacing-your-route-models-with-ember-concurrency-tasks-5a230252893a)
+
 ### Articles ES6 
 - [ES Classes in Ember.js](https://medium.com/build-addepar/es-classes-in-ember-js-63e948e9d78e)
 
@@ -743,6 +747,7 @@ Ember Myths located [here ✨](ember-myths.md)
 - [Extracting Metadata from a Custom API with Ember Data](https://thejsguy.com/2018/04/06/extracting-metadata-from-a-custom-api-with-ember-data.html)
 
 ### Articles about Routing
+- [EmberJS-Router Wildcard/Globbing Routes](https://www.tutorialspoint.com/emberjs/route_glbng_rut.htm)
 - [Ember.Route redirecting ‘/’ to ‘/my-own’](https://medium.com/ember-titbits/quest-4-ember-route-defaulting-to-my-own-f22b0dcb336f)
 
 ### Yarn in Ember Articles
