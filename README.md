@@ -347,6 +347,8 @@ Ember Myths located [here ✨](ember-myths.md)
 
 - [ember-concurrency-decorators](https://github.com/machty/ember-concurrency-decorators) -  Decorator syntax for declaring/configuring ember-concurrency tasks
 - [ember-decorators](https://github.com/ember-decorators/ember-decorators) - Useful decorators for Ember applications. 
+- [@ember-decorators/argument](https://github.com/ember-decorators/argument) - Decorators for Component and Object arguments in Ember
+- [sparkles-decorators](https://github.com/gossi/sparkles-decorators) - Decorators for Sparkles/Glimmer Components
 
 ### Extenral Components Integration
 
