@@ -650,7 +650,7 @@ Ember Myths located [here ✨](ember-myths.md)
 ### Articles
 
 
-
+- [A framework for ambitious Chrome Extensions](https://envoy.engineering/a-framework-for-ambitious-chrome-extensions-b08d1f4b944d)
 - [Autodiscovery for the Ember.js component playground](https://simplabs.com/blog/2018/06/05/ember-component-playground.html)
 
 - [Configuring Ember JS Analytics for GDPR](https://fullstackstanley.com/read/configuring-ember-js-analytics-for-gdpr)
