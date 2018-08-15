@@ -877,6 +877,7 @@ Ember Myths located [here ✨](ember-myths.md)
 - [ember-cli es6 imports](https://gist.github.com/lifeart/949d867ba5f5455f8d955d9c9dc3610d)
 - [Ember-cli Windows speedup](https://gist.github.com/lifeart/f436306a92f62610d65caaa699c17065)
 - [How to debug an ember application with VS Code](https://gist.github.com/nightire/38ad30167df55175853b20f025f46596)
+- [Modern Ember (2018)](https://gist.github.com/CodingItWrong/ca1e5f3825f897ffc3611d0ca51bdc69)
 
 ### Miscellaneous
 
