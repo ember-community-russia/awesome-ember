@@ -652,7 +652,7 @@ Ember Myths located [here ✨](ember-myths.md)
 
 ### Articles
 
-
+- [Creating Connection-aware Ember Media Components](http://hangaroundtheweb.com/2018/08/creating-connection-aware-ember-media-components/)
 - [A framework for ambitious Chrome Extensions](https://envoy.engineering/a-framework-for-ambitious-chrome-extensions-b08d1f4b944d)
 - [Autodiscovery for the Ember.js component playground](https://simplabs.com/blog/2018/06/05/ember-component-playground.html)
 
@@ -753,6 +753,7 @@ Ember Myths located [here ✨](ember-myths.md)
 - [Offline Data and Sync with Ember-Orbit](https://codingitwrong.com/2018/05/10/ember-orbit.html)
 - [Inlining store data in Ember.js](https://balinterdi.com/blog/inlining-store-data-in-ember-js/)
 - [Extracting Metadata from a Custom API with Ember Data](https://thejsguy.com/2018/04/06/extracting-metadata-from-a-custom-api-with-ember-data.html)
+- [Ad Hoc Relationships with Ember Data](https://shipshape.io/blog/ad-hoc-relationships-with-ember-data/)
 
 ### Articles about Routing
 - [EmberJS-Router Wildcard/Globbing Routes](https://www.tutorialspoint.com/emberjs/route_glbng_rut.htm)
