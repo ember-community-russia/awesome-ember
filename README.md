@@ -736,6 +736,7 @@ Ember Myths located [here ✨](ember-myths.md)
 - [Set your Ember.js project up to use TypeScript](http://www.chriskrycho.com/2017/typing-your-ember-part-1.html)
 
 ### Articles Modern Testing
+- [STORY-BASED BDD - AN ALTERNATIVE APPROACH TO TESTING WITH EMBER](https://www.kaliber5.de/en/blog/story-based-bdd-an-alternative-approach-to-testing-with-ember/)
 - [Ember Timer Leaks: The Bad Apples in Your Test Infrastructure](https://engineering.linkedin.com/blog/2018/01/ember-timer-leaks)
 - [Test helpers: The next generation](https://dockyard.com/blog/2018/01/18/test-helpers-the-next-generation)
 - [How we test 200k lines Ember application in <10 minutes. Again!](https://hackernoon.com/how-we-got-tests-for-200k-lines-ember-application-running-10-minutes-again-1fa7a4c5af2f)
