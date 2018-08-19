@@ -609,6 +609,7 @@ Ember Myths located [here ✨](ember-myths.md)
 - [ember-radical](https://github.com/healthsparq/ember-radical) - Feather light, fully accessible DDAU component library for your Ember apps.
 - [Nomad UI](https://github.com/hashicorp/nomad/tree/master/ui) - https://demo.nomadproject.io
 - [Semantic-UI-Ember](https://github.com/Semantic-Org/Semantic-UI-Ember) - This is the official Ember library for the Semantic-UI modules.
+- [Flexi](https://github.com/html-next/flexi)
 
 ### UI components
 
