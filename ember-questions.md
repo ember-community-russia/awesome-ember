@@ -39,3 +39,27 @@ __Q:__ _Is it bad to load data in components?_
 __A:__  [In general, it’s not an anti-pattern to load data in a component. But there are two common...](https://discuss.emberjs.com/t/readers-questions-is-it-bad-to-load-data-in-components/14521)
 
 ---
+
+__Q:__ _Will breaking up Ember remove the need for Glimmer.js?_
+
+__A:__  [This answer was published in Issue #36...](https://discuss.emberjs.com/t/readers-questions-will-breaking-up-ember-remove-the-need-for-glimmer-js/14325)
+
+---
+
+__Q:__ _Are there any plans for Ember Data to embrace immutability?_
+
+__A:__  [This answer was published in Issue #34...](https://discuss.emberjs.com/t/readers-questions-are-there-any-plans-for-ember-data-to-embrace-immutability/14259)
+
+---
+
+__Q:__ _When will we be able to use decorators in Ember apps?_
+
+__A:__  [Class fields and decorators are still experimental technologies in Javascript, but...](https://discuss.emberjs.com/t/readers-questions-when-will-we-be-able-to-use-decorators-in-ember-apps/14583)
+
+---
+
+__Q:__ _When will we be able to use decorators in Ember apps?_
+
+__A:__  [Class fields and decorators are still experimental technologies in Javascript, but...](https://discuss.emberjs.com/t/readers-questions-when-will-we-be-able-to-use-decorators-in-ember-apps/14583)
+
+---
