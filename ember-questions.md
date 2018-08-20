@@ -58,8 +58,14 @@ __A:__  [Class fields and decorators are still experimental technologies in Java
 
 ---
 
-__Q:__ _When will we be able to use decorators in Ember apps?_
+__Q:__ _What is the status of ember-engines?_
 
-__A:__  [Class fields and decorators are still experimental technologies in Javascript, but...](https://discuss.emberjs.com/t/readers-questions-when-will-we-be-able-to-use-decorators-in-ember-apps/14583)
+__A:__  [This answer was published in Issue #33...](https://discuss.emberjs.com/t/readers-questions-what-is-the-status-of-ember-engines/14236)
+
+---
+
+__Q:__ _Can I start using Module Unification in my app?_
+
+__A:__  [Yes, Module Unification is something that is currently available through a feature flag...](https://discuss.emberjs.com/t/readers-questions-can-i-start-using-module-unification-in-my-app/15029)
 
 ---
