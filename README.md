@@ -183,6 +183,7 @@ Ember Myths located [here ✨](ember-myths.md)
 - [broccolijs-tutorial](https://github.com/oligriffiths/broccolijs-tutorial) - Broccoli.js Tutorial repository
 - [broccoli-rollup](https://github.com/chadhietala/broccoli-rollup) - Broccoli Plugin For Rollup
 - [broccoli-manifest](https://github.com/racido/broccoli-manifest) - HTML5 cache-manifest compilation for broccoli
+- [broccoli-glow](https://github.com/locks/broccoli-glow) - Dynamic component creation from single file, etc.
 
 ### Broccoli read
 
