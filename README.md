@@ -5,7 +5,7 @@
 
 Just type [`ember.cool`](https://ember.cool) to go here ✨
 
-Ember Myths located [here ✨](ember-myths.md)
+Ember Myths located [here ✨](ember-myths.md), Readers Questions located [here ✨](ember-questions.md)
 
 *You might also like [awesome-npm](https://github.com/sindresorhus/awesome-npm).*
 *Please read the [contribution guidelines](contributing.md) before contributing.*
