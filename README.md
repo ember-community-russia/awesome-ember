@@ -878,7 +878,7 @@ Ember Myths located [here ✨](ember-myths.md), Readers Questions located [here 
 
 
 ### Gists
-
+- [Ember Bundle Size](https://gist.github.com/CodingItWrong/074d20c5468a9c340e15aa46e19a8221)
 - [Converting libraries to Ember CLI addons](https://gist.github.com/kristianmandrup/ae3174217f68a6a51ed5)
 - [Developing Addons and Blueprints](https://gist.github.com/kristianmandrup/ae3174217f68a6a51ed5)
 - [Ember + ESLint + Prettier + Ember Suave](https://gist.github.com/sarupbanskota/2394fc439e538239a073c39514a5aa55)
