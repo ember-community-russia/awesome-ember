@@ -599,6 +599,9 @@ Ember Myths located [here ✨](ember-myths.md), Readers Questions located [here 
 - [ember-text-measurer](https://github.com/cibernox/ember-text-measurer) - Simple Ember Service to measure the width of a string in a performant way
 
 
+### Tree Shaking
+- [ember-cli-tree-shaker](https://github.com/kellyselden/ember-cli-tree-shaker) - This is a testbed for the new tree-shaking and code splitting work from Kelly Selden and Alex Navasardyan.
+
 ### TypeScript
 
 - [ember-cli-typescript](https://github.com/typed-ember/ember-cli-typescript) - Use TypeScript in your Ember.js apps!
