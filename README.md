@@ -662,6 +662,7 @@ Ember Myths located [here ✨](ember-myths.md), Readers Questions located [here 
 
 ### Articles
 
+- [Decorating Guide: Commonly-Used Ember Decorators](https://codingitwrong.com/2018/08/21/decorating-guide.html)
 - [Understanding Ember's resolver](https://dockyard.com/blog/2016/09/14/understanding-ember-s-resolver)
 - [Creating Connection-aware Ember Media Components](http://hangaroundtheweb.com/2018/08/creating-connection-aware-ember-media-components/)
 - [A framework for ambitious Chrome Extensions](https://envoy.engineering/a-framework-for-ambitious-chrome-extensions-b08d1f4b944d)
