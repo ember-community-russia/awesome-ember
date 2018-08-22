@@ -445,6 +445,7 @@ Ember Myths located [here ✨](ember-myths.md), Readers Questions located [here 
 
 - [ember-data-tasks](https://github.com/knownasilya/ember-data-tasks)
 - [ember-concurrency](http://ember-concurrency.com)
+- [ember-custom-actions](https://github.com/Exelord/ember-custom-actions) - Custom API actions for Ember applications
 - [ember-pipeline](https://github.com/poteto/ember-pipeline)
 - [ember-lifeline](https://github.com/ember-lifeline/ember-lifeline) - An ember addon for managing the lifecyle of asynchronous behavior in your objects
 
