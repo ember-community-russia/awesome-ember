@@ -828,6 +828,7 @@ Ember Myths located [here ✨](ember-myths.md), Readers Questions located [here 
 - [guides](https://guides.emberjs.com/)
 
 ### Codemods
+- [ember-cli-mirage-faker-codemod](https://github.com/caseywatts/ember-cli-mirage-faker-codemod) - This codemod is to help transition from importing faker through ember-cli-mirage, to instead import it directly from faker.
 - [ember-mocha-codemods](https://github.com/Turbo87/ember-mocha-codemods) - Codemod scripts for ember-mocha
 - [ember-module-migrator](https://github.com/rwjblue/ember-module-migrator) - Automated migration for new Ember application layout.
 - [ember-qunit-codemod](https://github.com/rwjblue/ember-qunit-codemod) - This codemod is intended to automatically convert your projects from the older moduleFor* syntax of ember-qunit@2 to the newer syntax.
