@@ -194,14 +194,14 @@ Ember Myths located [here ✨](ember-myths.md), Readers Questions located [here 
 - [Eat Your Greens - A Broccoli.js tutorial](http://www.oligriffiths.com/broccolijs/)
 - [Ember.js Lazy Assets: Fingerprinting & loading static/dynamic assets on demand](https://codeburst.io/ember-js-lazy-assets-fingerprinting-loading-static-dynamic-assets-on-demand-f09cd7568155)
 - [Thoughts on how to write faster broccoli plugins](https://gist.github.com/Gaurav0/c1eb3a00670eed28e57c2cf92d3f7668)
- 
+
 ### Build tools
 
 - [Broccoli](https://github.com/broccolijs/broccoli) - Fast, reliable asset pipeline, supporting constant-time rebuilds and compact build definitions.
 
 ### Charts
 
-- [ember-sparkles](https://github.com/LocusEnergy/ember-sparkles) - Collection of composable D3 components built with ember-d3-helpers 
+- [ember-sparkles](https://github.com/LocusEnergy/ember-sparkles) - Collection of composable D3 components built with ember-d3-helpers
 
 ### CI/CD
 
@@ -213,7 +213,7 @@ Ember Myths located [here ✨](ember-myths.md), Readers Questions located [here 
 
 ### Codestyle
 
-- [ember-cli-template-lint](https://github.com/ember-template-lint/ember-cli-template-lint) - Ember CLI integration for ember-template-lint 
+- [ember-cli-template-lint](https://github.com/ember-template-lint/ember-cli-template-lint) - Ember CLI integration for ember-template-lint
 - [ember-cli-alex](https://github.com/yohanmishkin/ember-cli-alex) - alex for Ember apps
 - [ember-prop-types](https://github.com/ciena-blueplanet/ember-prop-types) - Improved property management for Ember apps and addons.
 
@@ -270,7 +270,7 @@ Ember Myths located [here ✨](ember-myths.md), Readers Questions located [here 
  - [ember-css-modules](https://github.com/salsify/ember-css-modules) - CSS Modules for ambitious applications.
  - [ember-cli-tailwind](https://github.com/embermap/ember-cli-tailwind) - Tailwind is a utility-first CSS framework for rapidly building custom user interfaces.
  - [ember-emotion](https://github.com/alexlafroscia/ember-emotion) - Use emotion styling in Ember.js
- 
+
 ### Fonts
 - [ember-cli-webfont](https://github.com/vitch/ember-cli-webfont) - Easily generate webfonts from svg files as part of your ember-cli build process
 
@@ -323,8 +323,8 @@ Ember Myths located [here ✨](ember-myths.md), Readers Questions located [here 
 - [ember-devtools](https://github.com/aexmachina/ember-devtools) - A collection of useful Ember.js debugging functions.
 - [ember-chrome-devtools](https://github.com/dwickern/ember-chrome-devtools) - Chrome DevTools addon for Ember.js
 - [ember-perf-timeline](https://github.com/ember-best-practices/ember-perf-timeline) - Add performance information to Chrome's Timeline for Ember applications
-- [ember-cli-route-map](https://github.com/BBVAEngineering/ember-cli-route-map) - Command to generate a route map of your Ember application. 
-- [heimdalljs-visualizer](https://github.com/rwjblue/heimdalljs-visualizer) - Visualizer for heimdalljs data. 
+- [ember-cli-route-map](https://github.com/BBVAEngineering/ember-cli-route-map) - Command to generate a route map of your Ember application.
+- [heimdalljs-visualizer](https://github.com/rwjblue/heimdalljs-visualizer) - Visualizer for heimdalljs data.
 - [source-map-explorer](https://github.com/danvk/source-map-explorer) - Analyze and debug space usage through source maps.
 
 ### Documentation
@@ -356,7 +356,7 @@ Ember Myths located [here ✨](ember-myths.md), Readers Questions located [here 
 ### ES6
 
 - [ember-concurrency-decorators](https://github.com/machty/ember-concurrency-decorators) -  Decorator syntax for declaring/configuring ember-concurrency tasks
-- [ember-decorators](https://github.com/ember-decorators/ember-decorators) - Useful decorators for Ember applications. 
+- [ember-decorators](https://github.com/ember-decorators/ember-decorators) - Useful decorators for Ember applications.
 - [@ember-decorators/argument](https://github.com/ember-decorators/argument) - Decorators for Component and Object arguments in Ember
 - [sparkles-decorators](https://github.com/gossi/sparkles-decorators) - Decorators for Sparkles/Glimmer Components
 
@@ -373,7 +373,7 @@ Ember Myths located [here ✨](ember-myths.md), Readers Questions located [here 
 ### Forms
 
 - [ember-form-for](https://github.com/martndemus/ember-form-for) - This Ember.js addon will give you an easy way to build good forms.
- 
+
 ### Forum
 
 - [?](#) - ????
@@ -439,7 +439,7 @@ Ember Myths located [here ✨](ember-myths.md), Readers Questions located [here 
 - [ember-i18n](https://github.com/jamesarosen/ember-i18n) - Internationalization for Ember
 - [ember-intl](https://github.com/ember-intl/ember-intl) - Translate complex messages string. Localized formatting for date/time, number, and relative time.
 
-### Inputs 
+### Inputs
 
 - [ember-autoresize](https://github.com/tim-evans/ember-autoresize) - Autoresize for Ember Components
 
@@ -470,6 +470,7 @@ Ember Myths located [here ✨](ember-myths.md), Readers Questions located [here 
 - [ember-gestures](https://github.com/html-next/ember-gestures) - Ember Gestures provides an easy way to use gestures by making it simple to define and use HammerJS managers and recognizers throughout your app.
 - [ember-katex](https://github.com/firecracker/ember-katex) - Render your LaTeX formulas using KaTeX
 - [ember-keyboard](https://github.com/patience-tema-baron/ember-keyboard) - An Ember.js addon for the painless support of keyboard events
+- [ember-math-helpers](https://github.com/shipshapecode/ember-math-helpers) - Ember HTMLBars helpers for basic arithmetic
 - [ember-steps](https://github.com/rwjblue/ember-steps) - Declarative create wizards, tabbed UIs, and more
 
 ### Metrics
@@ -723,7 +724,7 @@ Ember Myths located [here ✨](ember-myths.md), Readers Questions located [here 
 ### Ember-Cli Articles
 - [Secrets of the Ember-CLI server: Express middleware with Ember-CLI](https://blog.201-created.com/secrets-of-the-ember-cli-server-bde80bb546dd)
 
-### Jump-Start Articles 
+### Jump-Start Articles
 - [Ember Guide for Beginners](https://rmmmp.github.io/2018/07/14/ember-guide-for-beginners-01-introduction.html)
 - [The simplest possible Ember Data CRUD Tutorial](https://medium.com/ember-ish/the-simplest-possible-ember-data-crud-16eacee33ae6)
 
@@ -744,7 +745,7 @@ Ember Myths located [here ✨](ember-myths.md), Readers Questions located [here 
 - [PromiseProxyMixin: pure Ember alternative to ember-concurrency](https://lolma.us/en/blog/promise-proxy-mixin/)
 - [Two-Tasks Routes in Ember](https://tritarget.org/#Two-Tasks%20Routes%20in%20Ember)
 
-### Articles ES6 
+### Articles ES6
 - [ES Classes in Ember.js](https://medium.com/build-addepar/es-classes-in-ember-js-63e948e9d78e)
 
 ### Articles TypeScript
@@ -780,7 +781,7 @@ Ember Myths located [here ✨](ember-myths.md), Readers Questions located [here 
 ### Yarn in Ember Articles
 - [Ember and Yarn Workspaces](https://medium.com/square-corner-blog/ember-and-yarn-workspaces-fca69dc5d44a)
 
-### Best-practices 
+### Best-practices
 
 - [ember-best-practices](https://github.com/ember-best-practices)
 - [An Ember Debugging Flowchart](https://www.mutuallyhuman.com/blog/2016/08/12/an-ember-debugging-flowchart)
