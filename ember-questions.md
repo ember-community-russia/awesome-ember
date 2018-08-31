@@ -69,3 +69,13 @@ __Q:__ _Can I start using Module Unification in my app?_
 __A:__  [Yes, Module Unification is something that is currently available through a feature flag...](https://discuss.emberjs.com/t/readers-questions-can-i-start-using-module-unification-in-my-app/15029)
 
 ---
+
+__Q:__ _Why does Ember use Broccoli and how is it different from Webpack, Rollup, Parcel?_
+
+__A:__  [Webpack, Rollup and Parcel can be seen as bundlers...](https://discuss.emberjs.com/t/readers-questions-why-does-ember-use-broccoli-and-how-is-it-different-from-webpack-rollup-parcel/15384)
+
+---
+
+
+
+
