@@ -402,6 +402,7 @@ Ember Myths located [here ✨](ember-myths.md), Readers Questions located [here 
 ### Helpers
 
 - [ember-composable-helpers](https://github.com/DockYard/ember-composable-helpers) - Composable helpers for declarative templating in Ember
+- [ember-helpers](https://github.com/abcum/ember-helpers) - A collection of handlebars helpers for Ember.js
 - [ember-d3-helpers](https://github.com/LocusEnergy/ember-d3-helpers) - Collection of Ember.js helpers for building composable D3 charts.
 - [ember-math-helpers](https://github.com/shipshapecode/ember-math-helpers) - Ember HTMLBars helpers for basic arithmetic
 - [ember-promise-helpers](https://github.com/fivetanley/ember-promise-helpers) - Promise-y sugar for your Ember templates
