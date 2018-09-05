@@ -892,6 +892,7 @@ Ember Myths located [here ✨](ember-myths.md), Readers Questions located [here 
 
 
 ### Gists
+- [ember-cli-advanced-proxy](https://github.com/bryanaka/ember-cli-advanced-proxy/blob/594e13cf2de386d8ea65dac88f643241f7a28363/index.js)
 - [A list of EmberJS VSCode Extensions](https://github.com/Alonski/ember-vscode-extensions)
 - [Ember Bundle Size](https://gist.github.com/CodingItWrong/074d20c5468a9c340e15aa46e19a8221)
 - [Converting libraries to Ember CLI addons](https://gist.github.com/kristianmandrup/ae3174217f68a6a51ed5)
