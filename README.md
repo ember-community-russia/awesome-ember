@@ -671,6 +671,7 @@ Ember Myths located [here ✨](ember-myths.md), Readers Questions located [here 
 
 ### Articles
 
+- [Shipping EmberJS bundles based on the user's browser](https://sivasubramanyam.me/emberjs-shipping-different-bundles/)
 - [To `attrs` or not to `attrs`](https://locks.svbtle.com/to-attrs-or-not-to-attrs)
 - [How I added whitelabel theming to my Ember app](https://medium.com/@simeonberns/how-i-added-whitelabel-theming-to-my-ember-app-97bfca9e263a)
 - [Decorating Guide: Commonly-Used Ember Decorators](https://codingitwrong.com/2018/08/21/decorating-guide.html)
