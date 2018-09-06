@@ -671,6 +671,9 @@ Ember Myths located [here ✨](ember-myths.md), Readers Questions located [here 
 
 ### Articles
 
+- [Automating Ember.js App Deployment on AWS](https://medium.com/@piotr.steininger/automating-ember-js-app-deployment-on-aws-feccc6d94828)
+- [Django & EmberJS Full Stack Basics: Connecting Frontend and Backend — Part 1](https://medium.com/@sunskyearthwind/django-emberjs-full-stack-basics-connecting-frontend-and-backend-part-1-beed8c386b08)
+- [Everything one can expect in Ember Octane](http://hangaroundtheweb.com/2018/08/ember-octane-everything-one-can-expect-in-the-next-ember-edition)
 - [Shipping EmberJS bundles based on the user's browser](https://sivasubramanyam.me/emberjs-shipping-different-bundles/)
 - [To `attrs` or not to `attrs`](https://locks.svbtle.com/to-attrs-or-not-to-attrs)
 - [How I added whitelabel theming to my Ember app](https://medium.com/@simeonberns/how-i-added-whitelabel-theming-to-my-ember-app-97bfca9e263a)
@@ -781,6 +784,7 @@ Ember Myths located [here ✨](ember-myths.md), Readers Questions located [here 
 - [Ad Hoc Relationships with Ember Data](https://shipshape.io/blog/ad-hoc-relationships-with-ember-data/)
 
 ### Articles about Routing
+- [How to reset the EmberJS router namespace with this.route()](http://toddsmithsalter.com/how-to-reset-the-route-namespace-with-this-route/)
 - [EmberJS-Router Wildcard/Globbing Routes](https://www.tutorialspoint.com/emberjs/route_glbng_rut.htm)
 - [Ember.Route redirecting ‘/’ to ‘/my-own’](https://medium.com/ember-titbits/quest-4-ember-route-defaulting-to-my-own-f22b0dcb336f)
 
@@ -791,6 +795,9 @@ Ember Myths located [here ✨](ember-myths.md), Readers Questions located [here 
 
 - [ember-best-practices](https://github.com/ember-best-practices)
 - [An Ember Debugging Flowchart](https://www.mutuallyhuman.com/blog/2016/08/12/an-ember-debugging-flowchart)
+
+### Nice to know
+- [Codemods](https://caseywatts.com/2018/08/23/codemods.html)
 
 ### Blogs
 
@@ -933,6 +940,7 @@ Ember Myths located [here ✨](ember-myths.md), Readers Questions located [here 
 - [Ember Screencasts](https://www.emberscreencasts.com/) - Weekly Screencasts for the Busy Developer.
 - [EmberCasts](http://www.embercasts.com/) - Currently on hiatus whilst the author works on the next version of Handlebars.
 - [EmberWatch - Screencasts](http://emberwatch.com/screencasts.html) - A collection of Ember screencasts.
+- [Community Groups App - Creating Records in Ember CLI Mirage (part 2a)](https://www.youtube.com/watch?v=4iqNcTUXurY)
 
 ### Slides
 
@@ -1033,6 +1041,8 @@ Ember Myths located [here ✨](ember-myths.md), Readers Questions located [here 
 - [Chris Krycho: TypeScript and Ember js - Why and How?](https://www.youtube.com/watch?v=fFzxbBrvytU)
 - [Isaac Lee: Use D3 with Ember](https://www.youtube.com/watch?v=vD7H9O--tu4)
 - [Open Source Live - Robert Jackson and Chris Manson pair on ember-cli](https://www.youtube.com/watch?v=rsftBMGOfyo)
+- [Must have add-ons in EmberJS - Dawid Pośliński](https://www.youtube.com/watch?v=IprfNT0xbrI)
+- [Building Modern Apps Using API Services - Ember Meetup August 21, 2018](https://www.youtube.com/watch?v=VMnzGJ4PN0s)
 
 ### YouTube channels
 
