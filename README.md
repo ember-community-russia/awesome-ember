@@ -305,6 +305,7 @@ Ember Myths located [here ✨](ember-myths.md), Readers Questions located [here 
 ### Data validation
 
 - [ember-cp-validations](https://github.com/offirgolan/ember-cp-validations) - Ember computed property based validations
+- [ember-changeset-validations](https://github.com/poteto/ember-changeset-validations/) - Validations for ember-changeset
 - [ember-model-validator](https://github.com/esbanarango/ember-model-validator) - Add validations to your Ember Data models on an explicit and easy way, without a bunch a validations files around or complicated structure.
 - [ember-validated-form](https://github.com/adfinis-sygroup/ember-validated-form) - Easily create forms with client side validations.
 
