@@ -758,9 +758,13 @@ Ember Myths located [here ✨](ember-myths.md), Readers Questions located [here 
 - [ES Classes in Ember.js](https://medium.com/build-addepar/es-classes-in-ember-js-63e948e9d78e)
 
 ### Articles TypeScript
+- [Type-Informed Design](https://www.chriskrycho.com/2018/type-informed-design.html)
 - [Typing Your Ember](https://www.chriskrycho.com/typing-your-ember.html) - Using TypeScript with Ember.js
 - [Ember.js, TypeScript, and Class Properties](https://www.chriskrycho.com/2018/ember-ts-class-properties.html)
 - [Set your Ember.js project up to use TypeScript](http://www.chriskrycho.com/2017/typing-your-ember-part-1.html)
+- [Class properties — some notes on how things differ from the Ember.Object world](https://www.chriskrycho.com/2018/typing-your-ember-update-part-2.html)
+- [Computed properties, actions, mixins, and class methods](https://www.chriskrycho.com/2018/typing-your-ember-update-part-3.html)
+- [Using Ember Data, and service and controller injections improvements](https://www.chriskrycho.com/2018/typing-your-ember-update-part-4.html)
 
 ### Articles Modern Testing
 - [STORY-BASED BDD - AN ALTERNATIVE APPROACH TO TESTING WITH EMBER](https://www.kaliber5.de/en/blog/story-based-bdd-an-alternative-approach-to-testing-with-ember/)
