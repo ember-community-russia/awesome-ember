@@ -566,6 +566,7 @@ Ember Myths located [here ✨](ember-myths.md), Readers Questions located [here 
 ### SSR / Server Side Rendering
 
  - [ember-fastboot](https://github.com/ember-fastboot/ember-cli-fastboot) - Server-side rendering for Ember.js apps
+ - [glimmer-ssr-test](https://github.com/josemarluedke/glimmer-ssr-test) - Making a glimmer app be rendered in the server
 
 ### Static site generators & SEO
 
@@ -742,6 +743,7 @@ Ember Myths located [here ✨](ember-myths.md), Readers Questions located [here 
 - [Building a PWA with Glimmer.js](https://simplabs.com/blog/2018/07/03/building-a-pwa-with-glimmer-js.html)
 - [The Glimmer VM: Boots Fast and Stays Fast](https://yehudakatz.com/2017/04/05/the-glimmer-vm-boots-fast-and-stays-fast/)
 - [The Glimmer Binary Experience](https://engineering.linkedin.com/blog/2017/12/the-glimmer-binary-experience)
+- [Glimmer.js Application proposal](https://gist.github.com/tomdale/10fe9feeb84f2e4325f042839799bd9d) - Compilation, Rendering, SSR, Rehydration
 
 ### Articles Engines
 - [CSS in Ember Engines](https://medium.com/@ynotdraw/css-in-ember-engines-230ef8d4cef8)
