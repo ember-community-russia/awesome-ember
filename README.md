@@ -49,7 +49,7 @@ Ember Myths located [here ✨](ember-myths.md), Readers Questions located [here 
 	- [Ember-inspector roadmaps & overview](#)
 	- [End-user customization](#end-user-customization)
 	- [ES6](#es6)
-	- [Extenral Components Integration)(#external-components-integration)
+	- [Extenral Components Integration](#external-components-integration)
 	- [Filesystem](#filesystem)
 	- [Forms](#forms)
 	- [Forum](#forum)
