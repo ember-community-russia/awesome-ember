@@ -913,7 +913,6 @@ Ember Myths located [here ✨](ember-myths.md), Readers Questions located [here 
 
 
 ### Gists
-- [Ember.js approval requirements](https://gist.github.com/PoslinskiNet/2d7a05944ca3c468440a0faea153062b)
 - [ember-cli-advanced-proxy](https://github.com/bryanaka/ember-cli-advanced-proxy/blob/594e13cf2de386d8ea65dac88f643241f7a28363/index.js)
 - [A list of EmberJS VSCode Extensions](https://github.com/Alonski/ember-vscode-extensions)
 - [Ember Bundle Size](https://gist.github.com/CodingItWrong/074d20c5468a9c340e15aa46e19a8221)
@@ -928,6 +927,9 @@ Ember Myths located [here ✨](ember-myths.md), Readers Questions located [here 
 - [Ember-cli Windows speedup](https://gist.github.com/lifeart/f436306a92f62610d65caaa699c17065)
 - [How to debug an ember application with VS Code](https://gist.github.com/nightire/38ad30167df55175853b20f025f46596)
 - [Modern Ember (2018)](https://gist.github.com/CodingItWrong/ca1e5f3825f897ffc3611d0ca51bdc69)
+- [What are components all about.](https://gist.github.com/begedin/98045c9b4df900bb4695)
+- ["Why Ember" Thoughts](https://gist.github.com/MelSumner/971ba6b7a3c0b01a4cb3a43d3b962dac)
+- [Ember.js approval requirements](https://gist.github.com/PoslinskiNet/2d7a05944ca3c468440a0faea153062b)
 
 ### Miscellaneous
 
