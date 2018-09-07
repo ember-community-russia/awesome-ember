@@ -786,6 +786,8 @@ Ember Myths located [here ✨](ember-myths.md), Readers Questions located [here 
 - [Inlining store data in Ember.js](https://balinterdi.com/blog/inlining-store-data-in-ember-js/)
 - [Extracting Metadata from a Custom API with Ember Data](https://thejsguy.com/2018/04/06/extracting-metadata-from-a-custom-api-with-ember-data.html)
 - [Ad Hoc Relationships with Ember Data](https://shipshape.io/blog/ad-hoc-relationships-with-ember-data/)
+- [Ember Data RecordArray AntiPatterns](https://gist.github.com/runspired/d86a76158050c4f573f5f26df1dab143)
+- [Useful Ember Data helpers](https://gist.github.com/runspired/96618af26fb1c687a74eb30bf15e58b6)
 
 ### Articles about Routing
 - [How to reset the EmberJS router namespace with this.route()](http://toddsmithsalter.com/how-to-reset-the-route-namespace-with-this-route/)
