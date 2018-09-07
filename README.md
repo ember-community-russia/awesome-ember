@@ -743,7 +743,11 @@ Ember Myths located [here ✨](ember-myths.md), Readers Questions located [here 
 - [Building a PWA with Glimmer.js](https://simplabs.com/blog/2018/07/03/building-a-pwa-with-glimmer-js.html)
 - [The Glimmer VM: Boots Fast and Stays Fast](https://yehudakatz.com/2017/04/05/the-glimmer-vm-boots-fast-and-stays-fast/)
 - [The Glimmer Binary Experience](https://engineering.linkedin.com/blog/2017/12/the-glimmer-binary-experience)
+- [Glimmer.js: What’s the Deal with TypeScript?](https://medium.com/@tomdale/glimmer-js-whats-the-deal-with-typescript-f666d1a3aad0)
+- [The Glimmer VM: Boots Fast and Stays Fast](https://yehudakatz.com/2017/04/05/the-glimmer-vm-boots-fast-and-stays-fast/)
 - [Glimmer.js Application proposal](https://gist.github.com/tomdale/10fe9feeb84f2e4325f042839799bd9d) - Compilation, Rendering, SSR, Rehydration
+- [Git Guides](https://github.com/glimmerjs/glimmer-vm/blob/master/guides/01-introduction.md)
+- [Designing and Implementing Glimmer Like a Programming Language](https://thefeedbackloop.xyz/designing-and-implementing-glimmer-like-a-programming-language/)
 
 ### Articles Engines
 - [CSS in Ember Engines](https://medium.com/@ynotdraw/css-in-ember-engines-230ef8d4cef8)
@@ -909,6 +913,7 @@ Ember Myths located [here ✨](ember-myths.md), Readers Questions located [here 
 
 
 ### Gists
+- [Ember.js approval requirements](https://gist.github.com/PoslinskiNet/2d7a05944ca3c468440a0faea153062b)
 - [ember-cli-advanced-proxy](https://github.com/bryanaka/ember-cli-advanced-proxy/blob/594e13cf2de386d8ea65dac88f643241f7a28363/index.js)
 - [A list of EmberJS VSCode Extensions](https://github.com/Alonski/ember-vscode-extensions)
 - [Ember Bundle Size](https://gist.github.com/CodingItWrong/074d20c5468a9c340e15aa46e19a8221)
