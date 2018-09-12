@@ -672,6 +672,10 @@ Ember Myths located [here ✨](ember-myths.md), Readers Questions located [here 
 
 ### Articles
 
+- [Dynamic component layout in Ember](https://medium.com/freshworks-engineering-blog/dynamic-component-layout-in-ember-c9375c49126a)
+- [NYC Planning Labs: Why Choose Ember.js?](https://medium.com/nycplanninglabs/nyc-planning-labs-why-choose-ember-js-fe9ff75f4373)
+- [Using PurgeCSS with Ember.js](http://www.jurecuhalev.com/blog/2018/09/07/using-purgecss-with-ember-js/)
+- [Modern Ember (2018)](https://codingitwrong.com/2018/08/16/modern-ember.html)
 - [Automating Ember.js App Deployment on AWS](https://medium.com/@piotr.steininger/automating-ember-js-app-deployment-on-aws-feccc6d94828)
 - [Django & EmberJS Full Stack Basics: Connecting Frontend and Backend — Part 1](https://medium.com/@sunskyearthwind/django-emberjs-full-stack-basics-connecting-frontend-and-backend-part-1-beed8c386b08)
 - [Everything one can expect in Ember Octane](http://hangaroundtheweb.com/2018/08/ember-octane-everything-one-can-expect-in-the-next-ember-edition)
@@ -926,7 +930,6 @@ Ember Myths located [here ✨](ember-myths.md), Readers Questions located [here 
 - [ember-cli es6 imports](https://gist.github.com/lifeart/949d867ba5f5455f8d955d9c9dc3610d)
 - [Ember-cli Windows speedup](https://gist.github.com/lifeart/f436306a92f62610d65caaa699c17065)
 - [How to debug an ember application with VS Code](https://gist.github.com/nightire/38ad30167df55175853b20f025f46596)
-- [Modern Ember (2018)](https://gist.github.com/CodingItWrong/ca1e5f3825f897ffc3611d0ca51bdc69)
 - [What are components all about.](https://gist.github.com/begedin/98045c9b4df900bb4695)
 - ["Why Ember" Thoughts](https://gist.github.com/MelSumner/971ba6b7a3c0b01a4cb3a43d3b962dac)
 - [Ember.js approval requirements](https://gist.github.com/PoslinskiNet/2d7a05944ca3c468440a0faea153062b)
@@ -956,6 +959,8 @@ Ember Myths located [here ✨](ember-myths.md), Readers Questions located [here 
 - [EmberCasts](http://www.embercasts.com/) - Currently on hiatus whilst the author works on the next version of Handlebars.
 - [EmberWatch - Screencasts](http://emberwatch.com/screencasts.html) - A collection of Ember screencasts.
 - [Community Groups App - Creating Records in Ember CLI Mirage (part 2a)](https://www.youtube.com/watch?v=4iqNcTUXurY)
+- [Community Groups App - Creating Records in Ember CLI Mirage (part 2b)](https://www.youtube.com/watch?v=eAI1LxgSOqw)
+
 
 ### Slides
 
@@ -1058,6 +1063,8 @@ Ember Myths located [here ✨](ember-myths.md), Readers Questions located [here 
 - [Open Source Live - Robert Jackson and Chris Manson pair on ember-cli](https://www.youtube.com/watch?v=rsftBMGOfyo)
 - [Must have add-ons in EmberJS - Dawid Pośliński](https://www.youtube.com/watch?v=IprfNT0xbrI)
 - [Building Modern Apps Using API Services - Ember Meetup August 21, 2018](https://www.youtube.com/watch?v=VMnzGJ4PN0s)
+- [How to improve your tests? - Paweł Kuwik](https://www.youtube.com/watch?v=rs71sx5IZ-U&t=0s&list=PLxt6MasYELQ5W3y8rwGa98GsyMBdhr_cp)
+- [Optional & upcoming features - Michał Staśkiewicz](https://www.youtube.com/watch?v=4XokzPT4rgg&t=0s&list=PLxt6MasYELQ5W3y8rwGa98GsyMBdhr_cp)
 
 ### YouTube channels
 
