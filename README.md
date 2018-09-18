@@ -653,6 +653,10 @@ Ember Myths located [here ✨](ember-myths.md), Readers Questions located [here 
  - [vscode-ember-colorizer](https://github.com/ciena-blueplanet/vscode-ember-colorizer) - VsCode extension that colorizes/tokeninzes Ember .hbs, Controllers, and Routes files.
 
  - [ember-module-snippets](https://github.com/candidmetrics/ember-module-snippets) - Snippets to make importing Ember modules a snap in VSCode
+ 
+### Atom addons
+
+- [Atom Ember Snippets](https://github.com/mattmcmanus/atom-ember-snippets)
 
 ### Web frameworks
 
