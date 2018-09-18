@@ -17,6 +17,7 @@ Ember Myths located [here ✨](ember-myths.md), Readers Questions located [here 
 ## Contents
 - [Packages](#packages)
 	- [AST](#ast)
+	- [a11y](#a11y)
 	- [Adapters](#adapters)
 	- [Animations](#animations)
 	- [Authentication](#authentication)
@@ -133,6 +134,17 @@ Ember Myths located [here ✨](ember-myths.md), Readers Questions located [here 
 - [ember-ast-helpers](https://github.com/cibernox/ember-ast-helpers) - This library is a utility belt to make AST transforms and shield users as much as possible from the nuances of the AST, as it is still private API.
 - [ember-template-recast](https://github.com/ember-template-lint/ember-template-recast) - Non-destructive template transformer.
 - [jscodeshift](https://github.com/facebook/jscodeshift) - A JavaScript codemod toolkit.
+
+### a11y
+
+- [ember-a11y-landmarks](https://github.com/ember-a11y/ember-a11y-landmarks) - Ember addon to help with landmark roles for better accessibility
+- [ember-a11y](https://github.com/ember-a11y/ember-a11y) - A collection of tools to build accessible Ember applications.
+- [ember-component-focus](https://github.com/ember-a11y/ember-component-focus) - A mixin for adding methods to your Ember components that help you manage the currently focused element.
+- [ember-gestures](https://github.com/html-next/ember-gestures) - Ember Gestures provides an easy way to use gestures by making it simple to define and use HammerJS managers and recognizers throughout your app.
+- [ember-steps](https://github.com/rwjblue/ember-steps) - Declarative create wizards, tabbed UIs, and more
+- [ember-keyboard](https://github.com/patience-tema-baron/ember-keyboard) - An Ember.js addon for the painless support of keyboard events
+- [ember-a11y-testing](https://github.com/ember-a11y/ember-a11y-testing) - A suite of accessibility tests that can be run within the Ember testing framework
+- [a11y-announcer](https://github.com/ember-a11y/a11y-announcer) - An accessible ember route change announcer
 
 ### Adapters
 
@@ -466,13 +478,8 @@ Ember Myths located [here ✨](ember-myths.md), Readers Questions located [here 
 
 ### Math
 
-- [ember-a11y-landmarks](https://github.com/ember-a11y/ember-a11y-landmarks) - https://github.com/ember-a11y/ember-a11y-landmarks
-- [ember-a11y](https://github.com/ember-a11y/ember-a11y) - A collection of tools to build accessible Ember applications.
-- [ember-gestures](https://github.com/html-next/ember-gestures) - Ember Gestures provides an easy way to use gestures by making it simple to define and use HammerJS managers and recognizers throughout your app.
 - [ember-katex](https://github.com/firecracker/ember-katex) - Render your LaTeX formulas using KaTeX
-- [ember-keyboard](https://github.com/patience-tema-baron/ember-keyboard) - An Ember.js addon for the painless support of keyboard events
 - [ember-math-helpers](https://github.com/shipshapecode/ember-math-helpers) - Ember HTMLBars helpers for basic arithmetic
-- [ember-steps](https://github.com/rwjblue/ember-steps) - Declarative create wizards, tabbed UIs, and more
 
 ### Metrics
 
@@ -588,7 +595,6 @@ Ember Myths located [here ✨](ember-myths.md), Readers Questions located [here 
 
 ### Testing
 
-- [ember-a11y-testing](https://github.com/ember-a11y/ember-a11y-testing) - A suite of accessibility tests that can be run within the Ember testing framework
 - [ember-cli-code-coverage](https://github.com/kategengler/ember-cli-code-coverage) - Code coverage for ember apps using Istanbul
 - [ember-cli-mirage](http://www.ember-cli-mirage.com/) - Build, test and demo your app using a [JSON API](http://jsonapi.org/)-compliant client-side server.
 - [ember-cli-mocha](https://github.com/ember-cli/ember-cli-mocha) - Mocha and Chai tests for ember-cli applications
