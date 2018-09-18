@@ -683,6 +683,7 @@ Ember Myths located [here ✨](ember-myths.md), Readers Questions located [here 
 
 ### Articles
 
+- [Building a Progressive Web App with Ember](https://madhatted.com/2017/6/16/building-a-progressive-web-app-with-ember)
 - [Dynamic component layout in Ember](https://medium.com/freshworks-engineering-blog/dynamic-component-layout-in-ember-c9375c49126a)
 - [NYC Planning Labs: Why Choose Ember.js?](https://medium.com/nycplanninglabs/nyc-planning-labs-why-choose-ember-js-fe9ff75f4373)
 - [Using PurgeCSS with Ember.js](http://www.jurecuhalev.com/blog/2018/09/07/using-purgecss-with-ember-js/)
