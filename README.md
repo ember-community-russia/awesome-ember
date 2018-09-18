@@ -356,6 +356,7 @@ Ember Myths located [here ✨](ember-myths.md), Readers Questions located [here 
 - [Ember Inspector Sync](https://www.youtube.com/watch?v=PvsfQrKxl_8)
 
  ### End-user customization
+- [ember-asset-loader](https://github.com/ember-engines/ember-asset-loader) - Asset loading support for Ember applications
 - [ember-experiments](https://github.com/outdoorsy/ember-experiments) - Experimentation, A/B Split Testing addon for Ember
 - [ember-cli-hot-loader](https://github.com/toranb/ember-cli-hot-loader) - An early look at what hot reloading might be like in the ember ecosystem
 - [ember-cli-build-notifications](https://github.com/pdud/ember-cli-build-notifications) - Notifications when ember-cli has a buildError
