@@ -683,6 +683,7 @@ Ember Myths located [here ✨](ember-myths.md), Readers Questions located [here 
 
 ### Articles
 
+- [Share EmberJS common code between apps](https://dev.to/michalbryxi/share-emberjs-common-code-between-apps-1a7k)
 - [The EmberJS of the future... today!](https://dev.to/nullvoxpopuli/the-emberjs-of-the-future-today-12c)
 - [Building a Progressive Web App with Ember](https://madhatted.com/2017/6/16/building-a-progressive-web-app-with-ember)
 - [Dynamic component layout in Ember](https://medium.com/freshworks-engineering-blog/dynamic-component-layout-in-ember-c9375c49126a)
@@ -973,6 +974,7 @@ Ember Myths located [here ✨](ember-myths.md), Readers Questions located [here 
 - [EmberWatch - Screencasts](http://emberwatch.com/screencasts.html) - A collection of Ember screencasts.
 - [Community Groups App - Creating Records in Ember CLI Mirage (part 2a)](https://www.youtube.com/watch?v=4iqNcTUXurY)
 - [Community Groups App - Creating Records in Ember CLI Mirage (part 2b)](https://www.youtube.com/watch?v=eAI1LxgSOqw)
+- [Community Groups App - Debugging relationships in Ember CLI Mirage (part 3)](https://www.youtube.com/watch?time_continue=1&v=DRzPJ4RMT0w)
 
 
 ### Slides
