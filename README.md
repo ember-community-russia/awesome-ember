@@ -782,6 +782,7 @@ Ember Myths located [here ✨](ember-myths.md), Readers Questions located [here 
 - [ES Classes in Ember.js](https://medium.com/build-addepar/es-classes-in-ember-js-63e948e9d78e)
 
 ### Articles TypeScript
+- [Ember Typescript Code Coverage - howto gist](https://gist.github.com/lifeart/5f75981d5f6262d1bfc4525aebfcf7d5)
 - [Type-Informed Design](https://www.chriskrycho.com/2018/type-informed-design.html)
 - [Typing Your Ember](https://www.chriskrycho.com/typing-your-ember.html) - Using TypeScript with Ember.js
 - [Ember.js, TypeScript, and Class Properties](https://www.chriskrycho.com/2018/ember-ts-class-properties.html)
