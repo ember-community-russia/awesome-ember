@@ -86,6 +86,7 @@ Ember Myths located [here ✨](ember-myths.md), Readers Questions located [here 
 	- [Real-time](#real-time)
 	- [Routing addons](#routing-addons)
 	- [Security](#security)
+	- [Service Workers](#service-workers)
 	- [SSR / Server Side Rendering](#)
 	- [Static site generators](#s)
 	- [Streams](#streams)
@@ -570,6 +571,23 @@ Ember Myths located [here ✨](ember-myths.md), Readers Questions located [here 
 ### Security
 
 - [ember-can](https://github.com/minutebase/ember-can) - Simple [authorisation addon](http://ember-can.com) for Ember apps.
+
+### Service Workers
+
+- [ember-cli-workbox](https://github.com/BBVAEngineering/ember-cli-workbox/) - Offline caching as a progressive enhancement using service workers
+- [ember-service-worker](https://github.com/DockYard/ember-service-worker) - A pluggable approach to Service Workers for Ember.js
+- [ember-service-worker-index](https://github.com/DockYard/ember-service-worker-index) - An Ember Service Worker plugin that caches the index.html file
+- [ember-service-worker-asset-cache](https://github.com/DockYard/ember-service-worker-asset-cache) - An Ember Service Worker plugin that caches an Ember app's asset files
+- [ember-service-worker-cache-first](https://github.com/DockYard/ember-service-worker-cache-first) - A cache first Ember Service Worker plugin
+- [ember-service-worker-cache-fallback](https://github.com/DockYard/ember-service-worker-cache-fallback) - An Ember Service Worker plugin that resorts to a cached fallback version when the network request fails
+- [ember-service-worker-emberfire-messaging](https://github.com/Matt-Jensen/ember-service-worker-emberfire-messaging) - Firebase Cloud Messaging service worker support for Emberfire apps
+- [ember-service-worker-unregistration](https://github.com/GreatWizard/ember-service-worker-unregistration) - An Ember plugin that unregister service workers when ember-service-worker is disabled.
+- [ember-service-worker-request-chaos](https://github.com/maxfierke/ember-service-worker-request-chaos) - Like Netflix's ChaosMonkey but for your Ember SPA's API requests
+- [ember-service-worker-project-entagled-registration](https://github.com/rwjblue/ember-service-worker-project-entagled-registration) - This addon is to be used along with ember-service-worker to ensure that the service worker being used is paired properly to the project.
+- [ember-service-worker-cache-rendered](https://github.com/PrinceCornNM/ember-service-worker-cache-rendered) - Ember service worker plugin for storing rendered html in cache, really useful for fastboot
+- [ember-service-worker-update-notify](https://github.com/topaxi/ember-service-worker-update-notify) - Update notification for service workers
+- [ember-service-worker-enqueue](https://github.com/The-Don-Himself/ember-service-worker-enqueue) - An Ember Service Worker plugin that catches failed mutation requests e.g POST, PUT, DELETE and queues them for background processing.
+- [ember-service-worker-prember](https://github.com/shipshapecode/ember-service-worker-prember) - An Ember Service Worker plugin that caches the index.html files for each prember route
 
 ### SSR / Server Side Rendering
 
