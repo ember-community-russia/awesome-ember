@@ -701,6 +701,7 @@ Ember Myths located [here ✨](ember-myths.md), Readers Questions located [here 
 
 ### Articles
 
+- [Accessing the Global App Object in an Ember CLI App](https://emberigniter.com/accessing-global-object-in-ember-cli-app/) `window.Ember.Application.byName('myApp').__container`
 - [Share EmberJS common code between apps](https://dev.to/michalbryxi/share-emberjs-common-code-between-apps-1a7k)
 - [The EmberJS of the future... today!](https://dev.to/nullvoxpopuli/the-emberjs-of-the-future-today-12c)
 - [Building a Progressive Web App with Ember](https://madhatted.com/2017/6/16/building-a-progressive-web-app-with-ember)
