@@ -642,6 +642,7 @@ Ember Myths located [here ✨](ember-myths.md), Readers Questions located [here 
 
 - [ember-cli-typescript](https://github.com/typed-ember/ember-cli-typescript) - Use TypeScript in your Ember.js apps!
 - [ember-typings](https://github.com/typed-ember/ember-typings) - Typescript type definitions for ember.js
+- [ember-typescript-utils](https://github.com/happycollision/ember-typescript-utils) - Utility functions built around Typescript and Ember
 
 
 ### UI libs
