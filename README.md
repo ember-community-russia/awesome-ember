@@ -1102,6 +1102,7 @@ Ember Myths located [here ✨](ember-myths.md), Readers Questions located [here 
 - [Building Modern Apps Using API Services - Ember Meetup August 21, 2018](https://www.youtube.com/watch?v=VMnzGJ4PN0s)
 - [How to improve your tests? - Paweł Kuwik](https://www.youtube.com/watch?v=rs71sx5IZ-U&t=0s&list=PLxt6MasYELQ5W3y8rwGa98GsyMBdhr_cp)
 - [Optional & upcoming features - Michał Staśkiewicz](https://www.youtube.com/watch?v=4XokzPT4rgg&t=0s&list=PLxt6MasYELQ5W3y8rwGa98GsyMBdhr_cp)
+- [Hybrid Apps with Ember/Glimmer](https://pusher.com/sessions/meetup/emberfest/hybrid-apps-with-emberglimmer)
 
 ### YouTube channels
 
@@ -1120,4 +1121,5 @@ Ember Myths located [here ✨](ember-myths.md), Readers Questions located [here 
 - [May I ask a Question](https://www.youtube.com/channel/UCyErLHzPqLAkL1F-SivFDcA)
 
 ### YouTube playlists
+- [Ember London 2018](https://www.youtube.com/watch?v=EcKaDu0xo_A&list=PL8xuokhAnn4rUlol6aspg-VYetu9BLsWV)
 - [Intercom Screencasts](https://www.youtube.com/playlist?list=PLpAr6J-75N27wctNT70O0lubaGTPjwi1L)
