@@ -1005,6 +1005,7 @@ Ember Myths located [here ✨](ember-myths.md), Readers Questions located [here 
 
 ### Slides
 
+- [Slides from Ember JS Berlin talk, Design Patterns in Ember](https://github.com/chadian/ember-js-berlin-design-patterns) - @chadian
 - [Rainy Day Ember Data](https://speakerdeck.com/tonywok/rainy-day-ember-data) - Tony Schneider (@tonywok)
 - [Building Realtime Apps with Ember.js and WebSockets](https://www.slideshare.net/BenLimmer/building-realtime-apps-with-emberjs-and-websockets) - Ben Limmer
 - [Deploying a Location-Aware Ember Application](https://www.slideshare.net/BenLimmer/deploying-a-locationaware-ember-application) -  Ben Limmer
