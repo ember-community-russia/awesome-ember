@@ -203,6 +203,7 @@ Ember Myths located [here ✨](ember-myths.md), Readers Questions located [here 
 
 ### Broccoli read
 
+- [Debugging Broccoli and Ember-CLI](https://mfeckie.github.io/Debugging-Broccoli-And-Ember/)
 - [Debugging Ember-cli Build Times](https://medium.com/@Dhaulagiri/debugging-ember-cli-build-times-38bd1b0f55f9)
 - [Eat Your Greens - A Broccoli.js tutorial](http://www.oligriffiths.com/broccolijs/)
 - [Ember.js Lazy Assets: Fingerprinting & loading static/dynamic assets on demand](https://codeburst.io/ember-js-lazy-assets-fingerprinting-loading-static-dynamic-assets-on-demand-f09cd7568155)
