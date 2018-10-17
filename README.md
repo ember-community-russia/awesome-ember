@@ -149,6 +149,7 @@ Ember Myths located [here ✨](ember-myths.md), Readers Questions located [here 
 
 ### Adapters
 
+- [DRF-schema-adapter](https://drf-schema-adapter.readthedocs.io) - toolset to help you create fully dynamic clients from Django and Django REST framework. 
 - [ember-cli-markdown-resolver](https://github.com/willviles/ember-cli-markdown-resolver) - Ember CLI addon for resolving markdown files in custom folders and retrieving content via a service.
 - [ember-cloud-firestore-adapter](https://github.com/rmmmp/ember-cloud-firestore-adapter) - Unofficial Ember Data Adapter and Serializer for Cloud Firestore
 - [ember-data-hal-9000](https://github.com/201-created/ember-data-hal-9000) - An ember-data compatible ember-cli addon that provides a HAL adapter (HATEOAS)
@@ -387,6 +388,7 @@ Ember Myths located [here ✨](ember-myths.md), Readers Questions located [here 
 
 ### Forms
 
+- [ember-cli-crudities](https://ember-cli-crudities.readthedocs.io) - Form and editable list builder that works from json config which can be either statically or dynamically loaded.
 - [ember-form-for](https://github.com/martndemus/ember-form-for) - This Ember.js addon will give you an easy way to build good forms.
 
 ### Forum
@@ -1005,6 +1007,7 @@ Ember Myths located [here ✨](ember-myths.md), Readers Questions located [here 
 
 ### Slides
 
+- [NaNoWriMo: How can Ember help you write a novel](https://slides.com/emma_be/nanowrimo-ember#/) - @EmmaDelecolle
 - [Slides from Ember JS Berlin talk, Design Patterns in Ember](https://github.com/chadian/ember-js-berlin-design-patterns) - @chadian
 - [Rainy Day Ember Data](https://speakerdeck.com/tonywok/rainy-day-ember-data) - Tony Schneider (@tonywok)
 - [Building Realtime Apps with Ember.js and WebSockets](https://www.slideshare.net/BenLimmer/building-realtime-apps-with-emberjs-and-websockets) - Ben Limmer
