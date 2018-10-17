@@ -176,6 +176,7 @@ Ember Myths located [here ✨](ember-myths.md), Readers Questions located [here 
 ### Automation
 
 - [ember-cli-deploy](https://github.com/ember-cli-deploy/ember-cli-deploy) - A deployment pipeline for Ember CLI apps
+- [ember-cli-deploy-webhooks](https://github.com/simplabs/ember-cli-deploy-webhooks) - Ember CLI Deploy plugin for calling webhooks during deployments
 - [ember-cli-release](https://github.com/shipshapecode/ember-cli-release) - Ember CLI addon for versioned release management
 - [ember-cli-sri](https://github.com/jonathanKingston/ember-cli-sri) - This plugin is used to generate Subresource Integrity (SRI) hashes for ember applications.
 - [ember-cli-dependency-lint](https://github.com/salsify/ember-cli-dependency-lint) - Lint your app's addon dependencies, making sure you only have one version of each.
