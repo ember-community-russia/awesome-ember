@@ -149,7 +149,6 @@ Ember Myths located [here ✨](ember-myths.md), Readers Questions located [here 
 
 ### Adapters
 
-- [DRF-schema-adapter](https://drf-schema-adapter.readthedocs.io) - toolset to help you create fully dynamic clients from Django and Django REST framework. 
 - [ember-cli-markdown-resolver](https://github.com/willviles/ember-cli-markdown-resolver) - Ember CLI addon for resolving markdown files in custom folders and retrieving content via a service.
 - [ember-cloud-firestore-adapter](https://github.com/rmmmp/ember-cloud-firestore-adapter) - Unofficial Ember Data Adapter and Serializer for Cloud Firestore
 - [ember-data-hal-9000](https://github.com/201-created/ember-data-hal-9000) - An ember-data compatible ember-cli addon that provides a HAL adapter (HATEOAS)
