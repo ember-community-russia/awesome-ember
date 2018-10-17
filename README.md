@@ -477,6 +477,7 @@ Ember Myths located [here ✨](ember-myths.md), Readers Questions located [here 
 
 ### Mad science
 
+- [ember-elm](https://github.com/nucleartide/ember-elm) - Write Elm in your Ember app
 - [javascript-algorithms](https://github.com/trekhleb/javascript-algorithms) - Algorithms and data structures implemented in JavaScript with explanations and links to further readings
 
 ### Math
@@ -829,6 +830,7 @@ Ember Myths located [here ✨](ember-myths.md), Readers Questions located [here 
 - [How to integrate Ember FastBoot in Cloud Functions for Firebase](https://rmmmp.github.io/2018/05/16/how-to-integrate-ember-fastboot-in-cloud-functions-for-firebase.html)
 
 ### Articles about Data
+- [No Graph Theory Required: Ember and GraphQL in Practice](https://medium.com/kloeckner-i/ember-and-graphql-8aa15f7a2554)
 - [Offline Data and Sync with Ember-Orbit](https://codingitwrong.com/2018/05/10/ember-orbit.html)
 - [Inlining store data in Ember.js](https://balinterdi.com/blog/inlining-store-data-in-ember-js/)
 - [Extracting Metadata from a Custom API with Ember Data](https://thejsguy.com/2018/04/06/extracting-metadata-from-a-custom-api-with-ember-data.html)
