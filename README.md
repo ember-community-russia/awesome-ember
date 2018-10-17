@@ -100,6 +100,7 @@ Ember Myths located [here ✨](ember-myths.md), Readers Questions located [here 
 	- [UI libs](#ui-libs)
 	- [URL](#url)
 	- [UX](#ux)
+	- [VR](#vr)
 	- [VS Code addons](#vs-code-addons)
 	- [Web frameworks](#web-frameworks)
 	- [Webpack](#webpack)
@@ -675,6 +676,8 @@ Ember Myths located [here ✨](ember-myths.md), Readers Questions located [here 
 ### UX
 - [ember-onbeforeunload](https://github.com/jasonmit/ember-onbeforeunload) - invoke logic when transitioning between routes or closing window
 
+### VR
+- [ember-vr](https://github.com/ember-vr)
 
 ### VS Code addons
 
