@@ -7,7 +7,7 @@ Just type [`ember.cool`](https://ember.cool) to go here ✨
 
 Ember Myths located [here ✨](ember-myths.md), Readers Questions located [here ✨](ember-questions.md)
 
-[✨ Contribute to Ember ✨](https://infallible-hermann-2e1071.netlify.com/core)
+[✨ Contribute to Ember ✨](https://help-wanted.emberjs.com/core)
 
 *You might also like [awesome-npm](https://github.com/sindresorhus/awesome-npm).*
 *Please read the [contribution guidelines](contributing.md) before contributing.*
