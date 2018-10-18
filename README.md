@@ -838,6 +838,7 @@ Ember Myths located [here ✨](ember-myths.md), Readers Questions located [here 
 - [How to integrate Ember FastBoot in Cloud Functions for Firebase](https://rmmmp.github.io/2018/05/16/how-to-integrate-ember-fastboot-in-cloud-functions-for-firebase.html)
 
 ### Articles about Data
+- [The case against async relationships in Ember Data](https://embermap.com/notes/83-the-case-against-async-relationships)
 - [No Graph Theory Required: Ember and GraphQL in Practice](https://medium.com/kloeckner-i/ember-and-graphql-8aa15f7a2554)
 - [Offline Data and Sync with Ember-Orbit](https://codingitwrong.com/2018/05/10/ember-orbit.html)
 - [Inlining store data in Ember.js](https://balinterdi.com/blog/inlining-store-data-in-ember-js/)
