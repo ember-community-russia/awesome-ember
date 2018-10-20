@@ -711,6 +711,7 @@ Ember Myths located [here ✨](ember-myths.md), Readers Questions located [here 
 
 ### Articles
 
+- [PWA Your Ember App](https://blog.201-created.com/pwa-your-ember-app-7ee8242f306e)
 - [Making Ember Applications' UI Transitions Screen Reader Friendly](https://engineering.linkedin.com/blog/2018/10/making-ember-applications--ui-transitions-screen-reader-friendly)
 - [Accessing the Global App Object in an Ember CLI App](https://emberigniter.com/accessing-global-object-in-ember-cli-app/) `window.Ember.Application.byName('myApp').__container`
 - [Share EmberJS common code between apps](https://dev.to/michalbryxi/share-emberjs-common-code-between-apps-1a7k)
