@@ -754,6 +754,7 @@ Ember Myths located [here ✨](ember-myths.md), Readers Questions located [here 
 - [DEPLOYING WITH EMBER.JS: A STORY](https://blogs.library.ucsf.edu/ckm/2017/09/06/deploying-with-ember-js-a-story/)
 - [Do not confuse environment for deploy target](https://lolma.us/en/blog/class-and-attribute-bindings)
 - [Ember Best Practices: Computed Properties with Dynamic Dependent Keys](https://dockyard.com/blog/2015/10/23/ember-best-practices-dynamic-dependent-keys-for-computed-properties)
+- [Ember Best Practices: Avoid leaking state into factories](https://dockyard.com/blog/2015/09/18/ember-best-practices-avoid-leaking-state-into-factories)
 - [Ember CLI Addon Docs: Shared Documentation for the Ember Ecosystem](https://medium.com/build-addepar/ember-cli-addon-docs-shared-documentation-for-the-ember-ecosystem-6f29aa0cee87)
 - [Ember Inspector - The Journey so Far](https://shipshape.io/blog/ember-inspector-the-journey-so-far/)
 - [Ember on Medium](https://medium.com/front-end-hacking/tagged/ember)
