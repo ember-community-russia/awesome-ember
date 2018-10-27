@@ -710,8 +710,8 @@ Ember Myths located [here ✨](ember-myths.md), Readers Questions located [here 
 - [Front-End Performance Checklist](https://github.com/thedaviddias/Front-End-Performance-Checklist)
 
 ### Articles
-
 - [PWA Your Ember App](https://blog.201-created.com/pwa-your-ember-app-7ee8242f306e)
+- [Adding a new build notification to an Ember application](https://medium.com/@jonpitch/adding-a-new-build-notification-to-an-ember-application-c657211289f6)
 - [Making Ember Applications' UI Transitions Screen Reader Friendly](https://engineering.linkedin.com/blog/2018/10/making-ember-applications--ui-transitions-screen-reader-friendly)
 - [Accessing the Global App Object in an Ember CLI App](https://emberigniter.com/accessing-global-object-in-ember-cli-app/) `window.Ember.Application.byName('myApp').__container`
 - [Share EmberJS common code between apps](https://dev.to/michalbryxi/share-emberjs-common-code-between-apps-1a7k)
@@ -755,6 +755,7 @@ Ember Myths located [here ✨](ember-myths.md), Readers Questions located [here 
 - [DEPLOYING WITH EMBER.JS: A STORY](https://blogs.library.ucsf.edu/ckm/2017/09/06/deploying-with-ember-js-a-story/)
 - [Do not confuse environment for deploy target](https://lolma.us/en/blog/class-and-attribute-bindings)
 - [Ember Best Practices: Computed Properties with Dynamic Dependent Keys](https://dockyard.com/blog/2015/10/23/ember-best-practices-dynamic-dependent-keys-for-computed-properties)
+- [Ember Best Practices: Avoid leaking state into factories](https://dockyard.com/blog/2015/09/18/ember-best-practices-avoid-leaking-state-into-factories)
 - [Ember CLI Addon Docs: Shared Documentation for the Ember Ecosystem](https://medium.com/build-addepar/ember-cli-addon-docs-shared-documentation-for-the-ember-ecosystem-6f29aa0cee87)
 - [Ember Inspector - The Journey so Far](https://shipshape.io/blog/ember-inspector-the-journey-so-far/)
 - [Ember on Medium](https://medium.com/front-end-hacking/tagged/ember)
@@ -839,6 +840,7 @@ Ember Myths located [here ✨](ember-myths.md), Readers Questions located [here 
 - [How to integrate Ember FastBoot in Cloud Functions for Firebase](https://rmmmp.github.io/2018/05/16/how-to-integrate-ember-fastboot-in-cloud-functions-for-firebase.html)
 
 ### Articles about Data
+- [Creating a Default Record When a belongsTo Request Errors](https://shipshape.io/blog/ember-data-belongs-to-find-or-create/)
 - [The case against async relationships in Ember Data](https://embermap.com/notes/83-the-case-against-async-relationships)
 - [No Graph Theory Required: Ember and GraphQL in Practice](https://medium.com/kloeckner-i/ember-and-graphql-8aa15f7a2554)
 - [Offline Data and Sync with Ember-Orbit](https://codingitwrong.com/2018/05/10/ember-orbit.html)
