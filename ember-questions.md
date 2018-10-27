@@ -76,6 +76,14 @@ __A:__  [Webpack, Rollup and Parcel can be seen as bundlers...](https://discuss.
 
 ---
 
+__Q:__ _What is the future of controllers? When is it a good time to use them in a modern Ember app?_
+
+__A:__  [The main job of a controller is to hand data down to other parts of the app and serve as a place to define ...](https://discuss.emberjs.com/t/readers-questions-what-is-the-future-of-controllers-when-is-it-a-good-time-to-use-them-in-a-modern-ember-app/15708)
+
+---
+
+Readers’ Questions: 
+
 
 
 
