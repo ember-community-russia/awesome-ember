@@ -1018,6 +1018,7 @@ Ember Myths located [here ✨](ember-myths.md), Readers Questions located [here 
 
 ### Slides
 
+- [30 Days Of Ember](https://slides.com/poslinski_net/30-days-of-ember) - Dawid Pośliński
 - [NaNoWriMo: How can Ember help you write a novel](https://slides.com/emma_be/nanowrimo-ember#/) - @EmmaDelecolle
 - [Slides from Ember JS Berlin talk, Design Patterns in Ember](https://github.com/chadian/ember-js-berlin-design-patterns) - @chadian
 - [Rainy Day Ember Data](https://speakerdeck.com/tonywok/rainy-day-ember-data) - Tony Schneider (@tonywok)
