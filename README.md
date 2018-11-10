@@ -712,6 +712,7 @@ Ember Myths located [here ✨](ember-myths.md), Readers Questions located [here 
 - [Front-End Performance Checklist](https://github.com/thedaviddias/Front-End-Performance-Checklist)
 
 ### Articles
+- [How to keep your ember.js project clean and well-structured](https://geeks.uniplaces.com/how-to-keep-your-ember-js-project-clean-and-well-structured-fbff040274de)
 - [PWA Your Ember App](https://blog.201-created.com/pwa-your-ember-app-7ee8242f306e)
 - [Adding a new build notification to an Ember application](https://medium.com/@jonpitch/adding-a-new-build-notification-to-an-ember-application-c657211289f6)
 - [Making Ember Applications' UI Transitions Screen Reader Friendly](https://engineering.linkedin.com/blog/2018/10/making-ember-applications--ui-transitions-screen-reader-friendly)
