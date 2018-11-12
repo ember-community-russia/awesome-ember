@@ -1100,6 +1100,8 @@ Ember Myths located [here ✨](ember-myths.md), Readers Questions located [here 
 
 ### Videos
 
+- [EmberFest 2018](https://www.youtube.com/watch?v=oRzmDobMZ_Q&list=PLN4SpDLOSVkSB9034lDNdP1JoNBGssax9)
+- [EmberFest 2014](https://www.youtube.com/watch?v=z4oxa-UR7oA&list=PLN4SpDLOSVkSbGTLohVaYGDB8hxWxGPBA)
 - [Global Ember Meetup](https://vimeo.com/globalembermeetup)
 - [Ember @ Netflix](https://pusher.com/sessions/meetup/emberfest/ember-netflix)
 - [Ember Engines at Scale](https://pusher.com/sessions/meetup/ember-london/ember-engines-at-scale)
