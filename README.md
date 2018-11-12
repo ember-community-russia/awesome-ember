@@ -367,6 +367,7 @@ Ember Myths located [here ✨](ember-myths.md), Readers Questions located [here 
 - [ember-asset-loader](https://github.com/ember-engines/ember-asset-loader) - Asset loading support for Ember applications
 - [ember-experiments](https://github.com/outdoorsy/ember-experiments) - Experimentation, A/B Split Testing addon for Ember
 - [ember-cli-hot-loader](https://github.com/toranb/ember-cli-hot-loader) - An early look at what hot reloading might be like in the ember ecosystem
+- [ember-ast-hot-load](https://github.com/lifeart/ember-ast-hot-load) - Universal hot-load addon draft
 - [ember-cli-build-notifications](https://github.com/pdud/ember-cli-build-notifications) - Notifications when ember-cli has a buildError
 - [ember-feature-flags](https://github.com/kategengler/ember-feature-flags) An ember-cli addon to provide feature flags.
 - [ember-named-yields](https://github.com/knownasilya/ember-named-yields) - Named Yields for Ember Components.
@@ -384,6 +385,7 @@ Ember Myths located [here ✨](ember-myths.md), Readers Questions located [here 
 
 - [ember-glimmer-component](https://github.com/smfoote/ember-glimmer-component) - Glimmer.js-like components in Ember
 - [sparkles-component](https://github.com/rwjblue/sparkles-component) - Addon used to experiment with @glimmer/component style APIs in Ember apps via existing public APIs.
+- [hooked-components](https://github.com/lifeart/hooked-components) - Custom components for Ember, inspired by React Hooks approach.
 - [@alexlafroscia/ember-cli-react](https://github.com/alexlafroscia/ember-cli-react) - Render React components in Ember
 - [@AltSchool/ember-cli-react](https://github.com/AltSchool/ember-cli-react) - Use React component hierarchies in your Ember app
 
