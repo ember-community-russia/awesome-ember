@@ -136,6 +136,7 @@ Ember Myths located [here ✨](ember-myths.md), Readers Questions located [here 
 - [ember-ast-helpers](https://github.com/cibernox/ember-ast-helpers) - This library is a utility belt to make AST transforms and shield users as much as possible from the nuances of the AST, as it is still private API.
 - [ember-template-recast](https://github.com/ember-template-lint/ember-template-recast) - Non-destructive template transformer.
 - [jscodeshift](https://github.com/facebook/jscodeshift) - A JavaScript codemod toolkit.
+- [dyfactor](https://github.com/dyfactor/dyfactor) - A platform for running codemods based on runtime information.
 
 ### a11y
 
