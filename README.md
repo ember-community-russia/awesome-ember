@@ -163,6 +163,7 @@ Ember Myths located [here ✨](ember-myths.md), Readers Questions located [here 
 - [ember-pouch](https://github.com/pouchdb-community/ember-pouch) - PouchDB/CouchDB adapter for Ember Data
 - [ember-wordpress](https://github.com/oskarrough/ember-wordpress) - The bridge between Ember.js and Wordpress
 - [emberfire](https://github.com/firebase/emberfire) - Official Ember Data adapter for Firebase
+- [ninjafire](https://github.com/lineupninja/ninjafire) - An ORM for Firebase written in Typescript.
 - [ember-cli-zuglet](https://www.ember-cli-zuglet.com/) - Ember.js addon for effortless Firebase integration.
 
 ### Animations
