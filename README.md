@@ -210,6 +210,7 @@ Ember Myths located [here ✨](ember-myths.md), Readers Questions located [here 
 
 ### Broccoli read
 
+- [Debugging a Broccoli Tree](https://dockyard.com/blog/2015/02/02/debugging-a-broccoli-tree)
 - [Debugging Broccoli and Ember-CLI](https://mfeckie.github.io/Debugging-Broccoli-And-Ember/)
 - [Debugging Ember-cli Build Times](https://medium.com/@Dhaulagiri/debugging-ember-cli-build-times-38bd1b0f55f9)
 - [Eat Your Greens - A Broccoli.js tutorial](http://www.oligriffiths.com/broccolijs/)
