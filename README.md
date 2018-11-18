@@ -717,6 +717,7 @@ Ember Myths located [here ✨](ember-myths.md), Readers Questions located [here 
 - [Front-End Performance Checklist](https://github.com/thedaviddias/Front-End-Performance-Checklist)
 
 ### Articles
+- [Optimizing Ember Templates](https://medium.com/square-corner-blog/optimizing-ember-templates-c479d26fe58e)
 - [How to keep your ember.js project clean and well-structured](https://geeks.uniplaces.com/how-to-keep-your-ember-js-project-clean-and-well-structured-fbff040274de)
 - [PWA Your Ember App](https://blog.201-created.com/pwa-your-ember-app-7ee8242f306e)
 - [Adding a new build notification to an Ember application](https://medium.com/@jonpitch/adding-a-new-build-notification-to-an-ember-application-c657211289f6)
@@ -1102,6 +1103,7 @@ Ember Myths located [here ✨](ember-myths.md), Readers Questions located [here 
 
 ### Videos
 
+- [Ember San Francisco Meetup at Square, October 2018](https://www.youtube.com/watch?v=ulWhjL0Aj5s)
 - [Ember: The Next 10 Years | Tom Dale | EmberCamp Chicago 2018](https://www.youtube.com/watch?v=9cseB2xoT-0)
 - [Stop Coding: You Have a Product Gap | Sam Selikoff | EmberCamp Chicago 2018](https://www.youtube.com/watch?v=fYHgyIlGttk)
 - [Caveats of the Default Store - Ember London - September 2018](https://www.youtube.com/watch?v=EcKaDu0xo_A)
