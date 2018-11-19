@@ -955,7 +955,7 @@ Ember Myths located [here ✨](ember-myths.md), Readers Questions located [here 
 - [emberjs.github.io/rfcs/](https://emberjs.github.io/rfcs/) - Ember RFCs.
 
 ### Examples
-
+- [**A list of open source Ember apps**](https://github.com/EmberSherpa/open-source-ember-apps)
 - [Simple contact manager demo app for ember-orbit](https://github.com/cerebris/peeps-ember-orbit)
 - [Open Source Ember Apps](https://github.com/EmberSherpa/open-source-ember-apps)
 - [API Docs](https://github.com/ember-learn/ember-api-docs) - This application was built to display our versioned API docs.
