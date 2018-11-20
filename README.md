@@ -800,6 +800,7 @@ Ember Myths located [here ✨](ember-myths.md), Readers Questions located [here 
 - [The simplest possible Ember Data CRUD Tutorial](https://medium.com/ember-ish/the-simplest-possible-ember-data-crud-16eacee33ae6)
 
 ### Articles Glimmer
+- [Alternative View Layers for an Elm App](https://robots.thoughtbot.com/elm-glimmer)
 - [Creating Web Components with Glimmer](https://simplabs.com/blog/2017/08/28/creating-web-components-with-glimmer.html)
 - [Building a PWA with Glimmer.js](https://simplabs.com/blog/2018/07/03/building-a-pwa-with-glimmer-js.html)
 - [The Glimmer VM: Boots Fast and Stays Fast](https://yehudakatz.com/2017/04/05/the-glimmer-vm-boots-fast-and-stays-fast/)
