@@ -670,6 +670,7 @@ Ember Myths located [here ✨](ember-myths.md), Readers Questions located [here 
 - [Nomad UI](https://github.com/hashicorp/nomad/tree/master/ui) - https://demo.nomadproject.io
 - [Semantic-UI-Ember](https://github.com/Semantic-Org/Semantic-UI-Ember) - This is the official Ember library for the Semantic-UI modules.
 - [Flexi](https://github.com/html-next/flexi)
+- [Bootstrap 4 theme "Tabler UI" for Ember.js](https://github.com/alt3/ember-tabler)
 
 ### UI components
 
