@@ -717,6 +717,7 @@ Ember Myths located [here ✨](ember-myths.md), Readers Questions located [here 
 ## Resources
 
 - [Front-End Performance Checklist](https://github.com/thedaviddias/Front-End-Performance-Checklist)
+- [Ember.js approval requirements](https://gist.github.com/PoslinskiNet/2d7a05944ca3c468440a0faea153062b)
 
 ### Articles
 - [Optimizing Ember Templates](https://medium.com/square-corner-blog/optimizing-ember-templates-c479d26fe58e)
