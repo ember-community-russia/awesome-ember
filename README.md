@@ -720,6 +720,7 @@ Ember Myths located [here ✨](ember-myths.md), Readers Questions located [here 
 - [Ember.js approval requirements](https://gist.github.com/PoslinskiNet/2d7a05944ca3c468440a0faea153062b)
 
 ### Articles
+- [Components patterns in Ember.js](https://medium.com/macsour/components-patterns-in-ember-js-5e6fc6eea28f)
 - [Optimizing Ember Templates](https://medium.com/square-corner-blog/optimizing-ember-templates-c479d26fe58e)
 - [How to keep your ember.js project clean and well-structured](https://geeks.uniplaces.com/how-to-keep-your-ember-js-project-clean-and-well-structured-fbff040274de)
 - [PWA Your Ember App](https://blog.201-created.com/pwa-your-ember-app-7ee8242f306e)
