@@ -985,6 +985,7 @@ Ember Myths located [here ✨](ember-myths.md), Readers Questions located [here 
 - [skylines-project](https://github.com/skylines-project/skylines/tree/master/ember) - Live tracking, flight database and competition framework
 - [PIX](https://github.com/1024pix/pix/tree/dev/live/app) - PIX
 - [ember-monorepo-demo](https://github.com/lennyburdette/ember-monorepo-demo)
+- [documize.com](https://github.com/documize/community)
 
 
 ### Gists
