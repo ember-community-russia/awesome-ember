@@ -902,6 +902,7 @@ Ember Myths located [here ✨](ember-myths.md), Readers Questions located [here 
 
 ### Blogs
 
+- [TODAY I LEARNED / Ember](https://til.hashrocket.com/emberjs)
 - [Ember Daily Tips](http://www.emberdaily.com)
 - [emberway.io](https://emberway.io/)
 - [yehudakatz](https://yehudakatz.com/)
