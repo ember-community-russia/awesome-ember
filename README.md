@@ -725,6 +725,7 @@ Ember Myths located [here ✨](ember-myths.md), Readers Questions located [here 
 
 ### Articles
 
+- [Debugging EmberJS with VScode](https://dev.to/michalbryxi/debugging-emberjs-with-vscode-2p5g)
 - [Staging environments with ember-cli-deploy](http://blog.firstiwaslike.com/staging-environments-with-ember-cli-deploy/)
 - [Higher-Order Components in Ember.js](https://www.chriskrycho.com/2018/higher-order-components-in-emberjs.html)
 - [How to handle async properties in Ember.js](https://medium.com/macsour/how-to-handle-async-abilities-with-ember-can-22d90df056ed)
