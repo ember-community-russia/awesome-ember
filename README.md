@@ -233,6 +233,9 @@ Ember Myths located [here ✨](ember-myths.md), Readers Questions located [here 
 ### Code Splitting
 
 - [ember-engines](https://github.com/ember-engines/ember-engines) - This Ember addon implements the functionality described in the Ember Engines RFC. Engines allow multiple logical applications to be composed together into a single application from the user's perspective.
+- [ember-lazy-mount](https://github.com/buschtoens/ember-lazy-mount) - {{mount}} lazy loading route-less engines
+- [ember-cli-bundle-loader](https://github.com/MiguelMadero/ember-cli-bundle-loader) - Addon to allow for multiple bundles and do lazy loading.
+- [ember-cli-lazy-load](https://github.com/duizendnegen/ember-cli-lazy-load) - Support lazily loading your Ember app via splitting it up into Bundles.
 
 ### Codestyle
 
