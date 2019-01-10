@@ -627,7 +627,7 @@ Ember Myths located [here ✨](ember-myths.md), Readers Questions located [here 
 
 ### Templating
 
-- [?](#) - ????.
+- [ember-template-component-import](https://github.com/crashco/ember-template-component-import) - This addon allows you to use import-style syntax to create local bindings to a component within a template file.
 
 ### Testing
 
