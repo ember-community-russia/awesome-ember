@@ -725,6 +725,7 @@ Ember Myths located [here ✨](ember-myths.md), Readers Questions located [here 
 
 ### Articles
 
+- [Higher-Order Components in Ember.js](https://www.chriskrycho.com/2018/higher-order-components-in-emberjs.html)
 - [How to handle async properties in Ember.js](https://medium.com/macsour/how-to-handle-async-abilities-with-ember-can-22d90df056ed)
 - [8 Top Ember.js Interview Questions in 2018](http://blog.honeypot.io/emberjs-interview-questions-2018/)
 - [Ember Community, meet CodeSandbox!](https://medium.com/@mikenorth/ember-community-meet-codesandbox-10a43076b3fa)
