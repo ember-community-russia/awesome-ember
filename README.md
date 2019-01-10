@@ -666,6 +666,7 @@ Ember Myths located [here ✨](ember-myths.md), Readers Questions located [here 
 
 - [ember-bootstrap](http://www.ember-bootstrap.com/) - Provides a collection of native Ember components that mimic the original Bootstrap plugins and components in an ember friendly way
 - [ember-cli-uniq](https://github.com/uniplaces/ember-cli-uniq/) - Default components for Ember.js that implement the Uniplaces Design System
+- [ember-element-ui](https://github.com/aalasolutions/ember-element-ui) - element-ui for ember
 - [ember-ghost-casper-template](https://github.com/stonecircle/ember-ghost-casper-template) - A static site version of the default personal blogging theme for Ghost
 - [ember-paper](https://github.com/miguelcobain/ember-paper) - The Ember approach to Material Design.
 - [ember-radical](https://github.com/healthsparq/ember-radical) - Feather light, fully accessible DDAU component library for your Ember apps.
