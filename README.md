@@ -724,6 +724,8 @@ Ember Myths located [here ✨](ember-myths.md), Readers Questions located [here 
 - [Ember.js approval requirements](https://gist.github.com/PoslinskiNet/2d7a05944ca3c468440a0faea153062b)
 
 ### Articles
+
+- [How to handle async properties in Ember.js](https://medium.com/macsour/how-to-handle-async-abilities-with-ember-can-22d90df056ed)
 - [8 Top Ember.js Interview Questions in 2018](http://blog.honeypot.io/emberjs-interview-questions-2018/)
 - [Ember Community, meet CodeSandbox!](https://medium.com/@mikenorth/ember-community-meet-codesandbox-10a43076b3fa)
 - [Fuel up your Ember with Octane](https://clark.engineering/fuel-up-your-ember-with-octane-171c8dd13fd6)
