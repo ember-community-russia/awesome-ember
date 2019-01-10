@@ -1134,6 +1134,7 @@ Ember Myths located [here ✨](ember-myths.md), Readers Questions located [here 
 
 ### Videos
 
+- [Ember.js Tutorial: Build a painting game in 20 mins](https://www.youtube.com/watch?v=N4KrBuO0RRE)
 - [Maintaining an Ember App at Scale, with Chris Ng](https://www.youtube.com/watch?v=gyGZHydh0Hw&feature=em-uploademail)
 - [Jackie Luo: From React to Ember: A Modern Comparison](https://www.youtube.com/watch?v=7yxr4iBrZsw)
 - [Ember San Francisco Meetup at Square, October 2018](https://www.youtube.com/watch?v=ulWhjL0Aj5s)
