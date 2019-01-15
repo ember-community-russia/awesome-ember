@@ -952,6 +952,7 @@ Ember Myths located [here ✨](ember-myths.md), Readers Questions located [here 
 - [guides](https://guides.emberjs.com/)
 
 ### Codemods
+- [ember-es6-class-codemod](https://github.com/scalvert/ember-es6-class-codemod) - A codemod-cli project for converting Ember objects to es6 native classes.
 - [ember-cli-mirage-faker-codemod](https://github.com/caseywatts/ember-cli-mirage-faker-codemod) - This codemod is to help transition from importing faker through ember-cli-mirage, to instead import it directly from faker.
 - [ember-mocha-codemods](https://github.com/Turbo87/ember-mocha-codemods) - Codemod scripts for ember-mocha
 - [ember-module-migrator](https://github.com/rwjblue/ember-module-migrator) - Automated migration for new Ember application layout.
