@@ -5,6 +5,8 @@
 
 Just type [`ember.cool`](https://ember.cool) to go here ✨
 
+Or [`https://ember-community-russia.github.io/awesome-ember/`](https://ember-community-russia.github.io/awesome-ember/)
+
 Ember Myths located [here ✨](ember-myths.md), Readers Questions located [here ✨](ember-questions.md)
 
 [✨ Contribute to Ember ✨](https://help-wanted.emberjs.com/core)
