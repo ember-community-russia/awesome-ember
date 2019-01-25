@@ -731,6 +731,7 @@ Ember Myths located [here ✨](ember-myths.md), Readers Questions located [here 
 
 ### Articles
 
+- [Ember.js Native Class Update: 2019 Edition](https://www.pzuraq.com/emberjs-native-class-update-2019-edition/)
 - [Ember Route Hooks — A Complete Look](https://alexdiliberto.com/posts/ember-route-hooks-a-complete-look/)
 - [Understanding unknownProperty in Ember](https://wyeworks.com/blog/2015/11/24/understanding-unknownproperty-in-ember)
 - [An Introduction to Ember for Angular Developers](https://davidtang.io/2016/02/10/introduction-to-ember-for-angular-developers.html)
