@@ -1012,7 +1012,7 @@ Ember Myths located [here ✨](ember-myths.md), Readers Questions located [here 
 - [PIX](https://github.com/1024pix/pix/tree/dev/live/app) - PIX
 - [ember-monorepo-demo](https://github.com/lennyburdette/ember-monorepo-demo)
 - [documize.com](https://github.com/documize/community)
-
+- [New York City Census Reporting Tool](https://github.com/NYCPlanning/labs-factfinder)
 
 ### Gists
 - [ember-cli-advanced-proxy](https://github.com/bryanaka/ember-cli-advanced-proxy/blob/594e13cf2de386d8ea65dac88f643241f7a28363/index.js)
