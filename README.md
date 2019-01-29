@@ -637,6 +637,7 @@ Ember Myths located [here ✨](ember-myths.md), Readers Questions located [here 
 
 ### Testing
 
+- [ember-qunit-decorators](https://github.com/mike-north/ember-qunit-decorators) - Use ES6 or TypeScript decorators for QUnit tests in your Ember app.
 - [ember-cli-addon-tests](https://github.com/tomdale/ember-cli-addon-tests) - Test helpers for testing Ember CLI addons inside the context of a real Ember app.
 - [ember-cli-code-coverage](https://github.com/kategengler/ember-cli-code-coverage) - Code coverage for ember apps using Istanbul
 - [ember-cli-mirage](http://www.ember-cli-mirage.com/) - Build, test and demo your app using a [JSON API](http://jsonapi.org/)-compliant client-side server.
