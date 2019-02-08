@@ -732,6 +732,7 @@ Ember Myths located [here ✨](ember-myths.md), Readers Questions located [here 
 
 ### Articles
 
+- [Coming Soon in Ember Octane - Part 1: Native Classes](https://www.pzuraq.com/coming-soon-in-ember-octane-part-1-native-classes/)
 - [Ember.js Native Class Update: 2019 Edition](https://www.pzuraq.com/emberjs-native-class-update-2019-edition/)
 - [Ember Route Hooks — A Complete Look](https://alexdiliberto.com/posts/ember-route-hooks-a-complete-look/)
 - [Understanding unknownProperty in Ember](https://wyeworks.com/blog/2015/11/24/understanding-unknownproperty-in-ember)
