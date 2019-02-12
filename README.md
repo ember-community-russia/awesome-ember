@@ -731,6 +731,8 @@ Ember Myths located [here ✨](ember-myths.md), Readers Questions located [here 
 - [Ember.js approval requirements](https://gist.github.com/PoslinskiNet/2d7a05944ca3c468440a0faea153062b)
 
 ### Articles
+
+- [Confirming Actions in Ember](https://medium.com/@chrsmllr/confirming-actions-in-ember-362b19a0c01f)
 - [Async Computed Properties in Ember](https://www.barelyknown.com/posts/async-computed-properties-in-ember)
 - [Coming Soon in Ember Octane - Part 1: Native Classes](https://www.pzuraq.com/coming-soon-in-ember-octane-part-1-native-classes/)
 - [Ember.js Native Class Update: 2019 Edition](https://www.pzuraq.com/emberjs-native-class-update-2019-edition/)
