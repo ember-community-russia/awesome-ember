@@ -737,6 +737,7 @@ Ember Myths located [here ✨](ember-myths.md), Readers Questions located [here 
 - [Ember.js approval requirements](https://gist.github.com/PoslinskiNet/2d7a05944ca3c468440a0faea153062b)
 
 ### Articles
+- [Ember.js ❤Angle Brackets. A Migration Guide & Cheat Sheet](https://medium.com/@AveryBloom/ff309d6effdf)
 - [Coming Soon in Ember Octane - Part 1: Native Classes](https://www.pzuraq.com/coming-soon-in-ember-octane-part-1-native-classes/)
 - [Coming Soon in Ember Octane - Part 2: Angle Brackets Syntax & Named Arguments](https://www.pzuraq.com/coming-soon-in-ember-octane-part-2-angle-brackets-and-named-arguments/)
 - [Confirming Actions in Ember](https://medium.com/@chrsmllr/confirming-actions-in-ember-362b19a0c01f)
@@ -772,6 +773,7 @@ Ember Myths located [here ✨](ember-myths.md), Readers Questions located [here 
 - [Everything one can expect in Ember Octane](http://hangaroundtheweb.com/2018/08/ember-octane-everything-one-can-expect-in-the-next-ember-edition)
 - [Shipping EmberJS bundles based on the user's browser](https://sivasubramanyam.me/emberjs-shipping-different-bundles/)
 - [To `attrs` or not to `attrs`](https://locks.svbtle.com/to-attrs-or-not-to-attrs)
+- [Nested components and angle brackets, a sneaky solution](https://locks.svbtle.com/nested-components-and-angle-brackets)
 - [How I added whitelabel theming to my Ember app](https://medium.com/@simeonberns/how-i-added-whitelabel-theming-to-my-ember-app-97bfca9e263a)
 - [Decorating Guide: Commonly-Used Ember Decorators](https://codingitwrong.com/2018/08/21/decorating-guide.html)
 - [Understanding Ember's resolver](https://dockyard.com/blog/2016/09/14/understanding-ember-s-resolver)
