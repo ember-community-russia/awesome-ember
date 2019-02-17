@@ -74,6 +74,7 @@ Ember Myths located [here ✨](ember-myths.md), Readers Questions located [here 
 	- [Minifiers](#minifiers)
 	- [Miscellaneous](#miscellaneous)
 	- [Mobile](#mobile)
+	- [Modifiers](#modifiers)
 	- [Natural language processing](#natural-language-processing)
 	- [Network](#network)
 	- [Node.js management](#nodejs-management)
@@ -524,6 +525,11 @@ Ember Myths located [here ✨](ember-myths.md), Readers Questions located [here 
 - [ember-mobile-menu](https://github.com/nickschot/ember-mobile-menu) - Draggable sidebar specifically tailored to mobile devices
 - [ember-mobile-pane](https://github.com/nickschot/ember-mobile-pane) - ember-mobile-pane
 - [ember-responsive](https://github.com/freshbooks/ember-responsive) - Easy responsive layouts with Ember
+
+### Modifiers
+- [ember-css-vars](https://github.com/luxferresum/ember-css-vars) - A ember modifier to apply css variables. This gives a save way to expose data from javascript to css.
+- [ember-on-modifier](https://github.com/buschtoens/ember-on-modifier) - An implementation of the `{{on}}` element modifier shown in the Modifiers RFC #353.
+- [ember-render-modifiers](https://github.com/emberjs/ember-render-modifiers) - Implements did-insert / did-update / will-destroy modifiers for RFC #415.
 
 ### Natural language processing
 - [?](#) - ????.
