@@ -299,6 +299,7 @@ Ember Myths located [here ✨](ember-myths.md), Readers Questions located [here 
  - [ember-css-modules](https://github.com/salsify/ember-css-modules) - CSS Modules for ambitious applications.
  - [ember-cli-tailwind](https://github.com/embermap/ember-cli-tailwind) - Tailwind is a utility-first CSS framework for rapidly building custom user interfaces.
  - [ember-emotion](https://github.com/alexlafroscia/ember-emotion) - Use emotion styling in Ember.js
+ - [css-blocks](https://github.com/linkedin/css-blocks) - High performance, maintainable stylesheets.
 
 ### Fonts
 - [ember-cli-webfont](https://github.com/vitch/ember-cli-webfont) - Easily generate webfonts from svg files as part of your ember-cli build process
