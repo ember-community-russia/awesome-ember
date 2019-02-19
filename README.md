@@ -560,6 +560,7 @@ Ember Myths located [here ✨](ember-myths.md), Readers Questions located [here 
 
 ### Polyfills
 
+- [ember-modifier-manager-polyfill](https://github.com/rwjblue/ember-modifier-manager-polyfill) - Polyfill element modifiers for Ember 2.12 through 3.7
 - [ember-angle-bracket-invocation-polyfill](https://github.com/rwjblue/ember-angle-bracket-invocation-polyfill) - This addon provides a polyfill for angle bracket invocation syntax as described in RFC 311.
 - [ember-named-arguments-polyfill](https://github.com/rwjblue/ember-named-arguments-polyfill) - Polyfills support for named arguments for Ember 2.10 through 3.0.
 - [ember-native-class-polyfill](https://github.com/pzuraq/ember-native-class-polyfill) - This addon provides a polyfill for the native class behavior that was proposed in Ember RFCs #240 and #337.
