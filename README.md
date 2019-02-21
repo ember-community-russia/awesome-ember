@@ -52,7 +52,7 @@ Ember Myths located [here ✨](ember-myths.md), Readers Questions located [here 
 	- [Ember-inspector roadmaps & overview](#)
 	- [End-user customization](#end-user-customization)
 	- [ES6](#es6)
-	- [Extenral Components Integration](#external-components-integration)
+	- [External Components Integration](#external-components-integration)
 	- [Filesystem](#filesystem)
 	- [Forms](#forms)
 	- [Forum](#forum)
@@ -249,7 +249,7 @@ Ember Myths located [here ✨](ember-myths.md), Readers Questions located [here 
 ### Command-line apps
 
 - [ember-cli-create](https://github.com/gossi/ember-cli-create) - CLI wizard to create a new ember project
-- [@ember/optional-features](https://github.com/emberjs/ember-optional-features) - This addon allows you to easily enable/disable optional features in ember-source. To clarify what we mean by optional, these are features that will be opt-in/opt-out and optional for the forseeable future, not features that will be enabled by default. It is intended for use with apps only not addons.
+- [@ember/optional-features](https://github.com/emberjs/ember-optional-features) - This addon allows you to easily enable/disable optional features in ember-source. To clarify what we mean by optional, these are features that will be opt-in/opt-out and optional for the foreseeable future, not features that will be enabled by default. It is intended for use with apps only not addons.
 - [ember-cli-rename](https://github.com/trabus/ember-cli-rename) - Addon for ember-cli that provides an `ember rename` command
 
 ### Command-line utilities
@@ -392,7 +392,7 @@ Ember Myths located [here ✨](ember-myths.md), Readers Questions located [here 
 - [@ember-decorators/argument](https://github.com/ember-decorators/argument) - Decorators for Component and Object arguments in Ember
 - [sparkles-decorators](https://github.com/gossi/sparkles-decorators) - Decorators for Sparkles/Glimmer Components
 
-### Extenral Components Integration
+### External Components Integration
 
 - [ember-glimmer-component](https://github.com/smfoote/ember-glimmer-component) - Glimmer.js-like components in Ember
 - [sparkles-component](https://github.com/rwjblue/sparkles-component) - Addon used to experiment with @glimmer/component style APIs in Ember apps via existing public APIs.
@@ -717,7 +717,7 @@ Ember Myths located [here ✨](ember-myths.md), Readers Questions located [here 
  - [vscode-ember-colorizer](https://github.com/ciena-blueplanet/vscode-ember-colorizer) - VsCode extension that colorizes/tokeninzes Ember .hbs, Controllers, and Routes files.
 
  - [ember-module-snippets](https://github.com/candidmetrics/ember-module-snippets) - Snippets to make importing Ember modules a snap in VSCode
- 
+
 ### Atom addons
 
 - [Atom Ember Snippets](https://github.com/mattmcmanus/atom-ember-snippets)
