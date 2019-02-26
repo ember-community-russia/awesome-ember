@@ -232,6 +232,7 @@ Ember Myths located [here ✨](ember-myths.md), Readers Questions located [here 
 ### CI/CD
 
 - [ember-cli-server-variables](https://github.com/blimmer/ember-cli-server-variables) - An Ember CLI add-on to support adding variables to the generated index.html file's head tag.
+- [ember-ci](https://github.com/mike-north/ember-ci) - Continuous integration goodies for ember.js apps
 
 ### Code Splitting
 
