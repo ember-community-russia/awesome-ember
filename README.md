@@ -741,6 +741,7 @@ Ember Myths located [here ✨](ember-myths.md), Readers Questions located [here 
 - [Ember.js approval requirements](https://gist.github.com/PoslinskiNet/2d7a05944ca3c468440a0faea153062b)
 
 ### Articles
+- [Make your deprecated CSS stand out](https://ondrejsevcik.com/deprecate-css/)
 - [Ember.js ❤Angle Brackets. A Migration Guide & Cheat Sheet](https://medium.com/@AveryBloom/ff309d6effdf)
 - [Coming Soon in Ember Octane - Part 1: Native Classes](https://www.pzuraq.com/coming-soon-in-ember-octane-part-1-native-classes/)
 - [Coming Soon in Ember Octane - Part 2: Angle Brackets Syntax & Named Arguments](https://www.pzuraq.com/coming-soon-in-ember-octane-part-2-angle-brackets-and-named-arguments/)
