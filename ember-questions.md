@@ -82,6 +82,11 @@ __A:__  [The main job of a controller is to hand data down to other parts of the
 
 ---
 
+__Q:__ _What are the benefits of using Ember Data over Ajax?_
+
+__A:__  [Ember Data as an abstraction layer enforces a clear separation of concerns between ...](https://discuss.emberjs.com/t/readers-questions-what-are-the-benefits-of-using-ember-data-over-ajax/16254)
+
+---
 Readers’ Questions: 
 
 
