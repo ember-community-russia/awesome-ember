@@ -169,7 +169,6 @@ Ember Myths located [here ✨](ember-myths.md), Readers Questions located [here 
 - [ember-wordpress](https://github.com/oskarrough/ember-wordpress) - The bridge between Ember.js and Wordpress
 - [emberfire](https://github.com/firebase/emberfire) - Official Ember Data adapter for Firebase
 - [ninjafire](https://github.com/lineupninja/ninjafire) - An ORM for Firebase written in Typescript.
-- [ember-cli-zuglet](https://www.ember-cli-zuglet.com/) - Ember.js addon for effortless Firebase integration.
 
 ### Animations
 
@@ -326,6 +325,7 @@ Ember Myths located [here ✨](ember-myths.md), Readers Questions located [here 
 - [ember-orbit](https://github.com/orbitjs/ember-orbit) - Ember.js data layer built with Orbit.js
 - [ember-data-storefront](https://github.com/embermap/ember-data-storefront) - A collection of APIs that address common data-loading issues.
 - [ember-m3](https://github.com/hjdivad/ember-m3) - This addon provides an alternative model implementation to DS.Model
+- [ember-cli-zuglet](https://www.ember-cli-zuglet.com/) - Ember.js addon for effortless Firebase integration.
 
  ### Data manipulation & Computed
 
