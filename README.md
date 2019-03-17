@@ -1047,6 +1047,14 @@ Ember Myths located [here ✨](ember-myths.md), Readers Questions located [here 
 - [glimmer-js-online-offline-demo](https://github.com/thomasbrus/glimmer-js-online-offline-demo) - Sample glimmer.js app: online/offline browser events
 - [glimmer-qrious](https://github.com/c0urg3tt3/glimmer-qrious) - Glimmerjs components using QRious library to generate QR code in webpage.
 - [glimmerjs-address-book-demo](https://github.com/ttdonovan/glimmerjs-address-book-demo) - Example Glimmer.js application - AddressBook Demo 
+- [glimmer-dashboard](https://github.com/JustInToCoding/glimmer-dashboard) - Glimmer.js dashboard example
+- [glimmer-redux-todo](https://github.com/bashmach/glimmer-redux-todo) - Todo app written with Glimmer.js and Redux
+- [glimmer-pong](https://github.com/knownasilya/glimmer-pong) - Pong game written using Glimmer.js and SVGs 
+- [glimmer-material](https://github.com/cyk/glimmer-material) - A Glimmer.js wrapper for Material Components for the Web
+- [glimmer-of-life](https://github.com/trentmwillis/glimmer-of-life) - An implementation of Conway's Game of Life using Glimmer 
+- [vorfreude](https://github.com/chadian/vorfreude) -  when you can't wait but have to
+- [endless-hoops](https://github.com/mtmckenna/endless-hoops) - It's a basketball game written in Javascript/Canvas/GlimmerJS
+- [glimmer-hangman](https://github.com/BenSchoenmakers94/glimmer-hangman) - A implementation of the well-known game 'Hangman' in GlimmerJS
 
 
 ### Gists
