@@ -1044,6 +1044,10 @@ Ember Myths located [here ✨](ember-myths.md), Readers Questions located [here 
 - [built-with-spaghetti](https://github.com/gordonbisnor/built-with-spaghetti) - Built with Spaghetti aims to function as a gateway to web art
 - [glimmer-live-chat](https://github.com/rajasegar/glimmer-live-chat) - A Live chat application crafted using Glimmer.js 
 - [glimmer-synth](https://github.com/jimenglish81/glimmer-synth) - Synthesizer built using WebAudio and Glimmer
+- [glimmer-js-online-offline-demo](https://github.com/thomasbrus/glimmer-js-online-offline-demo) - Sample glimmer.js app: online/offline browser events
+- [glimmer-qrious](https://github.com/c0urg3tt3/glimmer-qrious) - Glimmerjs components using QRious library to generate QR code in webpage.
+- [glimmerjs-address-book-demo](https://github.com/ttdonovan/glimmerjs-address-book-demo) - Example Glimmer.js application - AddressBook Demo 
+
 
 ### Gists
 - [ember-cli-advanced-proxy](https://github.com/bryanaka/ember-cli-advanced-proxy/blob/594e13cf2de386d8ea65dac88f643241f7a28363/index.js)
