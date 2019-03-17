@@ -1037,6 +1037,13 @@ Ember Myths located [here ✨](ember-myths.md), Readers Questions located [here 
 
 ### Examples Glimmer
 - [breethe-client](https://github.com/simplabs/breethe-client) - Air Quality Data for Locations around the World
+- [Glimmeroids](https://github.com/t-sauer/Glimmeroids) - Asteroids implementation using Glimmer.js
+- [glimmer-hn-pwa](https://github.com/mhadaily/glimmer-hn-pwa) - A Demonstration Of HackerNews Progressive Web App Powered By Glimmer.js 
+- [the-chosen](https://github.com/FLarra/the-chosen) - Glimmer project created to learn & decide easier during our scrum dailies meeting who is the next person to share status.
+- [glimmer_eats](https://github.com/James-Byrne/glimmer_eats) - A demo PWA built with GlimmerJS
+- [built-with-spaghetti](https://github.com/gordonbisnor/built-with-spaghetti) - Built with Spaghetti aims to function as a gateway to web art
+- [glimmer-live-chat](https://github.com/rajasegar/glimmer-live-chat) - A Live chat application crafted using Glimmer.js 
+- [glimmer-synth](https://github.com/jimenglish81/glimmer-synth) - Synthesizer built using WebAudio and Glimmer
 
 ### Gists
 - [ember-cli-advanced-proxy](https://github.com/bryanaka/ember-cli-advanced-proxy/blob/594e13cf2de386d8ea65dac88f643241f7a28363/index.js)
