@@ -831,6 +831,7 @@ Ember Myths located [here ✨](ember-myths.md), Readers Questions located [here 
 - [Customising Ember Power Select](https://medium.com/life-at-kayako/customising-ember-power-select-3d570c7c4c0c)
 - [Deep Dive on Ember Events](https://medium.com/square-corner-blog/deep-dive-on-ember-events-cf684fd3b808)
 
+- [A collection of notes that summarize EmberConf 2019](https://alexdiliberto.com/posts/emberconf-2019-notes/)
 - [A collection of links that summarize EmberConf 2018](https://github.com/nucleartide/emberconf-2018)
 - [A collection of links that summarize EmberConf 2017](https://github.com/poteto/emberconf-2017)
 - [A collection of links that summarize EmberConf 2016](https://github.com/poteto/emberconf-2016)
