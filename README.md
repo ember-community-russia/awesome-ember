@@ -1216,6 +1216,7 @@ Ember Myths located [here ✨](ember-myths.md), Readers Questions located [here 
 - [EmberConf 2016](https://www.youtube.com/playlist?list=PL4eq2DPpyBblc8aQAd516-jGMdAhEeUiW) - Videos of the sessions from EmberConf 2016.
 - [EmberConf 2017](https://www.youtube.com/playlist?list=PL4eq2DPpyBbna_5fLPqOqensqSZpGf-hT) - Videos of the sessions from EmberConf 2017.
 - [EmberConf 2018](https://www.youtube.com/watch?v=NhtpXs0ZtUc&list=PL4eq2DPpyBbnjD5iLp55as9OvIdEDI_Kt)  - Videos of the sessions from EmberConf 2018.
+- [EmberConf 2019](https://www.youtube.com/playlist?list=PLE7tQUdRKcyYWLWrHgmWsvzsQBSWCLHYL)  - Videos of the sessions from EmberConf 2019.
 - [ReactiveConf 2017 - Tom Dale: Secrets of the Glimmer VM](https://www.youtube.com/watch?v=nXCSloXZ-wc)
 - [ReactiveConf 2017](https://youtu.be/62xd25kEZ3o?t=27618)
 - [Tim Thomas - Using Ember.js to build Electron Apps](https://www.youtube.com/watch?v=ER1V_u0N7u4)
