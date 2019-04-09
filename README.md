@@ -834,6 +834,7 @@ Ember Myths located [here ✨](ember-myths.md), Readers Questions located [here 
 - [Deep Dive on Ember Events](https://medium.com/square-corner-blog/deep-dive-on-ember-events-cf684fd3b808)
 
 - [A collection of notes that summarize EmberConf 2019](https://alexdiliberto.com/posts/emberconf-2019-notes/)
+- [EmberConf 2019 Links and Notes](https://github.com/dknutsen/emberconf-2019)
 - [A collection of links that summarize EmberConf 2018](https://github.com/nucleartide/emberconf-2018)
 - [A collection of links that summarize EmberConf 2017](https://github.com/poteto/emberconf-2017)
 - [A collection of links that summarize EmberConf 2016](https://github.com/poteto/emberconf-2016)
