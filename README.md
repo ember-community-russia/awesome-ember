@@ -174,7 +174,7 @@ Ember Myths located [here ✨](ember-myths.md), Readers Questions located [here 
 
 ### Animations
 
-- [ember-animated](ttps://github.com/ember-animation/ember-animated) - [Web Animations with Ember js](https://www.youtube.com/watch?v=TSvnutA9PUE)
+- [ember-animated](https://github.com/ember-animation/ember-animated) - [Web Animations with Ember js](https://www.youtube.com/watch?v=TSvnutA9PUE)
 - [liquid-fire](https://github.com/ember-animation/liquid-fire) - Animations & transitions for ambitious Ember applications.
 
 ### Authentication
