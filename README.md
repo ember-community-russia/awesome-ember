@@ -842,6 +842,8 @@ Ember Myths located [here ✨](ember-myths.md), Readers Questions located [here 
 
 - [A list of EmberJS2018 blog posts and ideas](https://github.com/zinyando/emberjs2018-posts)
 
+- [Blog Post for an Ambitious Framework](https://blog.201-created.com/blog-post-for-an-ambitious-framework-d7e9248893fa)
+
 ### Ember-Cli Articles
 - [Ember-cli fingerprinting and dynamic assets](https://medium.com/@ruslanzavacky/ember-cli-fingerprinting-and-dynamic-assets-797a298d8dc6)
 - [Secrets of the Ember-CLI server: Express middleware with Ember-CLI](https://blog.201-created.com/secrets-of-the-ember-cli-server-bde80bb546dd)
