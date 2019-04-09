@@ -105,6 +105,7 @@ Ember Myths located [here ✨](ember-myths.md), Readers Questions located [here 
 	- [UX](#ux)
 	- [VR](#vr)
 	- [VS Code addons](#vs-code-addons)
+	- [Web Components](#web-components)
 	- [Web frameworks](#web-frameworks)
 	- [Webpack](#webpack)
 	- [Weird](#weird)
@@ -726,6 +727,9 @@ Ember Myths located [here ✨](ember-myths.md), Readers Questions located [here 
 ### Atom addons
 
 - [Atom Ember Snippets](https://github.com/mattmcmanus/atom-ember-snippets)
+
+### Web Components
+- [ember-cli-web-components](https://github.com/BBVAEngineering/ember-cli-web-components) - Use your Ember components in other framework as Web Components!
 
 ### Web frameworks
 
