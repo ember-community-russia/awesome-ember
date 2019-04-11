@@ -999,6 +999,8 @@ Ember Myths located [here ✨](ember-myths.md), Readers Questions located [here 
 - [qunit-dom-codemod](https://github.com/simplabs/qunit-dom-codemod) - Basic codemod to automatically convert your assertions to qunit-dom assertions.
 - [test-selectors-codemod](https://github.com/lorcan/test-selectors-codemod) - A codemode for fixing the ember-test-selectors testSelector helper deprecation.
 - [ember-on-codemod](https://github.com/craigbilner/ember-on-codemod) - Replace use of Ember.on
+- [ember-memory-leaks-codemod](https://github.com/rajasegar/ember-memory-leaks-codemod) - A collection of codemod's for fixing memory leaks in Ember applications.
+
 
 ### Community
 
