@@ -117,6 +117,7 @@ Ember Myths located [here ✨](ember-myths.md), Readers Questions located [here 
 	- [Cheatsheets](#cheatsheets)
 	- [Codemods](#codemods)
 	- [Community](#community)
+	- [Contribution Guides](#contribution-guides)
 	- [Courses](#courses)
 	- [Discovery](#discovery)
 	- [Examples](#examples)
@@ -1012,6 +1013,11 @@ Ember Myths located [here ✨](ember-myths.md), Readers Questions located [here 
 - [Slack](https://embercommunity.slack.com)
 - [StackOverflow](http://stackoverflow.com/questions/tagged/ember.js)
 - [Telegram](https://t.me/ember_js)
+
+### Contribution Guides
+
+- [How to contribute to the ember times - part1](https://www.kennethlarsen.org/how-to-contribute-to-the-ember-times)
+- [How to contribute ember release post - part2](https://www.kennethlarsen.org/how-to-contribute-ember-release-post)
 
 ### Courses
 
