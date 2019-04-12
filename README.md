@@ -1021,7 +1021,9 @@ Ember Myths located [here ✨](ember-myths.md), Readers Questions located [here 
 
 ### Courses
 
-- [Emberschool.com](https://www.emberschool.com/)
+- [embermap.com](https://embermap.com)
+- [Emberschool.com](https://www.emberschool.com)
+- [embercasts.com](https://www.embercasts.com)
 - [Frontend Masters: Advanced Ember 2.x - Mike North](https://frontendmasters.com/courses/advanced-ember-2/)
 - [Frontend Masters: Ember 2.x - Mike North](https://frontendmasters.com/courses/ember-2/)
 
@@ -1197,13 +1199,18 @@ Ember Myths located [here ✨](ember-myths.md), Readers Questions located [here 
 - [Tom Dale](https://twitter.com/tomdale)
 - [Yehuda Katz](https://twitter.com/wycats)
 - [Melanie Sumner](https://twitter.com/melaniersumner)
+- [Jen Weber](https://twitter.com/jwwweber)
+- [Robert Jackson](https://twitter.com/rwjblue)
 - [Stefan Penner](https://twitter.com/stefanpenner)
 - [Matthew Beale](https://twitter.com/mixonic)
+- [Chris Thoburn](https://twitter.com/Runspired)
+- [Chris Garrett](https://twitter.com/pzuraq)
 - [Alex Navasardyan](https://twitter.com/twokul)
 - [Igor Terzic](https://twitter.com/terzicigor)
 - [Dan Gebhardt](https://twitter.com/dgeb)
 
 - [Alex Speller](https://twitter.com/alexspeller)
+- [Sam Selikoff](https://twitter.com/samselikoff)
 - [Erik Bryn](https://twitter.com/ebryn)
 - [Gavin Joyce](https://twitter.com/gavinjoyce)
 - [Ryan Toronto](https://twitter.com/ryantotweets)
