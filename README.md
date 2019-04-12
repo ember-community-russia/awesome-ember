@@ -733,7 +733,7 @@ Ember Myths located [here ✨](ember-myths.md), Readers Questions located [here 
 
 ### Web Components
 - [ember-cli-web-components](https://github.com/BBVAEngineering/ember-cli-web-components) - Use your Ember components in other framework as Web Components!
-- [shadow-dom](https://github.com/knownasilya/ember-shadow-dom) - Write templates for your components inside of a Shadow DOM root.
+- [ember-shadow-dom](https://github.com/knownasilya/ember-shadow-dom) - Write templates for your components inside of a Shadow DOM root.
 
 ### Web frameworks
 
