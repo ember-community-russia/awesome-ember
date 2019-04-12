@@ -1189,23 +1189,26 @@ Ember Myths located [here ✨](ember-myths.md), Readers Questions located [here 
 
 ### Twitter
 
-- [Adolfo Builes](https://twitter.com/abuiles)
-- [Alex Matchneer](https://twitter.com/machty)
-- [Alex Navasardyan](https://twitter.com/twokul)
-- [alexspeller](https://twitter.com/alexspeller)
-- [Brian Cardarella](https://twitter.com/bcardarella)
-- [Ember Talk](https://twitter.com/emberjstalk)
+- [EmberJS](https://twitter.com/emberjs)
+- [The Ember Times](https://twitter.com/embertimes)
 - [Ember Watch](https://twitter.com/EmberWatch)
-- [EmberSherpa](https://twitter.com/EmberSherpa)
+- [Ember Weekly](https://twitter.com/EmberWeekly)
+
+- [Tom Dale](https://twitter.com/tomdale)
+- [Yehuda Katz](https://twitter.com/wycats)
+- [Melanie Sumner](https://twitter.com/melaniersumner)
+- [Stefan Penner](https://twitter.com/stefanpenner)
+- [Matthew Beale](https://twitter.com/mixonic)
+- [Alex Navasardyan](https://twitter.com/twokul)
+- [Igor Terzic](https://twitter.com/terzicigor)
+- [Dan Gebhardt](https://twitter.com/dgeb)
+
+- [Alex Speller](https://twitter.com/alexspeller)
 - [Erik Bryn](https://twitter.com/ebryn)
 - [Gavin Joyce](https://twitter.com/gavinjoyce)
-- [Jamie White](https://twitter.com/jgwhite)
-- [Jo Liss](https://twitter.com/jo_liss)
-- [mixonic](https://twitter.com/mixonic)
-- [Robin Ward](https://twitter.com/eviltrout)
-- [Stefan Penner](https://twitter.com/stefanpenner)
-- [Tom Dale](https://twitter.com/tomdale)
-- [Trek Glowacki](https://twitter.com/trek)
+- [Ryan Toronto](https://twitter.com/ryantotweets)
+- [Balint Erdi](https://twitter.com/baaz)
+- [Luke Melia](https://twitter.com/lukemelia)
 
 ### Videos
 
