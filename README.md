@@ -477,7 +477,6 @@ Ember Myths located [here ✨](ember-myths.md), Readers Questions located [here 
 
 ### Internalization & Localization
 
-- [ember-i18n](https://github.com/jamesarosen/ember-i18n) - Internationalization for Ember
 - [ember-intl](https://github.com/ember-intl/ember-intl) - Translate complex messages string. Localized formatting for date/time, number, and relative time.
 
 ### Inputs
