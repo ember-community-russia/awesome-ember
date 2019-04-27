@@ -1002,7 +1002,7 @@ Ember Myths located [here ✨](ember-myths.md), Readers Questions located [here 
 - [test-selectors-codemod](https://github.com/lorcan/test-selectors-codemod) - A codemode for fixing the ember-test-selectors testSelector helper deprecation.
 - [ember-on-codemod](https://github.com/craigbilner/ember-on-codemod) - Replace use of Ember.on
 - [ember-memory-leaks-codemod](https://github.com/rajasegar/ember-memory-leaks-codemod) - A collection of codemod's for fixing memory leaks in Ember applications.
-
+- [ember-3x-codemods](https://github.com/rajasegar/ember-3x-codemods) - A Codemod with a collection of transforms to address Ember 3.x deprecations
 
 ### Community
 
