@@ -783,7 +783,6 @@ Ember Myths located [here ✨](ember-myths.md), Readers Questions located [here 
 - [The EmberJS of the future... today!](https://dev.to/nullvoxpopuli/the-emberjs-of-the-future-today-12c)
 - [Building a Progressive Web App with Ember](https://madhatted.com/2017/6/16/building-a-progressive-web-app-with-ember)
 - [Dynamic component layout in Ember](https://medium.com/freshworks-engineering-blog/dynamic-component-layout-in-ember-c9375c49126a)
-- [NYC Planning Labs: Why Choose Ember.js?](https://medium.com/nycplanninglabs/nyc-planning-labs-why-choose-ember-js-fe9ff75f4373)
 - [Using PurgeCSS with Ember.js](http://www.jurecuhalev.com/blog/2018/09/07/using-purgecss-with-ember-js/)
 - [Modern Ember (2018)](https://codingitwrong.com/2018/08/16/modern-ember.html)
 - [Automating Ember.js App Deployment on AWS](https://medium.com/@piotr.steininger/automating-ember-js-app-deployment-on-aws-feccc6d94828)
@@ -854,6 +853,14 @@ Ember Myths located [here ✨](ember-myths.md), Readers Questions located [here 
 ### Ember-Cli Articles
 - [Ember-cli fingerprinting and dynamic assets](https://medium.com/@ruslanzavacky/ember-cli-fingerprinting-and-dynamic-assets-797a298d8dc6)
 - [Secrets of the Ember-CLI server: Express middleware with Ember-CLI](https://blog.201-created.com/secrets-of-the-ember-cli-server-bde80bb546dd)
+
+
+### Why Articles
+- [NYC Planning Labs: Why Choose Ember.js?](https://medium.com/nycplanninglabs/nyc-planning-labs-why-choose-ember-js-fe9ff75f4373)
+- [Why DockYard Builds with Ember.js](https://dockyard.com/blog/2017/10/04/why-dockyard-uses-ember)
+- [Ember. Your best bet.](https://medium.com/@alvincrespo/ember-your-best-bet-b5cd7275dc84)
+- [Why Ember?](http://www.melsumner.com/blog/ember/why-ember/)
+- [6 Reasons Why To Use Ember In 2019](https://selleo.com/blog/6-reasons-why-to-use-ember-in-2019)
 
 ### Jump-Start Articles
 - [Ember Guide for Beginners](https://rmmmp.github.io/2018/07/14/ember-guide-for-beginners-01-introduction.html)
