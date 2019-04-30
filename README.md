@@ -861,6 +861,7 @@ Ember Myths located [here ✨](ember-myths.md), Readers Questions located [here 
 - [Ember. Your best bet.](https://medium.com/@alvincrespo/ember-your-best-bet-b5cd7275dc84)
 - [Why Ember?](http://www.melsumner.com/blog/ember/why-ember/)
 - [6 Reasons Why To Use Ember In 2019](https://selleo.com/blog/6-reasons-why-to-use-ember-in-2019)
+- [Ember: Our Secret Weapon](https://www.prototypal.io/blog/)
 
 ### Jump-Start Articles
 - [Ember Guide for Beginners](https://rmmmp.github.io/2018/07/14/ember-guide-for-beginners-01-introduction.html)
