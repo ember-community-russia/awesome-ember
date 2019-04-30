@@ -803,7 +803,6 @@ Ember Myths located [here ✨](ember-myths.md), Readers Questions located [here 
 - [Tips for improving build time of large apps](https://discuss.emberjs.com/t/tips-for-improving-build-time-of-large-apps/15008)
 - [Error Handling](https://github.com/pixelhandler/ember-jsonapi-resources/wiki/Error-Handling)
 - [Build and Authenticate an EmberJS 3 Application](https://auth0.com/blog/build-and-authenticate-an-emberjs-3-application)
-- [Ember: Our Secret Weapon](https://www.prototypal.io/blog/)
 - [Everything you need to know to upgrade your Ember.js app](https://medium.com/front-end-hacking/everything-you-need-to-know-to-upgrade-your-ember-js-app-including-ember-3-9de5e808dde0)
 - [Top 10 Ember.js Development Companies](https://medium.com/@henryw1990/top-10-ember-js-development-companies-d07826a87f24)
 - [16 Opensource EmberJS Projects to Learn From](https://www.icicletech.com/blog/16-opensource-emberjs-projects-to-learn-from)
