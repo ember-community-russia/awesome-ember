@@ -861,6 +861,7 @@ Ember Myths located [here ✨](ember-myths.md), Readers Questions located [here 
 - [Why Ember?](http://www.melsumner.com/blog/ember/why-ember/)
 - [6 Reasons Why To Use Ember In 2019](https://selleo.com/blog/6-reasons-why-to-use-ember-in-2019)
 - [Ember: Our Secret Weapon](https://www.prototypal.io/blog/)
+- [How Ember.js Enables Us to Focus on Shipping Features](http://blog.nightwatch.io/ember-js-shipping-features)
 
 ### Jump-Start Articles
 - [Ember Guide for Beginners](https://rmmmp.github.io/2018/07/14/ember-guide-for-beginners-01-introduction.html)
