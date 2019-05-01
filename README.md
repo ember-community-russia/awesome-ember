@@ -926,6 +926,7 @@ Ember Myths located [here ✨](ember-myths.md), Readers Questions located [here 
 - [Using Ember Data, and service and controller injections improvements](https://www.chriskrycho.com/2018/typing-your-ember-update-part-4.html)
 
 ### Articles Modern Testing
+- [Using Fakes from Ember-Sinon-Qunit](https://medium.com/@mudflye/using-fakes-from-ember-sinon-qunit-c9fb7d4d9b1d)
 - [Headless Ember Tests in GitLab with Docker](https://medium.com/devopslinks/headless-ember-tests-in-gitlab-with-docker-fd5f05eef436)
 - [Making my Ember test suite 3x faster. A story about Mirage](https://mlange.io/blog/making-tests-faster-mirage/making-tests-faster-mirage/)
 - [Learn TDD in Ember](https://learntdd.in/ember/)
