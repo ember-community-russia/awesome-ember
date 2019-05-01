@@ -201,6 +201,7 @@ Ember Myths located [here ✨](ember-myths.md), Readers Questions located [here 
 
 ### Blogging
 
+- [empress-blog](https://github.com/empress/empress-blog) - Fully-functional, SEO friendly static site implementation of a blog system built on Ember
 - [ember-cli-blog](https://github.com/broerse/ember-cli-blog) - Tom Dale's blog example updated for the Ember CLI
 - [ember-tumblr](https://github.com/elwayman02/ember-tumblr) - Ember Addon for integrating a Tumblr blog
 
