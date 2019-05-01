@@ -147,6 +147,7 @@ Ember Myths located [here ✨](ember-myths.md), Readers Questions located [here 
 
 ### a11y
 
+- [e-a11y-modal](https://github.com/MelSumner/e-a11y-modal) - A simple modal for accessible Ember applications.
 - [ember-a11y-landmarks](https://github.com/ember-a11y/ember-a11y-landmarks) - Ember addon to help with landmark roles for better accessibility
 - [ember-a11y](https://github.com/ember-a11y/ember-a11y) - A collection of tools to build accessible Ember applications.
 - [ember-component-focus](https://github.com/ember-a11y/ember-component-focus) - A mixin for adding methods to your Ember components that help you manage the currently focused element.
@@ -258,6 +259,7 @@ Ember Myths located [here ✨](ember-myths.md), Readers Questions located [here 
 ### Command-line utilities
 
 - [ember-cli-update](https://github.com/ember-cli/ember-cli-update) - Update Ember CLI Ember.js apps and addons (and Glimmer.js apps)
+- [ember-cli-deprecation-workflow](https://github.com/mixonic/ember-cli-deprecation-workflow) - An addon geared towards making Ember upgrades easier by allowing you to work through deprecations without massive console noise.
 
 ### Component addons
 
