@@ -763,12 +763,18 @@ Ember Myths located [here ✨](ember-myths.md), Readers Questions located [here 
 
 ### Articles
 
+- [Using ember-animated to re-sort a list](https://devjournal.balinterdi.com/using-ember-animated-to-resort-a-list/)
 - [Throttling Ember-Data with Ember-Concurrency](https://medium.com/@mudflye/throttling-ember-data-with-ember-concurrency-ff30d804a1b)
 - [Animation and Predictable Data Loading in Ember](https://crunchingnumbers.live/2019/04/02/animation-and-predictable-data-loading-in-ember/)
 - [Make your deprecated CSS stand out](https://ondrejsevcik.com/deprecate-css/)
 - [Ember.js ❤Angle Brackets. A Migration Guide & Cheat Sheet](https://medium.com/@AveryBloom/ff309d6effdf)
 - [Coming Soon in Ember Octane - Part 1: Native Classes](https://www.pzuraq.com/coming-soon-in-ember-octane-part-1-native-classes/)
 - [Coming Soon in Ember Octane - Part 2: Angle Brackets Syntax & Named Arguments](https://www.pzuraq.com/coming-soon-in-ember-octane-part-2-angle-brackets-and-named-arguments/)
+- [Coming Soon in Ember Octane - Part 3: Tracked Properties](https://www.pzuraq.com/coming-soon-in-ember-octane-part-3-tracked-properties/)
+- [Coming Soon in Ember Octane - Part 4: Modifiers](https://www.pzuraq.com/coming-soon-in-ember-octane-part-4-modifiers/)
+- [Coming Soon in Ember Octane - Part 5: Glimmer Components](https://www.pzuraq.com/coming-soon-in-ember-octane-part-5-glimmer-components/)
+- [Ember Octane Update: What's up with `@action`?](https://www.pzuraq.com/ember-octane-update-action/)
+- [Ember Octane Update: Landing Decorators](https://www.pzuraq.com/ember-octane-update-landing-decorators/)
 - [Confirming Actions in Ember](https://medium.com/@chrsmllr/confirming-actions-in-ember-362b19a0c01f)
 - [Async Computed Properties in Ember](https://www.barelyknown.com/posts/async-computed-properties-in-ember)
 - [Ember.js Native Class Update: 2019 Edition](https://www.pzuraq.com/emberjs-native-class-update-2019-edition/)
