@@ -610,7 +610,7 @@ Ember Myths located [here ✨](ember-myths.md), Readers Questions located [here 
 - [ember-cli-flash](https://github.com/poteto/ember-cli-flash) - Simple, highly configurable flash messages for ember-cli.
 
 ### Routing addos
-
+- [ember-component-routes](https://github.com/wongpeiyi/ember-component-routes) - Render components directly from routes in Ember 
 - [ember-redirect](https://github.com/thoov/ember-redirect) - This addon aims to be a simple and easy way to preform route based redirects with minimal effort.
 - [ember-router-scroll](https://github.com/dollarshaveclub/ember-router-scroll) - Scroll to top with preserved browser history scroll position.
 
