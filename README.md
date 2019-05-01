@@ -763,6 +763,7 @@ Ember Myths located [here ✨](ember-myths.md), Readers Questions located [here 
 
 ### Articles
 
+- [Throttling Ember-Data with Ember-Concurrency](https://medium.com/@mudflye/throttling-ember-data-with-ember-concurrency-ff30d804a1b)
 - [Animation and Predictable Data Loading in Ember](https://crunchingnumbers.live/2019/04/02/animation-and-predictable-data-loading-in-ember/)
 - [Make your deprecated CSS stand out](https://ondrejsevcik.com/deprecate-css/)
 - [Ember.js ❤Angle Brackets. A Migration Guide & Cheat Sheet](https://medium.com/@AveryBloom/ff309d6effdf)
@@ -966,6 +967,7 @@ Ember Myths located [here ✨](ember-myths.md), Readers Questions located [here 
 
 ### Blogs
 
+- [lost-in-technology.com](https://www.lost-in-technology.com/blog/)
 - [TODAY I LEARNED / Ember](https://til.hashrocket.com/emberjs)
 - [Ember Daily Tips](http://www.emberdaily.com)
 - [emberway.io](https://emberway.io/)
