@@ -732,27 +732,7 @@ Ember Myths located [here ✨](ember-myths.md), Readers Questions located [here 
 
 - [Ember Syntax](https://marketplace.visualstudio.com/items?itemName=dhedgecock.ember-syntax) - Syntax highlighting for Ember template files AND syntax highlighting for inline template definitions with tagged templates!
  - [ember-language-server](https://github.com/emberwatch/ember-language-server) - Language Server Protocol implementation for Ember.js projects
- - [vscode-ember-colorizer](https://github.com/ciena-blueplanet/vscode-ember-colorizer) - VsCode extension that colorizes/tokeninzes Ember .hbs, Controllers, and Routes files.
-
- - [ember-module-snippets](https://github.com/candidmetrics/ember-module-snippets) - Snippets to make importing Ember modules a snap in VSCode
-
-### Atom addons
-
-- [Atom Ember Snippets](https://github.com/mattmcmanus/atom-ember-snippets)
-
-### Web Components
-- [ember-cli-web-components](https://github.com/BBVAEngineering/ember-cli-web-components) - Use your Ember components in other framework as Web Components!
-- [ember-shadow-dom](https://github.com/knownasilya/ember-shadow-dom) - Write templates for your components inside of a Shadow DOM root.
-
-### Web frameworks
-
-- [?](#) - ????
-
-### Webpack
-
-- [glimmer-compiler-webpack-plugin](https://github.com/tomdale/glimmer-compiler-webpack-plugin)
-
-### Weird
+ - [unstable-ember-language-server](https://marketplace.visualstudio.com/items?itemName=lifeart.vscode-ember-unstable) - Language Server Protocol implementation for Ember.js projects (Unstable, including experimental features)C
 
 - [ember-dynamic-render-template](https://github.com/miguelcobain/ember-dynamic-render-template) - Render DOM from a template string.
 
@@ -1090,6 +1070,7 @@ Ember Myths located [here ✨](ember-myths.md), Readers Questions located [here 
 - [documize.com](https://github.com/documize/community)
 - [New York City Census Reporting Tool](https://github.com/NYCPlanning/labs-factfinder)
 - [Medicine Inventory](https://github.com/aalasolutions/ember-medical-inventory) - Sample application developed with Ember CLI, Corber.io, ember-element-ui.
+- [octane-ecommerce](https://github.com/betocantu93/octane-ecommerce) - Ember Octane + FastBoot + Algolia + PayPal + Formspree ([s](https://docs.google.com/presentation/d/1YaG26Fj-tVjyFV8LvQJkfIH89-HYdkfHfhdRz3bC2-k/edit#slide=id.g56ccd9a7f0_0_33), [v](https://www.youtube.com/watch?v=KnkWs18V9dA&feature=youtu.be), [d](https://octane-ecommerce.herokuapp.com/))
 
 ### Examples Glimmer
 - [breethe-client](https://github.com/simplabs/breethe-client) - Air Quality Data for Locations around the World
