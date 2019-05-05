@@ -867,6 +867,8 @@ Ember Myths located [here ✨](ember-myths.md), Readers Questions located [here 
 ### Jump-Start Articles
 - [Ember Guide for Beginners](https://rmmmp.github.io/2018/07/14/ember-guide-for-beginners-01-introduction.html)
 - [The simplest possible Ember Data CRUD Tutorial](https://medium.com/ember-ish/the-simplest-possible-ember-data-crud-16eacee33ae6)
+- [Challenges I face(d) with Ember.js](https://medium.com/@sarbbottam/challenges-i-face-with-ember-js-59bfba30416e)
+- [It’s easier in Ember. Probably.](http://www.melsumner.com/blog/development/its-easier-in-ember-probably/)
 
 ### Articles Glimmer
 - [Alternative View Layers for an Elm App](https://robots.thoughtbot.com/elm-glimmer)
