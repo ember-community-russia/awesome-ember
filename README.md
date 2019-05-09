@@ -1100,6 +1100,7 @@ Ember Myths located [here ✨](ember-myths.md), Readers Questions located [here 
 
 
 ### Gists
+- [Useful Ember Data helpers: push-deletion, push-payload](https://gist.github.com/runspired/96618af26fb1c687a74eb30bf15e58b6)
 - [A principled model for forms](https://gist.github.com/chriskrycho/48fa641eeb55217d4063592b411b1192)
 - [ember-cli-advanced-proxy](https://github.com/bryanaka/ember-cli-advanced-proxy/blob/594e13cf2de386d8ea65dac88f643241f7a28363/index.js)
 - [A list of EmberJS VSCode Extensions](https://github.com/Alonski/ember-vscode-extensions)
