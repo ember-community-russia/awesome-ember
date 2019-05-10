@@ -124,6 +124,7 @@ Ember Myths located [here ✨](ember-myths.md), Readers Questions located [here 
 	- [Examples](#examples)
 	- [Examples Glimmer](#examples-glimmer)
 	- [Gists](#gists)
+	- [Gists Ember Data](#gists-ember-data)
 	- [Miscellaneous](#miscellaneous)
 	- [Newsletters](#newsletters)
 	- [Podcasts](#podcasts)
@@ -1100,7 +1101,6 @@ Ember Myths located [here ✨](ember-myths.md), Readers Questions located [here 
 
 
 ### Gists
-- [Useful Ember Data helpers: push-deletion, push-payload](https://gist.github.com/runspired/96618af26fb1c687a74eb30bf15e58b6)
 - [A principled model for forms](https://gist.github.com/chriskrycho/48fa641eeb55217d4063592b411b1192)
 - [ember-cli-advanced-proxy](https://github.com/bryanaka/ember-cli-advanced-proxy/blob/594e13cf2de386d8ea65dac88f643241f7a28363/index.js)
 - [A list of EmberJS VSCode Extensions](https://github.com/Alonski/ember-vscode-extensions)
@@ -1118,6 +1118,20 @@ Ember Myths located [here ✨](ember-myths.md), Readers Questions located [here 
 - [What are components all about.](https://gist.github.com/begedin/98045c9b4df900bb4695)
 - ["Why Ember" Thoughts](https://gist.github.com/MelSumner/971ba6b7a3c0b01a4cb3a43d3b962dac)
 - [Ember.js approval requirements](https://gist.github.com/PoslinskiNet/2d7a05944ca3c468440a0faea153062b)
+
+## Gists Ember Data
+- [Ember Data | Useful helpers: push-deletion, push-payload](https://gist.github.com/runspired/96618af26fb1c687a74eb30bf15e58b6)
+- [Ember Data | Complex Attrs](https://gist.github.com/runspired/a4b56f7eefe9f8e04f7f0c83e4dfeaf0)
+- [Ember Data | Advanced Query Cache](https://gist.github.com/runspired/dba8d8b4b0cde8d272ec368739460eba)
+- [Ember Data | Can we unload a record that has been deleted?](https://gist.github.com/runspired/c92c8d066511083f8c171a33ae27dedf)
+- [Ember Data | Persist Local Relationship Changes](https://gist.github.com/runspired/15387de0130478aae377d22b16021982)
+- [Ember Data | Push Polymorphic](https://gist.github.com/runspired/c5e86b006841fdab62bcddbc200f14e2)
+- [Ember Data | has-many Batch Create](https://gist.github.com/runspired/ad9a9bab3ee2dac11c2af8ee9e31b81d)
+- [Ember Data | Local Deletion](https://gist.github.com/runspired/68ad36b99367946a32c470fe1504d0ee)
+- [Ember Data | Save Transaction](https://gist.github.com/runspired/a607f4debabde043efd284a04b244974)
+- [Ember Data | Coalesce findHasMany within adapter Twiddle](https://gist.github.com/runspired/597ff8ccc4e9a06ff26c1754ba108fb3)
+- [Ember Data | Nested save](https://gist.github.com/runspired/bc93f1c525837420f7b14d8cdcb2d36a)
+- [Ember Data | Cascade Delete](https://gist.github.com/runspired/e9ee98ccc89fad2a07d9c86f2541a763)
 
 ### Miscellaneous
 
