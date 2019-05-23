@@ -106,6 +106,7 @@ Ember Myths located [here ✨](ember-myths.md), Readers Questions located [here 
 	- [UX](#ux)
 	- [VR](#vr)
 	- [VS Code addons](#vs-code-addons)
+	- [VIM](#vim)
 	- [Web Components](#web-components)
 	- [Web frameworks](#web-frameworks)
 	- [Webpack](#webpack)
@@ -737,6 +738,9 @@ Ember Myths located [here ✨](ember-myths.md), Readers Questions located [here 
  - [unstable-ember-language-server](https://marketplace.visualstudio.com/items?itemName=lifeart.vscode-ember-unstable) - Language Server Protocol implementation for Ember.js projects (Unstable, including experimental features)C
 
 - [ember-dynamic-render-template](https://github.com/miguelcobain/ember-dynamic-render-template) - Render DOM from a template string.
+
+### VIM
+- [Unstable language server for neovim](https://gist.github.com/meirish/639e6def0f352f63fef662dce3ca2f98)
 
 ## Resources
 
