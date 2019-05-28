@@ -683,6 +683,7 @@ Ember Myths located [here ✨](ember-myths.md), Readers Questions located [here 
 - [ember-cli-pact](https://github.com/twokul/ember-cli-pact) - Contract testing with Ember.js and Pact
 - [ember-window-mock](https://github.com/kaliber5/ember-window-mock) - Use window global as an Ember service that can be mocked in tests
 - [mirage-glue](https://github.com/izelnakri/mirage-glue) - This program reads your API endpoint and creates or appends response to relevant mirage fixture file(s).
+- [ember-sinon](https://github.com/csantero/ember-sinon) - Ember CLI addon adding support for sinon.js
 
 ### Text
 
