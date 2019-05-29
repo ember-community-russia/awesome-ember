@@ -605,6 +605,7 @@ Ember Myths located [here ✨](ember-myths.md), Readers Questions located [here 
 
 ### Query Params
 
+- [ember-query-params-service](https://github.com/NullVoxPopuli/ember-query-params-service) - Do you have controllers that _only_ parse query params?
 - [ember-parachute](https://github.com/offirgolan/ember-parachute) - Improved Query Params for Ember
 - [ember-href-to](https://github.com/intercom/ember-href-to) - A lightweight alternative to {{link-to}}
 
