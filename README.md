@@ -727,23 +727,31 @@ Ember Myths located [here ✨](ember-myths.md), Readers Questions located [here 
 - [?](#) - ????
 
 ### UX
+
 - [ember-onbeforeunload](https://github.com/jasonmit/ember-onbeforeunload) - invoke logic when transitioning between routes or closing window
 
 ### VR
+
 - [ember-vr](https://github.com/ember-vr)
 
 ### VS Code addons
 
 - [Ember Syntax](https://marketplace.visualstudio.com/items?itemName=dhedgecock.ember-syntax) - Syntax highlighting for Ember template files AND syntax highlighting for inline template definitions with tagged templates!
  - [ember-language-server](https://github.com/emberwatch/ember-language-server) - Language Server Protocol implementation for Ember.js projects
- - [unstable-ember-language-server](https://marketplace.visualstudio.com/items?itemName=lifeart.vscode-ember-unstable) - Language Server Protocol implementation for Ember.js projects (Unstable, including experimental features)C
+ - [unstable-ember-language-server](https://marketplace.visualstudio.com/items?itemName=lifeart.vscode-ember-unstable) - Language Server Protocol implementation for Ember.js projects (Unstable, including experimental features)
+ - [vscode-ember-colorizer](https://github.com/ciena-blueplanet/vscode-ember-colorizer) - VsCode extension that colorizes/tokeninzes Ember .hbs, Controllers, and Routes files.
+ - [ember-module-snippets](https://github.com/candidmetrics/ember-module-snippets) - Snippets to make importing Ember modules a snap in VSCode
 
-- [ember-dynamic-render-template](https://github.com/miguelcobain/ember-dynamic-render-template) - Render DOM from a template string.
+### Atom addons	
 
+ - [Atom Ember Snippets](https://github.com/mattmcmanus/atom-ember-snippets)
+ 
 ### VIM
+
 - [Unstable language server for neovim](https://gist.github.com/meirish/639e6def0f352f63fef662dce3ca2f98)
 
 ### Web Components
+
 - [ember-cli-web-components](https://github.com/BBVAEngineering/ember-cli-web-components) - Use your Ember components in other framework as Web Components!	
 - [shadow-dom](https://github.com/knownasilya/ember-shadow-dom) - Write templates for your components inside of a Shadow DOM root.
 
@@ -752,7 +760,8 @@ Ember Myths located [here ✨](ember-myths.md), Readers Questions located [here 
 - [glimmer-compiler-webpack-plugin](https://github.com/tomdale/glimmer-compiler-webpack-plugin)
 
 ### Weird
-- [ember-dynamic-render-template](https://github.com/miguelcobain/ember-dynamic-render-template)
+
+- [ember-dynamic-render-template](https://github.com/miguelcobain/ember-dynamic-render-template) - Render DOM from a template string.
 
 ## Resources
 
