@@ -769,7 +769,7 @@ Ember Myths located [here ✨](ember-myths.md), Readers Questions located [here 
 - [Ember.js approval requirements](https://gist.github.com/PoslinskiNet/2d7a05944ca3c468440a0faea153062b)
 
 ### Articles
-
+- [Using Lerna to manage multiple Ember apps](https://cenchat.com/blog/2019/05/25/using-lerna-to-manage-multiple-ember-apps.html)
 - [How to translate your Ember.js application with ember-intl](https://www.codeandweb.com/babeledit/tutorials/how-to-translate-your-ember-app-with-ember-intl)
 - [Using ember-animated to re-sort a list](https://devjournal.balinterdi.com/using-ember-animated-to-resort-a-list/)
 - [Throttling Ember-Data with Ember-Concurrency](https://medium.com/@mudflye/throttling-ember-data-with-ember-concurrency-ff30d804a1b)
