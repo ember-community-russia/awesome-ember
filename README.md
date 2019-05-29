@@ -743,6 +743,17 @@ Ember Myths located [here ✨](ember-myths.md), Readers Questions located [here 
 ### VIM
 - [Unstable language server for neovim](https://gist.github.com/meirish/639e6def0f352f63fef662dce3ca2f98)
 
+### Web Components
+- [ember-cli-web-components](https://github.com/BBVAEngineering/ember-cli-web-components) - Use your Ember components in other framework as Web Components!	
+- [shadow-dom](https://github.com/knownasilya/ember-shadow-dom) - Write templates for your components inside of a Shadow DOM root.
+
+### Webpack
+
+- [glimmer-compiler-webpack-plugin](https://github.com/tomdale/glimmer-compiler-webpack-plugin)
+
+### Weird
+- [ember-dynamic-render-template](https://github.com/miguelcobain/ember-dynamic-render-template)
+
 ## Resources
 
 - [Front-End Performance Checklist](https://github.com/thedaviddias/Front-End-Performance-Checklist)
