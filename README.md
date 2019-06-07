@@ -150,6 +150,7 @@ Ember Myths located [here ✨](ember-myths.md), Readers Questions located [here 
 
 ### a11y
 
+- [ember-accessibility](https://github.com/coyote-labs/ember-accessibility) - addon to help identify accessibility violations during development
 - [e-a11y-modal](https://github.com/MelSumner/e-a11y-modal) - A simple modal for accessible Ember applications.
 - [ember-a11y-landmarks](https://github.com/ember-a11y/ember-a11y-landmarks) - Ember addon to help with landmark roles for better accessibility
 - [ember-a11y](https://github.com/ember-a11y/ember-a11y) - A collection of tools to build accessible Ember applications.
