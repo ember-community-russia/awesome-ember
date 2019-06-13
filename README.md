@@ -415,6 +415,7 @@ Ember Myths located [here ✨](ember-myths.md), Readers Questions located [here 
 - [ember-glimmer-component](https://github.com/smfoote/ember-glimmer-component) - Glimmer.js-like components in Ember
 - [sparkles-component](https://github.com/rwjblue/sparkles-component) - Addon used to experiment with @glimmer/component style APIs in Ember apps via existing public APIs.
 - [hooked-components](https://github.com/lifeart/hooked-components) - Custom components for Ember, inspired by React Hooks approach.
+- [ember-functional-component](https://github.com/rwjblue/ember-functional-component) - Attempting to use "pure functions" as components.
 - [@alexlafroscia/ember-cli-react](https://github.com/alexlafroscia/ember-cli-react) - Render React components in Ember
 - [@AltSchool/ember-cli-react](https://github.com/AltSchool/ember-cli-react) - Use React component hierarchies in your Ember app
 
