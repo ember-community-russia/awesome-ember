@@ -1106,6 +1106,7 @@ Ember Myths located [here ✨](ember-myths.md), Readers Questions located [here 
 - [New York City Census Reporting Tool](https://github.com/NYCPlanning/labs-factfinder)
 - [Medicine Inventory](https://github.com/aalasolutions/ember-medical-inventory) - Sample application developed with Ember CLI, Corber.io, ember-element-ui.
 - [octane-ecommerce](https://github.com/betocantu93/octane-ecommerce) - Ember Octane + FastBoot + Algolia + PayPal + Formspree ([s](https://docs.google.com/presentation/d/1YaG26Fj-tVjyFV8LvQJkfIH89-HYdkfHfhdRz3bC2-k/edit#slide=id.g56ccd9a7f0_0_33), [v](https://www.youtube.com/watch?v=KnkWs18V9dA&feature=youtu.be), [d](https://octane-ecommerce.herokuapp.com/))
+- [Rust Package Registry](https://github.com/rust-lang/crates.io) - [crates.io](https://crates.io)
 
 ### Examples Glimmer
 - [breethe-client](https://github.com/simplabs/breethe-client) - Air Quality Data for Locations around the World
