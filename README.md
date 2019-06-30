@@ -589,8 +589,7 @@ Ember Myths located [here ✨](ember-myths.md), Readers Questions located [here 
 - [ember-named-arguments-polyfill](https://github.com/rwjblue/ember-named-arguments-polyfill) - Polyfills support for named arguments for Ember 2.10 through 3.0.
 - [ember-native-class-polyfill](https://github.com/pzuraq/ember-native-class-polyfill) - This addon provides a polyfill for the native class behavior that was proposed in Ember RFCs #240 and #337.
 - [ember-router-service-polyfill](https://github.com/rwjblue/ember-router-service-polyfill) - This addon provides a best effort polyfill for the ember-routing-router-service feature added in Ember 2.15.
-- [ember-native-class-polyfill](https://github.com/pzuraq/ember-native-class-polyfill) - Polyfills the behavior specified in the Ember ES Classes RFC
-
+- [ember-fn-helper-polyfill](https://github.com/rwjblue/ember-fn-helper-polyfill) - This addon provides a polyfill for the {{fn}} helper as described in RFCs #470.
 
  ### Process management
 - [?](#) - ????
