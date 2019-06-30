@@ -666,6 +666,9 @@ Ember Myths located [here ✨](ember-myths.md), Readers Questions located [here 
 ### Templating
 
 - [ember-template-component-import](https://github.com/crashco/ember-template-component-import) - This addon allows you to use import-style syntax to create local bindings to a component within a template file.
+- [ember-hbs-minifier](https://github.com/simplabs/ember-hbs-minifier) - Stripping whitespace out of your Handlebars templates
+- [ember-cli-template-trimmer](https://github.com/lifeart/ember-cli-template-trimmer) - This addon removes newlines on compile stage
+- [ember-cli-jsx-templates](https://github.com/lifeart/ember-cli-jsx-templates) - TSX/JSX support for ember templates
 
 ### Testing
 
