@@ -773,12 +773,12 @@ Ember Myths located [here ✨](ember-myths.md), Readers Questions located [here 
 
 ### Articles
 
--[How to Actually Build Superior Web Apps for Free](https://medium.com/@devotox/zero-cost-web-apps-part-1-b2d6b46916f1)
--[Getting Started With Glimmer-Native](https://codingitwrong.com/2019/06/26/glimmer-native-tutorial.html)
--[The case for Embeddable Ember](https://dev.to/dustinsoftware/the-case-for-embeddable-ember-4120)
--[The State of the Ember Addon Ecosystem in 2019](https://0xadada.pub/2019/06/17/essential-ember-addons/)
--[Static Types in EmberJs?](https://dev.to/jamesbyrne/static-types-in-emberjs-26b7)
--[The Ember.js testing guide, I made for myself](https://medium.com/@sarbbottam/the-ember-js-testing-guide-i-made-for-myself-c9a073a0c718)
+- [How to Actually Build Superior Web Apps for Free](https://medium.com/@devotox/zero-cost-web-apps-part-1-b2d6b46916f1)
+- [Getting Started With Glimmer-Native](https://codingitwrong.com/2019/06/26/glimmer-native-tutorial.html)
+- [The case for Embeddable Ember](https://dev.to/dustinsoftware/the-case-for-embeddable-ember-4120)
+- [The State of the Ember Addon Ecosystem in 2019](https://0xadada.pub/2019/06/17/essential-ember-addons/)
+- [Static Types in EmberJs?](https://dev.to/jamesbyrne/static-types-in-emberjs-26b7)
+- [The Ember.js testing guide, I made for myself](https://medium.com/@sarbbottam/the-ember-js-testing-guide-i-made-for-myself-c9a073a0c718)
 - [Using Lerna to manage multiple Ember apps](https://cenchat.com/blog/2019/05/25/using-lerna-to-manage-multiple-ember-apps.html)
 - [How to translate your Ember.js application with ember-intl](https://www.codeandweb.com/babeledit/tutorials/how-to-translate-your-ember-app-with-ember-intl)
 - [Using ember-animated to re-sort a list](https://devjournal.balinterdi.com/using-ember-animated-to-resort-a-list/)
