@@ -772,6 +772,13 @@ Ember Myths located [here ✨](ember-myths.md), Readers Questions located [here 
 - [Ember.js approval requirements](https://gist.github.com/PoslinskiNet/2d7a05944ca3c468440a0faea153062b)
 
 ### Articles
+
+-[How to Actually Build Superior Web Apps for Free](https://medium.com/@devotox/zero-cost-web-apps-part-1-b2d6b46916f1)
+-[Getting Started With Glimmer-Native](https://codingitwrong.com/2019/06/26/glimmer-native-tutorial.html)
+-[The case for Embeddable Ember](https://dev.to/dustinsoftware/the-case-for-embeddable-ember-4120)
+-[The State of the Ember Addon Ecosystem in 2019](https://0xadada.pub/2019/06/17/essential-ember-addons/)
+-[Static Types in EmberJs?](https://dev.to/jamesbyrne/static-types-in-emberjs-26b7)
+-[The Ember.js testing guide, I made for myself](https://medium.com/@sarbbottam/the-ember-js-testing-guide-i-made-for-myself-c9a073a0c718)
 - [Using Lerna to manage multiple Ember apps](https://cenchat.com/blog/2019/05/25/using-lerna-to-manage-multiple-ember-apps.html)
 - [How to translate your Ember.js application with ember-intl](https://www.codeandweb.com/babeledit/tutorials/how-to-translate-your-ember-app-with-ember-intl)
 - [Using ember-animated to re-sort a list](https://devjournal.balinterdi.com/using-ember-animated-to-resort-a-list/)
@@ -786,6 +793,7 @@ Ember Myths located [here ✨](ember-myths.md), Readers Questions located [here 
 - [Coming Soon in Ember Octane - Part 5: Glimmer Components](https://www.pzuraq.com/coming-soon-in-ember-octane-part-5-glimmer-components/)
 - [Ember Octane Update: What's up with `@action`?](https://www.pzuraq.com/ember-octane-update-action/)
 - [Ember Octane Update: Landing Decorators](https://www.pzuraq.com/ember-octane-update-landing-decorators/)
+- [Ember Octane Update: Async Observers](https://www.pzuraq.com/ember-octane-update-async-observers/)
 - [Confirming Actions in Ember](https://medium.com/@chrsmllr/confirming-actions-in-ember-362b19a0c01f)
 - [Async Computed Properties in Ember](https://www.barelyknown.com/posts/async-computed-properties-in-ember)
 - [Ember.js Native Class Update: 2019 Edition](https://www.pzuraq.com/emberjs-native-class-update-2019-edition/)
