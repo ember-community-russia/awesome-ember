@@ -540,6 +540,7 @@ Ember Myths located [here ✨](ember-myths.md), Readers Questions located [here 
 ### Mobile
 
 - [corber](https://github.com/isleofcode/corber) - Tooling for cordova and crosswalk hybrid applications built with Ember
+- [glimmer-native](https://github.com/bakerac4/glimmer-native) - Have you ever wanted to use Ember/Glimmer to create a native mobile app? Well now you can!
 - [ember-mobile-bar](https://github.com/nickschot/ember-mobile-bar) - Managed fixed (tool)bars with mobile app-like behaviour
 - [ember-mobile-core](https://github.com/nickschot/ember-mobile-core) - Provides a pan recognizer and some utils for the ember-mobile-* addons
 - [ember-mobile-menu](https://github.com/nickschot/ember-mobile-menu) - Draggable sidebar specifically tailored to mobile devices
