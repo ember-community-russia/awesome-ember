@@ -1,4 +1,4 @@
-# Awesome Ember.js [![Awesome](https://awesome.re/badge.svg)](https://github.com/sindresorhus/awesome) [![Build Status](https://travis-ci.com/ember-community-russia/awesome-ember.svg?branch=master)](https://travis-ci.com/ember-community-russia/awesome-ember)
+# Awesome Ember.js [![Awesome](https://awesome.re/badge.svg)](https://github.com/sindresorhus/awesome)
 
 
 > A curated list of delightful Ember.js [packages](#packages) and [resources](#resources).
