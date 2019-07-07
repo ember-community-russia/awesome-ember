@@ -149,32 +149,32 @@ Ember Myths located [here ✨](ember-myths.md), Readers Questions located [here 
 
 ### a11y
 
-- [ember-accessibility](https://github.com/coyote-labs/ember-accessibility) - addon to help identify accessibility violations during development
+- [ember-accessibility](https://github.com/coyote-labs/ember-accessibility) - addon to help identify accessibility violations during development.
 - [e-a11y-modal](https://github.com/MelSumner/e-a11y-modal) - A simple modal for accessible Ember applications.
-- [ember-a11y-landmarks](https://github.com/ember-a11y/ember-a11y-landmarks) - Ember addon to help with landmark roles for better accessibility
+- [ember-a11y-landmarks](https://github.com/ember-a11y/ember-a11y-landmarks) - Ember addon to help with landmark roles for better accessibility.
 - [ember-a11y](https://github.com/ember-a11y/ember-a11y) - A collection of tools to build accessible Ember applications.
 - [ember-component-focus](https://github.com/ember-a11y/ember-component-focus) - A mixin for adding methods to your Ember components that help you manage the currently focused element.
 - [ember-gestures](https://github.com/html-next/ember-gestures) - Ember Gestures provides an easy way to use gestures by making it simple to define and use HammerJS managers and recognizers throughout your app.
-- [ember-steps](https://github.com/rwjblue/ember-steps) - Declarative create wizards, tabbed UIs, and more
-- [ember-page-title](https://github.com/tim-evans/ember-page-title) - Page title management for Ember.js Apps
-- [ember-self-focused](https://github.com/linkedin/self-focused/tree/master/packages/ember-self-focused) - Focus on route on transition
-- [ember-keyboard](https://github.com/patience-tema-baron/ember-keyboard) - An Ember.js addon for the painless support of keyboard events
-- [ember-a11y-testing](https://github.com/ember-a11y/ember-a11y-testing) - A suite of accessibility tests that can be run within the Ember testing framework
-- [a11y-announcer](https://github.com/ember-a11y/a11y-announcer) - An accessible ember route change announcer
+- [ember-steps](https://github.com/rwjblue/ember-steps) - Declarative create wizards, tabbed UIs, and more.
+- [ember-page-title](https://github.com/tim-evans/ember-page-title) - Page title management for Ember.js Apps.
+- [ember-self-focused](https://github.com/linkedin/self-focused/tree/master/packages/ember-self-focused) - Focus on route on transition.
+- [ember-keyboard](https://github.com/patience-tema-baron/ember-keyboard) - An Ember.js addon for the painless support of keyboard events.
+- [ember-a11y-testing](https://github.com/ember-a11y/ember-a11y-testing) - A suite of accessibility tests that can be run within the Ember testing framework.
+- [a11y-announcer](https://github.com/ember-a11y/a11y-announcer) - An accessible ember route change announcer.
 
 ### Adapters
 
 - [ember-cli-markdown-resolver](https://github.com/willviles/ember-cli-markdown-resolver) - Ember CLI addon for resolving markdown files in custom folders and retrieving content via a service.
-- [ember-cloud-firestore-adapter](https://github.com/rmmmp/ember-cloud-firestore-adapter) - Unofficial Ember Data Adapter and Serializer for Cloud Firestore
-- [ember-data-hal-9000](https://github.com/201-created/ember-data-hal-9000) - An ember-data compatible ember-cli addon that provides a HAL adapter (HATEOAS)
-- [ember-django-adapter](https://github.com/dustinfarris/ember-django-adapter) - Ember CLI addon adapter for Django REST Framework
-- [ember-graphql-adapter](https://github.com/alphasights/ember-graphql-adapter) - GraphQL adapter for Ember Data
-- [ember-indexeddb](https://github.com/mydea/ember-indexeddb) - Utilities & adapter to work with IndexedDB in ember & ember-data
-- [ember-localforage-adapter](https://github.com/genkgo/ember-localforage-adapter) - Offline usage for Ember Data
+- [ember-cloud-firestore-adapter](https://github.com/rmmmp/ember-cloud-firestore-adapter) - Unofficial Ember Data Adapter and Serializer for Cloud Firestore.
+- [ember-data-hal-9000](https://github.com/201-created/ember-data-hal-9000) - An ember-data compatible ember-cli addon that provides a HAL adapter (HATEOAS).
+- [ember-django-adapter](https://github.com/dustinfarris/ember-django-adapter) - Ember CLI addon adapter for Django REST Framework.
+- [ember-graphql-adapter](https://github.com/alphasights/ember-graphql-adapter) - GraphQL adapter for Ember Data.
+- [ember-indexeddb](https://github.com/mydea/ember-indexeddb) - Utilities & adapter to work with IndexedDB in ember & ember-data.
+- [ember-localforage-adapter](https://github.com/genkgo/ember-localforage-adapter) - Offline usage for Ember Data.
 - [ember-local-storage](https://github.com/funkensturm/ember-local-storage) - The addon provides a storageFor computed property that returns a proxy and persists the changes to localStorage or sessionStorage.
-- [ember-pouch](https://github.com/pouchdb-community/ember-pouch) - PouchDB/CouchDB adapter for Ember Data
-- [ember-wordpress](https://github.com/oskarrough/ember-wordpress) - The bridge between Ember.js and Wordpress
-- [emberfire](https://github.com/firebase/emberfire) - Official Ember Data adapter for Firebase
+- [ember-pouch](https://github.com/pouchdb-community/ember-pouch) - PouchDB/CouchDB adapter for Ember Data.
+- [ember-wordpress](https://github.com/oskarrough/ember-wordpress) - The bridge between Ember.js and Wordpress.
+- [emberfire](https://github.com/firebase/emberfire) - Official Ember Data adapter for Firebase.
 - [ninjafire](https://github.com/lineupninja/ninjafire) - An ORM for Firebase written in Typescript.
 
 ### Animations
@@ -186,27 +186,27 @@ Ember Myths located [here ✨](ember-myths.md), Readers Questions located [here 
 
 - [ember-cli-simple-auth-extensions](https://emberobserver.com/categories/ember-cli-simple-auth-extensions)
 - [ember-simple-auth](https://github.com/simplabs/ember-simple-auth) - A library for implementing authentication/authorization in Ember.js applications.
-- [tori](https://github.com/Vestorly/torii) - A set of clean abstractions for authentication in Ember.js
+- [tori](https://github.com/Vestorly/torii) - A set of clean abstractions for authentication in Ember.js.
 
 ### Automation
 
-- [ember-cli-deploy](https://github.com/ember-cli-deploy/ember-cli-deploy) - A deployment pipeline for Ember CLI apps
-- [ember-cli-deploy-webhooks](https://github.com/simplabs/ember-cli-deploy-webhooks) - Ember CLI Deploy plugin for calling webhooks during deployments
-- [ember-cli-release](https://github.com/shipshapecode/ember-cli-release) - Ember CLI addon for versioned release management
+- [ember-cli-deploy](https://github.com/ember-cli-deploy/ember-cli-deploy) - A deployment pipeline for Ember CLI apps.
+- [ember-cli-deploy-webhooks](https://github.com/simplabs/ember-cli-deploy-webhooks) - Ember CLI Deploy plugin for calling webhooks during deployments.
+- [ember-cli-release](https://github.com/shipshapecode/ember-cli-release) - Ember CLI addon for versioned release management.
 - [ember-cli-sri](https://github.com/jonathanKingston/ember-cli-sri) - This plugin is used to generate Subresource Integrity (SRI) hashes for ember applications.
 - [ember-cli-dependency-lint](https://github.com/salsify/ember-cli-dependency-lint) - Lint your app's addon dependencies, making sure you only have one version of each.
 
 ### Benchmarking
 
 - [ember-macro-benchmark](https://github.com/krisselden/ember-macro-benchmark) - Benchmark recording of an ember app with running with 2 versions of Ember.
-- [ember-performance](https://github.com/eviltrout/ember-performance) - A suite of tests for EmberJS to help with performance
-- [emberperf](http://emberperf.eviltrout.com) - EmberPerformance (Between versions)
+- [ember-performance](https://github.com/eviltrout/ember-performance) - A suite of tests for EmberJS to help with performance.
+- [emberperf](http://emberperf.eviltrout.com) - EmberPerformance (Between versions).
 
 ### Blogging
 
-- [empress-blog](https://github.com/empress/empress-blog) - Fully-functional, SEO friendly static site implementation of a blog system built on Ember
-- [ember-cli-blog](https://github.com/broerse/ember-cli-blog) - Tom Dale's blog example updated for the Ember CLI
-- [ember-tumblr](https://github.com/elwayman02/ember-tumblr) - Ember Addon for integrating a Tumblr blog
+- [empress-blog](https://github.com/empress/empress-blog) - Fully-functional, SEO friendly static site implementation of a blog system built on Ember.
+- [ember-cli-blog](https://github.com/broerse/ember-cli-blog) - Tom Dale's blog example updated for the Ember CLI.
+- [ember-tumblr](https://github.com/elwayman02/ember-tumblr) - Ember Addon for integrating a Tumblr blog.
 
 ### Boilerplating
 
@@ -216,12 +216,12 @@ Ember Myths located [here ✨](ember-myths.md), Readers Questions located [here 
 ### Broccoli
 
 - [broccoli-assembler](https://github.com/twokul/broccoli-assembler) - A build utility to allow for more flexible builds and better composition.
-- [broccoli-concat-analyser](https://github.com/stefanpenner/broccoli-concat-analyser) - Assets profiling
+- [broccoli-concat-analyser](https://github.com/stefanpenner/broccoli-concat-analyser) - Assets profiling.
 - [broccoli-debug](https://github.com/broccolijs/broccoli-debug) - Utility for build pipeline authors to allow trivial debugging of the Broccoli pipelines they author.
 - [broccoli-stew](https://github.com/stefanpenner/broccoli-stew) - Provides commonly used convenience functions for developing broccoli based build pipelines.
-- [broccolijs-tutorial](https://github.com/oligriffiths/broccolijs-tutorial) - Broccoli.js Tutorial repository
-- [broccoli-rollup](https://github.com/chadhietala/broccoli-rollup) - Broccoli Plugin For Rollup
-- [broccoli-manifest](https://github.com/racido/broccoli-manifest) - HTML5 cache-manifest compilation for broccoli
+- [broccolijs-tutorial](https://github.com/oligriffiths/broccolijs-tutorial) - Broccoli.js Tutorial repository.
+- [broccoli-rollup](https://github.com/chadhietala/broccoli-rollup) - Broccoli Plugin For Rollup.
+- [broccoli-manifest](https://github.com/racido/broccoli-manifest) - HTML5 cache-manifest compilation for broccoli.
 - [broccoli-glow](https://github.com/locks/broccoli-glow) - Dynamic component creation from single file, etc.
 
 ### Broccoli read
@@ -239,45 +239,45 @@ Ember Myths located [here ✨](ember-myths.md), Readers Questions located [here 
 
 ### Charts
 
-- [ember-sparkles](https://github.com/LocusEnergy/ember-sparkles) - Collection of composable D3 components built with ember-d3-helpers
+- [ember-sparkles](https://github.com/LocusEnergy/ember-sparkles) - Collection of composable D3 components built with ember-d3-helpers.
 
 ### CI/CD
 
 - [ember-cli-server-variables](https://github.com/blimmer/ember-cli-server-variables) - An Ember CLI add-on to support adding variables to the generated index.html file's head tag.
-- [ember-ci](https://github.com/mike-north/ember-ci) - Continuous integration goodies for ember.js apps
+- [ember-ci](https://github.com/mike-north/ember-ci) - Continuous integration goodies for ember.js apps.
 
 ### Code Splitting
 
 - [ember-engines](https://github.com/ember-engines/ember-engines) - This Ember addon implements the functionality described in the Ember Engines RFC. Engines allow multiple logical applications to be composed together into a single application from the user's perspective.
-- [ember-lazy-mount](https://github.com/buschtoens/ember-lazy-mount) - {{mount}} lazy loading route-less engines
+- [ember-lazy-mount](https://github.com/buschtoens/ember-lazy-mount) - {{mount}} lazy loading route-less engines.
 - [ember-cli-bundle-loader](https://github.com/MiguelMadero/ember-cli-bundle-loader) - Addon to allow for multiple bundles and do lazy loading.
 - [ember-cli-lazy-load](https://github.com/duizendnegen/ember-cli-lazy-load) - Support lazily loading your Ember app via splitting it up into Bundles.
 
 ### Codestyle
 
-- [ember-cli-template-lint](https://github.com/ember-template-lint/ember-cli-template-lint) - Ember CLI integration for ember-template-lint
-- [ember-cli-alex](https://github.com/yohanmishkin/ember-cli-alex) - alex for Ember apps
+- [ember-cli-template-lint](https://github.com/ember-template-lint/ember-cli-template-lint) - Ember CLI integration for `ember-template-lint`.
+- [ember-cli-alex](https://github.com/yohanmishkin/ember-cli-alex) - alex for Ember apps.
 - [ember-prop-types](https://github.com/ciena-blueplanet/ember-prop-types) - Improved property management for Ember apps and addons.
 
 ### Command-line apps
 
-- [ember-cli-create](https://github.com/gossi/ember-cli-create) - CLI wizard to create a new ember project
+- [ember-cli-create](https://github.com/gossi/ember-cli-create) - CLI wizard to create a new ember project.
 - [@ember/optional-features](https://github.com/emberjs/ember-optional-features) - This addon allows you to easily enable/disable optional features in ember-source. To clarify what we mean by optional, these are features that will be opt-in/opt-out and optional for the foreseeable future, not features that will be enabled by default. It is intended for use with apps only not addons.
-- [ember-cli-rename](https://github.com/trabus/ember-cli-rename) - Addon for ember-cli that provides an `ember rename` command
+- [ember-cli-rename](https://github.com/trabus/ember-cli-rename) - Addon for ember-cli that provides an `ember rename` command.
 
 ### Command-line utilities
 
-- [ember-cli-update](https://github.com/ember-cli/ember-cli-update) - Update Ember CLI Ember.js apps and addons (and Glimmer.js apps)
+- [ember-cli-update](https://github.com/ember-cli/ember-cli-update) - Update Ember CLI Ember.js apps, addons and Glimmer.js apps.
 - [ember-cli-deprecation-workflow](https://github.com/mixonic/ember-cli-deprecation-workflow) - An addon geared towards making Ember upgrades easier by allowing you to work through deprecations without massive console noise.
 
 ### Component addons
 
 - [ember-diff-attrs](https://github.com/workmanw/ember-diff-attrs)
-- [ember-compatibility-helpers](https://github.com/pzuraq/ember-compatibility-helpers) - Helpers that allow you to write backwards compat Ember addons
+- [ember-compatibility-helpers](https://github.com/pzuraq/ember-compatibility-helpers) - Helpers that allow you to write backwards compat Ember addons.
 
  ### Compression
 
-- [ember-cli-deploy-brotli](https://github.com/mfeckie/ember-cli-deploy-brotli) - Ember deploy plugin to support brotli compression
+- [ember-cli-deploy-brotli](https://github.com/mfeckie/ember-cli-deploy-brotli) - Ember deploy plugin to support brotli compression.
 
 
 ### Content management systems
@@ -304,54 +304,54 @@ Ember Myths located [here ✨](ember-myths.md), Readers Questions located [here 
 
 ### CSS & etc
 
- - [ember-cli-stylelint](https://github.com/billybonks/ember-cli-stylelint) - Adds styleint to your ember app, to lint all kinds of css
- - [ember-cli-autoprefixer](https://github.com/kimroen/ember-cli-autoprefixer) - Automatically run your styles through autoprefixer
- - [ember-cli-sass](https://github.com/aexmachina/ember-cli-sass) - Use node-sass to preprocess your ember-cli app's files, with support for sourceMaps and include paths
+ - [ember-cli-stylelint](https://github.com/billybonks/ember-cli-stylelint) - Adds styleint to your ember app, to lint all kinds of css.
+ - [ember-cli-autoprefixer](https://github.com/kimroen/ember-cli-autoprefixer) - Automatically run your styles through autoprefixer.
+ - [ember-cli-sass](https://github.com/aexmachina/ember-cli-sass) - Use node-sass to preprocess your ember-cli app's files, with support for sourceMaps and include paths.
  - [ember-cli-sass-pods](https://github.com/justtal/ember-cli-sass-pods) - Enjoy styling your pods with the sass style file in the pod directory.
  - [ember-component-css](https://github.com/ebryn/ember-component-css) - An Ember CLI addon which allows you to specify styles for individual components.
- - [ember-cli-postcss](https://github.com/jeffjewiss/ember-cli-postcss) - A Postcss integration for ember-cli
+ - [ember-cli-postcss](https://github.com/jeffjewiss/ember-cli-postcss) - A Postcss integration for ember-cli.
  - [ember-css-modules](https://github.com/salsify/ember-css-modules) - CSS Modules for ambitious applications.
  - [ember-cli-tailwind](https://github.com/embermap/ember-cli-tailwind) - Tailwind is a utility-first CSS framework for rapidly building custom user interfaces.
- - [ember-emotion](https://github.com/alexlafroscia/ember-emotion) - Use emotion styling in Ember.js
+ - [ember-emotion](https://github.com/alexlafroscia/ember-emotion) - Use emotion styling in Ember.js.
  - [css-blocks](https://github.com/linkedin/css-blocks) - High performance, maintainable stylesheets.
  - [ember-cli-eyeglass](https://github.com/linkedin/eyeglass/tree/master/packages/ember-cli-eyeglass) - This Ember CLI Addon makes it trivial to compile your sass files with eyeglass support via node-sass.
 
 ### Fonts
-- [ember-cli-webfont](https://github.com/vitch/ember-cli-webfont) - Easily generate webfonts from svg files as part of your ember-cli build process
+- [ember-cli-webfont](https://github.com/vitch/ember-cli-webfont) - Easily generate webfonts from svg files as part of your ember-cli build process.
 
 ### State management
 
 - [ember-buffered-proxy](https://github.com/yapplabs/ember-buffered-proxy)
 - [ember-changeset](https://github.com/poteto/ember-changeset)
-- [ember-cerebraljs](https://github.com/lifeart/ember-cerebraljs) - Enhanced state management for complex Ember apps using Cerebral
-- [ember-redux](http://www.ember-redux.com/) - Predictable state management for ember apps
+- [ember-cerebraljs](https://github.com/lifeart/ember-cerebraljs) - Enhanced state management for complex Ember apps using Cerebral.
+- [ember-redux](http://www.ember-redux.com/) - Predictable state management for ember apps.
 - [ember-state-services](https://github.com/stefanpenner/ember-state-services)
 - [ember-time-machine](https://github.com/offirgolan/ember-time-machine)
 
 
 ### Styling kits
 
- - [ember-cli-tailwind](https://github.com/embermap/ember-cli-tailwind) - Adds Tailwind CSS to your app or addon
+ - [ember-cli-tailwind](https://github.com/embermap/ember-cli-tailwind) - Adds Tailwind CSS to your app or addon.
 
 ### Data Management
 
-- [ember-apollo-client](https://github.com/bgentry/ember-apollo-client) - An ember-cli addon for Apollo Client and GraphQL
-- [ember-cli-sofa](https://github.com/ampatspell/ember-cli-sofa) - CouchDB persistence library for Ember.js
-- [ember-orbit](https://github.com/orbitjs/ember-orbit) - Ember.js data layer built with Orbit.js
+- [ember-apollo-client](https://github.com/bgentry/ember-apollo-client) - An ember-cli addon for Apollo Client and GraphQL.
+- [ember-cli-sofa](https://github.com/ampatspell/ember-cli-sofa) - CouchDB persistence library for Ember.js.
+- [ember-orbit](https://github.com/orbitjs/ember-orbit) - Ember.js data layer built with Orbit.js.
 - [ember-data-storefront](https://github.com/embermap/ember-data-storefront) - A collection of APIs that address common data-loading issues.
-- [ember-m3](https://github.com/hjdivad/ember-m3) - This addon provides an alternative model implementation to DS.Model
+- [ember-m3](https://github.com/hjdivad/ember-m3) - This addon provides an alternative model implementation to DS.Model.
 - [ember-cli-zuglet](https://www.ember-cli-zuglet.com/) - Ember.js addon for effortless Firebase integration.
 
  ### Data manipulation & Computed
 
-- [ember-awesome-macros](https://github.com/kellyselden/ember-awesome-macros) - A collection of Ember computed macros
-- [ember-cpm](https://github.com/cibernox/ember-cpm) - ComputedProperty Macros for Ember
-- [ember-macaroni](https://github.com/poteto/ember-macaroni) - Keep your app code DRY and copypasta free with computed property macaronis (macros)
+- [ember-awesome-macros](https://github.com/kellyselden/ember-awesome-macros) - A collection of Ember computed macros.
+- [ember-cpm](https://github.com/cibernox/ember-cpm) - ComputedProperty Macros for Ember.
+- [ember-macaroni](https://github.com/poteto/ember-macaroni) - Keep your app code DRY and copypasta free with computed property macaronis (macros).
 
 ### Data validation
 
-- [ember-cp-validations](https://github.com/offirgolan/ember-cp-validations) - Ember computed property based validations
-- [ember-changeset-validations](https://github.com/poteto/ember-changeset-validations/) - Validations for ember-changeset
+- [ember-cp-validations](https://github.com/offirgolan/ember-cp-validations) - Ember computed property based validations.
+- [ember-changeset-validations](https://github.com/poteto/ember-changeset-validations/) - Validations for ember-changeset.
 - [ember-model-validator](https://github.com/esbanarango/ember-model-validator) - Add validations to your Ember Data models on an explicit and easy way, without a bunch a validations files around or complicated structure.
 - [ember-validated-form](https://github.com/adfinis-sygroup/ember-validated-form) - Easily create forms with client side validations.
 
@@ -361,16 +361,16 @@ Ember Myths located [here ✨](ember-myths.md), Readers Questions located [here 
 
  ### Date
 
-- [ember-moment](https://github.com/stefanpenner/ember-moment) - moment.js template helpers and computed property macros for Ember
+- [ember-moment](https://github.com/stefanpenner/ember-moment) - moment.js template helpers and computed property macros for Ember.
 
 
 ### Debugging / Profiling
 
 - [ember-debug-logger](https://github.com/salsify/ember-debug-logger) - Exposes the visionmedia/debug library for use in your Ember.js application.
 - [ember-devtools](https://github.com/aexmachina/ember-devtools) - A collection of useful Ember.js debugging functions.
-- [ember-chrome-devtools](https://github.com/dwickern/ember-chrome-devtools) - Chrome DevTools addon for Ember.js
+- [ember-chrome-devtools](https://github.com/dwickern/ember-chrome-devtools) - Chrome DevTools addon for Ember.js.
 - [ember-cli-bundle-analyzer](https://github.com/kaliber5/ember-cli-bundle-analyzer) - An Ember CLI addon to analyze the size and contents of your app's bundled output, using an interactive zoomable treemap.
-- [ember-perf-timeline](https://github.com/ember-best-practices/ember-perf-timeline) - Add performance information to Chrome's Timeline for Ember applications
+- [ember-perf-timeline](https://github.com/ember-best-practices/ember-perf-timeline) - Add performance information to Chrome's Timeline for Ember applications.
 - [ember-cli-route-map](https://github.com/BBVAEngineering/ember-cli-route-map) - Command to generate a route map of your Ember application.
 - [heimdalljs-visualizer](https://github.com/rwjblue/heimdalljs-visualizer) - Visualizer for heimdalljs data.
 - [source-map-explorer](https://github.com/danvk/source-map-explorer) - Analyze and debug space usage through source maps.
@@ -378,7 +378,7 @@ Ember Myths located [here ✨](ember-myths.md), Readers Questions located [here 
 
 ### Documentation
 
-- [ember-cli-addon-docs](https://github.com/ember-learn/ember-cli-addon-docs) - Easy, beautiful docs for your Ember addon
+- [ember-cli-addon-docs](https://github.com/ember-learn/ember-cli-addon-docs) - Easy, beautiful docs for your Ember addon.
 - [ember-cli-jsdoc](https://github.com/softlayer/ember-cli-jsdoc) - An Ember CLI addon to generate HTML documentation from JSDoc comments in the source code.
 - [ember-freestyle](https://github.com/chrislopresto/ember-freestyle) - Ember Freestyle is an Ember addon that allows you to quickly create a component explorer for your Ember app.
 
@@ -392,31 +392,31 @@ Ember Myths located [here ✨](ember-myths.md), Readers Questions located [here 
 - [Ember Inspector Sync](https://www.youtube.com/watch?v=PvsfQrKxl_8)
 
  ### End-user customization
-- [ember-asset-loader](https://github.com/ember-engines/ember-asset-loader) - Asset loading support for Ember applications
-- [ember-experiments](https://github.com/outdoorsy/ember-experiments) - Experimentation, A/B Split Testing addon for Ember
-- [ember-cli-hot-loader](https://github.com/toranb/ember-cli-hot-loader) - An early look at what hot reloading might be like in the ember ecosystem
-- [ember-ast-hot-load](https://github.com/lifeart/ember-ast-hot-load) - Universal hot-load addon draft
-- [ember-cli-build-notifications](https://github.com/pdud/ember-cli-build-notifications) - Notifications when ember-cli has a buildError
+- [ember-asset-loader](https://github.com/ember-engines/ember-asset-loader) - Asset loading support for Ember applications.
+- [ember-experiments](https://github.com/outdoorsy/ember-experiments) - Experimentation, A/B Split Testing addon for Ember.
+- [ember-cli-hot-loader](https://github.com/toranb/ember-cli-hot-loader) - An early look at what hot reloading might be like in the ember ecosystem.
+- [ember-ast-hot-load](https://github.com/lifeart/ember-ast-hot-load) - Universal hot-load addon.
+- [ember-cli-build-notifications](https://github.com/pdud/ember-cli-build-notifications) - Notifications when ember-cli has a buildError.
 - [ember-feature-flags](https://github.com/kategengler/ember-feature-flags) An ember-cli addon to provide feature flags.
 - [ember-named-yields](https://github.com/knownasilya/ember-named-yields) - Named Yields for Ember Components.
-- [ember-islands](https://github.com/mitchlloyd/ember-islands) - Render Ember components anywhere on a server-rendered page to create "Islands of Richness"
+- [ember-islands](https://github.com/mitchlloyd/ember-islands) - Render Ember components anywhere on a server-rendered page to create "Islands of Richness".
 - [ember-wormhole](https://github.com/yapplabs/ember-wormhole) - Render a child view somewhere else in the DOM.
 
 ### ES6
 
-- [ember-concurrency-decorators](https://github.com/machty/ember-concurrency-decorators) -  Decorator syntax for declaring/configuring ember-concurrency tasks
+- [ember-concurrency-decorators](https://github.com/machty/ember-concurrency-decorators) -  Decorator syntax for declaring/configuring ember-concurrency tasks.
 - [ember-decorators](https://github.com/ember-decorators/ember-decorators) - Useful decorators for Ember applications.
-- [@ember-decorators/argument](https://github.com/ember-decorators/argument) - Decorators for Component and Object arguments in Ember
-- [sparkles-decorators](https://github.com/gossi/sparkles-decorators) - Decorators for Sparkles/Glimmer Components
+- [@ember-decorators/argument](https://github.com/ember-decorators/argument) - Decorators for Component and Object arguments in Ember.
+- [sparkles-decorators](https://github.com/gossi/sparkles-decorators) - Decorators for Sparkles/Glimmer Components.
 
 ### External Components Integration
 
-- [ember-glimmer-component](https://github.com/smfoote/ember-glimmer-component) - Glimmer.js-like components in Ember
+- [ember-glimmer-component](https://github.com/smfoote/ember-glimmer-component) - Glimmer.js-like components in Ember.
 - [sparkles-component](https://github.com/rwjblue/sparkles-component) - Addon used to experiment with @glimmer/component style APIs in Ember apps via existing public APIs.
 - [hooked-components](https://github.com/lifeart/hooked-components) - Custom components for Ember, inspired by React Hooks approach.
 - [ember-functional-component](https://github.com/rwjblue/ember-functional-component) - Attempting to use "pure functions" as components.
-- [@alexlafroscia/ember-cli-react](https://github.com/alexlafroscia/ember-cli-react) - Render React components in Ember
-- [@AltSchool/ember-cli-react](https://github.com/AltSchool/ember-cli-react) - Use React component hierarchies in your Ember app
+- [@alexlafroscia/ember-cli-react](https://github.com/alexlafroscia/ember-cli-react) - Render React components in Ember.
+- [@AltSchool/ember-cli-react](https://github.com/AltSchool/ember-cli-react) - Use React component hierarchies in your Ember app.
 
  ### Filesystem
 
@@ -448,19 +448,19 @@ Ember Myths located [here ✨](ember-myths.md), Readers Questions located [here 
 ### HTTP
 
 - [ember-ajax](https://github.com/ember-cli/ember-ajax) - Service for making AJAX requests in Ember 1.13+ applications.
-- [ember-socket-guru](https://github.com/netguru/ember-socket-guru) - Addon for easy integration with Pusher.js, ActionCable, Socket.io and Phoenix Channels
+- [ember-socket-guru](https://github.com/netguru/ember-socket-guru) - Addon for easy integration with Pusher.js, ActionCable, Socket.io and Phoenix Channels.
 
 ### Helpers
 
-- [ember-composable-helpers](https://github.com/DockYard/ember-composable-helpers) - Composable helpers for declarative templating in Ember
-- [ember-helpers](https://github.com/abcum/ember-helpers) - A collection of handlebars helpers for Ember.js
+- [ember-composable-helpers](https://github.com/DockYard/ember-composable-helpers) - Composable helpers for declarative templating in Ember.
+- [ember-helpers](https://github.com/abcum/ember-helpers) - A collection of handlebars helpers for Ember.js.
 - [ember-d3-helpers](https://github.com/LocusEnergy/ember-d3-helpers) - Collection of Ember.js helpers for building composable D3 charts.
-- [ember-math-helpers](https://github.com/shipshapecode/ember-math-helpers) - Ember HTMLBars helpers for basic arithmetic
-- [ember-promise-helpers](https://github.com/fivetanley/ember-promise-helpers) - Promise-y sugar for your Ember templates
-- [ember-route-action-helper](https://github.com/DockYard/ember-route-action-helper) - Bubble closure actions in routes
+- [ember-math-helpers](https://github.com/shipshapecode/ember-math-helpers) - Ember HTMLBars helpers for basic arithmetic.
+- [ember-promise-helpers](https://github.com/fivetanley/ember-promise-helpers) - Promise-y sugar for your Ember templates.
+- [ember-route-action-helper](https://github.com/DockYard/ember-route-action-helper) - Bubble closure actions in routes.
 - [ember-root-url](https://github.com/ef4/ember-root-url) - A template helper to keep your URLs relative to the app's rootURL.
 - [ember-store-helpers](https://github.com/ember-sapporo/ember-store-helpers) - This add-on provides helpers related to ember-data.
-- [ember-truth-helpers](https://github.com/jmurphyau/ember-truth-helpers) - Ember HTMLBars Helpers for {{if}} & {{unless}}: not, and, or, eq & is-array
+- [ember-truth-helpers](https://github.com/jmurphyau/ember-truth-helpers) - Ember HTMLBars Helpers for {{if}} & {{unless}}: not, and, or, eq & is-array.
 - [ember-awesome-macros](https://github.com/kellyselden/ember-awesome-macros) - A collection of Ember computed macros.
 - [ember-macro-helpers](https://github.com/kellyselden/ember-macro-helpers) - Ember macro helpers for making your own fancy macros!
 - [ember-cli-string-helpers](https://github.com/romulomachado/ember-cli-string-helpers) - Set of the String helpers extracted from DockYard's ember-composable-helpers.
@@ -471,63 +471,64 @@ Ember Myths located [here ✨](ember-myths.md), Readers Questions located [here 
 
 ### Image
 
-- [ember-svg-jar](https://github.com/ivanvotti/ember-svg-jar) - The best way to embed SVG images into your Ember application
+- [ember-svg-jar](https://github.com/ivanvotti/ember-svg-jar) - The best way to embed SVG images into your Ember application.
 
 ### Include external JS code
 
-- [ember-auto-import](https://github.com/ef4/ember-auto-import) - Zero config import from npm packages
-- [ember-cli-cjs-transform](https://github.com/rwjblue/ember-cli-cjs-transform) - CommonJS imports
+- [ember-auto-import](https://github.com/ef4/ember-auto-import) - Zero config import from npm packages.
+- [ember-cli-cjs-transform](https://github.com/rwjblue/ember-cli-cjs-transform) - CommonJS imports.
 - [ember-cli-es6-transform](https://github.com/sandydoo/ember-cli-es6-transform) - Import ES6 modules from npm, bower or anywhere else in your app.
 - [ember-browserify](https://github.com/ef4/ember-browserify) - ember-cli addon for easily loading CommonJS packages from npm via browserify.
 
 ### Infinite Scroll
 
 - [ember-infinity](https://github.com/ember-infinity/ember-infinity) - Simple, flexible Infinite Scroll for Ember CLI Apps.
-- [vertical-collection](https://github.com/html-next/vertical-collection) - Infinite Scroll and Occlusion at > 60FPS
+- [vertical-collection](https://github.com/html-next/vertical-collection) - Infinite Scroll and Occlusion at > 60FPS.
 - [smoke-and-mirrors](https://github.com/html-next/smoke-and-mirrors) - Ambitious infinite-scroll and svelte rendering for ambitious applications.
 
 ### Internalization & Localization
 
 - [ember-intl](https://github.com/ember-intl/ember-intl) - Translate complex messages string. Localized formatting for date/time, number, and relative time.
-- [ember-intl-analyzer](https://github.com/simplabs/ember-intl-analyzer) - Find unused translations in your Ember.js projects
+- [ember-intl-analyzer](https://github.com/simplabs/ember-intl-analyzer) - Find unused translations in your Ember.js projects.
 
 ### Inputs
 
-- [ember-autoresize](https://github.com/tim-evans/ember-autoresize) - Autoresize for Ember Components
+- [ember-autoresize](https://github.com/tim-evans/ember-autoresize) - Autoresize for Ember Components.
 
 
 ### Job queues
 
 - [ember-data-tasks](https://github.com/knownasilya/ember-data-tasks)
 - [ember-concurrency](http://ember-concurrency.com)
-- [ember-custom-actions](https://github.com/Exelord/ember-custom-actions) - Custom API actions for Ember applications
+- [ember-custom-actions](https://github.com/Exelord/ember-custom-actions) - Custom API actions for Ember applications.
 - [ember-pipeline](https://github.com/poteto/ember-pipeline)
-- [ember-lifeline](https://github.com/ember-lifeline/ember-lifeline) - An ember addon for managing the lifecyle of asynchronous behavior in your objects
+- [ember-lifeline](https://github.com/ember-lifeline/ember-lifeline) - An ember addon for managing the lifecyle of asynchronous behavior in your objects.
 
 ### Logging
 
 - [console.re](https://console.re/)
 - [ember-debug-logger](https://emberobserver.com/addons/ember-debug-logger) - An Ember addon to expose the Visionmedia debug logger.
-- [ember-logging-service](https://github.com/acquia/ember-logging-service/) - This addon provides a general and extensible logging service that can be used throughout your application
+- [ember-logging-service](https://github.com/acquia/ember-logging-service/) - This addon provides a general and extensible logging service that can be used throughout your application.
 - [raygun](https://raygun.com/)
 
 ### Mad science
 
-- [ember-elm](https://github.com/nucleartide/ember-elm) - Write Elm in your Ember app
-- [javascript-algorithms](https://github.com/trekhleb/javascript-algorithms) - Algorithms and data structures implemented in JavaScript with explanations and links to further readings
+- [ember-elm](https://github.com/nucleartide/ember-elm) - Write Elm in your Ember app.
+- [javascript-algorithms](https://github.com/trekhleb/javascript-algorithms) - Algorithms and data structures implemented in JavaScript with explanations and links to further readings.
 
 ### Math
 
-- [ember-katex](https://github.com/firecracker/ember-katex) - Render your LaTeX formulas using KaTeX
-- [ember-math-helpers](https://github.com/shipshapecode/ember-math-helpers) - Ember HTMLBars helpers for basic arithmetic
+- [ember-katex](https://github.com/firecracker/ember-katex) - Render your LaTeX formulas using KaTeX.
+- [ember-math-helpers](https://github.com/shipshapecode/ember-math-helpers) - Ember HTMLBars helpers for basic arithmetic.
 
 ### Metrics
 
- - [ember-user-activity](https://github.com/elwayman02/ember-user-activity) - Ember Addon for tracking user activity & idling
- - [ember-metrics](https://github.com/poteto/ember-metrics) - Send data to multiple analytics services without re-implementing new API
+ - [ember-user-activity](https://github.com/elwayman02/ember-user-activity) - Ember Addon for tracking user activity & idling.
+ - [ember-metrics](https://github.com/poteto/ember-metrics) - Send data to multiple analytics services without re-implementing new API.
 
 ### Minifiers
-- [ember-hbs-minifier](https://github.com/simplabs/ember-hbs-minifier) - Stripping whitespace out of your Handlebars templates
+- [ember-hbs-minifier](https://github.com/simplabs/ember-hbs-minifier) - Stripping whitespace out of your Handlebars templates.
+- [ember-cli-template-trimmer](https://github.com/lifeart/ember-cli-template-trimmer) - This addon removes newlines on compile stage.
 
 ### Miscellaneous
 
@@ -536,22 +537,22 @@ Ember Myths located [here ✨](ember-myths.md), Readers Questions located [here 
 
 ### Mobile
 
-- [corber](https://github.com/isleofcode/corber) - Tooling for cordova and crosswalk hybrid applications built with Ember
+- [corber](https://github.com/isleofcode/corber) - Tooling for cordova and crosswalk hybrid applications built with Ember.
 - [glimmer-native](https://github.com/bakerac4/glimmer-native) - Have you ever wanted to use Ember/Glimmer to create a native mobile app? Well now you can!
-- [ember-mobile-bar](https://github.com/nickschot/ember-mobile-bar) - Managed fixed (tool)bars with mobile app-like behaviour
-- [ember-mobile-core](https://github.com/nickschot/ember-mobile-core) - Provides a pan recognizer and some utils for the ember-mobile-* addons
-- [ember-mobile-menu](https://github.com/nickschot/ember-mobile-menu) - Draggable sidebar specifically tailored to mobile devices
-- [ember-mobile-pane](https://github.com/nickschot/ember-mobile-pane) - ember-mobile-pane
-- [ember-responsive](https://github.com/freshbooks/ember-responsive) - Easy responsive layouts with Ember
+- [ember-mobile-bar](https://github.com/nickschot/ember-mobile-bar) - Managed fixed (tool)bars with mobile app-like behaviour.
+- [ember-mobile-core](https://github.com/nickschot/ember-mobile-core) - Provides a pan recognizer and some utils for the ember-mobile-* addons.
+- [ember-mobile-menu](https://github.com/nickschot/ember-mobile-menu) - Draggable sidebar specifically tailored to mobile devices.
+- [ember-mobile-pane](https://github.com/nickschot/ember-mobile-pane) - ember-mobile-pane.
+- [ember-responsive](https://github.com/freshbooks/ember-responsive) - Easy responsive layouts with Ember.
 
 ### Modifiers
 - [ember-css-vars](https://github.com/luxferresum/ember-css-vars) - A ember modifier to apply css variables. This gives a save way to expose data from JavaScript to css.
 - [ember-on-modifier](https://github.com/buschtoens/ember-on-modifier) - An implementation of the `{{on}}` element modifier shown in the Modifiers RFC #353.
 - [ember-ref-modifier](https://github.com/lifeart/ember-ref-modifier) - An implementation of the `{{ref}}` element modifier.
 - [ember-render-modifiers](https://github.com/emberjs/ember-render-modifiers) - Implements did-insert / did-update / will-destroy modifiers for RFC #415.
-- [ember-functional-modifiers](https://github.com/spencer516/ember-functional-modifiers) - Functional Modifiers for Ember
+- [ember-functional-modifiers](https://github.com/spencer516/ember-functional-modifiers) - Functional Modifiers for Ember.
 - [ember-style-modifier](https://github.com/jelhan/ember-style-modifier) - This addon provides a {{style}} element modifier to set element's style. 
-- [ember-simple-animate](https://github.com/abhilashlr/ember-simple-animate) - Simple ember animate addon for CSS based animations
+- [ember-simple-animate](https://github.com/abhilashlr/ember-simple-animate) - Simple ember animate addon for CSS based animations.
 
 ### Natural language processing
 - [?](#) - ????.
@@ -569,8 +570,8 @@ Ember Myths located [here ✨](ember-myths.md), Readers Questions located [here 
 
 ### Parcel
 
-- [ember-parcel-example](https://github.com/rtablada/ember-parcel-example) - Ember.js + Parcel.js Example
-- [todomvc-demo](https://github.com/devongovett/todomvc-demo) - Glimmer.js + Parcel.js Exmaple
+- [ember-parcel-example](https://github.com/rtablada/ember-parcel-example) - Ember.js + Parcel.js Example.
+- [todomvc-demo](https://github.com/devongovett/todomvc-demo) - Glimmer.js + Parcel.js Exmaple.
 
 ### Parsing
 
@@ -578,11 +579,11 @@ Ember Myths located [here ✨](ember-myths.md), Readers Questions located [here 
 
 ### Payments
 
-- [ember-credit-card](https://github.com/esbanarango/ember-credit-card) - "make your credit card form dreamy in one line of code"
+- [ember-credit-card](https://github.com/esbanarango/ember-credit-card) - "make your credit card form dreamy in one line of code".
 
 ### Polyfills
 
-- [ember-modifier-manager-polyfill](https://github.com/rwjblue/ember-modifier-manager-polyfill) - Polyfill element modifiers for Ember 2.12 through 3.7
+- [ember-modifier-manager-polyfill](https://github.com/rwjblue/ember-modifier-manager-polyfill) - Polyfill element modifiers for Ember 2.12 through 3.7.
 - [ember-angle-bracket-invocation-polyfill](https://github.com/rwjblue/ember-angle-bracket-invocation-polyfill) - This addon provides a polyfill for angle bracket invocation syntax as described in RFC 311.
 - [ember-named-arguments-polyfill](https://github.com/rwjblue/ember-named-arguments-polyfill) - Polyfills support for named arguments for Ember 2.10 through 3.0.
 - [ember-native-class-polyfill](https://github.com/pzuraq/ember-native-class-polyfill) - This addon provides a polyfill for the native class behavior that was proposed in Ember RFCs #240 and #337.
@@ -599,21 +600,21 @@ Ember Myths located [here ✨](ember-myths.md), Readers Questions located [here 
 - [ember-service-worker-cache-first](https://github.com/DockYard/ember-service-worker-cache-first)
 - [ember-service-worker-index](https://github.com/DockYard/ember-service-worker-index)
 - [ember-service-worker-prember](https://github.com/shipshapecode/ember-service-worker-prember)
-- [ember-service-worker](https://github.com/DockYard/ember-service-worker) - A pluggable approach to Service Workers for Ember.js
-- [ember-web-app](https://github.com/san650/ember-web-app) - This Ember addon helps you configure and manage the manifest.json and meta tags needed to create progressive web applications
+- [ember-service-worker](https://github.com/DockYard/ember-service-worker) - A pluggable approach to Service Workers for Ember.js.
+- [ember-web-app](https://github.com/san650/ember-web-app) - This Ember addon helps you configure and manage the manifest.json and meta tags needed to create progressive web applications.
 
 ### Query Params
 
 - [ember-query-params-service](https://github.com/NullVoxPopuli/ember-query-params-service) - Do you have controllers that _only_ parse query params?
-- [ember-parachute](https://github.com/offirgolan/ember-parachute) - Improved Query Params for Ember
-- [ember-href-to](https://github.com/intercom/ember-href-to) - A lightweight alternative to {{link-to}}
+- [ember-parachute](https://github.com/offirgolan/ember-parachute) - Improved Query Params for Ember.
+- [ember-href-to](https://github.com/intercom/ember-href-to) - A lightweight alternative to {{link-to}}.
 
 ### Real-time
 
 - [ember-cli-flash](https://github.com/poteto/ember-cli-flash) - Simple, highly configurable flash messages for ember-cli.
 
 ### Routing addos
-- [ember-component-routes](https://github.com/wongpeiyi/ember-component-routes) - Render components directly from routes in Ember 
+- [ember-component-routes](https://github.com/wongpeiyi/ember-component-routes) - Render components directly from routes in Ember.
 - [ember-redirect](https://github.com/thoov/ember-redirect) - This addon aims to be a simple and easy way to preform route based redirects with minimal effort.
 - [ember-router-scroll](https://github.com/dollarshaveclub/ember-router-scroll) - Scroll to top with preserved browser history scroll position.
 
@@ -626,30 +627,30 @@ Ember Myths located [here ✨](ember-myths.md), Readers Questions located [here 
 
 ### Service Workers
 
-- [ember-cli-workbox](https://github.com/BBVAEngineering/ember-cli-workbox/) - Offline caching as a progressive enhancement using service workers
-- [ember-service-worker](https://github.com/DockYard/ember-service-worker) - A pluggable approach to Service Workers for Ember.js
-- [ember-service-worker-index](https://github.com/DockYard/ember-service-worker-index) - An Ember Service Worker plugin that caches the index.html file
-- [ember-service-worker-asset-cache](https://github.com/DockYard/ember-service-worker-asset-cache) - An Ember Service Worker plugin that caches an Ember app's asset files
-- [ember-service-worker-cache-first](https://github.com/DockYard/ember-service-worker-cache-first) - A cache first Ember Service Worker plugin
-- [ember-service-worker-cache-fallback](https://github.com/DockYard/ember-service-worker-cache-fallback) - An Ember Service Worker plugin that resorts to a cached fallback version when the network request fails
-- [ember-service-worker-emberfire-messaging](https://github.com/Matt-Jensen/ember-service-worker-emberfire-messaging) - Firebase Cloud Messaging service worker support for Emberfire apps
+- [ember-cli-workbox](https://github.com/BBVAEngineering/ember-cli-workbox/) - Offline caching as a progressive enhancement using service workers.
+- [ember-service-worker](https://github.com/DockYard/ember-service-worker) - A pluggable approach to Service Workers for Ember.js.
+- [ember-service-worker-index](https://github.com/DockYard/ember-service-worker-index) - An Ember Service Worker plugin that caches the index.html file.
+- [ember-service-worker-asset-cache](https://github.com/DockYard/ember-service-worker-asset-cache) - An Ember Service Worker plugin that caches an Ember app's asset files.
+- [ember-service-worker-cache-first](https://github.com/DockYard/ember-service-worker-cache-first) - A cache first Ember Service Worker plugin.
+- [ember-service-worker-cache-fallback](https://github.com/DockYard/ember-service-worker-cache-fallback) - An Ember Service Worker plugin that resorts to a cached fallback version when the network request fails.
+- [ember-service-worker-emberfire-messaging](https://github.com/Matt-Jensen/ember-service-worker-emberfire-messaging) - Firebase Cloud Messaging service worker support for Emberfire apps.
 - [ember-service-worker-unregistration](https://github.com/GreatWizard/ember-service-worker-unregistration) - An Ember plugin that unregister service workers when ember-service-worker is disabled.
-- [ember-service-worker-request-chaos](https://github.com/maxfierke/ember-service-worker-request-chaos) - Like Netflix's ChaosMonkey but for your Ember SPA's API requests
+- [ember-service-worker-request-chaos](https://github.com/maxfierke/ember-service-worker-request-chaos) - Like Netflix's ChaosMonkey but for your Ember SPA's API requests.
 - [ember-service-worker-project-entagled-registration](https://github.com/rwjblue/ember-service-worker-project-entagled-registration) - This addon is to be used along with ember-service-worker to ensure that the service worker being used is paired properly to the project.
-- [ember-service-worker-cache-rendered](https://github.com/PrinceCornNM/ember-service-worker-cache-rendered) - Ember service worker plugin for storing rendered html in cache, really useful for fastboot
-- [ember-service-worker-update-notify](https://github.com/topaxi/ember-service-worker-update-notify) - Update notification for service workers
+- [ember-service-worker-cache-rendered](https://github.com/PrinceCornNM/ember-service-worker-cache-rendered) - Ember service worker plugin for storing rendered html in cache, really useful for fastboot.
+- [ember-service-worker-update-notify](https://github.com/topaxi/ember-service-worker-update-notify) - Update notification for service workers.
 - [ember-service-worker-enqueue](https://github.com/The-Don-Himself/ember-service-worker-enqueue) - An Ember Service Worker plugin that catches failed mutation requests e.g POST, PUT, DELETE and queues them for background processing.
-- [ember-service-worker-prember](https://github.com/shipshapecode/ember-service-worker-prember) - An Ember Service Worker plugin that caches the index.html files for each prember route
+- [ember-service-worker-prember](https://github.com/shipshapecode/ember-service-worker-prember) - An Ember Service Worker plugin that caches the index.html files for each prember route.
 
 ### SSR / Server Side Rendering
 
- - [ember-fastboot](https://github.com/ember-fastboot/ember-cli-fastboot) - Server-side rendering for Ember.js apps
- - [glimmer-ssr-test](https://github.com/josemarluedke/glimmer-ssr-test) - Making a glimmer app be rendered in the server
+ - [ember-fastboot](https://github.com/ember-fastboot/ember-cli-fastboot) - Server-side rendering for Ember.js apps.
+ - [glimmer-ssr-test](https://github.com/josemarluedke/glimmer-ssr-test) - Making a glimmer app be rendered in the server.
 
 ### Static site generators & SEO
 
 - [ember-meta](https://github.com/shipshapecode/ember-meta) - Setup meta for your Prember/Ember blog to support opengraph, microdata, Facebook, Twitter, Slack etc.
-- [prember-rss-feed](https://github.com/shipshapecode/prember-rss-feed) - Ship RSS feeds for your Prember site
+- [prember-rss-feed](https://github.com/shipshapecode/prember-rss-feed) - Ship RSS feeds for your Prember site.
 - [prember](https://github.com/ef4/prember) - Prerender Ember apps with Fastboot at build time.
 
 ### Streams
@@ -658,39 +659,38 @@ Ember Myths located [here ✨](ember-myths.md), Readers Questions located [here 
 
 ### Styling
 
-- [ember-cli-sass](https://github.com/aexmachina/ember-cli-sass) - Use node-sass to preprocess your ember-cli app's files, with support for sourceMaps and include paths
+- [ember-cli-sass](https://github.com/aexmachina/ember-cli-sass) - Use node-sass to preprocess your ember-cli app's files, with support for sourceMaps and include paths.
 
 ### Templating
 
 - [ember-template-component-import](https://github.com/crashco/ember-template-component-import) - This addon allows you to use import-style syntax to create local bindings to a component within a template file.
-- [ember-hbs-minifier](https://github.com/simplabs/ember-hbs-minifier) - Stripping whitespace out of your Handlebars templates
-- [ember-cli-template-trimmer](https://github.com/lifeart/ember-cli-template-trimmer) - This addon removes newlines on compile stage
-- [ember-cli-jsx-templates](https://github.com/lifeart/ember-cli-jsx-templates) - TSX/JSX support for ember templates
+- [ember-cli-jsx-templates](https://github.com/lifeart/ember-cli-jsx-templates) - TSX/JSX support for ember templates.
+- [Emblem.js](https://github.com/machty/emblem.js/) - Ember-friendly, indented syntax alternative for Handlebars.js.
 
 ### Testing
 
 - [ember-qunit-decorators](https://github.com/mike-north/ember-qunit-decorators) - Use ES6 or TypeScript decorators for QUnit tests in your Ember app.
 - [ember-cli-addon-tests](https://github.com/tomdale/ember-cli-addon-tests) - Test helpers for testing Ember CLI addons inside the context of a real Ember app.
-- [ember-cli-code-coverage](https://github.com/kategengler/ember-cli-code-coverage) - Code coverage for ember apps using Istanbul
+- [ember-cli-code-coverage](https://github.com/kategengler/ember-cli-code-coverage) - Code coverage for ember apps using Istanbul.
 - [ember-cli-mirage](http://www.ember-cli-mirage.com/) - Build, test and demo your app using a [JSON API](http://jsonapi.org/)-compliant client-side server.
-- [ember-cli-mocha](https://github.com/ember-cli/ember-cli-mocha) - Mocha and Chai tests for ember-cli applications
-- [ember-cli-page-object](https://github.com/san650/ember-cli-page-object) - This ember-cli addon eases the construction of page objects on your acceptance and integration tests
-- [ember-cli-yadda](https://github.com/albertjan/ember-cli-yadda) - Write cucumber specs for ember-cli applications
-- [ember-concurrency-test-waiter](https://github.com/bendemboski/ember-concurrency-test-waiter) - Easily enable test waiters for ember-concurrency tasks
+- [ember-cli-mocha](https://github.com/ember-cli/ember-cli-mocha) - Mocha and Chai tests for ember-cli applications.
+- [ember-cli-page-object](https://github.com/san650/ember-cli-page-object) - This ember-cli addon eases the construction of page objects on your acceptance and integration tests.
+- [ember-cli-yadda](https://github.com/albertjan/ember-cli-yadda) - Write cucumber specs for ember-cli applications.
+- [ember-concurrency-test-waiter](https://github.com/bendemboski/ember-concurrency-test-waiter) - Easily enable test waiters for ember-concurrency tasks.
 - [ember-exam](https://github.com/trentmwillis/ember-exam) - Run your tests with randomization, splitting, and parallelization for beautiful tests.
-- [ember-percy](https://github.com/percy/ember-percy) - Ember addon for visual regression testing with Percy
-- [ember-qunit](https://github.com/emberjs/ember-qunit) - QUnit test helpers for Ember
+- [ember-percy](https://github.com/percy/ember-percy) - Ember addon for visual regression testing with Percy.
+- [ember-qunit](https://github.com/emberjs/ember-qunit) - QUnit test helpers for Ember.
 - [ember-test-friendly-error-handler](https://github.com/rwjblue/ember-test-friendly-error-handler) - Build testable error handlers that don't throw in production...
-- [ember-test-selectors](https://github.com/simplabs/ember-test-selectors) - Enabling better element selectors in Ember.js tests
-- [ember-test-setup](https://github.com/kellyselden/ember-test-setup) - Testing shorthands to reduce duplication
-- [ember-cli-pact](https://github.com/twokul/ember-cli-pact) - Contract testing with Ember.js and Pact
-- [ember-window-mock](https://github.com/kaliber5/ember-window-mock) - Use window global as an Ember service that can be mocked in tests
+- [ember-test-selectors](https://github.com/simplabs/ember-test-selectors) - Enabling better element selectors in Ember.js tests.
+- [ember-test-setup](https://github.com/kellyselden/ember-test-setup) - Testing shorthands to reduce duplication.
+- [ember-cli-pact](https://github.com/twokul/ember-cli-pact) - Contract testing with Ember.js and Pact.
+- [ember-window-mock](https://github.com/kaliber5/ember-window-mock) - Use window global as an Ember service that can be mocked in tests.
 - [mirage-glue](https://github.com/izelnakri/mirage-glue) - This program reads your API endpoint and creates or appends response to relevant mirage fixture file(s).
 - [ember-sinon](https://github.com/csantero/ember-sinon) - Ember CLI addon adding support for sinon.js
 
 ### Text
 
-- [ember-text-measurer](https://github.com/cibernox/ember-text-measurer) - Simple Ember Service to measure the width of a string in a performant way
+- [ember-text-measurer](https://github.com/cibernox/ember-text-measurer) - Simple Ember Service to measure the width of a string in a performant way.
 
 
 ### Tree Shaking
@@ -699,17 +699,17 @@ Ember Myths located [here ✨](ember-myths.md), Readers Questions located [here 
 ### TypeScript
 
 - [ember-cli-typescript](https://github.com/typed-ember/ember-cli-typescript) - Use TypeScript in your Ember.js apps!
-- [ember-typings](https://github.com/typed-ember/ember-typings) - Typescript type definitions for ember.js
-- [ember-typescript-utils](https://github.com/happycollision/ember-typescript-utils) - Utility functions built around Typescript and Ember
+- [ember-typings](https://github.com/typed-ember/ember-typings) - Typescript type definitions for ember.js.
+- [ember-typescript-utils](https://github.com/happycollision/ember-typescript-utils) - Utility functions built around Typescript and Ember.
 
 
 ### UI libs
 
-- [ember-bootstrap](http://www.ember-bootstrap.com/) - Provides a collection of native Ember components that mimic the original Bootstrap plugins and components in an ember friendly way
-- [ember-cli-uniq](https://github.com/uniplaces/ember-cli-uniq/) - Default components for Ember.js that implement the Uniplaces Design System
-- [ember-element-ui](https://github.com/aalasolutions/ember-element-ui) - element-ui for ember
+- [ember-bootstrap](http://www.ember-bootstrap.com/) - Provides a collection of native Ember components that mimic the original Bootstrap plugins and components in an ember friendly way.
+- [ember-cli-uniq](https://github.com/uniplaces/ember-cli-uniq/) - Default components for Ember.js that implement the Uniplaces Design System.
+- [ember-element-ui](https://github.com/aalasolutions/ember-element-ui) - element-ui for ember.
 - [ember-elements](https://github.com/dunkinbase/ember-elements) - [a UI toolkit in Ember](https://dunkinbase.github.io/ember-elements/)
-- [ember-ghost-casper-template](https://github.com/stonecircle/ember-ghost-casper-template) - A static site version of the default personal blogging theme for Ghost
+- [ember-ghost-casper-template](https://github.com/stonecircle/ember-ghost-casper-template) - A static site version of the default personal blogging theme for Ghost.
 - [ember-paper](https://github.com/miguelcobain/ember-paper) - The Ember approach to Material Design.
 - [ember-radical](https://github.com/healthsparq/ember-radical) - Feather light, fully accessible DDAU component library for your Ember apps.
 - [Nomad UI](https://github.com/hashicorp/nomad/tree/master/ui) - https://demo.nomadproject.io
@@ -723,7 +723,7 @@ Ember Myths located [here ✨](ember-myths.md), Readers Questions located [here 
 - [ember-burger-menu](https://github.com/offirgolan/ember-burger-menu) - An off-canvas sidebar component with a collection of animations and styles using CSS transitions.
 - [ember-flatpickr](https://github.com/shipshapecode/ember-flatpickr) - An Ember addon that wraps the Flatpickr date picker.
 - [ember-power-select](https://github.com/cibernox/ember-power-select) - The extensible select component built for ember.
-- [ember-basic-dropdown](https://github.com/cibernox/ember-basic-dropdown) - The basic dropdown you ember app needs
+- [ember-basic-dropdown](https://github.com/cibernox/ember-basic-dropdown) - The basic dropdown you ember app needs.
 
 ### URL
 
@@ -731,7 +731,7 @@ Ember Myths located [here ✨](ember-myths.md), Readers Questions located [here 
 
 ### UX
 
-- [ember-onbeforeunload](https://github.com/jasonmit/ember-onbeforeunload) - invoke logic when transitioning between routes or closing window
+- [ember-onbeforeunload](https://github.com/jasonmit/ember-onbeforeunload) - invoke logic when transitioning between routes or closing window.
 
 ### VR
 
@@ -740,10 +740,10 @@ Ember Myths located [here ✨](ember-myths.md), Readers Questions located [here 
 ### VS Code addons
 
 - [Ember Syntax](https://marketplace.visualstudio.com/items?itemName=dhedgecock.ember-syntax) - Syntax highlighting for Ember template files AND syntax highlighting for inline template definitions with tagged templates!
- - [ember-language-server](https://github.com/emberwatch/ember-language-server) - Language Server Protocol implementation for Ember.js projects
- - [unstable-ember-language-server](https://marketplace.visualstudio.com/items?itemName=lifeart.vscode-ember-unstable) - Language Server Protocol implementation for Ember.js projects (Unstable, including experimental features)
+ - [ember-language-server](https://github.com/emberwatch/ember-language-server) - Language Server Protocol implementation for Ember.js projects.
+ - [unstable-ember-language-server](https://marketplace.visualstudio.com/items?itemName=lifeart.vscode-ember-unstable) - Language Server Protocol implementation for Ember.js projects (Unstable, including experimental features).
  - [vscode-ember-colorizer](https://github.com/ciena-blueplanet/vscode-ember-colorizer) - VsCode extension that colorizes/tokeninzes Ember .hbs, Controllers, and Routes files.
- - [ember-module-snippets](https://github.com/candidmetrics/ember-module-snippets) - Snippets to make importing Ember modules a snap in VSCode
+ - [ember-module-snippets](https://github.com/candidmetrics/ember-module-snippets) - Snippets to make importing Ember modules a snap in VSCode.
 
 ### Atom addons	
 
@@ -766,13 +766,14 @@ Ember Myths located [here ✨](ember-myths.md), Readers Questions located [here 
 
 - [ember-dynamic-render-template](https://github.com/miguelcobain/ember-dynamic-render-template) - Render DOM from a template string.
 
-## Resources
+### Resources
 
 - [Front-End Performance Checklist](https://github.com/thedaviddias/Front-End-Performance-Checklist)
 - [Ember.js approval requirements](https://gist.github.com/PoslinskiNet/2d7a05944ca3c468440a0faea153062b)
 
 ### Articles
 
+- [Ember 2019 Roadmap Posts](https://github.com/abhilashlr/emberjs2019-posts)
 - [How to Actually Build Superior Web Apps for Free](https://medium.com/@devotox/zero-cost-web-apps-part-1-b2d6b46916f1)
 - [Getting Started With Glimmer-Native](https://codingitwrong.com/2019/06/26/glimmer-native-tutorial.html)
 - [The case for Embeddable Ember](https://dev.to/dustinsoftware/the-case-for-embeddable-ember-4120)
@@ -841,7 +842,6 @@ Ember Myths located [here ✨](ember-myths.md), Readers Questions located [here 
 - [Error Handling](https://github.com/pixelhandler/ember-jsonapi-resources/wiki/Error-Handling)
 - [Build and Authenticate an EmberJS 3 Application](https://auth0.com/blog/build-and-authenticate-an-emberjs-3-application)
 - [Everything you need to know to upgrade your Ember.js app](https://medium.com/front-end-hacking/everything-you-need-to-know-to-upgrade-your-ember-js-app-including-ember-3-9de5e808dde0)
-- [Top 10 Ember.js Development Companies](https://medium.com/@henryw1990/top-10-ember-js-development-companies-d07826a87f24)
 - [16 Opensource EmberJS Projects to Learn From](https://www.icicletech.com/blog/16-opensource-emberjs-projects-to-learn-from)
 - [5 Essential Ember Concepts You Must Understand](https://emberigniter.com/5-essential-ember-concepts/)
 - [Adding AWS Amplify to an Ember.js Application](https://itnext.io/adding-aws-amplify-to-an-ember-js-application-72683167c476)
@@ -861,7 +861,6 @@ Ember Myths located [here ✨](ember-myths.md), Readers Questions located [here 
 - [Ember Inspector - The Journey so Far](https://shipshape.io/blog/ember-inspector-the-journey-so-far/)
 - [Ember on Medium](https://medium.com/front-end-hacking/tagged/ember)
 - [EmberCamp Module Unification Update](https://madhatted.com/2017/7/12/embercamp-module-unification-update)
-- [Ember.js – Importing JavaScript libraries into your Ember application](https://medium.com/front-end-hacking/ember-js-importing-javascript-libraries-into-your-ember-application-eeb6670486da)
 - [Skeleton Screen Loading in Ember.js](https://emberway.io/skeleton-screen-loading-in-ember-js-2f7ac2384d63)
 - [Static Blogs with Prember and Markdown](https://shipshape.io/blog/static-blogs-with-prember-and-markdown/)
 - [Tom Dale on Ember and JavaScript Frameworks](https://www.infoq.com/interviews/tom-dale-ember) - Y 2013
@@ -1046,6 +1045,7 @@ Ember Myths located [here ✨](ember-myths.md), Readers Questions located [here 
 
 ### Codemods
 - [ember-es6-class-codemod](https://github.com/scalvert/ember-es6-class-codemod) - A codemod-cli project for converting Ember objects to es6 native classes.
+- [ember-native-class-codemod](https://github.com/ember-codemods/ember-native-class-codemod) - A codemod for transforming your ember app code to native JavaScript class syntax with decorators!
 - [ember-cli-mirage-faker-codemod](https://github.com/caseywatts/ember-cli-mirage-faker-codemod) - This codemod is to help transition from importing faker through ember-cli-mirage, to instead import it directly from faker.
 - [ember-mocha-codemods](https://github.com/Turbo87/ember-mocha-codemods) - Codemod scripts for ember-mocha
 - [ember-module-migrator](https://github.com/rwjblue/ember-module-migrator) - Automated migration for new Ember application layout.
@@ -1054,9 +1054,9 @@ Ember Myths located [here ✨](ember-myths.md), Readers Questions located [here 
 - [es5-getter-ember-codemod](https://github.com/rondale-sc/es5-getter-ember-codemod) - This codemod is intended to automatically convert your usage of get, and getProperties to use traditional object dot notation.
 - [qunit-dom-codemod](https://github.com/simplabs/qunit-dom-codemod) - Basic codemod to automatically convert your assertions to qunit-dom assertions.
 - [test-selectors-codemod](https://github.com/lorcan/test-selectors-codemod) - A codemode for fixing the ember-test-selectors testSelector helper deprecation.
-- [ember-on-codemod](https://github.com/craigbilner/ember-on-codemod) - Replace use of Ember.on
+- [ember-on-codemod](https://github.com/craigbilner/ember-on-codemod) - Replace use of Ember.on.
 - [ember-memory-leaks-codemod](https://github.com/rajasegar/ember-memory-leaks-codemod) - A collection of codemod's for fixing memory leaks in Ember applications.
-- [ember-3x-codemods](https://github.com/rajasegar/ember-3x-codemods) - A Codemod with a collection of transforms to address Ember 3.x deprecations
+- [ember-3x-codemods](https://github.com/rajasegar/ember-3x-codemods) - A Codemod with a collection of transforms to address Ember 3.x deprecations.
 - [ember-computed-getter-codemod](https://github.com/Alonski/ember-computed-getter-codemod) - Ember Computed Getter Codemod.
 
 ### Community
@@ -1092,51 +1092,51 @@ Ember Myths located [here ✨](ember-myths.md), Readers Questions located [here 
 - [Simple contact manager demo app for ember-orbit](https://github.com/cerebris/peeps-ember-orbit)
 - [Open Source Ember Apps](https://github.com/EmberSherpa/open-source-ember-apps)
 - [API Docs](https://github.com/ember-learn/ember-api-docs) - This application was built to display our versioned API docs.
-- [guides-app](https://github.com/ember-learn/guides-app) - Replacement for emberjs/guides and the Ember Guides
+- [guides-app](https://github.com/ember-learn/guides-app) - Replacement for emberjs/guides and the Ember Guides.
 - [Builds](https://github.com/ember-learn/builds) - This is the application that the Ember.js team built to display our various release channels.
-- [HospitalRun](https://github.com/HospitalRun/hospitalrun-frontend) - Ember front end for HospitalRun [hospitalrun.io](http://hospitalrun.io/)
+- [HospitalRun](https://github.com/HospitalRun/hospitalrun-frontend) - Ember front end for HospitalRun [hospitalrun.io](http://hospitalrun.io/).
 - [Rancher](https://github.com/rancher/ui) - [Rancher](http://rancher.com) is enterprise management for Kubernetes.
-- [Super Rentals](https://github.com/ember-learn/super-rentals) - Super Rentals is a good starter project to get acclimated to the Ember.js way of doing things
-- [Travis CI](https://github.com/travis-ci/travis-web) - The Ember web client for [Travis CI](https://travis-ci.org/)
-- [Vault](https://github.com/hashicorp/vault/tree/master/ui/app) - A Tool for Managing Secrets (Hashicorp)
-- [ember-osf-web](https://github.com/CenterForOpenScience/ember-osf-web) - Ember front-end for the Open Science Framework
-- [ember-graphql-examples](https://github.com/chadian/ember-graphql-examples) - Examples of using GraphQL in Ember
+- [Super Rentals](https://github.com/ember-learn/super-rentals) - Super Rentals is a good starter project to get acclimated to the Ember.js way of doing things.
+- [Travis CI](https://github.com/travis-ci/travis-web) - The Ember web client for [Travis CI](https://travis-ci.org/).
+- [Vault](https://github.com/hashicorp/vault/tree/master/ui/app) - A Tool for Managing Secrets (Hashicorp).
+- [ember-osf-web](https://github.com/CenterForOpenScience/ember-osf-web) - Ember front-end for the Open Science Framework.
+- [ember-graphql-examples](https://github.com/chadian/ember-graphql-examples) - Examples of using GraphQL in Ember.
 - [ember-rolodex](https://github.com/rtablada/ember-rolodex) - An example of what an Ember tutorial between the quick start and Super Rents could look like.
 - [ember-styleguide](https://github.com/ember-learn/ember-styleguide)
 - [Ghost Admin Client](https://github.com/TryGhost/Ghost-Admin)
-- [emberclear](https://github.com/NullVoxPopuli/emberclear) - Encrypted Chat. No History. No Logs.  + MU & TS
+- [emberclear](https://github.com/NullVoxPopuli/emberclear) - Encrypted Chat. No History. No Logs.  + MU & TS.
 - [Ember.js nested engines example app + Fastboot.](https://github.com/catz/eng-test)
 - [Percy's frontend web application, built with Ember. ](https://github.com/percy/percy-web)
 - [Fire Tracker](https://github.com/SCPR/fire-tracker) - KPCC's tool for following & researching California wildfires.
-- [skylines-project](https://github.com/skylines-project/skylines/tree/master/ember) - Live tracking, flight database and competition framework
-- [PIX](https://github.com/1024pix/pix/tree/dev/live/app) - PIX
+- [skylines-project](https://github.com/skylines-project/skylines/tree/master/ember) - Live tracking, flight database and competition framework.
+- [PIX](https://github.com/1024pix/pix/tree/dev/live/app) - PIX.
 - [ember-monorepo-demo](https://github.com/lennyburdette/ember-monorepo-demo)
 - [documize.com](https://github.com/documize/community)
 - [New York City Census Reporting Tool](https://github.com/NYCPlanning/labs-factfinder)
 - [Medicine Inventory](https://github.com/aalasolutions/ember-medical-inventory) - Sample application developed with Ember CLI, Corber.io, ember-element-ui.
-- [octane-ecommerce](https://github.com/betocantu93/octane-ecommerce) - Ember Octane + FastBoot + Algolia + PayPal + Formspree ([s](https://docs.google.com/presentation/d/1YaG26Fj-tVjyFV8LvQJkfIH89-HYdkfHfhdRz3bC2-k/edit#slide=id.g56ccd9a7f0_0_33), [v](https://www.youtube.com/watch?v=KnkWs18V9dA&feature=youtu.be), [d](https://octane-ecommerce.herokuapp.com/))
+- [octane-ecommerce](https://github.com/betocantu93/octane-ecommerce) - Ember Octane + FastBoot + Algolia + PayPal + Formspree ([s](https://docs.google.com/presentation/d/1YaG26Fj-tVjyFV8LvQJkfIH89-HYdkfHfhdRz3bC2-k/edit#slide=id.g56ccd9a7f0_0_33), [v](https://www.youtube.com/watch?v=KnkWs18V9dA&feature=youtu.be), [d](https://octane-ecommerce.herokuapp.com/)).
 - [Rust Package Registry](https://github.com/rust-lang/crates.io) - [crates.io](https://crates.io)
 
 ### Examples Glimmer
-- [breethe-client](https://github.com/simplabs/breethe-client) - Air Quality Data for Locations around the World
-- [Glimmeroids](https://github.com/t-sauer/Glimmeroids) - Asteroids implementation using Glimmer.js
-- [glimmer-hn-pwa](https://github.com/mhadaily/glimmer-hn-pwa) - A Demonstration Of HackerNews Progressive Web App Powered By Glimmer.js 
+- [breethe-client](https://github.com/simplabs/breethe-client) - Air Quality Data for Locations around the World.
+- [Glimmeroids](https://github.com/t-sauer/Glimmeroids) - Asteroids implementation using Glimmer.js.
+- [glimmer-hn-pwa](https://github.com/mhadaily/glimmer-hn-pwa) - A Demonstration Of HackerNews Progressive Web App Powered By Glimmer.js.
 - [the-chosen](https://github.com/FLarra/the-chosen) - Glimmer project created to learn & decide easier during our scrum dailies meeting who is the next person to share status.
-- [glimmer_eats](https://github.com/James-Byrne/glimmer_eats) - A demo PWA built with GlimmerJS
-- [built-with-spaghetti](https://github.com/gordonbisnor/built-with-spaghetti) - Built with Spaghetti aims to function as a gateway to web art
-- [glimmer-live-chat](https://github.com/rajasegar/glimmer-live-chat) - A Live chat application crafted using Glimmer.js 
-- [glimmer-synth](https://github.com/jimenglish81/glimmer-synth) - Synthesizer built using WebAudio and Glimmer
-- [glimmer-js-online-offline-demo](https://github.com/thomasbrus/glimmer-js-online-offline-demo) - Sample glimmer.js app: online/offline browser events
+- [glimmer_eats](https://github.com/James-Byrne/glimmer_eats) - A demo PWA built with GlimmerJS.
+- [built-with-spaghetti](https://github.com/gordonbisnor/built-with-spaghetti) - Built with Spaghetti aims to function as a gateway to web art.
+- [glimmer-live-chat](https://github.com/rajasegar/glimmer-live-chat) - A Live chat application crafted using Glimmer.js.
+- [glimmer-synth](https://github.com/jimenglish81/glimmer-synth) - Synthesizer built using WebAudio and Glimmer.
+- [glimmer-js-online-offline-demo](https://github.com/thomasbrus/glimmer-js-online-offline-demo) - Sample glimmer.js app: online/offline browser events.
 - [glimmer-qrious](https://github.com/c0urg3tt3/glimmer-qrious) - Glimmerjs components using QRious library to generate QR code in webpage.
-- [glimmerjs-address-book-demo](https://github.com/ttdonovan/glimmerjs-address-book-demo) - Example Glimmer.js application - AddressBook Demo 
-- [glimmer-dashboard](https://github.com/JustInToCoding/glimmer-dashboard) - Glimmer.js dashboard example
-- [glimmer-redux-todo](https://github.com/bashmach/glimmer-redux-todo) - Todo app written with Glimmer.js and Redux
-- [glimmer-pong](https://github.com/knownasilya/glimmer-pong) - Pong game written using Glimmer.js and SVGs 
-- [glimmer-material](https://github.com/cyk/glimmer-material) - A Glimmer.js wrapper for Material Components for the Web
-- [glimmer-of-life](https://github.com/trentmwillis/glimmer-of-life) - An implementation of Conway's Game of Life using Glimmer 
-- [vorfreude](https://github.com/chadian/vorfreude) -  when you can't wait but have to
-- [endless-hoops](https://github.com/mtmckenna/endless-hoops) - It's a basketball game written in JavaScript/Canvas/GlimmerJS
-- [glimmer-hangman](https://github.com/BenSchoenmakers94/glimmer-hangman) - A implementation of the well-known game 'Hangman' in GlimmerJS
+- [glimmerjs-address-book-demo](https://github.com/ttdonovan/glimmerjs-address-book-demo) - Example Glimmer.js application - AddressBook Demo.
+- [glimmer-dashboard](https://github.com/JustInToCoding/glimmer-dashboard) - Glimmer.js dashboard example.
+- [glimmer-redux-todo](https://github.com/bashmach/glimmer-redux-todo) - Todo app written with Glimmer.js and Redux.
+- [glimmer-pong](https://github.com/knownasilya/glimmer-pong) - Pong game written using Glimmer.js and SVGs.
+- [glimmer-material](https://github.com/cyk/glimmer-material) - A Glimmer.js wrapper for Material Components for the Web.
+- [glimmer-of-life](https://github.com/trentmwillis/glimmer-of-life) - An implementation of Conway's Game of Life using Glimmer.
+- [vorfreude](https://github.com/chadian/vorfreude) -  when you can't wait but have to.
+- [endless-hoops](https://github.com/mtmckenna/endless-hoops) - It's a basketball game written in JavaScript/Canvas/GlimmerJS.
+- [glimmer-hangman](https://github.com/BenSchoenmakers94/glimmer-hangman) - A implementation of the well-known game 'Hangman' in GlimmerJS.
 
 
 ### Gists
@@ -1158,7 +1158,7 @@ Ember Myths located [here ✨](ember-myths.md), Readers Questions located [here 
 - ["Why Ember" Thoughts](https://gist.github.com/MelSumner/971ba6b7a3c0b01a4cb3a43d3b962dac)
 - [Ember.js approval requirements](https://gist.github.com/PoslinskiNet/2d7a05944ca3c468440a0faea153062b)
 
-## Gists Ember Data
+### Gists Ember Data
 - [Ember Data | Useful helpers: push-deletion, push-payload](https://gist.github.com/runspired/96618af26fb1c687a74eb30bf15e58b6)
 - [Ember Data | Complex Attrs](https://gist.github.com/runspired/a4b56f7eefe9f8e04f7f0c83e4dfeaf0)
 - [Ember Data | Advanced Query Cache](https://gist.github.com/runspired/dba8d8b4b0cde8d272ec368739460eba)
@@ -1175,13 +1175,13 @@ Ember Myths located [here ✨](ember-myths.md), Readers Questions located [here 
 ### Miscellaneous
 
 - [builtwithember](http://builtwithember.io/) - Apps powered by Ember.js.
-- [emberwatch](https://github.com/emberwatch) - The community hub for Ember.js content
+- [emberwatch](https://github.com/emberwatch) - The community hub for Ember.js content.
 
 ### Newsletters
 
 - [Ember Weekly](http://www.emberweekly.com/) - The latest Ember.js news, tips, and code delivered directly to your inbox.
 - [Official Ember Blog](https://emberjs.com/blog/) - Big announcements like new Ember.js version release notes or State of the Union information.
-- [statusboard](https://emberjs.com/statusboard/) - STATUS BOARD
+- [statusboard](https://emberjs.com/statusboard/) - STATUS BOARD.
 - [The Ember Times](https://the-emberjs-times.ongoodbits.com/) - Updates from the Ember.js Learning Team.
 
 ### Podcasts
@@ -1191,8 +1191,8 @@ Ember Myths located [here ✨](ember-myths.md), Readers Questions located [here 
 
 ### Sandboxes
 - [Ember Twiddle](https://ember-twiddle.com/) - An Ember Twiddle for multiples files which lets you save your work in Github.
-- [Ember @ Glitch](https://ember.glitch.me/) - Glitch.me with Ember
-- [Ember @ CodeSandbox](https://codesandbox.io/s/github/mike-north/ember-new-output) - CodeSandbox with Ember
+- [Ember @ Glitch](https://ember.glitch.me/) - Glitch.me with Ember.
+- [Ember @ CodeSandbox](https://codesandbox.io/s/github/mike-north/ember-new-output) - CodeSandbox with Ember.
 
 ### Screencasts
 
@@ -1208,23 +1208,23 @@ Ember Myths located [here ✨](ember-myths.md), Readers Questions located [here 
 
 ### Slides
 
-- [30 Days Of Ember](https://slides.com/poslinski_net/30-days-of-ember) - Dawid Pośliński
-- [NaNoWriMo: How can Ember help you write a novel](https://slides.com/emma_be/nanowrimo-ember#/) - @EmmaDelecolle
-- [Slides from Ember JS Berlin talk, Design Patterns in Ember](https://github.com/chadian/ember-js-berlin-design-patterns) - @chadian
-- [Rainy Day Ember Data](https://speakerdeck.com/tonywok/rainy-day-ember-data) - Tony Schneider (@tonywok)
-- [Building Realtime Apps with Ember.js and WebSockets](https://www.slideshare.net/BenLimmer/building-realtime-apps-with-emberjs-and-websockets) - Ben Limmer
-- [Deploying a Location-Aware Ember Application](https://www.slideshare.net/BenLimmer/deploying-a-locationaware-ember-application) -  Ben Limmer
-- [Developing Desktop Apps with Electron & Ember.js - FITC WebU2017](https://www.slideshare.net/anulman/developing-desktop-apps-with-electron-emberjs-fitc-webu2017) - Aidan Nulman
+- [30 Days Of Ember](https://slides.com/poslinski_net/30-days-of-ember) - Dawid Pośliński.
+- [NaNoWriMo: How can Ember help you write a novel](https://slides.com/emma_be/nanowrimo-ember#/) - @EmmaDelecolle.
+- [Slides from Ember JS Berlin talk, Design Patterns in Ember](https://github.com/chadian/ember-js-berlin-design-patterns) - @chadian.
+- [Rainy Day Ember Data](https://speakerdeck.com/tonywok/rainy-day-ember-data) - Tony Schneider (@tonywok).
+- [Building Realtime Apps with Ember.js and WebSockets](https://www.slideshare.net/BenLimmer/building-realtime-apps-with-emberjs-and-websockets) - Ben Limmer.
+- [Deploying a Location-Aware Ember Application](https://www.slideshare.net/BenLimmer/deploying-a-locationaware-ember-application) -  Ben Limmer.
+- [Developing Desktop Apps with Electron & Ember.js - FITC WebU2017](https://www.slideshare.net/anulman/developing-desktop-apps-with-electron-emberjs-fitc-webu2017) - Aidan Nulman.
 - [Developing Desktop Apps with Electron & Ember.js](https://www.slideshare.net/fitc_slideshare/developing-desktop-apps-with-electron-emberjs)
-- [Ember addons, served three ways](https://www.slideshare.net/mikelnorth/ember-addons-served-three-ways) - Mike North
-- [Ember At Scale](https://www.slideshare.net/chadhietala/ember-at-scale) - Chad Hietala, LinkedIn
-- [EmberConf 2015 – Ambitious UX for Ambitious Apps](https://www.slideshare.net/sugarpirate/emberconf-2015-ambitious-ux-for-ambitious-apps) - Lauren Elizabeth Tan
-- [EmberConf 2016 – Idiomatic Ember: Finding the Sweet Spot of Performance & Productivity](https://www.slideshare.net/sugarpirate/emberconf-2016-idiomatic-ember-finding-the-sweet-spot-of-performance-productivity) - Lauren Elizabeth Tan
-- [Fun with Ember 2.x Features](https://www.slideshare.net/BenLimmer/fun-with-ember-2x-features) - Ben Limmer
-- [How do I Even Web App](https://www.slideshare.net/lydiaguarino/how-do-i-even-web-app) - An introduction to web programming with Ember CLI by Lydia Guarino
-- [Rapid prototyping and easy testing with ember cli mirage](https://www.slideshare.net/KrzysztofBiaek1/rapid-prototyping-and-easy-testing-with-ember-cli-mirage) -  Krzysztof Bialek
-- [Start Me Up - Building an MVP with EmberJS, Firebase and Material Design](https://www.slideshare.net/PickNBook/start-me-up-building-an-mvp-with-emberjs-firebase-and-material-design) - Brendan O'Hara
-- [Upgrading Ember.js Apps](https://www.slideshare.net/BenLimmer/upgrading-emberjs-apps) - Ben Limmer
+- [Ember addons, served three ways](https://www.slideshare.net/mikelnorth/ember-addons-served-three-ways) - Mike North.
+- [Ember At Scale](https://www.slideshare.net/chadhietala/ember-at-scale) - Chad Hietala, LinkedIn.
+- [EmberConf 2015 – Ambitious UX for Ambitious Apps](https://www.slideshare.net/sugarpirate/emberconf-2015-ambitious-ux-for-ambitious-apps) - Lauren Elizabeth Tan.
+- [EmberConf 2016 – Idiomatic Ember: Finding the Sweet Spot of Performance & Productivity](https://www.slideshare.net/sugarpirate/emberconf-2016-idiomatic-ember-finding-the-sweet-spot-of-performance-productivity) - Lauren Elizabeth Tan.
+- [Fun with Ember 2.x Features](https://www.slideshare.net/BenLimmer/fun-with-ember-2x-features) - Ben Limmer.
+- [How do I Even Web App](https://www.slideshare.net/lydiaguarino/how-do-i-even-web-app) - An introduction to web programming with Ember CLI by Lydia Guarino.
+- [Rapid prototyping and easy testing with ember cli mirage](https://www.slideshare.net/KrzysztofBiaek1/rapid-prototyping-and-easy-testing-with-ember-cli-mirage) -  Krzysztof Bialek.
+- [Start Me Up - Building an MVP with EmberJS, Firebase and Material Design](https://www.slideshare.net/PickNBook/start-me-up-building-an-mvp-with-emberjs-firebase-and-material-design) - Brendan O'Hara.
+- [Upgrading Ember.js Apps](https://www.slideshare.net/BenLimmer/upgrading-emberjs-apps) - Ben Limmer.
 
 ### Styleguides
 
@@ -1243,7 +1243,7 @@ Ember Myths located [here ✨](ember-myths.md), Readers Questions located [here 
 - [Ember Perf](https://github.com/mike-north/ember-perf) - Measure user-percieved performance data in your ember.js app
 - [ember-cli-diff](http://www.ember-cli-diff.org/) - A simple tool to see differences between new ember apps.
 - [ember-cli](https://ember-cli.com/) - The command line interface for ambitious web applications.
-- [ember-data-model-maker](https://andycrum.github.io/ember-data-model-maker/) - UI to make ember-data models & payload examples
+- [ember-data-model-maker](https://andycrum.github.io/ember-data-model-maker/) - UI to make ember-data models & payload examples.
 - [Glimmer Playground](https://try.glimmerjs.com/) - An Glimmer.js playground.
 - [gulp-ember-handlebars](https://github.com/fuseelements/gulp-ember-handlebars) - Compiles Handlebars templates to JS ready for Ember.
 - [mber](https://github.com/izelnakri/mber) - Ember-cli replacement. Currently alpha.
@@ -1291,6 +1291,7 @@ Ember Myths located [here ✨](ember-myths.md), Readers Questions located [here 
 
 ### Videos
 
+- [Working with Ember Animated & Addon Internals: Ember Concurrency – Ember NYC, May 2019](https://www.youtube.com/watch?v=JbxaVHQFou0)
 - [Ember.js Tutorial: Build a painting game in 20 mins](https://www.youtube.com/watch?v=N4KrBuO0RRE)
 - [Ember-cli In-Repo Addons with Jacob Bixby](https://www.youtube.com/watch?v=VYrMs1Zzpqs)
 - [Maintaining an Ember App at Scale, with Chris Ng](https://www.youtube.com/watch?v=gyGZHydh0Hw&feature=em-uploademail)
