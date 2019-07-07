@@ -1,4 +1,4 @@
-# Awesome Ember.js [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+# Awesome Ember.js [![Awesome](https://awesome.re/badge.svg)](https://github.com/sindresorhus/awesome)
 
 
 > A curated list of delightful Ember.js [packages](#packages) and [resources](#resources).
@@ -960,12 +960,12 @@ Ember Myths located [here ✨](ember-myths.md), Readers Questions located [here 
 
 - [The Shortest Ember Book](https://github.com/ember-learn/the-shortest-ember-book)
 - [A deep dive into the Ember JS runloop](https://github.com/eoinkelly/ember-runloop-handbook)
-- [Deliver Audacious Web Apps with Ember 2](https://pragprog.com/book/mwjsember/deliver-audacious-web-apps-with-ember-2) - by Matthew White.
+- [Deliver Audacious Web Apps with Ember 2](https://pragprog.com/book/mwjsember/deliver-audacious-web-apps-with-ember-2) - By Matthew White.
 - [Developing an Ember.js Edge](https://gumroad.com/l/xlsx)
 - [Ember Data in the Wild](https://leanpub.com/emberdatainthewild)
-- [ember-cli 101](https://leanpub.com/ember-cli-101) - by Adolfo Builes.
+- [ember-cli 101](https://leanpub.com/ember-cli-101) - By Adolfo Builes.
 - [Ember for Artisans](https://leanpub.com/emberforartisans) - Creating Single Page Apps backed by Laravel.
-- [Ember.js in Action](http://manning.com/skeie/) - by Joachim Haagen Skeie.
+- [Ember.js in Action](http://manning.com/skeie/) - By Joachim Haagen Skeie.
 - [Professor Frisby's Mostly adequate guide to Functional Programming](https://drboolean.gitbooks.io/mostly-adequate-guide-old/)
 - [Rock and Roll with Ember.js](http://rockandrollwithemberjs.com/)
 - [Ember Book (RU)](https://leanpub.com/ember-book)
