@@ -11,7 +11,7 @@ Ember Myths located [here ✨](ember-myths.md), Readers Questions located [here 
 
 [✨ Contribute to Ember ✨](https://help-wanted.emberjs.com/core)
 
-*You might also like [awesome-npm](https://github.com/sindresorhus/awesome-npm).*
+*You might also like [awesome-javascript](https://github.com/sorrycc/awesome-javascript).*
 *Please read the [contribution guidelines](contributing.md) before contributing.*
 
 ---
