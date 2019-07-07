@@ -59,7 +59,6 @@ Ember Myths located [here ✨](ember-myths.md), Readers Questions located [here 
 	- [Forum](#forum)
 	- [Functional programming](#functional-programming)
 	- [HTTP](#http)
-	- [Hardware](#hardware)
 	- [Helpers](#helpers)
 	- [Humanize](#humanize)
 	- [Image](#image)
@@ -111,7 +110,7 @@ Ember Myths located [here ✨](ember-myths.md), Readers Questions located [here 
 	- [Web frameworks](#web-frameworks)
 	- [Webpack](#webpack)
 	- [Weird](#weird)
-- [Resources](#resources)
+	- [Resources](#resources)
 	- [Articles](#articles)
 	- [Best-practices](#best-practices)
 	- [Blogs](#blogs)
@@ -451,8 +450,6 @@ Ember Myths located [here ✨](ember-myths.md), Readers Questions located [here 
 - [ember-ajax](https://github.com/ember-cli/ember-ajax) - Service for making AJAX requests in Ember 1.13+ applications.
 - [ember-socket-guru](https://github.com/netguru/ember-socket-guru) - Addon for easy integration with Pusher.js, ActionCable, Socket.io and Phoenix Channels
 
-## Hardware
-
 ### Helpers
 
 - [ember-composable-helpers](https://github.com/DockYard/ember-composable-helpers) - Composable helpers for declarative templating in Ember
@@ -548,7 +545,7 @@ Ember Myths located [here ✨](ember-myths.md), Readers Questions located [here 
 - [ember-responsive](https://github.com/freshbooks/ember-responsive) - Easy responsive layouts with Ember
 
 ### Modifiers
-- [ember-css-vars](https://github.com/luxferresum/ember-css-vars) - A ember modifier to apply css variables. This gives a save way to expose data from javascript to css.
+- [ember-css-vars](https://github.com/luxferresum/ember-css-vars) - A ember modifier to apply css variables. This gives a save way to expose data from JavaScript to css.
 - [ember-on-modifier](https://github.com/buschtoens/ember-on-modifier) - An implementation of the `{{on}}` element modifier shown in the Modifiers RFC #353.
 - [ember-ref-modifier](https://github.com/lifeart/ember-ref-modifier) - An implementation of the `{{ref}}` element modifier.
 - [ember-render-modifiers](https://github.com/emberjs/ember-render-modifiers) - Implements did-insert / did-update / will-destroy modifiers for RFC #415.
@@ -1068,7 +1065,7 @@ Ember Myths located [here ✨](ember-myths.md), Readers Questions located [here 
 - [GitHub issues](https://github.com/emberjs/ember.js/issues)
 - [Reddit](https://www.reddit.com/r/emberjs/)
 - [Slack](https://embercommunity.slack.com)
-- [StackOverflow](http://stackoverflow.com/questions/tagged/ember.js)
+- [Stack Overflow](http://stackoverflow.com/questions/tagged/ember.js)
 - [Telegram](https://t.me/ember_js)
 
 ### Contribution Guides
@@ -1138,7 +1135,7 @@ Ember Myths located [here ✨](ember-myths.md), Readers Questions located [here 
 - [glimmer-material](https://github.com/cyk/glimmer-material) - A Glimmer.js wrapper for Material Components for the Web
 - [glimmer-of-life](https://github.com/trentmwillis/glimmer-of-life) - An implementation of Conway's Game of Life using Glimmer 
 - [vorfreude](https://github.com/chadian/vorfreude) -  when you can't wait but have to
-- [endless-hoops](https://github.com/mtmckenna/endless-hoops) - It's a basketball game written in Javascript/Canvas/GlimmerJS
+- [endless-hoops](https://github.com/mtmckenna/endless-hoops) - It's a basketball game written in JavaScript/Canvas/GlimmerJS
 - [glimmer-hangman](https://github.com/BenSchoenmakers94/glimmer-hangman) - A implementation of the well-known game 'Hangman' in GlimmerJS
 
 
@@ -1229,7 +1226,7 @@ Ember Myths located [here ✨](ember-myths.md), Readers Questions located [here 
 - [Start Me Up - Building an MVP with EmberJS, Firebase and Material Design](https://www.slideshare.net/PickNBook/start-me-up-building-an-mvp-with-emberjs-firebase-and-material-design) - Brendan O'Hara
 - [Upgrading Ember.js Apps](https://www.slideshare.net/BenLimmer/upgrading-emberjs-apps) - Ben Limmer
 
- ### Styleguides
+### Styleguides
 
 - [ember-styleguide](https://github.com/ember-learn/ember-styleguide)
 - [Softlayer Ember.js](https://github.com/softlayer/ember-style-guide)
@@ -1260,7 +1257,7 @@ Ember Myths located [here ✨](ember-myths.md), Readers Questions located [here 
 - [Ember runloop handbook](https://github.com/eoinkelly/ember-runloop-handbook) - A deep dive into the Ember JS runloop.
 - [Ember with Phoenix (AKA The PEEP Stack)](https://medium.com/peep-stack) - Developing an Ember front-end alongside a [JSON API](http://jsonapi.org/)-compliant [Phoenix](http://www.phoenixframework.org/) backend.
 - [Getting into Ember.js](http://code.tutsplus.com/tutorials/getting-into-emberjs--net-30709) - A five part introductory course to Ember.
-- [Getting Started with Ember.js using Ember CLI](http://thetechcofounder.com/getting-started-with-ember-js-using-ember-cli/) - Building a Todo app with Ember CLI.
+- [Getting Started with Ember.js using Ember CLI](https://thetechcofounder.com/getting-started-with-ember/) - Building a Todo app with Ember CLI.
 - [yoember.com/](http://yoember.com/) - Ember.js Tutorial - From beginner to advance.
 - [build-pacman](http://www.jeffreybiles.com/build-pacman)
 
@@ -1355,3 +1352,7 @@ Ember Myths located [here ✨](ember-myths.md), Readers Questions located [here 
 ### YouTube playlists
 - [Ember London 2018](https://www.youtube.com/watch?v=EcKaDu0xo_A&list=PL8xuokhAnn4rUlol6aspg-VYetu9BLsWV)
 - [Intercom Screencasts](https://www.youtube.com/playlist?list=PLpAr6J-75N27wctNT70O0lubaGTPjwi1L)
+
+## License
+
+[MIT](LICENCE)
