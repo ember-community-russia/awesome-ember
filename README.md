@@ -1,4 +1,4 @@
-# Awesome Ember.js [![Awesome](https://awesome.re/badge.svg)](https://github.com/sindresorhus/awesome) [![Build Status](https://travis-ci.com/ember-community-russia/awesome-ember.svg?branch=master)](https://travis-ci.com/lifeart/ember-ast-hot-load)
+# Awesome Ember.js [![Awesome](https://awesome.re/badge.svg)](https://github.com/sindresorhus/awesome) [![Build Status](https://travis-ci.com/ember-community-russia/awesome-ember.svg?branch=master)](https://travis-ci.com/ember-community-russia/awesome-ember)
 
 
 > A curated list of delightful Ember.js [packages](#packages) and [resources](#resources).
@@ -1132,7 +1132,6 @@ Ember Myths located [here ✨](ember-myths.md), Readers Questions located [here 
 ### Screencasts
 
 - [BuildLab: EmberJS Screencasts for the determined.](https://www.youtube.com/channel/UC1ssGKlQh87Ubyuv1lEiY0g)
-- [Ember 101](http://ember101.com/) - Short introductory screencasts for Ember.
 - [Ember Screencasts](https://www.emberscreencasts.com/) - Weekly Screencasts for the Busy Developer.
 - [EmberCasts](http://www.embercasts.com/) - Currently on hiatus whilst the author works on the next version of Handlebars.
 - [EmberWatch - Screencasts](http://emberwatch.com/screencasts.html) - A collection of Ember screencasts.
