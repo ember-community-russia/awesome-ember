@@ -49,18 +49,14 @@ Ember Myths located [here ✨](ember-myths.md), Readers Questions located [here 
 	- [Date](#date)
 	- [Debugging / Profiling](#Debugging/Profiling)
 	- [Documentation](#documentation)
-	- [Email](#email)
 	- [Ember-inspector roadmaps & overview](#)
 	- [End-user customization](#end-user-customization)
 	- [ES6](#es6)
 	- [External Components Integration](#external-components-integration)
-	- [Filesystem](#filesystem)
 	- [Forms](#forms)
-	- [Forum](#forum)
 	- [Functional programming](#functional-programming)
 	- [HTTP](#http)
 	- [Helpers](#helpers)
-	- [Humanize](#humanize)
 	- [Image](#image)
 	- [Include external JS code](#include-external-js-code)
 	- [Infinite Scroll](#infinite-scroll)
@@ -75,16 +71,10 @@ Ember Myths located [here ✨](ember-myths.md), Readers Questions located [here 
 	- [Miscellaneous](#miscellaneous)
 	- [Mobile](#mobile)
 	- [Modifiers](#modifiers)
-	- [Natural language processing](#natural-language-processing)
-	- [Network](#network)
-	- [Node.js management](#nodejs-management)
-	- [Number](#number)
 	- [Parcel](#parcel)
-	- [Parsing](#parsing)
 	- [Payments](#payments)
 	- [Polyfills](#polyfills)
 	- [PWA](#pwa)
-	- [Process management](#process-management)
 	- [Query Params](#query-params)
 	- [Real-time](#real-time)
 	- [Routing addons](#routing-addons)
@@ -92,7 +82,6 @@ Ember Myths located [here ✨](ember-myths.md), Readers Questions located [here 
 	- [Service Workers](#service-workers)
 	- [SSR / Server Side Rendering](#)
 	- [Static site generators](#s)
-	- [Streams](#streams)
 	- [State management](#state-management)
 	- [Styling](#styling)
 	- [Templating](#templating)
@@ -149,7 +138,7 @@ Ember Myths located [here ✨](ember-myths.md), Readers Questions located [here 
 
 ### a11y
 
-- [ember-accessibility](https://github.com/coyote-labs/ember-accessibility) - addon to help identify accessibility violations during development.
+- [ember-accessibility](https://github.com/coyote-labs/ember-accessibility) - Addon to help identify accessibility violations during development.
 - [e-a11y-modal](https://github.com/MelSumner/e-a11y-modal) - A simple modal for accessible Ember applications.
 - [ember-a11y-landmarks](https://github.com/ember-a11y/ember-a11y-landmarks) - Ember addon to help with landmark roles for better accessibility.
 - [ember-a11y](https://github.com/ember-a11y/ember-a11y) - A collection of tools to build accessible Ember applications.
@@ -249,14 +238,14 @@ Ember Myths located [here ✨](ember-myths.md), Readers Questions located [here 
 ### Code Splitting
 
 - [ember-engines](https://github.com/ember-engines/ember-engines) - This Ember addon implements the functionality described in the Ember Engines RFC. Engines allow multiple logical applications to be composed together into a single application from the user's perspective.
-- [ember-lazy-mount](https://github.com/buschtoens/ember-lazy-mount) - {{mount}} lazy loading route-less engines.
+- [ember-lazy-mount](https://github.com/buschtoens/ember-lazy-mount) - Allow {{mount}} lazy loading route-less engines.
 - [ember-cli-bundle-loader](https://github.com/MiguelMadero/ember-cli-bundle-loader) - Addon to allow for multiple bundles and do lazy loading.
 - [ember-cli-lazy-load](https://github.com/duizendnegen/ember-cli-lazy-load) - Support lazily loading your Ember app via splitting it up into Bundles.
 
 ### Codestyle
 
 - [ember-cli-template-lint](https://github.com/ember-template-lint/ember-cli-template-lint) - Ember CLI integration for `ember-template-lint`.
-- [ember-cli-alex](https://github.com/yohanmishkin/ember-cli-alex) - alex for Ember apps.
+- [ember-cli-alex](https://github.com/yohanmishkin/ember-cli-alex) - Alex for Ember apps.
 - [ember-prop-types](https://github.com/ciena-blueplanet/ember-prop-types) - Improved property management for Ember apps and addons.
 
 ### Command-line apps
@@ -275,7 +264,7 @@ Ember Myths located [here ✨](ember-myths.md), Readers Questions located [here 
 - [ember-diff-attrs](https://github.com/workmanw/ember-diff-attrs)
 - [ember-compatibility-helpers](https://github.com/pzuraq/ember-compatibility-helpers) - Helpers that allow you to write backwards compat Ember addons.
 
- ### Compression
+### Compression
 
 - [ember-cli-deploy-brotli](https://github.com/mfeckie/ember-cli-deploy-brotli) - Ember deploy plugin to support brotli compression.
 
@@ -288,33 +277,25 @@ Ember Myths located [here ✨](ember-myths.md), Readers Questions located [here 
 ### Control flow
 
 - Promises
-	- [?](#) - ????.
+	- [ember-computed-promise-monitor](https://github.com/NullVoxPopuli/ember-computed-promise-monitor) - Enable computed properties to be async-aware.
 - Observables
-	- [?](#) - ????.
+	- [ember-rx](https://github.com/alexlafroscia/ember-rx) - RxJS 6 integration for Ember.js.
 - Generators
-	- [?](#) - ????.
-- Streams
-	- [?](#) - ????.
-- Callbacks
-	- [?](#) - ????.
-- Channels
-	- [?](#) - ????.
-- Other
-	- [?](#) - ????.
+	- [ember-concurrency](https://github.com/machty/ember-concurrency) - Ember Addon that enables you to write concise, worry-free, cancelable, restartable, asynchronous tasks.
 
 ### CSS & etc
 
- - [ember-cli-stylelint](https://github.com/billybonks/ember-cli-stylelint) - Adds styleint to your ember app, to lint all kinds of css.
- - [ember-cli-autoprefixer](https://github.com/kimroen/ember-cli-autoprefixer) - Automatically run your styles through autoprefixer.
- - [ember-cli-sass](https://github.com/aexmachina/ember-cli-sass) - Use node-sass to preprocess your ember-cli app's files, with support for sourceMaps and include paths.
- - [ember-cli-sass-pods](https://github.com/justtal/ember-cli-sass-pods) - Enjoy styling your pods with the sass style file in the pod directory.
- - [ember-component-css](https://github.com/ebryn/ember-component-css) - An Ember CLI addon which allows you to specify styles for individual components.
- - [ember-cli-postcss](https://github.com/jeffjewiss/ember-cli-postcss) - A Postcss integration for ember-cli.
- - [ember-css-modules](https://github.com/salsify/ember-css-modules) - CSS Modules for ambitious applications.
- - [ember-cli-tailwind](https://github.com/embermap/ember-cli-tailwind) - Tailwind is a utility-first CSS framework for rapidly building custom user interfaces.
- - [ember-emotion](https://github.com/alexlafroscia/ember-emotion) - Use emotion styling in Ember.js.
- - [css-blocks](https://github.com/linkedin/css-blocks) - High performance, maintainable stylesheets.
- - [ember-cli-eyeglass](https://github.com/linkedin/eyeglass/tree/master/packages/ember-cli-eyeglass) - This Ember CLI Addon makes it trivial to compile your sass files with eyeglass support via node-sass.
+- [ember-cli-stylelint](https://github.com/billybonks/ember-cli-stylelint) - Adds styleint to your ember app, to lint all kinds of css.
+- [ember-cli-autoprefixer](https://github.com/kimroen/ember-cli-autoprefixer) - Automatically run your styles through autoprefixer.
+- [ember-cli-sass](https://github.com/aexmachina/ember-cli-sass) - Use node-sass to preprocess your ember-cli app's files, with support for sourceMaps and include paths.
+- [ember-cli-sass-pods](https://github.com/justtal/ember-cli-sass-pods) - Enjoy styling your pods with the sass style file in the pod directory.
+- [ember-component-css](https://github.com/ebryn/ember-component-css) - An Ember CLI addon which allows you to specify styles for individual components.
+- [ember-cli-postcss](https://github.com/jeffjewiss/ember-cli-postcss) - A Postcss integration for ember-cli.
+- [ember-css-modules](https://github.com/salsify/ember-css-modules) - CSS Modules for ambitious applications.
+- [ember-cli-tailwind](https://github.com/embermap/ember-cli-tailwind) - Tailwind is a utility-first CSS framework for rapidly building custom user interfaces.
+- [ember-emotion](https://github.com/alexlafroscia/ember-emotion) - Use emotion styling in Ember.js.
+- [css-blocks](https://github.com/linkedin/css-blocks) - High performance, maintainable stylesheets.
+- [ember-cli-eyeglass](https://github.com/linkedin/eyeglass/tree/master/packages/ember-cli-eyeglass) - This Ember CLI Addon makes it trivial to compile your sass files with eyeglass support via node-sass.
 
 ### Fonts
 - [ember-cli-webfont](https://github.com/vitch/ember-cli-webfont) - Easily generate webfonts from svg files as part of your ember-cli build process.
@@ -331,7 +312,7 @@ Ember Myths located [here ✨](ember-myths.md), Readers Questions located [here 
 
 ### Styling kits
 
- - [ember-cli-tailwind](https://github.com/embermap/ember-cli-tailwind) - Adds Tailwind CSS to your app or addon.
+- [ember-cli-tailwind](https://github.com/embermap/ember-cli-tailwind) - Adds Tailwind CSS to your app or addon.
 
 ### Data Management
 
@@ -342,7 +323,7 @@ Ember Myths located [here ✨](ember-myths.md), Readers Questions located [here 
 - [ember-m3](https://github.com/hjdivad/ember-m3) - This addon provides an alternative model implementation to DS.Model.
 - [ember-cli-zuglet](https://www.ember-cli-zuglet.com/) - Ember.js addon for effortless Firebase integration.
 
- ### Data manipulation & Computed
+### Data manipulation & Computed
 
 - [ember-awesome-macros](https://github.com/kellyselden/ember-awesome-macros) - A collection of Ember computed macros.
 - [ember-cpm](https://github.com/cibernox/ember-cpm) - ComputedProperty Macros for Ember.
@@ -355,11 +336,11 @@ Ember Myths located [here ✨](ember-myths.md), Readers Questions located [here 
 - [ember-model-validator](https://github.com/esbanarango/ember-model-validator) - Add validations to your Ember Data models on an explicit and easy way, without a bunch a validations files around or complicated structure.
 - [ember-validated-form](https://github.com/adfinis-sygroup/ember-validated-form) - Easily create forms with client side validations.
 
- ### Database
+### Database
 
-- [?](#) - ????
+- [ember-indexeddb](https://github.com/mydea/ember-indexeddb) - Utilities & adapter to work with IndexedDB in ember & ember-data.
 
- ### Date
+### Date
 
 - [ember-moment](https://github.com/stefanpenner/ember-moment) - moment.js template helpers and computed property macros for Ember.
 
@@ -382,16 +363,12 @@ Ember Myths located [here ✨](ember-myths.md), Readers Questions located [here 
 - [ember-cli-jsdoc](https://github.com/softlayer/ember-cli-jsdoc) - An Ember CLI addon to generate HTML documentation from JSDoc comments in the source code.
 - [ember-freestyle](https://github.com/chrislopresto/ember-freestyle) - Ember Freestyle is an Ember addon that allows you to quickly create a component explorer for your Ember app.
 
- ### Email
-
- - [?](#) - ????
-
 ### Ember-inspector roadmaps & overview
 
 - [Ember Inspector Pairing](https://www.youtube.com/watch?v=rFNR_Fj1G84)
 - [Ember Inspector Sync](https://www.youtube.com/watch?v=PvsfQrKxl_8)
 
- ### End-user customization
+### End-user customization
 - [ember-asset-loader](https://github.com/ember-engines/ember-asset-loader) - Asset loading support for Ember applications.
 - [ember-experiments](https://github.com/outdoorsy/ember-experiments) - Experimentation, A/B Split Testing addon for Ember.
 - [ember-cli-hot-loader](https://github.com/toranb/ember-cli-hot-loader) - An early look at what hot reloading might be like in the ember ecosystem.
@@ -418,18 +395,10 @@ Ember Myths located [here ✨](ember-myths.md), Readers Questions located [here 
 - [@alexlafroscia/ember-cli-react](https://github.com/alexlafroscia/ember-cli-react) - Render React components in Ember.
 - [@AltSchool/ember-cli-react](https://github.com/AltSchool/ember-cli-react) - Use React component hierarchies in your Ember app.
 
- ### Filesystem
-
-- [?](#) - ????.
-
 ### Forms
 
 - [ember-cli-crudities](https://ember-cli-crudities.readthedocs.io) - Form and editable list builder that works from json config which can be either statically or dynamically loaded.
 - [ember-form-for](https://github.com/martndemus/ember-form-for) - This Ember.js addon will give you an easy way to build good forms.
-
-### Forum
-
-- [?](#) - ????
 
 ### Functional programming
 
@@ -464,10 +433,6 @@ Ember Myths located [here ✨](ember-myths.md), Readers Questions located [here 
 - [ember-awesome-macros](https://github.com/kellyselden/ember-awesome-macros) - A collection of Ember computed macros.
 - [ember-macro-helpers](https://github.com/kellyselden/ember-macro-helpers) - Ember macro helpers for making your own fancy macros!
 - [ember-cli-string-helpers](https://github.com/romulomachado/ember-cli-string-helpers) - Set of the String helpers extracted from DockYard's ember-composable-helpers.
-
-### Humanize
-
-- [?](#) - ????.
 
 ### Image
 
@@ -554,28 +519,10 @@ Ember Myths located [here ✨](ember-myths.md), Readers Questions located [here 
 - [ember-style-modifier](https://github.com/jelhan/ember-style-modifier) - This addon provides a {{style}} element modifier to set element's style. 
 - [ember-simple-animate](https://github.com/abhilashlr/ember-simple-animate) - Simple ember animate addon for CSS based animations.
 
-### Natural language processing
-- [?](#) - ????.
-
-### Network
-
-- [?](#) - ????.
-
-### Node.js management
-- [?](#) - ????.
-
-### Number
-
-- [?](#) - ????.
-
 ### Parcel
 
 - [ember-parcel-example](https://github.com/rtablada/ember-parcel-example) - Ember.js + Parcel.js Example.
 - [todomvc-demo](https://github.com/devongovett/todomvc-demo) - Glimmer.js + Parcel.js Exmaple.
-
-### Parsing
-
-- [?](#) - ????.
 
 ### Payments
 
@@ -590,10 +537,7 @@ Ember Myths located [here ✨](ember-myths.md), Readers Questions located [here 
 - [ember-router-service-polyfill](https://github.com/rwjblue/ember-router-service-polyfill) - This addon provides a best effort polyfill for the ember-routing-router-service feature added in Ember 2.15.
 - [ember-fn-helper-polyfill](https://github.com/rwjblue/ember-fn-helper-polyfill) - This addon provides a polyfill for the {{fn}} helper as described in RFCs #470.
 
- ### Process management
-- [?](#) - ????
-
- ### PWA
+### PWA
 
 - [ember-service-worker-asset-cache](https://github.com/DockYard/ember-service-worker-asset-cache)
 - [ember-service-worker-cache-fallback](https://github.com/DockYard/ember-service-worker-cache-fallback)
@@ -652,10 +596,6 @@ Ember Myths located [here ✨](ember-myths.md), Readers Questions located [here 
 - [ember-meta](https://github.com/shipshapecode/ember-meta) - Setup meta for your Prember/Ember blog to support opengraph, microdata, Facebook, Twitter, Slack etc.
 - [prember-rss-feed](https://github.com/shipshapecode/prember-rss-feed) - Ship RSS feeds for your Prember site.
 - [prember](https://github.com/ef4/prember) - Prerender Ember apps with Fastboot at build time.
-
-### Streams
-
-- [?](#) - ????.
 
 ### Styling
 
@@ -1245,7 +1185,6 @@ Ember Myths located [here ✨](ember-myths.md), Readers Questions located [here 
 - [ember-cli](https://ember-cli.com/) - The command line interface for ambitious web applications.
 - [ember-data-model-maker](https://andycrum.github.io/ember-data-model-maker/) - UI to make ember-data models & payload examples.
 - [Glimmer Playground](https://try.glimmerjs.com/) - An Glimmer.js playground.
-- [gulp-ember-handlebars](https://github.com/fuseelements/gulp-ember-handlebars) - Compiles Handlebars templates to JS ready for Ember.
 - [mber](https://github.com/izelnakri/mber) - Ember-cli replacement. Currently alpha.
 - [remote-inspector](https://github.com/joostdevries/ember-cli-remote-inspector) - Lets you inspect apps running on different devices/browsers over the network using websockets.
 
