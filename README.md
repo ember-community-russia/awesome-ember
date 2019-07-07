@@ -651,7 +651,7 @@ Ember Myths located [here ✨](ember-myths.md), Readers Questions located [here 
 - [ember-ghost-casper-template](https://github.com/stonecircle/ember-ghost-casper-template) - A static site version of the default personal blogging theme for Ghost.
 - [ember-paper](https://github.com/miguelcobain/ember-paper) - The Ember approach to Material Design.
 - [ember-radical](https://github.com/healthsparq/ember-radical) - Feather light, fully accessible DDAU component library for your Ember apps.
-- [Nomad UI](https://github.com/hashicorp/nomad/tree/master/ui) - https://demo.nomadproject.io
+- [Nomad UI](https://github.com/hashicorp/nomad/tree/master/ui)
 - [Semantic-UI-Ember](https://github.com/Semantic-Org/Semantic-UI-Ember) - This is the official Ember library for the Semantic-UI modules.
 - [Flexi](https://github.com/html-next/flexi)
 - [Bootstrap 4 theme "Tabler UI" for Ember.js](https://github.com/alt3/ember-tabler)
@@ -835,7 +835,6 @@ Ember Myths located [here ✨](ember-myths.md), Readers Questions located [here 
 - [When you should not pick EmberJS as your next front-end tool](https://medium.com/selleo/when-you-should-not-pick-emberjs-as-your-next-front-end-tool-203697c2e0f0)
 
 ### Jump-Start Articles
-- [Ember Guide for Beginners](https://rmmmp.github.io/2018/07/14/ember-guide-for-beginners-01-introduction.html)
 - [The simplest possible Ember Data CRUD Tutorial](https://medium.com/ember-ish/the-simplest-possible-ember-data-crud-16eacee33ae6)
 - [Challenges I face(d) with Ember.js](https://medium.com/@sarbbottam/challenges-i-face-with-ember-js-59bfba30416e)
 - [It’s easier in Ember. Probably.](http://www.melsumner.com/blog/development/its-easier-in-ember-probably/)
@@ -897,7 +896,9 @@ Ember Myths located [here ✨](ember-myths.md), Readers Questions located [here 
 - [Testing Ember.js Mixins (and Helpers) With a Container](https://www.chriskrycho.com/2016/testing-emberjs-mixins-with-a-container.html)
 
 ### Articles FastBoot
-- [How to integrate Ember FastBoot in Cloud Functions for Firebase](https://rmmmp.github.io/2018/05/16/how-to-integrate-ember-fastboot-in-cloud-functions-for-firebase.html)
+- [How to integrate Ember FastBoot in Cloud Functions for Firebase](https://cenchat.com/blog/2019/06/06/how-to-setup-ember-fastboot-in-cloud-functions-for-firebase.html)
+- [Ember FastBoot + Google App Engine](https://pulletsforever.com/ember-fastboot-google-app-engine-1d38e1e3ffc2)
+- [Deploying FastBoot apps with ember-cli-deploy](https://www.effective-ember.com/blog/deploying-fastboot-apps-with-ember-cli-deploy)
 
 ### Articles about Data
 - [Managing Relations in Ember Data with JSON API](https://www.mediasuite.co.nz/blog/managing-relations-ember-data-json-api/)
@@ -1017,7 +1018,6 @@ Ember Myths located [here ✨](ember-myths.md), Readers Questions located [here 
 
 ### Discovery
 
-- [emberaddons](https://www.emberaddons.com/) - Ember Addons.
 - [emberobserver](https://emberobserver.com/) - Ember Observer.
 - [emberjs.GitHub.io/rfcs/](https://emberjs.github.io/rfcs/) - Ember RFCs.
 
