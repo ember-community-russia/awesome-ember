@@ -25,6 +25,7 @@ Ember Myths located [here ✨](ember-myths.md), Readers Questions located [here 
 	- [Authentication](#authentication)
 	- [Automation](#automation)
 	- [Benchmarking](#benchmarking)
+	- [Babel](#babel)
 	- [Blogging](#blogging)
 	- [Boilerplating](#boilerplating)
 	- [Broccoli](#broccoli)
@@ -195,6 +196,10 @@ Ember Myths located [here ✨](ember-myths.md), Readers Questions located [here 
 - [empress-blog](https://github.com/empress/empress-blog) - Fully-functional, SEO friendly static site implementation of a blog system built on Ember.
 - [ember-cli-blog](https://github.com/broerse/ember-cli-blog) - Tom Dale's blog example updated for the Ember CLI.
 - [ember-tumblr](https://github.com/elwayman02/ember-tumblr) - Ember Addon for integrating a Tumblr blog.
+
+### Babel
+
+- [ember-cli-babel-plugin-helpers](https://github.com/dfreeman/ember-cli-babel-plugin-helpers) - Utilities for managing Babel plugins in Ember CLI apps and addons.
 
 ### Boilerplating
 
