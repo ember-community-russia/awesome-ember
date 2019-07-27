@@ -1294,4 +1294,4 @@ Ember Myths located [here ✨](ember-myths.md), Readers Questions located [here 
 
 ## License
 
-[MIT](LICENCE)
+[CC0](./LICENCE)
