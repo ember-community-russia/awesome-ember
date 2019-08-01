@@ -1029,7 +1029,6 @@ Ember Myths located [here ✨](ember-myths.md), Readers Questions located [here 
 ### Examples
 - [A list of open source Ember apps](https://github.com/EmberSherpa/open-source-ember-apps)
 - [Simple contact manager demo app for ember-orbit](https://github.com/cerebris/peeps-ember-orbit)
-- [Open Source Ember Apps](https://github.com/EmberSherpa/open-source-ember-apps)
 - [API Docs](https://github.com/ember-learn/ember-api-docs) - This application was built to display our versioned API docs.
 - [guides-app](https://github.com/ember-learn/guides-app) - Replacement for emberjs/guides and the Ember Guides.
 - [Builds](https://github.com/ember-learn/builds) - This is the application that the Ember.js team built to display our various release channels.
