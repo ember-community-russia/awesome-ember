@@ -713,6 +713,7 @@ Ember Myths located [here ✨](ember-myths.md), Readers Questions located [here 
 
 ### Articles
 
+- [An Elementary Guide to Ember Build Performance](http://hangaroundtheweb.com/2018/02/an-elementary-guide-to-ember-build-performance/)
 - [Ember 2019 Roadmap Posts](https://github.com/abhilashlr/emberjs2019-posts)
 - [How to Actually Build Superior Web Apps for Free](https://medium.com/@devotox/zero-cost-web-apps-part-1-b2d6b46916f1)
 - [Getting Started With Glimmer-Native](https://codingitwrong.com/2019/06/26/glimmer-native-tutorial.html)
