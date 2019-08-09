@@ -1,3 +1,5 @@
+# Awesome Ember.js [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+
 <div align="center">
   <a href="https://emberjs.com"><img width="300" src="media/ember-logo.svg" alt="Ember.js"></a>
   <br>
@@ -18,8 +20,6 @@
 <p align="center">
   <sub>Just type <a href="https://ember.cool"><code>ember.cool</code></a> OR <a href="https://ember-community-russia.github.io/awesome-ember/"><code>https://ember-community-russia.github.io/awesome-ember/</code></a> to go here.</sub>
 </p>
-
-# Awesome Ember.js [![Awesome](https://awesome.re/badge.svg)](https://github.com/sindresorhus/awesome)
 
 [Ember.js](https://emberjs.com) is a JavaScript framework that greatly reduces the time, effort and resources needed
 to build any web application. It is focused on making you, the developer, as productive as possible by doing all the common, repetitive, yet essential, tasks involved in most web development projects.
@@ -1011,7 +1011,7 @@ to build any web application. It is focused on making you, the developer, as pro
 - [es5-getter-ember-codemod](https://github.com/rondale-sc/es5-getter-ember-codemod) - This codemod is intended to automatically convert your usage of get, and getProperties to use traditional object dot notation.
 - [qunit-dom-codemod](https://github.com/simplabs/qunit-dom-codemod) - Basic codemod to automatically convert your assertions to qunit-dom assertions.
 - [test-selectors-codemod](https://github.com/lorcan/test-selectors-codemod) - A codemode for fixing the ember-test-selectors testSelector helper deprecation.
-- [ember-on-codemod](https://github.com/craigbilner/ember-on-codemod) - Replace use of Ember.js on
+- [ember-on-codemod](https://github.com/craigbilner/ember-on-codemod) - Replace use of Ember.on.
 - [ember-memory-leaks-codemod](https://github.com/rajasegar/ember-memory-leaks-codemod) - A collection of codemod's for fixing memory leaks in Ember.js applications.
 - [ember-3x-codemods](https://github.com/rajasegar/ember-3x-codemods) - A Codemod with a collection of transforms to address Ember.js 3.x deprecations.
 - [ember-computed-getter-codemod](https://github.com/Alonski/ember-computed-getter-codemod) - Ember.js Computed Getter Codemod.
