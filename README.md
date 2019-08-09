@@ -1,18 +1,25 @@
 # Awesome Ember.js [![Awesome](https://awesome.re/badge.svg)](https://github.com/sindresorhus/awesome)
 
-<p align="center">
+<div align="center">
   <a href="https://emberjs.com"><img width="300" src="media/ember-logo.svg" alt="Ember.js"></a>
+  <br>
+  <br>
+  <br>
+</div>
+
+<p align="center">
+  <a href="ember-myths.md">Ember Myths</a>&nbsp;&nbsp;&nbsp;
+  <a href="ember-questions.md">Readers Questions</a>&nbsp;&nbsp;&nbsp;
+  <a href="https://help-wanted.emberjs.com/core">Contribute to Ember</a>
+</p>
+
+<br>
+
+<p align="center">
+  <sub>Just type <a href="https://ember.cool"><code>ember.cool</code></a> OR <a href="https://ember-community-russia.github.io/awesome-ember/"><code>https://ember-community-russia.github.io/awesome-ember/</code></a> to go here.</sub>
 </p>
 
 > A curated list of delightful Ember.js [packages](#packages) and [resources](#resources).
-
-Just type [`ember.cool`](https://ember.cool) to go here ✨
-
-Or [`https://ember-community-russia.github.io/awesome-ember/`](https://ember-community-russia.github.io/awesome-ember/)
-
-Ember Myths located [here ✨](ember-myths.md), Readers Questions located [here ✨](ember-questions.md)
-
-[✨ Contribute to Ember ✨](https://help-wanted.emberjs.com/core)
 
 *You might also like [awesome-javascript](https://github.com/sorrycc/awesome-javascript).*
 *Please read the [contribution guidelines](contributing.md) before contributing.*
