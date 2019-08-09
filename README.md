@@ -21,6 +21,15 @@
 
 > A curated list of delightful Ember.js [packages](#packages) and [resources](#resources).
 
+--- 
+
+[Ember.js](https://emberjs.com) is a JavaScript framework that greatly reduces the time, effort and resources needed
+to build any web application. It is focused on making you, the developer, as productive as possible by doing all the common, repetitive, yet essential, tasks involved in most web development projects.
+
+[Ember.js](https://emberjs.com) also provides access to the most advanced features of JavaScript, HTML and the Browser giving you everything you need to create your next killer web app.
+
+---
+
 *You might also like [awesome-javascript](https://github.com/sorrycc/awesome-javascript).*
 *Please read the [contribution guidelines](contributing.md) before contributing.*
 
