@@ -21,6 +21,8 @@
   <sub>Just type <a href="https://ember.cool"><code>ember.cool</code></a> OR <a href="https://ember-community-russia.github.io/awesome-ember/"><code>https://ember-community-russia.github.io/awesome-ember/</code></a> to go here.</sub>
 </p>
 
+---
+
 [Ember.js](https://emberjs.com) is a JavaScript framework that greatly reduces the time, effort and resources needed
 to build any web application. It is focused on making you, the developer, as productive as possible by doing all the common, repetitive, yet essential, tasks involved in most web development projects.
 
