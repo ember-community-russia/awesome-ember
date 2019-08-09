@@ -1,5 +1,8 @@
 # Awesome Ember.js [![Awesome](https://awesome.re/badge.svg)](https://github.com/sindresorhus/awesome)
 
+<p align="center">
+  <a href="https://emberjs.com"><img width="300" src="media/ember-logo.svg" alt="Ember.js"></a>
+</p>
 
 > A curated list of delightful Ember.js [packages](#packages) and [resources](#resources).
 
