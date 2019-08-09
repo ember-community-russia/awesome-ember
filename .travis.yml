@@ -3,5 +3,7 @@ rvm:
   - 2.2
 before_script:
   - gem install awesome_bot
+notifications:
+  email: false
 script:
   - awesome_bot README.md --allow-redirect --allow-dupe --allow-ssl --allow-timeout
