@@ -6,4 +6,5 @@ before_script:
 notifications:
   email: false
 script:
-  - awesome_bot README.md --allow-redirect --allow-dupe --allow-ssl --allow-timeout --white-list crates.io
+  - wl=https://crates.io,vimeo
+  - awesome_bot README.md --allow-redirect --allow-dupe --allow-ssl --allow-timeout --white-list $wl
