@@ -7,6 +7,10 @@
   <br>
 </div>
 
+<p align="center">A curated list of delightful Ember.js <a href="#packages">packages</a> and <a href="#resources">resources</a>.</p>
+
+<br>
+  
 <p align="center">
   <a href="ember-myths.md">Ember Myths</a>&nbsp;&nbsp;&nbsp;
   <a href="ember-questions.md">Readers Questions</a>&nbsp;&nbsp;&nbsp;
@@ -19,7 +23,6 @@
   <sub>Just type <a href="https://ember.cool"><code>ember.cool</code></a> OR <a href="https://ember-community-russia.github.io/awesome-ember/"><code>https://ember-community-russia.github.io/awesome-ember/</code></a> to go here.</sub>
 </p>
 
-> A curated list of delightful Ember.js [packages](#packages) and [resources](#resources).
 
 --- 
 
