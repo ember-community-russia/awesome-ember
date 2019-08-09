@@ -128,7 +128,7 @@ to build any web application. It is focused on making you, the developer, as pro
 	- [Courses](#courses)
 	- [Discovery](#discovery)
 	- [Examples](#examples)
-	- [Examples Glimmer](#examples-glimmer)
+	- [Examples Glimmer.js](#examples-glimmer)
 	- [Gists](#gists)
 	- [Gists Ember Data](#gists-ember-data)
 	- [Miscellaneous](#miscellaneous)
@@ -405,12 +405,12 @@ to build any web application. It is focused on making you, the developer, as pro
 - [ember-concurrency-decorators](https://github.com/machty/ember-concurrency-decorators) -  Decorator syntax for declaring/configuring ember-concurrency tasks.
 - [ember-decorators](https://github.com/ember-decorators/ember-decorators) - Useful decorators for Ember.js applications.
 - [@ember-decorators/argument](https://github.com/ember-decorators/argument) - Decorators for Component and Object arguments in Ember.js.
-- [sparkles-decorators](https://github.com/gossi/sparkles-decorators) - Decorators for Sparkles/Glimmer Components.
+- [sparkles-decorators](https://github.com/gossi/sparkles-decorators) - Decorators for Sparkles/Glimmer.js Components.
 
 ### External Components Integration
 
 - [ember-glimmer-component](https://github.com/smfoote/ember-glimmer-component) - Glimmer.js-like components in Ember.js.
-- [sparkles-component](https://github.com/rwjblue/sparkles-component) - Addon used to experiment with @glimmer/component style APIs in Ember.js apps via existing public APIs.
+- [sparkles-component](https://github.com/rwjblue/sparkles-component) - Addon used to experiment with @glimmer.js/component style APIs in Ember.js apps via existing public APIs.
 - [hooked-components](https://github.com/lifeart/hooked-components) - Custom components for Ember.js, inspired by React Hooks approach.
 - [ember-functional-component](https://github.com/rwjblue/ember-functional-component) - Attempting to use "pure functions" as components.
 - [@alexlafroscia/ember-cli-react](https://github.com/alexlafroscia/ember-cli-react) - Render React components in Ember.js.
@@ -610,7 +610,7 @@ to build any web application. It is focused on making you, the developer, as pro
 ### SSR / Server Side Rendering
 
 - [ember-fastboot](https://github.com/ember-fastboot/ember-cli-fastboot) - Server-side rendering for Ember.js apps.
-- [glimmer-ssr-test](https://github.com/josemarluedke/glimmer-ssr-test) - Making a glimmer app be rendered in the server.
+- [glimmer-ssr-test](https://github.com/josemarluedke/glimmer-ssr-test) - Making a Glimmer.js app be rendered in the server.
 
 ### Static site generators & SEO
 
@@ -997,7 +997,7 @@ to build any web application. It is focused on making you, the developer, as pro
 ### Cheatsheets
 
 - [API](https://emberjs.com/api/)
-- [Glimmer](https://glimmerjs.com/)
+- [Glimmer.js](https://glimmerjs.com/)
 - [guides](https://guides.emberjs.com/)
 
 ### Codemods
@@ -1076,22 +1076,22 @@ to build any web application. It is focused on making you, the developer, as pro
 - [breethe-client](https://github.com/simplabs/breethe-client) - Air Quality Data for Locations around the World.
 - [Glimmeroids](https://github.com/t-sauer/Glimmeroids) - Asteroids implementation using Glimmer.js.
 - [glimmer-hn-pwa](https://github.com/mhadaily/glimmer-hn-pwa) - A Demonstration Of HackerNews Progressive Web App Powered By Glimmer.js.
-- [the-chosen](https://github.com/FLarra/the-chosen) - Glimmer project created to learn & decide easier during our scrum dailies meeting who is the next person to share status.
-- [glimmer_eats](https://github.com/James-Byrne/glimmer_eats) - A demo PWA built with GlimmerJS.
+- [the-chosen](https://github.com/FLarra/the-chosen) - Glimmer.js project created to learn & decide easier during our scrum dailies meeting who is the next person to share status.
+- [glimmer_eats](https://github.com/James-Byrne/glimmer_eats) - A demo PWA built with Glimmer.js.
 - [built-with-spaghetti](https://github.com/gordonbisnor/built-with-spaghetti) - Built with Spaghetti aims to function as a gateway to web art.
 - [glimmer-live-chat](https://github.com/rajasegar/glimmer-live-chat) - A Live chat application crafted using Glimmer.js.
-- [glimmer-synth](https://github.com/jimenglish81/glimmer-synth) - Synthesizer built using WebAudio and Glimmer.
-- [glimmer-js-online-offline-demo](https://github.com/thomasbrus/glimmer-js-online-offline-demo) - Sample glimmer.js app: online/offline browser events.
-- [glimmer-qrious](https://github.com/c0urg3tt3/glimmer-qrious) - Glimmerjs components using QRious library to generate QR code in webpage.
+- [glimmer-synth](https://github.com/jimenglish81/glimmer-synth) - Synthesizer built using WebAudio and Glimmer.js.
+- [glimmer-js-online-offline-demo](https://github.com/thomasbrus/glimmer-js-online-offline-demo) - Sample Glimmer.js app: online/offline browser events.
+- [glimmer-qrious](https://github.com/c0urg3tt3/glimmer-qrious) - Glimmer.js components using QRious library to generate QR code in webpage.
 - [glimmerjs-address-book-demo](https://github.com/ttdonovan/glimmerjs-address-book-demo) - Example Glimmer.js application - AddressBook Demo.
 - [glimmer-dashboard](https://github.com/JustInToCoding/glimmer-dashboard) - Glimmer.js dashboard example.
 - [glimmer-redux-todo](https://github.com/bashmach/glimmer-redux-todo) - Todo app written with Glimmer.js and Redux.
 - [glimmer-pong](https://github.com/knownasilya/glimmer-pong) - Pong game written using Glimmer.js and SVGs.
 - [glimmer-material](https://github.com/cyk/glimmer-material) - A Glimmer.js wrapper for Material Components for the Web.
-- [glimmer-of-life](https://github.com/trentmwillis/glimmer-of-life) - An implementation of Conway's Game of Life using Glimmer.
+- [glimmer-of-life](https://github.com/trentmwillis/glimmer-of-life) - An implementation of Conway's Game of Life using Glimmer.js.
 - [vorfreude](https://github.com/chadian/vorfreude) - When you can't wait but have to.
-- [endless-hoops](https://github.com/mtmckenna/endless-hoops) - It's a basketball game written in JavaScript/Canvas/GlimmerJS.
-- [glimmer-hangman](https://github.com/BenSchoenmakers94/glimmer-hangman) - A implementation of the well-known game 'Hangman' in GlimmerJS.
+- [endless-hoops](https://github.com/mtmckenna/endless-hoops) - It's a basketball game written in JavaScript/Canvas/Glimmer.js.
+- [glimmer-hangman](https://github.com/BenSchoenmakers94/glimmer-hangman) - A implementation of the well-known game 'Hangman' in Glimmer.js.
 
 
 ### Gists
