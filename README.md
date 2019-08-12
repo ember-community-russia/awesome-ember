@@ -738,6 +738,7 @@ to build any web application. It is focused on making you, the developer, as pro
 - [The case for Embeddable Ember.js](https://dev.to/dustinsoftware/the-case-for-embeddable-ember-4120)
 - [The State of the Ember.js Addon Ecosystem in 2019](https://0xadada.pub/2019/06/17/essential-ember-addons/)
 - [Static Types in Ember.js?](https://dev.to/jamesbyrne/static-types-in-emberjs-26b7)
+- [How does Ember Boot?](https://hackernoon.com/how-does-ember-boot-5e1f9e7a1117)
 - [The Ember.js testing guide, I made for myself](https://medium.com/@sarbbottam/the-ember-js-testing-guide-i-made-for-myself-c9a073a0c718)
 - [Using Lerna to manage multiple Ember.js apps](https://cenchat.com/blog/2019/05/25/using-lerna-to-manage-multiple-ember-apps.html)
 - [How to translate your Ember.js application with ember-intl](https://www.codeandweb.com/babeledit/tutorials/how-to-translate-your-ember-app-with-ember-intl)
