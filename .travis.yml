@@ -1,5 +1,10 @@
-language: node_js
-node_js:
-  - 'node'
-git:
-  depth: false
+language: ruby
+rvm:
+  - 2.2
+before_script:
+  - gem install awesome_bot
+notifications:
+  email: false
+script:
+  - wl=https://crates.io,vimeo
+  - awesome_bot README.md --allow-redirect --allow-dupe --allow-ssl --allow-timeout --white-list $wl
