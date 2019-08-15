@@ -1,3 +1,6 @@
 {
-  "lang": "ru"
+  "lang": "en",
+  "fileExtensions": [
+      ".md"
+    ]
 }
