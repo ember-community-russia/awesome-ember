@@ -4,9 +4,11 @@ rvm:
 before_script:
   - gem install awesome_bot
   - npm install alex --global
+  - npm install yaspeller --global
 notifications:
   email: false
 script:
   - wl=https://crates.io,vimeo
   - awesome_bot README.md --allow-redirect --allow-dupe --allow-ssl --allow-timeout --white-list $wl
   - alex README.md
+  - yaspeller README.md
