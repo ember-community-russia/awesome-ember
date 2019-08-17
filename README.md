@@ -179,9 +179,9 @@ to build any web application. It is focused on making you, the developer, as pro
 - [ember-graphql-adapter](https://github.com/alphasights/ember-graphql-adapter) - GraphQL adapter for Ember Data.
 - [ember-indexeddb](https://github.com/mydea/ember-indexeddb) - Utilities & adapter to work with IndexedDB in ember & ember-data.
 - [ember-localforage-adapter](https://github.com/genkgo/ember-localforage-adapter) - Offline usage for Ember Data.
-- [ember-local-storage](https://github.com/funkensturm/ember-local-storage) - The addon provides a storageFor computed property that returns a proxy and persists the changes to localStorage or sessionStorage.
+- [ember-local-storage](https://github.com/funkensturm/ember-local-storage) - The addon provides a storage for computed property that returns a proxy and persists the changes to local Storage or session Storage.
 - [ember-pouch](https://github.com/pouchdb-community/ember-pouch) - PouchDB/CouchDB adapter for Ember Data.
-- [ember-wordpress](https://github.com/oskarrough/ember-wordpress) - The bridge between Ember.js and Wordpress.
+- [ember-wordpress](https://github.com/oskarrough/ember-wordpress) - The bridge between Ember.js and WordPress.
 - [emberfire](https://github.com/firebase/emberfire) - Official Ember Data adapter for Firebase.
 - [ninjafire](https://github.com/lineupninja/ninjafire) - An ORM for Firebase written in Typescript.
 
