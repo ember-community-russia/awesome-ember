@@ -677,7 +677,6 @@ to build any web application. It is focused on making you, the developer, as pro
 - [Nomad UI](https://github.com/hashicorp/nomad/tree/master/ui)
 - [Semantic-UI-Ember](https://github.com/Semantic-Org/Semantic-UI-Ember) - This is the official Ember.js library for the Semantic-UI modules.
 - [Flexi](https://github.com/html-next/flexi)
-- [Bootstrap 4 theme "Tabler UI" for Ember.js](https://github.com/alt3/ember-tabler)
 
 ### UI components
 
