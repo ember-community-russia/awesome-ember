@@ -179,9 +179,9 @@ to build any web application. It is focused on making you, the developer, as pro
 - [ember-graphql-adapter](https://github.com/alphasights/ember-graphql-adapter) - GraphQL adapter for Ember Data.
 - [ember-indexeddb](https://github.com/mydea/ember-indexeddb) - Utilities & adapter to work with IndexedDB in ember & ember-data.
 - [ember-localforage-adapter](https://github.com/genkgo/ember-localforage-adapter) - Offline usage for Ember Data.
-- [ember-local-storage](https://github.com/funkensturm/ember-local-storage) - The addon provides a storageFor computed property that returns a proxy and persists the changes to localStorage or sessionStorage.
+- [ember-local-storage](https://github.com/funkensturm/ember-local-storage) - The addon provides a storage for computed property that returns a proxy and persists the changes to localStorage or sessionStorage.
 - [ember-pouch](https://github.com/pouchdb-community/ember-pouch) - PouchDB/CouchDB adapter for Ember Data.
-- [ember-wordpress](https://github.com/oskarrough/ember-wordpress) - The bridge between Ember.js and Wordpress.
+- [ember-wordpress](https://github.com/oskarrough/ember-wordpress) - The bridge between Ember.js and WordPress.
 - [emberfire](https://github.com/firebase/emberfire) - Official Ember Data adapter for Firebase.
 - [ninjafire](https://github.com/lineupninja/ninjafire) - An ORM for Firebase written in Typescript.
 
@@ -232,7 +232,7 @@ to build any web application. It is focused on making you, the developer, as pro
 - [broccoli-debug](https://github.com/broccolijs/broccoli-debug) - Utility for build pipeline authors to allow trivial debugging of the Broccoli pipelines they author.
 - [broccoli-stew](https://github.com/stefanpenner/broccoli-stew) - Provides commonly used convenience functions for developing broccoli based build pipelines.
 - [broccolijs-tutorial](https://github.com/oligriffiths/broccolijs-tutorial) - Broccoli.js Tutorial repository.
-- [broccoli-rollup](https://github.com/chadhietala/broccoli-rollup) - Broccoli Plugin For Rollup.
+- [broccoli-rollup](https://github.com/chadhietala/broccoli-rollup) - Broccoli Plugin For "Rollup".
 - [broccoli-manifest](https://github.com/racido/broccoli-manifest) - HTML5 cache-manifest compilation for broccoli.
 - [broccoli-glow](https://github.com/locks/broccoli-glow) - Dynamic component creation from single file, etc.
 
@@ -285,7 +285,7 @@ to build any web application. It is focused on making you, the developer, as pro
 ### Component addons
 
 - [ember-diff-attrs](https://github.com/workmanw/ember-diff-attrs)
-- [ember-compatibility-helpers](https://github.com/pzuraq/ember-compatibility-helpers) - Helpers that allow you to write backwards compat Ember.js addons.
+- [ember-compatibility-helpers](https://github.com/pzuraq/ember-compatibility-helpers) - Helpers that allow you to write backwards compatible Ember.js addons.
 
 ### Compression
 
@@ -313,7 +313,7 @@ to build any web application. It is focused on making you, the developer, as pro
 - [ember-cli-sass](https://github.com/aexmachina/ember-cli-sass) - Use node-sass to preprocess your ember-cli app's files, with support for sourceMaps and include paths.
 - [ember-cli-sass-pods](https://github.com/justtal/ember-cli-sass-pods) - Enjoy styling your pods with the sass style file in the pod directory.
 - [ember-component-css](https://github.com/ebryn/ember-component-css) - An Ember CLI addon which allows you to specify styles for individual components.
-- [ember-cli-postcss](https://github.com/jeffjewiss/ember-cli-postcss) - A Postcss integration for ember-cli.
+- [ember-cli-postcss](https://github.com/jeffjewiss/ember-cli-postcss) - A PostCSS integration for ember-cli.
 - [ember-css-modules](https://github.com/salsify/ember-css-modules) - CSS Modules for ambitious applications.
 - [ember-cli-tailwind](https://github.com/embermap/ember-cli-tailwind) - Tailwind is a utility-first CSS framework for rapidly building custom user interfaces.
 - [ember-emotion](https://github.com/alexlafroscia/ember-emotion) - Use emotion styling in Ember.js.
@@ -349,7 +349,7 @@ to build any web application. It is focused on making you, the developer, as pro
 ### Data manipulation & Computed
 
 - [ember-awesome-macros](https://github.com/kellyselden/ember-awesome-macros) - A collection of Ember.js computed macros.
-- [ember-cpm](https://github.com/cibernox/ember-cpm) - ComputedProperty Macros for Ember.js.
+- [ember-cpm](https://github.com/cibernox/ember-cpm) - Computed property Macros for Ember.js.
 - [ember-macaroni](https://github.com/poteto/ember-macaroni) - Keep your app code DRY and copypasta free with computed property macaronis (macros).
 
 ### Data validation
@@ -396,7 +396,7 @@ to build any web application. It is focused on making you, the developer, as pro
 - [ember-experiments](https://github.com/outdoorsy/ember-experiments) - Experimentation, A/B Split Testing addon for Ember.js.
 - [ember-cli-hot-loader](https://github.com/toranb/ember-cli-hot-loader) - An early look at what hot reloading might be like in the ember ecosystem.
 - [ember-ast-hot-load](https://github.com/lifeart/ember-ast-hot-load) - Universal hot-load addon.
-- [ember-cli-build-notifications](https://github.com/pdud/ember-cli-build-notifications) - Notifications when ember-cli has a buildError.
+- [ember-cli-build-notifications](https://github.com/pdud/ember-cli-build-notifications) - Notifications when ember-cli has a build error.
 - [ember-feature-flags](https://github.com/kategengler/ember-feature-flags) - An ember-cli addon to provide feature flags.
 - [ember-named-yields](https://github.com/knownasilya/ember-named-yields) - Named Yields for Ember.js Components.
 - [ember-islands](https://github.com/mitchlloyd/ember-islands) - Render Ember.js components anywhere on a server-rendered page to create "Islands of Richness".
@@ -440,7 +440,7 @@ to build any web application. It is focused on making you, the developer, as pro
 ### HTTP
 
 - [ember-ajax](https://github.com/ember-cli/ember-ajax) - Service for making AJAX requests in Ember.js 1.13+ applications.
-- [ember-socket-guru](https://github.com/netguru/ember-socket-guru) - Addon for easy integration with Pusher.js, ActionCable, Socket.io and Phoenix Channels.
+- [ember-socket-guru](https://github.com/netguru/ember-socket-guru) - Addon for easy integration with Pusher.js, Action Cable, Socket.io and Phoenix Channels.
 
 ### Helpers
 
@@ -471,7 +471,7 @@ to build any web application. It is focused on making you, the developer, as pro
 ### Infinite Scroll
 
 - [ember-infinity](https://github.com/ember-infinity/ember-infinity) - Simple, flexible Infinite Scroll for Ember CLI Apps.
-- [vertical-collection](https://github.com/html-next/vertical-collection) - Infinite Scroll and Occlusion at > 60FPS.
+- [vertical-collection](https://github.com/html-next/vertical-collection) - Infinite Scroll and Occlusion at > 60 FPS.
 - [smoke-and-mirrors](https://github.com/html-next/smoke-and-mirrors) - Ambitious infinite-scroll and svelte rendering for ambitious applications.
 
 ### Internalization & Localization
@@ -490,7 +490,7 @@ to build any web application. It is focused on making you, the developer, as pro
 - [ember-concurrency](http://ember-concurrency.com)
 - [ember-custom-actions](https://github.com/Exelord/ember-custom-actions) - Custom API actions for Ember.js applications.
 - [ember-pipeline](https://github.com/poteto/ember-pipeline)
-- [ember-lifeline](https://github.com/ember-lifeline/ember-lifeline) - An ember addon for managing the lifecyle of asynchronous behavior in your objects.
+- [ember-lifeline](https://github.com/ember-lifeline/ember-lifeline) - An ember addon for managing the life cycle of asynchronous behavior in your objects.
 
 ### Logging
 
@@ -545,7 +545,7 @@ to build any web application. It is focused on making you, the developer, as pro
 ### Parcel
 
 - [ember-parcel-example](https://github.com/rtablada/ember-parcel-example) - Ember.js + Parcel.js Example.
-- [todomvc-demo](https://github.com/devongovett/todomvc-demo) - Glimmer.js + Parcel.js Exmaple.
+- [todomvc-demo](https://github.com/devongovett/todomvc-demo) - Glimmer.js + Parcel.js Example.
 
 ### Payments
 
@@ -580,7 +580,7 @@ to build any web application. It is focused on making you, the developer, as pro
 
 - [ember-cli-flash](https://github.com/poteto/ember-cli-flash) - Simple, highly configurable flash messages for ember-cli.
 
-### Routing addos
+### Routing addons
 - [ember-component-routes](https://github.com/wongpeiyi/ember-component-routes) - Render components directly from routes in Ember.js.
 - [ember-redirect](https://github.com/thoov/ember-redirect) - This addon aims to be a simple and easy way to preform route based redirects with minimal effort.
 - [ember-router-scroll](https://github.com/dollarshaveclub/ember-router-scroll) - Scroll to top with preserved browser history scroll position.
@@ -602,7 +602,7 @@ to build any web application. It is focused on making you, the developer, as pro
 - [ember-service-worker-cache-fallback](https://github.com/DockYard/ember-service-worker-cache-fallback) - An Ember.js Service Worker plugin that resorts to a cached fallback version when the network request fails.
 - [ember-service-worker-emberfire-messaging](https://github.com/Matt-Jensen/ember-service-worker-emberfire-messaging) - Firebase Cloud Messaging service worker support for Emberfire apps.
 - [ember-service-worker-unregistration](https://github.com/GreatWizard/ember-service-worker-unregistration) - An Ember.js plugin that unregister service workers when ember-service-worker is disabled.
-- [ember-service-worker-request-chaos](https://github.com/maxfierke/ember-service-worker-request-chaos) - Like Netflix's ChaosMonkey but for your Ember.js SPA's API requests.
+- [ember-service-worker-request-chaos](https://github.com/maxfierke/ember-service-worker-request-chaos) - Like Netflix's Chaos Monkey but for your Ember.js SPA's API requests.
 - [ember-service-worker-project-entagled-registration](https://github.com/rwjblue/ember-service-worker-project-entagled-registration) - This addon is to be used along with ember-service-worker to ensure that the service worker being used is paired properly to the project.
 - [ember-service-worker-cache-rendered](https://github.com/PrinceCornNM/ember-service-worker-cache-rendered) - Ember.js service worker plugin for storing rendered html in cache, really useful for fastboot.
 - [ember-service-worker-update-notify](https://github.com/topaxi/ember-service-worker-update-notify) - Update notification for service workers.
@@ -677,7 +677,6 @@ to build any web application. It is focused on making you, the developer, as pro
 - [Nomad UI](https://github.com/hashicorp/nomad/tree/master/ui)
 - [Semantic-UI-Ember](https://github.com/Semantic-Org/Semantic-UI-Ember) - This is the official Ember.js library for the Semantic-UI modules.
 - [Flexi](https://github.com/html-next/flexi)
-- [Bootstrap 4 theme "Tabler UI" for Ember.js](https://github.com/alt3/ember-tabler)
 
 ### UI components
 
@@ -700,7 +699,7 @@ to build any web application. It is focused on making you, the developer, as pro
 - [Ember Syntax](https://marketplace.visualstudio.com/items?itemName=dhedgecock.ember-syntax) - Syntax highlighting for Ember.js template files AND syntax highlighting for inline template definitions with tagged templates!
 - [ember-language-server](https://github.com/emberwatch/ember-language-server) - Language Server Protocol implementation for Ember.js projects.
 - [unstable-ember-language-server](https://marketplace.visualstudio.com/items?itemName=lifeart.vscode-ember-unstable) - Language Server Protocol implementation for Ember.js projects (Unstable, including experimental features).
-- [vscode-ember-colorizer](https://github.com/ciena-blueplanet/vscode-ember-colorizer) - VsCode extension that colorizes/tokeninzes Ember.js .hbs, Controllers, and Routes files.
+- [vscode-ember-colorizer](https://github.com/ciena-blueplanet/vscode-ember-colorizer) - VSCode extension that colorizes/tokeninzes Ember.js .hbs, Controllers, and Routes files.
 - [ember-module-snippets](https://github.com/candidmetrics/ember-module-snippets) - Snippets to make importing Ember.js modules a snap in VSCode.
 
 ### Atom addons	
@@ -871,13 +870,12 @@ to build any web application. It is focused on making you, the developer, as pro
 - [The Glimmer VM: Boots Fast and Stays Fast](https://yehudakatz.com/2017/04/05/the-glimmer-vm-boots-fast-and-stays-fast/)
 - [The Glimmer Binary Experience](https://engineering.linkedin.com/blog/2017/12/the-glimmer-binary-experience)
 - [Glimmer.js: What’s the Deal with TypeScript?](https://medium.com/@tomdale/glimmer-js-whats-the-deal-with-typescript-f666d1a3aad0)
-- [The Glimmer VM: Boots Fast and Stays Fast](https://yehudakatz.com/2017/04/05/the-glimmer-vm-boots-fast-and-stays-fast/)
 - [Glimmer.js Application proposal](https://gist.github.com/tomdale/10fe9feeb84f2e4325f042839799bd9d) - Compilation, Rendering, SSR, Rehydration.
 - [Git Guides](https://github.com/glimmerjs/glimmer-vm/blob/master/guides/01-introduction.md)
 - [Designing and Implementing Glimmer Like a Programming Language](https://thefeedbackloop.xyz/designing-and-implementing-glimmer-like-a-programming-language/)
 - [Glimmer: Blazing Fast Rendering for Ember.js, Part 1](https://engineering.linkedin.com/blog/2017/03/glimmer--blazing-fast-rendering-for-ember-js--part-1)
 - [Glimmer: Blazing Fast Rendering for Ember.js, Part 2](https://engineering.linkedin.com/blog/2017/06/glimmer--blazing-fast-rendering-for-ember-js--part-2)
-- [Why I’m excited about GlimmerJS](https://hackernoon.com/why-im-excited-about-glimmerjs-3631bd0c95c4)
+- [Why I’m excited about Glimmer.js](https://hackernoon.com/why-im-excited-about-glimmerjs-3631bd0c95c4)
 
 ### Articles Engines
 - [CSS in Ember Engines](https://medium.com/@ynotdraw/css-in-ember-engines-230ef8d4cef8)
@@ -895,7 +893,7 @@ to build any web application. It is focused on making you, the developer, as pro
 
 ### Articles TypeScript
 - [ember-cli-typescript v2 beta](https://www.chriskrycho.com/2018/ember-cli-typescript-v2-beta.html)
-- [Ember Typescript Code Coverage - howto gist](https://gist.github.com/lifeart/5f75981d5f6262d1bfc4525aebfcf7d5)
+- [Ember Typescript Code Coverage - how to gist](https://gist.github.com/lifeart/5f75981d5f6262d1bfc4525aebfcf7d5)
 - [Type-Informed Design](https://www.chriskrycho.com/2018/type-informed-design.html)
 - [Typing Your Ember.js](https://www.chriskrycho.com/typing-your-ember.html) - Using TypeScript with Ember.js.
 - [Ember.js, TypeScript, and Class Properties](https://www.chriskrycho.com/2018/ember-ts-class-properties.html)
@@ -905,7 +903,7 @@ to build any web application. It is focused on making you, the developer, as pro
 - [Using Ember Data, and service and controller injections improvements](https://www.chriskrycho.com/2018/typing-your-ember-update-part-4.html)
 
 ### Articles Modern Testing
-- [Using Fakes from Ember-Sinon-Qunit](https://medium.com/@mudflye/using-fakes-from-ember-sinon-qunit-c9fb7d4d9b1d)
+- [Using Fakes from Ember-Sinon-QUnit](https://medium.com/@mudflye/using-fakes-from-ember-sinon-qunit-c9fb7d4d9b1d)
 - [Headless Ember.js Tests in GitLab with Docker](https://medium.com/devopslinks/headless-ember-tests-in-gitlab-with-docker-fd5f05eef436)
 - [Making my Ember.js test suite 3x faster. A story about Mirage](https://mlange.io/blog/making-tests-faster-mirage/making-tests-faster-mirage/)
 - [Learn TDD in Ember.js](https://learntdd.in/ember/)
@@ -1078,7 +1076,7 @@ to build any web application. It is focused on making you, the developer, as pro
 ### Examples Glimmer
 - [breethe-client](https://github.com/simplabs/breethe-client) - Air Quality Data for Locations around the World.
 - [Glimmeroids](https://github.com/t-sauer/Glimmeroids) - Asteroids implementation using Glimmer.js.
-- [glimmer-hn-pwa](https://github.com/mhadaily/glimmer-hn-pwa) - A Demonstration Of HackerNews Progressive Web App Powered By Glimmer.js.
+- [glimmer-hn-pwa](https://github.com/mhadaily/glimmer-hn-pwa) - A Demonstration Of Hacker News Progressive Web App Powered By Glimmer.js.
 - [the-chosen](https://github.com/FLarra/the-chosen) - Glimmer.js project created to learn & decide easier during our scrum dailies meeting who is the next person to share status.
 - [glimmer_eats](https://github.com/James-Byrne/glimmer_eats) - A demo PWA built with Glimmer.js.
 - [built-with-spaghetti](https://github.com/gordonbisnor/built-with-spaghetti) - Built with Spaghetti aims to function as a gateway to web art.
