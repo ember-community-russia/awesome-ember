@@ -179,7 +179,7 @@ to build any web application. It is focused on making you, the developer, as pro
 - [ember-graphql-adapter](https://github.com/alphasights/ember-graphql-adapter) - GraphQL adapter for Ember Data.
 - [ember-indexeddb](https://github.com/mydea/ember-indexeddb) - Utilities & adapter to work with IndexedDB in ember & ember-data.
 - [ember-localforage-adapter](https://github.com/genkgo/ember-localforage-adapter) - Offline usage for Ember Data.
-- [ember-local-storage](https://github.com/funkensturm/ember-local-storage) - The addon provides a storage for computed property that returns a proxy and persists the changes to local Storage or session Storage.
+- [ember-local-storage](https://github.com/funkensturm/ember-local-storage) - The addon provides a storage for computed property that returns a proxy and persists the changes to localStorage or sessionStorage.
 - [ember-pouch](https://github.com/pouchdb-community/ember-pouch) - PouchDB/CouchDB adapter for Ember Data.
 - [ember-wordpress](https://github.com/oskarrough/ember-wordpress) - The bridge between Ember.js and WordPress.
 - [emberfire](https://github.com/firebase/emberfire) - Official Ember Data adapter for Firebase.
@@ -870,7 +870,6 @@ to build any web application. It is focused on making you, the developer, as pro
 - [The Glimmer VM: Boots Fast and Stays Fast](https://yehudakatz.com/2017/04/05/the-glimmer-vm-boots-fast-and-stays-fast/)
 - [The Glimmer Binary Experience](https://engineering.linkedin.com/blog/2017/12/the-glimmer-binary-experience)
 - [Glimmer.js: What’s the Deal with TypeScript?](https://medium.com/@tomdale/glimmer-js-whats-the-deal-with-typescript-f666d1a3aad0)
-- [The Glimmer VM: Boots Fast and Stays Fast](https://yehudakatz.com/2017/04/05/the-glimmer-vm-boots-fast-and-stays-fast/)
 - [Glimmer.js Application proposal](https://gist.github.com/tomdale/10fe9feeb84f2e4325f042839799bd9d) - Compilation, Rendering, SSR, Rehydration.
 - [Git Guides](https://github.com/glimmerjs/glimmer-vm/blob/master/guides/01-introduction.md)
 - [Designing and Implementing Glimmer Like a Programming Language](https://thefeedbackloop.xyz/designing-and-implementing-glimmer-like-a-programming-language/)
