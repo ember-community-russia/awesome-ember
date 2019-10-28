@@ -706,6 +706,7 @@ to build any web application. It is focused on making you, the developer, as pro
 - [ember-flatpickr](https://github.com/shipshapecode/ember-flatpickr) - An Ember.js addon that wraps the Flatpickr date picker.
 - [ember-power-select](https://github.com/cibernox/ember-power-select) - The extensible select component built for ember.
 - [ember-basic-dropdown](https://github.com/cibernox/ember-basic-dropdown) - The basic dropdown you ember app needs.
+- [ember-drag-sort](https://github.com/kaliber5/ember-drag-sort) - A sortable list component with support for multiple and nested lists.
 
 ### UX
 
