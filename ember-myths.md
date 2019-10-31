@@ -3,6 +3,7 @@ __Myth:__ _Ember is too large!_
 
 __Fact:__  Ember __3.x__ without __ember-data__ and __jQuery__ is only - [__121kb__](https://gist.github.com/CodingItWrong/074d20c5468a9c340e15aa46e19a8221) gzipped.
 
+* [ember-size-tracker](https://makepanic.github.io/ember-size-tracker/)
 ---
 
 __Myth:__ _Ember is a Full-Stack framework._
