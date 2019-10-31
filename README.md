@@ -36,7 +36,7 @@ to build any web application. It is focused on making you, the developer, as pro
 ---
 
 ## Contents
-- [Awesome Ember.js ![Awesome](https://github.com/sindresorhus/awesome)](#awesome-emberjs-awesomehttpsgithubcomsindresorhusawesome)
+- [Awesome Ember.js ![Awesome](https://github.com/sindresorhus/awesome)]
   - [Contents](#contents)
   - [Packages](#packages)
     - [AST](#ast)
@@ -379,6 +379,7 @@ to build any web application. It is focused on making you, the developer, as pro
 - [ember-changeset-validations](https://github.com/poteto/ember-changeset-validations/) - Validations for ember-changeset.
 - [ember-model-validator](https://github.com/esbanarango/ember-model-validator) - Add validations to your Ember Data models on an explicit and easy way, without a bunch a validations files around or complicated structure.
 - [ember-validated-form](https://github.com/adfinis-sygroup/ember-validated-form) - Easily create forms with client side validations.
+- [ember-line-graph](https://astronomersiva.github.io/ember-line-graph/) - Zero-dependency ember-addon to draw line-charts.
 
 ### Database
 
