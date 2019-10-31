@@ -613,6 +613,7 @@ to build any web application. It is focused on making you, the developer, as pro
 ### Security
 
 - [ember-can](https://github.com/minutebase/ember-can) - Simple [authorisation addon](http://ember-can.com) for Ember.js apps.
+- [ember-permissions](https://github.com/Bagaar/ember-permissions) - Permission management for Ember applications.
 
 ### Service Workers
 
