@@ -469,6 +469,7 @@ to build any web application. It is focused on making you, the developer, as pro
 ### Helpers
 
 - [ember-event-helpers](https://github.com/buschtoens/ember-event-helpers) - Complimentary event template helpers to the `{{on}}` modifier.
+- [ember-render-helpers](https://github.com/buschtoens/ember-render-helpers) - `@ember/render-modifiers` as template helpers.
 - [ember-element-helper](https://github.com/tildeio/ember-element-helper) - Dynamic element helper for Glimmer templates.
 - [ember-composable-helpers](https://github.com/DockYard/ember-composable-helpers) - Composable helpers for declarative templating in Ember.js.
 - [ember-helpers](https://github.com/abcum/ember-helpers) - A collection of handlebars helpers for Ember.js.
