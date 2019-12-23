@@ -437,6 +437,8 @@ to build any web application. It is focused on making you, the developer, as pro
 - [sparkles-component](https://github.com/rwjblue/sparkles-component) - Addon used to experiment with @glimmer.js/component style APIs in Ember.js apps via existing public APIs.
 - [hooked-components](https://github.com/lifeart/hooked-components) - Custom components for Ember.js, inspired by React Hooks approach.
 - [ember-functional-component](https://github.com/rwjblue/ember-functional-component) - Attempting to use "pure functions" as components.
+- [ember-lifecycle-component](https://github.com/NullVoxPopuli/ember-lifecycle-component) - A component with additional lifecycles for times when you may need need a template.
+- [ember-vue-components](https://github.com/lifeart/ember-vue-components) - Vue.JS component API for Ember.
 - [@alexlafroscia/ember-cli-react](https://github.com/alexlafroscia/ember-cli-react) - Render React components in Ember.js.
 - [@AltSchool/ember-cli-react](https://github.com/AltSchool/ember-cli-react) - Use React component hierarchies in your Ember.js app.
 
