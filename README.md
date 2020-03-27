@@ -1310,6 +1310,7 @@ to build any web application. It is focused on making you, the developer, as pro
 - [EmberConf 2017](https://www.youtube.com/playlist?list=PL4eq2DPpyBbna_5fLPqOqensqSZpGf-hT) - Videos of the sessions from EmberConf 2017.
 - [EmberConf 2018](https://www.youtube.com/watch?v=NhtpXs0ZtUc&list=PL4eq2DPpyBbnjD5iLp55as9OvIdEDI_Kt) - Videos of the sessions from EmberConf 2018.
 - [EmberConf 2019](https://www.youtube.com/playlist?list=PLE7tQUdRKcyYWLWrHgmWsvzsQBSWCLHYL) - Videos of the sessions from EmberConf 2019.
+- [EmberConf 2020](https://www.youtube.com/playlist?list=PL4eq2DPpyBbkC03mdzlyej6tcbEqrZK8N) - Videos of the sessions from EmberConf 2020.
 - [ReactiveConf 2017 - Tom Dale: Secrets of the Glimmer VM](https://www.youtube.com/watch?v=nXCSloXZ-wc)
 - [ReactiveConf 2017](https://youtu.be/62xd25kEZ3o?t=27618)
 - [Tim Thomas - Using Ember.js to build Electron Apps](https://www.youtube.com/watch?v=ER1V_u0N7u4)
