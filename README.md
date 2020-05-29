@@ -1107,6 +1107,7 @@ to build any web application. It is focused on making you, the developer, as pro
 - [Rust Package Registry](https://github.com/rust-lang/crates.io) - [crates.io](https://crates.io)
 - [Ember.js RealWorld Implementation](https://github.com/gothinkster/ember-realworld) - Ember.js codebase containing real world examples (CRUD, auth, advanced patterns, etc) that adheres to the RealWorld spec and API.
 - [A wild tomster appears](https://github.com/scudco/tomsweeper)
+- [An ember integration for building visual programming editors with blockly.](https://github.com/Program-AR/ember-blockly)
 
 ### Examples Glimmer
 - [breethe-client](https://github.com/simplabs/breethe-client) - Air Quality Data for Locations around the World.
