@@ -426,6 +426,7 @@ to build any web application. It is focused on making you, the developer, as pro
 - [ember-named-yields](https://github.com/knownasilya/ember-named-yields) - Named Yields for Ember.js Components.
 - [ember-islands](https://github.com/mitchlloyd/ember-islands) - Render Ember.js components anywhere on a server-rendered page to create "Islands of Richness".
 - [ember-wormhole](https://github.com/yapplabs/ember-wormhole) - Render a child view somewhere else in the DOM.
+- [ember-stargate](https://github.com/kaliber5/ember-stargate) - A modern take on using so called "portals" to render things in a different place of the DOM tree than they are logically defined in the app.
 
 ### ES6
 
@@ -589,6 +590,7 @@ to build any web application. It is focused on making you, the developer, as pro
 - [ember-native-class-polyfill](https://github.com/pzuraq/ember-native-class-polyfill) - This addon provides a polyfill for the native class behavior that was proposed in Ember.js RFCs #240 and #337.
 - [ember-router-service-polyfill](https://github.com/rwjblue/ember-router-service-polyfill) - This addon provides a best effort polyfill for the ember-routing-router-service feature added in Ember.js 2.15.
 - [ember-fn-helper-polyfill](https://github.com/rwjblue/ember-fn-helper-polyfill) - This addon provides a polyfill for the {{fn}} helper as described in RFCs #470.
+- [ember-named-blocks-polyfill](https://github.com/ember-polyfills/ember-named-blocks-polyfill) - This addon provides a polyfill for the Yieldable Named Blocks feature.
 
 ### PWA
 
@@ -1111,6 +1113,9 @@ to build any web application. It is focused on making you, the developer, as pro
 - [Ember.js RealWorld Implementation](https://github.com/gothinkster/ember-realworld) - Ember.js codebase containing real world examples (CRUD, auth, advanced patterns, etc) that adheres to the RealWorld spec and API.
 - [A wild tomster appears](https://github.com/scudco/tomsweeper)
 - [An ember integration for building visual programming editors with blockly.](https://github.com/Program-AR/ember-blockly)
+- [https://www.submarinecablemap.com/](https://www.submarinecablemap.com/)
+- [https://music.apple.com/](https://music.apple.com/)
+
 
 ### Examples Glimmer
 - [breethe-client](https://github.com/simplabs/breethe-client) - Air Quality Data for Locations around the World.
