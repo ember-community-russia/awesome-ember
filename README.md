@@ -249,7 +249,6 @@ to build any web application. It is focused on making you, the developer, as pro
 
 ### Broccoli
 
-- [broccoli-assembler](https://github.com/twokul/broccoli-assembler) - A build utility to allow for more flexible builds and better composition.
 - [broccoli-concat-analyser](https://github.com/stefanpenner/broccoli-concat-analyser) - Assets profiling.
 - [broccoli-debug](https://github.com/broccolijs/broccoli-debug) - Utility for build pipeline authors to allow trivial debugging of the Broccoli pipelines they author.
 - [broccoli-stew](https://github.com/stefanpenner/broccoli-stew) - Provides commonly used convenience functions for developing broccoli based build pipelines.
