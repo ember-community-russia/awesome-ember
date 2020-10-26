@@ -279,6 +279,8 @@ to build any web application. It is focused on making you, the developer, as pro
 
 - [ember-cli-server-variables](https://github.com/blimmer/ember-cli-server-variables) - An Ember CLI add-on to support adding variables to the generated index.html file's head tag.
 - [ember-ci](https://github.com/mike-north/ember-ci) - Continuous integration goodies for ember.js apps.
+- [CI with GitHub Actions for Ember Apps](https://crunchingnumbers.live/2020/03/17/ci-with-github-actions-for-ember-apps/) - Reducing CI runtimes with GitHub Actions
+- [CI with GitHub Actions for Ember Apps: Part 2](https://crunchingnumbers.live/2020/08/31/ci-with-github-actions-for-ember-apps-part-2/) - Migrating to v2 actions, lowering runtime cost and continuously deployment
 
 ### Code Splitting
 
