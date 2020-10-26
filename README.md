@@ -880,6 +880,8 @@ to build any web application. It is focused on making you, the developer, as pro
 
 - [Blog Post for an Ambitious Framework](https://blog.201-created.com/blog-post-for-an-ambitious-framework-d7e9248893fa)
 
+- [Deploying an Ember.js App to Netlify](https://derricksdocs.com/deploying-an-emberjs-app-to-netlify/)
+
 ### Ember-Cli Articles
 - [Ember-cli fingerprinting and dynamic assets](https://medium.com/@ruslanzavacky/ember-cli-fingerprinting-and-dynamic-assets-797a298d8dc6)
 - [Secrets of the Ember-CLI server: Express middleware with Ember-CLI](https://blog.201-created.com/secrets-of-the-ember-cli-server-bde80bb546dd)
