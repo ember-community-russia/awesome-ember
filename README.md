@@ -72,6 +72,7 @@ to build any web application. It is focused on making you, the developer, as pro
     - [Database](#database)
     - [Date](#date)
     - [Debugging / Profiling](#debugging--profiling)
+    - [Decorators](#decorators)
     - [Documentation](#documentation)
     - [Ember-inspector roadmaps & overview](#ember-inspector-roadmaps--overview)
     - [End-user customization](#end-user-customization)
@@ -403,6 +404,10 @@ to build any web application. It is focused on making you, the developer, as pro
 - [heimdalljs-visualizer](https://github.com/rwjblue/heimdalljs-visualizer) - Visualizer for heimdalljs data.
 - [source-map-explorer](https://github.com/danvk/source-map-explorer) - Analyze and debug space usage through source maps.
 - [ember-dead-code](https://github.com/buschtoens/ember-dead-code) - Detect dead code with confidence via real user monitoring.
+
+### Decorators
+
+- [Macro Decorators](https://pzuraq.github.io/macro-decorators/) - DRY your code by creating decorators that duplicated getter/setter's functionality
 
 ### Documentation
 
