@@ -985,6 +985,7 @@ to build any web application. It is focused on making you, the developer, as pro
 - [Ember Data RecordArray AntiPatterns](https://gist.github.com/runspired/d86a76158050c4f573f5f26df1dab143)
 - [Useful Ember Data helpers](https://gist.github.com/runspired/96618af26fb1c687a74eb30bf15e58b6)
 - [Cascade Deleting Relationships in Ember Data](https://davidtang.io/2017/02/10/cascade-deleting-relationships-in-ember-data.html)
+- [Fit Any Backend Into Ember with Custom Adapters & Serializers](https://emberigniter.com/fit-any-backend-into-ember-custom-adapters-serializers/)
 
 ### Articles about Routing
 - [How to reset the Ember.js router namespace with this.route()](http://toddsmithsalter.com/how-to-reset-the-route-namespace-with-this-route/)
