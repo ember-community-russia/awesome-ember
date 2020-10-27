@@ -962,6 +962,9 @@ to build any web application. It is focused on making you, the developer, as pro
 - [Modern Ember.js Testing](https://dockyard.com/blog/2018/01/11/modern-ember-testing)
 - [Testing Ember.js Applications in 2018](https://blog.201-created.com/testing-ember-applications-in-2018-4635ac241f00)
 - [Testing Ember.js Mixins (and Helpers) With a Container](https://www.chriskrycho.com/2016/testing-emberjs-mixins-with-a-container.html)
+- [Write Tests Like a Mathematician: Part 1](https://crunchingnumbers.live/2019/08/04/write-tests-like-a-mathematician-part-1/)
+- [Write Tests Like a Mathematician: Part 2](https://crunchingnumbers.live/2019/08/06/write-tests-like-a-mathematician-part-2/)
+- [Write Tests Like a Mathematician: Part 3](https://crunchingnumbers.live/2019/10/11/write-tests-like-a-mathematician-part-3/)
 
 ### Articles FastBoot
 - [How to integrate Ember FastBoot in Cloud Functions for Firebase](https://cenchat.com/blog/2019/06/06/how-to-setup-ember-fastboot-in-cloud-functions-for-firebase.html)
