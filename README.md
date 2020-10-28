@@ -1051,6 +1051,7 @@ to build any web application. It is focused on making you, the developer, as pro
 - [API](https://emberjs.com/api/)
 - [Glimmer.js](https://glimmerjs.com/)
 - [guides](https://guides.emberjs.com/)
+- [Ember Component Cheat Sheet](https://codingitwrong.com/2019/07/23/ember-component-cheat-sheet.html) - pre Octane
 
 ### Codemods
 - [ember-es6-class-codemod](https://github.com/scalvert/ember-es6-class-codemod) - A codemod-cli project for converting Ember.js objects to es6 native classes.
