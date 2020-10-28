@@ -149,6 +149,7 @@ to build any web application. It is focused on making you, the developer, as pro
     - [Contribution Guides](#contribution-guides)
     - [Courses](#courses)
     - [Discovery](#discovery)
+    - [Ember Releases](#ember-releases)
     - [Examples](#examples)
     - [Examples Glimmer](#examples-glimmer)
     - [Gists](#gists)
@@ -1097,6 +1098,22 @@ to build any web application. It is focused on making you, the developer, as pro
 
 - [emberobserver](https://emberobserver.com/) - Ember Observer.
 - [emberjs.GitHub.io/rfcs/](https://emberjs.github.io/rfcs/) - Ember.js RFCs.
+
+### Ember Releases
+
+- [Ember 3.10 Released](https://blog.emberjs.com/2019/05/21/ember-3-10-released.html) - May 21, 2019
+- [Ember 3.11](https://blog.emberjs.com/2019/07/15/ember-3-11-released.html) - July 15, 2019
+- [Ember 3.12](https://blog.emberjs.com/2019/08/16/ember-3-12-released.html) - August 16, 2019
+- [Ember 3.13 (Octane Preview)](https://blog.emberjs.com/2019/09/25/ember-3-13-released.html) - Sep 25, 2019
+- [Ember 3.14 (Octane Preview Cont.)](https://blog.emberjs.com/2019/11/18/ember-3-14-released.html) - Nov 18, 2019
+- [Ember 3.15 "Octane" Released](https://blog.emberjs.com/2019/12/20/ember-3-15-released.html) - Dec 20, 2019
+- [Ember 3.16](https://blog.emberjs.com/2020/02/12/ember-3-16-released.html) - Feb 12, 2020
+- [Ember 3.17](https://blog.emberjs.com/2020/03/16/ember-3-17-released.html) - March 16, 2020
+- [Ember 3.18](https://blog.emberjs.com/2020/05/05/ember-3-18-released.html) - May 5, 2020
+- [Ember 3.19](https://blog.emberjs.com/2020/06/26/ember-3-19-released.html) - June 26, 2020
+- [Ember 3.20](https://blog.emberjs.com/2020/07/29/ember-3-20-released.html) - July 29, 2020
+- [Ember 3.21](https://blog.emberjs.com/2020/09/02/ember-3-21-released.html) - Sep 02, 2020
+- [Ember 3.22](https://blog.emberjs.com/2020/10/20/ember-3-22-released.html) - Oct 20, 2020
 
 ### Examples
 - [A list of open source Ember.js apps](https://github.com/EmberSherpa/open-source-ember-apps)
