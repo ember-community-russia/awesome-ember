@@ -1039,7 +1039,6 @@ to build any web application. It is focused on making you, the developer, as pro
 
 - [The Shortest Ember.js Book](https://github.com/ember-learn/the-shortest-ember-book)
 - [A deep dive into the Ember.js runloop](https://github.com/eoinkelly/ember-runloop-handbook)
-- [Deliver Audacious Web Apps with Ember.js 2](https://pragprog.com/book/mwjsember/deliver-audacious-web-apps-with-ember-2) - By Matthew White.
 - [Developing an Ember.js Edge](https://gumroad.com/l/xlsx)
 - [Ember Data in the Wild](https://leanpub.com/emberdatainthewild)
 - [ember-cli 101](https://leanpub.com/ember-cli-101) - By Adolfo Builes.
