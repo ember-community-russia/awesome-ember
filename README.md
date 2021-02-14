@@ -36,7 +36,7 @@ to build any web application. It is focused on making you, the developer, as pro
 ---
 
 ## Contents
-- [Awesome Ember.js ![Awesome](https://github.com/sindresorhus/awesome)]
+- Awesome Ember.js [![Awesome](https://awesome.re/badge.svg)](https://github.com/sindresorhus/awesome)
   - [Contents](#contents)
   - [Packages](#packages)
     - [AST](#ast)
