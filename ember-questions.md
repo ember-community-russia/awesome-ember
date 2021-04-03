@@ -94,10 +94,5 @@ __A:__  [Embroider is a modern, full-featured build system that works in tandem 
 
 ---
 
-__Q:__ _What’s the difference between ember-lifeline and ember-concurrency and which one should be used?_
-
-__A:__  [... scheduled asynchronous work needs to be managed and cleaned up when ...](https://discuss.emberjs.com/t/readers-questions-whats-the-difference-between-ember-lifeline-and-ember-concurrency-and-which-one-should-be-used/15197)
-
----
 
 
