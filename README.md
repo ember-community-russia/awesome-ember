@@ -85,7 +85,7 @@ to build any web application. It is focused on making you, the developer, as pro
     - [Image](#image)
     - [Include external JS code](#include-external-js-code)
     - [Infinite Scroll](#infinite-scroll)
-    - [Internalization & Localization](#internalization--localization)
+    - [Internationalization & Localization](#internationalization--localization)
     - [Inputs](#inputs)
     - [Job queues](#job-queues)
     - [Logging](#logging)
@@ -514,7 +514,7 @@ to build any web application. It is focused on making you, the developer, as pro
 - [vertical-collection](https://github.com/html-next/vertical-collection) - Infinite Scroll and Occlusion at > 60 FPS.
 - [smoke-and-mirrors](https://github.com/html-next/smoke-and-mirrors) - Ambitious infinite-scroll and svelte rendering for ambitious applications.
 
-### Internalization & Localization
+### Internationalization & Localization
 
 - [ember-intl](https://github.com/ember-intl/ember-intl) - Translate complex messages string. Localized formatting for date/time, number, and relative time.
 - [ember-intl-analyzer](https://github.com/simplabs/ember-intl-analyzer) - Find unused translations in your Ember.js projects.
@@ -623,7 +623,7 @@ to build any web application. It is focused on making you, the developer, as pro
 
 ### Routing addons
 - [ember-component-routes](https://github.com/wongpeiyi/ember-component-routes) - Render components directly from routes in Ember.js.
-- [ember-redirect](https://github.com/thoov/ember-redirect) - This addon aims to be a simple and easy way to preform route based redirects with minimal effort.
+- [ember-redirect](https://github.com/thoov/ember-redirect) - This addon aims to be a simple and easy way to perform route based redirects with minimal effort.
 - [ember-router-scroll](https://github.com/dollarshaveclub/ember-router-scroll) - Scroll to top with preserved browser history scroll position.
 
 ### Resolver customization
@@ -745,7 +745,7 @@ to build any web application. It is focused on making you, the developer, as pro
 - [Glimmer Templates Syntax for VS Code](https://marketplace.visualstudio.com/items?itemName=lifeart.vscode-glimmer-syntax) - Glimmer syntax highlighting for Ember.js.
 - [ember-language-server](https://github.com/emberwatch/ember-language-server) - Language Server Protocol implementation for Ember.js projects.
 - [unstable-ember-language-server](https://marketplace.visualstudio.com/items?itemName=lifeart.vscode-ember-unstable) - Language Server Protocol implementation for Ember.js projects (Unstable, including experimental features).
-- [vscode-ember-colorizer](https://github.com/ciena-blueplanet/vscode-ember-colorizer) - VSCode extension that colorizes/tokeninzes Ember.js .hbs, Controllers, and Routes files.
+- [vscode-ember-colorizer](https://github.com/ciena-blueplanet/vscode-ember-colorizer) - VSCode extension that colorizes/tokenizes Ember.js .hbs, Controllers, and Routes files.
 - [ember-module-snippets](https://github.com/candidmetrics/ember-module-snippets) - Snippets to make importing Ember.js modules a snap in VSCode.
 
 ### Atom addons	
@@ -871,7 +871,7 @@ to build any web application. It is focused on making you, the developer, as pro
 - [Using ember-freestyle as a component playground](https://simplabs.com/blog/2018/01/24/ember-freestyle.html)
 - [Using npm libraries in Ember CLI](https://simplabs.com/blog/2017/02/13/npm-libs-in-ember-cli.html)
 - [We have a new Ember.js front-end!](https://medium.com/@appaloosastore/we-have-a-new-emberjs-front-end-c7246e76cdbd)
-- [What you didn't know about passing dynamic classname and attribute bidings from parent template](https://lolma.us/en/blog/class-and-attribute-bindings)
+- [What you didn't know about passing dynamic classname and attribute bindings from parent template](https://lolma.us/en/blog/class-and-attribute-bindings)
 - [You can only change what you can measure](https://blog.201-created.com/you-can-only-change-what-you-can-measure-6be8826503a7)
 
 - [How I added whitelabel theming to my Ember.js app](https://medium.com/@simeonberns/how-i-added-whitelabel-theming-to-my-ember-app-97bfca9e263a)
@@ -1286,7 +1286,7 @@ to build any web application. It is focused on making you, the developer, as pro
 - [Ember Data WordPress Adapter](https://github.com/HeyHumanAgency/Ember-Data-WordPress) - An Ember Data adapter for the WordPress JSON API.
 - [Ember Gist](http://ember-gist.joostdvrs.com/) - Demo Ember CLI'eque apps using GitHub Gist.
 - [Ember Inspector](https://github.com/emberjs/ember-inspector) - Adds an Ember.js tab to Chrome or Firefox Developer Tools that allows you to inspect Ember.js objects in your application. - Officially maintained.
-- [Ember Perf](https://github.com/mike-north/ember-perf) - Measure user-percieved performance data in your ember.js app.
+- [Ember Perf](https://github.com/mike-north/ember-perf) - Measure user-perceived performance data in your ember.js app.
 - [ember-cli-diff](http://www.ember-cli-diff.org/) - A simple tool to see differences between new ember apps.
 - [ember-cli](https://ember-cli.com/) - The command line interface for ambitious web applications.
 - [ember-data-model-maker](https://andycrum.github.io/ember-data-model-maker/) - UI to make ember-data models & payload examples.
@@ -1385,14 +1385,14 @@ to build any web application. It is focused on making you, the developer, as pro
 - [EmberCamp 2018](https://www.youtube.com/watch?v=0ziETDm1QTI&list=PL4eq2DPpyBbm-vTgHMdBjUi1Qd5GiRIfW) - Videos of the sessions from EmberCamp 2018
 - [EmberCamp 2019](https://www.youtube.com/watch?v=a1HALof3r5M&list=PL4eq2DPpyBbmSKZLCqzMqdtpedlGrDQuc) - Videos of the sessions from EmberCamp 2019
 - [Ember.js: The Documentary](https://www.youtube.com/watch?v=Cvz-9ccflKQ&vl=en)
-- [Ember.js: The Documentary (Русская версия)](https://www.youtube.com/watch?v=7Ym2ADCn77Q) - Russian langauge version
+- [Ember.js: The Documentary (Русская версия)](https://www.youtube.com/watch?v=7Ym2ADCn77Q) - Russian language version
 - [GraphQL: The Documentary](https://www.youtube.com/watch?v=783ccP__No8&vl=en)
 - [GraphQL: The Documentary (Русская версия)](https://www.youtube.com/watch?v=i_rsfHMF3x4) - Russian language version
 - [Ember and GraphQL: A Quick Example](https://www.youtube.com/watch?v=YxRvXgDIHW8)
 - [Ember Octane Livestream: Build a drum machine](https://www.youtube.com/watch?v=5znpEiwHpL4)
 - [Tracking in the Glimmer VM](https://www.youtube.com/watch?v=BjKERSRpPeI) - Chris Garrett discusses how tracking works in Ember
 - [Commit Porto '19: Thriving through the hype cycle: an Ember.js story (Ricardo Mendes)](https://www.youtube.com/watch?v=ECkbVa0iC4k)
-- [Animating Across Routes with Ember Animated](https://www.youtube.com/watch?v=O4Mt-dDqkk0) - EmberMap video adding across-route tranistion animations
+- [Animating Across Routes with Ember Animated](https://www.youtube.com/watch?v=O4Mt-dDqkk0) - EmberMap video adding across-route transition animations
 - [Creating an Ember Application](https://www.youtube.com/watch?v=R2JdP4lb5Xw) - First in an upcoming series on Ember
 - [Ember and GraphQL: A Quick Example](https://www.youtube.com/watch?v=YxRvXgDIHW8)
 - [Stef & Rob: do we still need the built-in Input component?](https://www.youtube.com/watch?v=c0Rl6o9wLX0) Stefan Penner and Robert Jackson debate the built-in Input component
